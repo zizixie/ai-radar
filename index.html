@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="每日 AI 与科技动态剪报" />
+    <title>AI Radar · 每日情报站</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap");
+      :root { --paper:#f8f7f2; --ink:#252824; --muted:#6e746d; --line:#dcded6; --card:#ffffff; --accent:#246a61; --accent-soft:#e5f0ec; --warm:#e87d4b; }
+      * { box-sizing:border-box; }
+      body { margin:0; color:var(--ink); background:var(--paper); font-family:"Noto Sans SC",system-ui,sans-serif; }
+      .wrap { width:min(1180px, calc(100% - 40px)); margin:0 auto; }
+      header { padding:52px 0 28px; border-bottom:1px solid var(--line); }
+      .eyebrow, .meta, .source { font:500 11px/1.2 "DM Mono",monospace; letter-spacing:.08em; text-transform:uppercase; }
+      .eyebrow { color:var(--accent); }
+      h1 { margin:12px 0 8px; font:600 clamp(37px,6vw,67px)/.98 "Playfair Display","Noto Sans SC",serif; letter-spacing:-.04em; }
+      .intro { margin:0; color:var(--muted); font-size:15px; }
+      .radar-strip { display:flex; gap:18px; align-items:center; margin-top:34px; padding:14px 16px; background:var(--accent-soft); border-left:3px solid var(--accent); }
+      .radar-dot { width:9px; height:9px; flex:0 0 auto; border-radius:50%; background:var(--warm); box-shadow:0 0 0 4px rgba(232,125,75,.16); }
+      .radar-strip span:last-child { color:#31554e; font-size:13px; }
+      main { padding:34px 0 70px; }
+      .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:42px; }
+      .section-head { display:flex; align-items:baseline; justify-content:space-between; padding-bottom:14px; border-bottom:2px solid var(--ink); }
+      h2 { margin:0; font-size:21px; letter-spacing:-.03em; }
+      .count { color:var(--muted); }
+      .cards { display:grid; gap:12px; margin-top:14px; }
+      .card { display:block; padding:19px; color:inherit; background:var(--card); border:1px solid var(--line); text-decoration:none; transition:transform .18s ease, border-color .18s ease, box-shadow .18s ease; }
+      .card:hover { transform:translateY(-2px); border-color:#9bb6b0; box-shadow:0 8px 20px rgba(37,40,36,.06); }
+      .card:focus-visible { outline:3px solid var(--warm); outline-offset:3px; }
+      .card-top { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+      .source { color:var(--accent); }
+      .meta { color:var(--muted); white-space:nowrap; }
+      h3 { margin:12px 0 7px; font-size:16px; line-height:1.38; }
+      .description { display:-webkit-box; overflow:hidden; margin:0; color:var(--muted); font-size:13px; line-height:1.65; -webkit-box-orient:vertical; -webkit-line-clamp:2; }
+      .empty { padding:22px 0; color:var(--muted); font-size:14px; }
+      .loading { grid-column:1 / -1; padding:60px 0; color:var(--muted); text-align:center; }
+      footer { padding:20px 0 38px; border-top:1px solid var(--line); color:var(--muted); font:11px "DM Mono",monospace; }
+      @media (max-width:760px) { .wrap { width:min(100% - 28px, 620px); } header { padding-top:32px; } .grid { grid-template-columns:1fr; gap:36px; } .radar-strip { margin-top:26px; } }
+      @media (prefers-reduced-motion:reduce) { .card { transition:none; } .card:hover { transform:none; } }
+    </style>
+  </head>
+  <body>
+    <header><div class="wrap">
+      <div class="eyebrow">Personal AI Briefing / Daily</div>
+      <h1>AI Radar</h1>
+      <p class="intro">每天一页，收拢正在发生的 AI 与科技动态。</p>
+      <div class="radar-strip"><span class="radar-dot" aria-hidden="true"></span><span id="updated">正在读取最新情报…</span></div>
+    </div></header>
+    <main class="wrap"><div class="grid" id="feed"><p class="loading">正在加载资讯…</p></div></main>
+    <footer><div class="wrap">AI RADAR · GitHub Trending &amp; Product Hunt · 自动每日更新</div></footer>
+    <script>
+      const escapeHtml = (text = '') => String(text).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+      const formatTime = value => { if (!value) return '时间未标注'; const date = new Date(value); return Number.isNaN(date) ? value : new Intl.DateTimeFormat('zh-CN',{dateStyle:'medium',timeStyle:'short'}).format(date); };
+      const card = (item, source, meta) => `<a class="card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><div class="card-top"><span class="source">${source}</span><span class="meta">${escapeHtml(meta)}</span></div><h3>${escapeHtml(item.title)}</h3><p class="description">${escapeHtml(item.description || '暂无简介')}</p></a>`;
+      const section = (title, key, items, buildCard) => `<section><div class="section-head"><h2>${title}</h2><span class="count meta">${items.length} 条</span></div><div class="cards">${items.length ? items.map(buildCard).join('') : '<p class="empty">暂时没有可展示的资讯。</p>'}</div></section>`;
+      async function render() {
+        const feed = document.querySelector('#feed');
+        try {
+          const response = await fetch('./data/news.json', { cache: 'no-store' });
+          if (!response.ok) throw new Error('读取数据失败');
+          const data = await response.json();
+          const github = data.github_trending || [], productHunt = data.product_hunt || [];
+          document.querySelector('#updated').textContent = data.updated_at ? `最后更新：${formatTime(data.updated_at)}` : '等待首次自动更新';
+          feed.innerHTML = section('GitHub Trending', 'github', github, item => card(item, item.language || 'GitHub', `今日 +${item.today_stars || 0} stars`)) + section('Product Hunt', 'product-hunt', productHunt, item => card(item, 'Product Hunt', formatTime(item.published_at)));
+        } catch (error) {
+          feed.innerHTML = '<p class="loading">资讯加载失败，请稍后刷新页面。</p>';
+          document.querySelector('#updated').textContent = '暂时无法读取数据';
+        }
+      }
+      render();
+    </script>
+  </body>
+</html>
