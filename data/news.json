@@ -1,118 +1,847 @@
 {
-  "updated_at": "2026-08-26T14:36:16.405990Z",
   "github_trending": [
     {
-      "title": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "HTML",
-      "today_stars": 1002
+      "title": "zedeus/nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.345799Z",
+      "language": "Nim",
+      "today_stars": 63
     },
     {
       "title": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346156Z",
       "language": "JavaScript",
-      "today_stars": 4044
+      "today_stars": 2093
+    },
+    {
+      "title": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346281Z",
+      "language": "JavaScript",
+      "today_stars": 4260
+    },
+    {
+      "title": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346393Z",
+      "language": "Go",
+      "today_stars": 314
     },
     {
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346502Z",
       "language": "Python",
-      "today_stars": 307
-    },
-    {
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "today_stars": 1047
-    },
-    {
-      "title": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "today_stars": 1299
-    },
-    {
-      "title": "AgriciDaniel/claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "language": "Python",
-      "today_stars": 812
-    },
-    {
-      "title": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "today_stars": 1021
-    },
-    {
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "today_stars": 837
-    },
-    {
-      "title": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "language": "Rust",
-      "today_stars": 522
-    },
-    {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "today_stars": 1598
-    },
-    {
-      "title": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "language": "Python",
-      "today_stars": 537
-    },
-    {
-      "title": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "language": "CSS",
-      "today_stars": 136
-    },
-    {
-      "title": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "language": "Python",
-      "today_stars": 135
+      "today_stars": 290
     },
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346616Z",
       "language": "Python",
-      "today_stars": 130
+      "today_stars": 494
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346758Z",
+      "language": "JavaScript",
+      "today_stars": 1610
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.346899Z",
+      "language": "Python",
+      "today_stars": 1284
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347037Z",
+      "language": "Python",
+      "today_stars": 547
+    },
+    {
+      "title": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347144Z",
+      "language": "CSS",
+      "today_stars": 413
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347283Z",
+      "language": "JavaScript",
+      "today_stars": 133
+    },
+    {
+      "title": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347387Z",
+      "language": "C++",
+      "today_stars": 4
+    },
+    {
+      "title": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347494Z",
+      "language": "Python",
+      "today_stars": 631
     },
     {
       "title": "marin-community/marin",
       "url": "https://github.com/marin-community/marin",
       "description": "Open-source framework for the research and development of foundation models.",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347598Z",
       "language": "Python",
-      "today_stars": 443
+      "today_stars": 255
     },
     {
-      "title": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "language": "未标注",
-      "today_stars": 488
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347701Z",
+      "language": "Python",
+      "today_stars": 125
+    },
+    {
+      "title": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347803Z",
+      "language": "TypeScript",
+      "today_stars": 4
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.347935Z",
+      "language": "TypeScript",
+      "today_stars": 1040
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "source": "GitHub Trending",
+      "published_at": "2026-08-27T13:15:11.348036Z",
+      "language": "Python",
+      "today_stars": 707
     }
   ],
-  "product_hunt": []
+  "product_hunt": [
+    {
+      "title": "The Million Sad Ducks",
+      "url": "https://www.producthunt.com/products/the-million-sad-ducks",
+      "description": "$1 makes one of them permanently happy Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-25T12:51:25Z"
+    },
+    {
+      "title": "Skydive",
+      "url": "https://www.producthunt.com/products/skydive",
+      "description": "Build cloud agents that work across your tools Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-03T23:53:27Z"
+    },
+    {
+      "title": "Traccia",
+      "url": "https://www.producthunt.com/products/traccia",
+      "description": "Finally, a vendor-neutral AI Agent Control Plane. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-22T17:40:40Z"
+    },
+    {
+      "title": "Enter Pro",
+      "url": "https://www.producthunt.com/products/enter-pro",
+      "description": "The AI-native platform to build and scale your apps Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-20T14:14:52Z"
+    },
+    {
+      "title": "Eventually",
+      "url": "https://www.producthunt.com/products/eventually-3",
+      "description": "Your X bookmarks, emailed back as your personal newsletter Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T17:17:48Z"
+    },
+    {
+      "title": "Cobalt",
+      "url": "https://www.producthunt.com/products/cobalt-10",
+      "description": "Your Kobo can run apps now Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T11:11:37Z"
+    },
+    {
+      "title": "Gemini 3.5 Transcribe",
+      "url": "https://www.producthunt.com/products/gemini-3-5-transcribe",
+      "description": "Our most precise speech-to-text model yet Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T19:07:31Z"
+    },
+    {
+      "title": "Lenz",
+      "url": "https://www.producthunt.com/products/lenz-2",
+      "description": "Independent, multi-model fact-checking API for AI workflows Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-04-01T12:53:22Z"
+    },
+    {
+      "title": "SpacebarX",
+      "url": "https://www.producthunt.com/products/spacebarx",
+      "description": "A keyboard-first outliner for notes, tasks and projects Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-24T10:33:53Z"
+    },
+    {
+      "title": "Speko",
+      "url": "https://www.producthunt.com/products/speko",
+      "description": "OpenRouter for Voice Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-27T01:23:15Z"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "description": "The open-weight preview of Qwen4 Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T15:50:11Z"
+    },
+    {
+      "title": "Sendra",
+      "url": "https://www.producthunt.com/products/sendra",
+      "description": "Design emails in Figma, export HTML that works everywhere Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T03:31:49Z"
+    },
+    {
+      "title": "Ojin",
+      "url": "https://www.producthunt.com/products/ojin",
+      "description": "Talk to an AI Agent with a real face and voice, in real time Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-07-08T11:49:23Z"
+    },
+    {
+      "title": "Yomi",
+      "url": "https://www.producthunt.com/products/yomi-3",
+      "description": "A little cat who loves being read to Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-07-27T13:37:05Z"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "description": "The first natively multimodal model in GLM-5 series Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T15:01:51Z"
+    },
+    {
+      "title": "Kraa 2.0",
+      "url": "https://www.producthunt.com/products/kraa",
+      "description": "Text editor and a publishing platform Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T15:23:23Z"
+    },
+    {
+      "title": "Pluto",
+      "url": "https://www.producthunt.com/products/pluto-11",
+      "description": "Your professional profile is now an AI agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-27T04:30:47Z"
+    },
+    {
+      "title": "HFlow",
+      "url": "https://www.producthunt.com/products/hflow",
+      "description": "Scalable multimodal data pipelines for robotics Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T08:01:50Z"
+    },
+    {
+      "title": "GitNexus (Akon Labs)",
+      "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
+      "description": "The open-source kernel for coding agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T07:30:19Z"
+    },
+    {
+      "title": "Kira Community",
+      "url": "https://www.producthunt.com/products/kira-art",
+      "description": "Curate moments with #hashtag Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-06-29T07:00:43Z"
+    }
+  ],
+  "openai": [
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "source": "OpenAI",
+      "published_at": "2026-08-27T03:00:00Z"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "source": "OpenAI",
+      "published_at": "2026-08-26T10:00:00Z"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "source": "OpenAI",
+      "published_at": "2026-08-26T10:00:00Z"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "source": "OpenAI",
+      "published_at": "2026-08-26T00:00:00Z"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "source": "OpenAI",
+      "published_at": "2026-08-26T00:00:00Z"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "description": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "source": "OpenAI",
+      "published_at": "2026-08-25T07:05:00Z"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "description": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "source": "OpenAI",
+      "published_at": "2026-08-25T07:00:00Z"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "description": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "source": "OpenAI",
+      "published_at": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "source": "OpenAI",
+      "published_at": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "source": "OpenAI",
+      "published_at": "2026-08-24T12:00:00Z"
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "source": "OpenAI",
+      "published_at": "2026-08-20T07:00:00Z"
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-intelligence-age",
+      "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "source": "OpenAI",
+      "published_at": "2026-08-20T07:00:00Z"
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "source": "OpenAI",
+      "published_at": "2026-08-20T00:00:00Z"
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "source": "OpenAI",
+      "published_at": "2026-08-19T19:00:00Z"
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "source": "OpenAI",
+      "published_at": "2026-08-19T07:00:00Z"
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "source": "OpenAI",
+      "published_at": "2026-08-18T22:00:00Z"
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "source": "OpenAI",
+      "published_at": "2026-08-18T19:00:00Z"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "source": "OpenAI",
+      "published_at": "2026-08-18T11:00:00Z"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "source": "OpenAI",
+      "published_at": "2026-08-18T11:00:00Z"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "source": "OpenAI",
+      "published_at": "2026-08-18T11:00:00Z"
+    }
+  ],
+  "anthropic": [
+    {
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "How Claude’s text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-08-14T00:00:00Z"
+    },
+    {
+      "title": "Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-08-04T00:00:00Z"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-30T00:00:00Z"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-24T00:00:00Z"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-22T00:00:00Z"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-07-22T00:00:00Z"
+    }
+  ],
+  "google_deepmind": [
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "description": "Piloting the world's first double-blind AI evaluations",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-27T12:59:16Z"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-26T17:01:00Z"
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-21T11:59:48Z"
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-13T17:04:18Z"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-12T14:01:59Z"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-08-06T15:06:15Z"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-30T15:00:59Z"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-29T16:02:10Z"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-28T13:21:37Z"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-22T13:38:54Z"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-21T15:16:30Z"
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-17T15:00:11Z"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-16T09:30:42Z"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-13T12:37:28Z"
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-07-03T14:25:43Z"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-06-30T16:02:40Z"
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-06-24T16:30:01Z"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "source": "Google DeepMind",
+      "published_at": "2026-06-16T21:29:50Z"
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "source": "Google DeepMind",
+      "published_at": "2026-06-16T15:46:31Z"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-06-10T16:24:11Z"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Australia Bans Generative A.I. From Official Music Charts",
+      "url": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T10:48:54Z",
+      "score": 42,
+      "comments": 16
+    },
+    {
+      "title": "My software development workflow is AI now & it feels exhausting and soulless",
+      "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T09:24:20Z",
+      "score": 18,
+      "comments": 10
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T08:59:49Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "The choices we make about AI now are critical",
+      "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T05:36:58Z",
+      "score": 3,
+      "comments": 1
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T01:46:22Z",
+      "score": 741,
+      "comments": 504
+    },
+    {
+      "title": "High-Resolution Imaging for Statistical Validation of TESS Planet Candidates",
+      "url": "https://arxiv.org/abs/2608.21560",
+      "description": "First author here. I have no experience in astronomy, yet facilitated one of the largest studies of exoplanet discovery and validation ever conducted using data from NASA’s TESS satellite. We statistically validated 64 new exoplanets, making it through a rigorous peer review process. Last week the paper was formally accepted by The Astronomical Journal. Using AI, I created an automated data processing pipeline to process hundreds of gigabytes of data, integrating many disparate systems that typically would require manual work in Jupyter notebooks. Ultimately I was able to make enough progress to get the attention of astrophysicists, who helped guide me through getting the results peer-review ready. Happy to share more if there are questions!",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T01:26:25Z",
+      "score": 12,
+      "comments": 0
+    },
+    {
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "url": "https://lwn.net/Articles/1087134/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-27T00:02:24Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "WebMCP Challenge – OpenAI",
+      "url": "https://openai.com/webmcp-challenge/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T20:50:04Z",
+      "score": 29,
+      "comments": 5
+    },
+    {
+      "title": "Programming as a Hobby in the Age of AI",
+      "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T20:46:52Z",
+      "score": 9,
+      "comments": 3
+    },
+    {
+      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+      "url": "https://github.com/apvcode/Termux-Dev",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T20:37:12Z",
+      "score": 12,
+      "comments": 1
+    },
+    {
+      "title": "Why AI Agents Need Persistent Browser Identities",
+      "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T19:46:59Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T19:45:59Z",
+      "score": 159,
+      "comments": 92
+    },
+    {
+      "title": "The risks of AI are real but manageable (2023)",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T19:44:33Z",
+      "score": 41,
+      "comments": 33
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T19:35:47Z",
+      "score": 16,
+      "comments": 2
+    },
+    {
+      "title": "Disenchantment with the Post-AI Internet",
+      "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T19:06:59Z",
+      "score": 34,
+      "comments": 5
+    },
+    {
+      "title": "The sperm whale 'phonetic alphabet' revealed by AI",
+      "url": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T17:12:54Z",
+      "score": 13,
+      "comments": 0
+    },
+    {
+      "title": "AI Lessons from Driving 200M Autonomous Miles",
+      "url": "https://waymo.com/blog/2026/08/10ailessons/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T16:46:33Z",
+      "score": 13,
+      "comments": 2
+    },
+    {
+      "title": "Show HN: Build your own theme park",
+      "url": "https://www.magicpatterns.com/theme-park",
+      "description": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides. The weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system. I work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and conventions instead of producing something that looks like generic AI-generated UI. By default, models tend to converge on similar-looking designs. This is part of that “vibe coded slop” feeling: the same typography treatments, shadows, cards, icons, animations, etc… My job is to figure out the right context and guardrails so that when you prompt “Build me a dashboard,” the result actually looks like your existing product. At some point I realized those same ideas could be applied to RCT. While in web, you might have rules about which typography, colors, spacing, and components should be used together. In a theme park, you need rules like: rollercoasters need complete tracks, rides need entrances connected to paths, paths need to connect different areas of the park, and a pirate-themed world should actually use pirate-themed scenery. It was interesting seeing how closely the problem of building a coherent theme park resembled the problem of building a coherent product UI. Similarly with web design, simply giving the model the right components wasn't enough. I ended up building an eval loop where Magic Patterns would generate a park, another agent would grade it against a rubric, and then the agent would update its rules and skill files before trying again. The rubric checked things like whether rollercoasters formed valid tracks with at least one drop, whether rides were accessible by paths, whether each world used the appropriate themed scenery, and whether the park worked as a whole. After a lot of iterations, you can now prompt something as simple as “Build me a cool theme park.” and you should get back a fully functioning park with guests, rides, paths, rollercoasters, and themed worlds. Best yet, you can also follow the guests, listen to their thoughts, and watch them ride the rides in RCT fashion. Happy to answer any questions, but would love to see the parks you all create!",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T16:40:01Z",
+      "score": 48,
+      "comments": 18
+    },
+    {
+      "title": "Patience Is Required for Local AI",
+      "url": "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T16:36:40Z",
+      "score": 15,
+      "comments": 1
+    },
+    {
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "description": "Hi HN, we're Sam and Alex, founders of Risklytics ( https://risklytics.ai ). We're both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones, autonomous systems and satellites. You describe your machine, we find the insurance companies willing to cover it, and we read everything before you sign. Buying insurance for any frontier tech goes like this: - your first customer or pilot requires coverage before your machine can work on their site - a broker hands you an application written for ordinary businesses, and often will deny you on baseless \"risks\" (one of our clients got denied for using CAD software in their workflow) - you get filed under something close or outright denied, the person at the insurance company often can't tell what they're looking at, and the safe answer is no - if a quote does come back, the AI risk is often quietly removed by an add-on clause that prevents you from truly being covered Those clauses surprised us. Insurance companies mostly don't write their own policies from scratch. They license standard forms from an industry body called ISO and attach add-on clauses to adjust them, and in January ISO published clauses that void coverage for losses arising out of AI in any part of a process. Each insurer decides whether to adopt them, account by account, and there's no public record of who has and to what capacity. There's an open question in the wording too. It defines generative AI as systems trained on data that produce text, images, audio, video or code. Whether a robot's control model, which produces motor commands, falls under that is unsettled. We've asked underwriters, the people at insurance companies who make these calls, and gotten different answers across the board. We didn't initially plan to be brokers. We came into YC to work in insurance and spent the first half of the batch on a wildfire risk model we wanted to sell to insurance companies. They liked it and wanted to build their own, which is the polite way to say no. While that was dying, a batchmate who launches satellites mentioned he couldn't get insured, and once we started asking around we kept hearing the same story from hardware companies. So we got licensed in a week and now can place coverage. What we've built so far: - a six-step application that asks about what you're building and drafts the structured version insurance companies like, omitting anything you didn't say - a map of which insurers add the AI clauses, which will remove them, and which cover frontier companies on purpose - when an insurer says no, you see their reason and what would change it, full transparency all the time - a hands off process for companies trying to get fully covered Here's a demo of the whole process: https://youtu.be/gVqCamTNH5E On money: the insurance company pays us a commission when you get covered, usually 10-20% of what you are charged, and we charge you nothing on top (that's right, no brokerage fees). Also, if you're a software company with ordinary needs, we'll still handle the whole process for you and get you the best policy we can find. In the past week alone we have helped three companies get covered that were denied elsewhere. The companies include a robotics wholesaler and rental store, who had trouble getting covered earlier because some of their property uses AI (even though they never use it themselves), a bridge collision system that was getting denied because they use CAD software, and a tele-operating robotics service that needed coverage within a week for their first pilot. If you're looking for insurance in any capacity feel free to reach out to me at alex@risklytics.ai or fill out an application at https://risklytics.ai . And if you work on the carrier side and think you'd wanna partner with us let us know.",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T16:06:01Z",
+      "score": 52,
+      "comments": 20
+    }
+  ],
+  "updated_at": "2026-08-27T13:15:26.821039Z"
 }

@@ -61,8 +61,16 @@
           if (!response.ok) throw new Error('读取数据失败');
           const data = await response.json();
           const github = data.github_trending || [], productHunt = data.product_hunt || [];
+          const openai = data.openai || [], anthropic = data.anthropic || [];
+          const deepmind = data.google_deepmind || [], hackerNews = data.hacker_news || [];
           document.querySelector('#updated').textContent = data.updated_at ? `最后更新：${formatTime(data.updated_at)}` : '等待首次自动更新';
-          feed.innerHTML = section('GitHub Trending', 'github', github, item => card(item, item.language || 'GitHub', `今日 +${item.today_stars || 0} stars`)) + section('Product Hunt', 'product-hunt', productHunt, item => card(item, 'Product Hunt', formatTime(item.published_at)));
+          const newsCard = item => card(item, item.source, formatTime(item.published_at));
+          feed.innerHTML = section('GitHub Trending', 'github', github, item => card(item, item.source || item.language || 'GitHub', `今日 +${item.today_stars || 0} stars`))
+            + section('Product Hunt', 'product-hunt', productHunt, newsCard)
+            + section('OpenAI 官方更新', 'openai', openai, newsCard)
+            + section('Anthropic 官方更新', 'anthropic', anthropic, newsCard)
+            + section('Google DeepMind 官方更新', 'google-deepmind', deepmind, newsCard)
+            + section('Hacker News · AI 相关', 'hacker-news', hackerNews, newsCard);
         } catch (error) {
           feed.innerHTML = '<p class="loading">资讯加载失败，请稍后刷新页面。</p>';
           document.querySelector('#updated').textContent = '暂时无法读取数据';
