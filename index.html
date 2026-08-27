@@ -1,82 +1,131 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="每日 AI 与科技动态剪报" />
-    <title>AI Radar · 每日情报站</title>
-    <style>
-      @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap");
-      :root { --paper:#f8f7f2; --ink:#252824; --muted:#6e746d; --line:#dcded6; --card:#ffffff; --accent:#246a61; --accent-soft:#e5f0ec; --warm:#e87d4b; }
-      * { box-sizing:border-box; }
-      body { margin:0; color:var(--ink); background:var(--paper); font-family:"Noto Sans SC",system-ui,sans-serif; }
-      .wrap { width:min(1180px, calc(100% - 40px)); margin:0 auto; }
-      header { padding:52px 0 28px; border-bottom:1px solid var(--line); }
-      .eyebrow, .meta, .source { font:500 11px/1.2 "DM Mono",monospace; letter-spacing:.08em; text-transform:uppercase; }
-      .eyebrow { color:var(--accent); }
-      h1 { margin:12px 0 8px; font:600 clamp(37px,6vw,67px)/.98 "Playfair Display","Noto Sans SC",serif; letter-spacing:-.04em; }
-      .intro { margin:0; color:var(--muted); font-size:15px; }
-      .radar-strip { display:flex; gap:18px; align-items:center; margin-top:34px; padding:14px 16px; background:var(--accent-soft); border-left:3px solid var(--accent); }
-      .radar-dot { width:9px; height:9px; flex:0 0 auto; border-radius:50%; background:var(--warm); box-shadow:0 0 0 4px rgba(232,125,75,.16); }
-      .radar-strip span:last-child { color:#31554e; font-size:13px; }
-      main { padding:34px 0 70px; }
-      .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:42px; }
-      .section-head { display:flex; align-items:baseline; justify-content:space-between; padding-bottom:14px; border-bottom:2px solid var(--ink); }
-      h2 { margin:0; font-size:21px; letter-spacing:-.03em; }
-      .count { color:var(--muted); }
-      .cards { display:grid; gap:12px; margin-top:14px; }
-      .card { display:block; padding:19px; color:inherit; background:var(--card); border:1px solid var(--line); text-decoration:none; transition:transform .18s ease, border-color .18s ease, box-shadow .18s ease; }
-      .card:hover { transform:translateY(-2px); border-color:#9bb6b0; box-shadow:0 8px 20px rgba(37,40,36,.06); }
-      .card:focus-visible { outline:3px solid var(--warm); outline-offset:3px; }
-      .card-top { display:flex; align-items:center; justify-content:space-between; gap:12px; }
-      .source { color:var(--accent); }
-      .meta { color:var(--muted); white-space:nowrap; }
-      h3 { margin:12px 0 7px; font-size:16px; line-height:1.38; }
-      .description { display:-webkit-box; overflow:hidden; margin:0; color:var(--muted); font-size:13px; line-height:1.65; -webkit-box-orient:vertical; -webkit-line-clamp:2; }
-      .empty { padding:22px 0; color:var(--muted); font-size:14px; }
-      .loading { grid-column:1 / -1; padding:60px 0; color:var(--muted); text-align:center; }
-      footer { padding:20px 0 38px; border-top:1px solid var(--line); color:var(--muted); font:11px "DM Mono",monospace; }
-      @media (max-width:760px) { .wrap { width:min(100% - 28px, 620px); } header { padding-top:32px; } .grid { grid-template-columns:1fr; gap:36px; } .radar-strip { margin-top:26px; } }
-      @media (prefers-reduced-motion:reduce) { .card { transition:none; } .card:hover { transform:none; } }
-    </style>
-  </head>
-  <body>
-    <header><div class="wrap">
-      <div class="eyebrow">Personal AI Briefing / Daily</div>
-      <h1>AI Radar</h1>
-      <p class="intro">每天一页，收拢正在发生的 AI 与科技动态。</p>
-      <div class="radar-strip"><span class="radar-dot" aria-hidden="true"></span><span id="updated">正在读取最新情报…</span></div>
-    </div></header>
-    <main class="wrap"><div class="grid" id="feed"><p class="loading">正在加载资讯…</p></div></main>
-    <footer><div class="wrap">AI RADAR · GitHub Trending &amp; Product Hunt · 自动每日更新</div></footer>
-    <script>
-      const escapeHtml = (text = '') => String(text).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
-      const formatTime = value => { if (!value) return '时间未标注'; const date = new Date(value); return Number.isNaN(date) ? value : new Intl.DateTimeFormat('zh-CN',{dateStyle:'medium',timeStyle:'short'}).format(date); };
-      const card = (item, source, meta) => `<a class="card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer"><div class="card-top"><span class="source">${source}</span><span class="meta">${escapeHtml(meta)}</span></div><h3>${escapeHtml(item.title)}</h3><p class="description">${escapeHtml(item.description || '暂无简介')}</p></a>`;
-      const section = (title, key, items, buildCard) => `<section><div class="section-head"><h2>${title}</h2><span class="count meta">${items.length} 条</span></div><div class="cards">${items.length ? items.map(buildCard).join('') : '<p class="empty">暂时没有可展示的资讯。</p>'}</div></section>`;
-      async function render() {
-        const feed = document.querySelector('#feed');
-        try {
-          const response = await fetch('./data/news.json', { cache: 'no-store' });
-          if (!response.ok) throw new Error('读取数据失败');
-          const data = await response.json();
-          const github = data.github_trending || [], productHunt = data.product_hunt || [];
-          const openai = data.openai || [], anthropic = data.anthropic || [];
-          const deepmind = data.google_deepmind || [], hackerNews = data.hacker_news || [];
-          document.querySelector('#updated').textContent = data.updated_at ? `最后更新：${formatTime(data.updated_at)}` : '等待首次自动更新';
-          const newsCard = item => card(item, item.source, formatTime(item.published_at));
-          feed.innerHTML = section('GitHub Trending', 'github', github, item => card(item, item.source || item.language || 'GitHub', `今日 +${item.today_stars || 0} stars`))
-            + section('Product Hunt', 'product-hunt', productHunt, newsCard)
-            + section('OpenAI 官方更新', 'openai', openai, newsCard)
-            + section('Anthropic 官方更新', 'anthropic', anthropic, newsCard)
-            + section('Google DeepMind 官方更新', 'google-deepmind', deepmind, newsCard)
-            + section('Hacker News · AI 相关', 'hacker-news', hackerNews, newsCard);
-        } catch (error) {
-          feed.innerHTML = '<p class="loading">资讯加载失败，请稍后刷新页面。</p>';
-          document.querySelector('#updated').textContent = '暂时无法读取数据';
-        }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="每日 AI 与科技动态剪报" />
+  <title>AI Radar · 每日情报站</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap");
+    :root { --paper:#f8f7f2; --ink:#252824; --muted:#6e746d; --line:#dcded6; --card:#fff; --accent:#246a61; --accent-soft:#e5f0ec; --warm:#e87d4b; --quiet:#f0f0eb; }
+    * { box-sizing:border-box; } body { margin:0; color:var(--ink); background:var(--paper); font-family:"Noto Sans SC",system-ui,sans-serif; }
+    .wrap { width:min(1180px,calc(100% - 40px)); margin:0 auto; } header { padding:48px 0 0; border-bottom:1px solid var(--line); }
+    .eyebrow,.meta,.source,.filter,.tab { font:500 11px/1.2 "DM Mono",monospace; letter-spacing:.08em; text-transform:uppercase; }
+    .eyebrow { color:var(--accent); } h1 { margin:12px 0 8px; font:600 clamp(38px,6vw,67px)/.98 "Playfair Display","Noto Sans SC",serif; letter-spacing:-.04em; }
+    .intro { margin:0; color:var(--muted); font-size:15px; } .radar-strip { display:flex; gap:14px; align-items:center; margin:28px 0 22px; padding:13px 15px; background:var(--accent-soft); border-left:3px solid var(--accent); color:#31554e; font-size:13px; }
+    .radar-dot { width:9px; height:9px; flex:0 0 auto; border-radius:50%; background:var(--warm); box-shadow:0 0 0 4px rgba(232,125,75,.16); }
+    .filters { display:flex; gap:5px; overflow-x:auto; padding:0 0 14px; scrollbar-width:none; } .filters::-webkit-scrollbar { display:none; }
+    .filter,.tab { flex:0 0 auto; border:1px solid transparent; padding:8px 10px; color:var(--muted); background:transparent; cursor:pointer; }
+    .filter:hover,.tab:hover { color:var(--ink); } .filter[aria-pressed="true"] { color:var(--paper); background:var(--ink); border-color:var(--ink); }
+    main { padding:34px 0 70px; } .section { margin-bottom:52px; } .section-head { display:flex; align-items:end; justify-content:space-between; gap:16px; padding-bottom:12px; border-bottom:2px solid var(--ink); }
+    h2 { margin:0; font-size:21px; letter-spacing:-.035em; } .section-note { display:block; margin-top:4px; color:var(--muted); font-size:12px; }
+    .cards { display:grid; gap:12px; margin-top:14px; } .today-grid { grid-template-columns:repeat(4,minmax(0,1fr)); } .two-up,.discussions { grid-template-columns:repeat(2,minmax(0,1fr)); }
+    .card { display:block; min-width:0; padding:18px; color:inherit; background:var(--card); border:1px solid var(--line); text-decoration:none; transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease; }
+    .card:hover { transform:translateY(-2px); border-color:#9bb6b0; box-shadow:0 8px 20px rgba(37,40,36,.06); } .card:focus-visible { outline:3px solid var(--warm); outline-offset:3px; }
+    .card-top,.card-foot { display:flex; align-items:center; justify-content:space-between; gap:12px; } .source { color:var(--accent); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; } .meta { color:var(--muted); white-space:nowrap; }
+    h3 { margin:12px 0 7px; font-size:16px; line-height:1.4; letter-spacing:-.015em; } .description { display:-webkit-box; overflow:hidden; margin:0; color:var(--muted); font-size:13px; line-height:1.65; -webkit-box-orient:vertical; -webkit-line-clamp:2; }
+    .card-foot { margin-top:14px; padding-top:10px; border-top:1px solid var(--quiet); color:var(--muted); font:11px "DM Mono",monospace; } .today-card { padding:17px; } .today-card h3 { font-size:15px; } .today-card .description { -webkit-line-clamp:3; }
+    .official-tabs { display:flex; gap:4px; margin:14px 0 -2px; } .tab { border-bottom:2px solid transparent; padding:8px 0; margin-right:18px; } .tab[aria-selected="true"] { color:var(--ink); border-bottom-color:var(--accent); }
+    .stream-label { margin:22px 0 -2px; color:var(--accent); font:500 11px "DM Mono",monospace; letter-spacing:.08em; text-transform:uppercase; }
+    .empty { padding:25px 0; color:var(--muted); font-size:14px; } .loading { padding:70px 0; color:var(--muted); text-align:center; }
+    footer { padding:20px 0 38px; border-top:1px solid var(--line); color:var(--muted); font:11px "DM Mono",monospace; letter-spacing:.04em; }
+    @media (max-width:960px) { .today-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+    @media (max-width:620px) { .wrap { width:min(100% - 28px,620px); } header { padding-top:32px; } .radar-strip { margin-top:24px; } main { padding-top:28px; } .section { margin-bottom:38px; } .today-grid,.two-up,.discussions { grid-template-columns:1fr; } .section-note { display:none; } .card { padding:16px; } .today-card .description { -webkit-line-clamp:2; } }
+    @media (prefers-reduced-motion:reduce) { .card { transition:none; } .card:hover { transform:none; } }
+  </style>
+</head>
+<body>
+  <header><div class="wrap">
+    <div class="eyebrow">Personal AI Briefing / Daily</div>
+    <h1>AI Radar</h1>
+    <p class="intro">每天一页，先看到真正值得点开的 AI 动态。</p>
+    <div class="radar-strip"><span class="radar-dot" aria-hidden="true"></span><span id="updated">正在读取最新情报…</span></div>
+    <nav class="filters" aria-label="资讯筛选">
+      <button class="filter" data-filter="all" aria-pressed="true">全部</button>
+      <button class="filter" data-filter="official" aria-pressed="false">官方更新</button>
+      <button class="filter" data-filter="tools" aria-pressed="false">新工具</button>
+      <button class="filter" data-filter="github" aria-pressed="false">GitHub</button>
+      <button class="filter" data-filter="discussion" aria-pressed="false">讨论热点</button>
+    </nav>
+  </div></header>
+  <main class="wrap" id="app"><p class="loading">正在加载资讯…</p></main>
+  <footer><div class="wrap">AI RADAR · 官方动态、新工具与讨论热点 · 自动每日更新</div></footer>
+  <script>
+    const escapeHtml = (text = '') => String(text).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+    const formatTime = value => { if (!value) return '时间未标注'; const d = new Date(value); return Number.isNaN(d) ? value : new Intl.DateTimeFormat('zh-CN',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(d); };
+    const parseTime = value => { const n = new Date(value).getTime(); return Number.isFinite(n) ? n : 0; };
+    const names = { github_trending:'GitHub Trending', product_hunt:'Product Hunt', openai:'OpenAI', anthropic:'Anthropic', google_deepmind:'Google DeepMind', hacker_news:'Hacker News' };
+    const officialKeys = ['openai','anthropic','google_deepmind'], toolKeys = ['github_trending','product_hunt'];
+    const state = { filter:'all', official:'openai', data:null };
+
+    function normalize(data) { return Object.entries(names).flatMap(([key,name]) => (data[key] || []).map(entry => Object.assign({},entry,{source:entry.source || name,key:key}))); }
+    function matches(entry) {
+      if (state.filter === 'all') return true;
+      if (state.filter === 'official') return officialKeys.includes(entry.key);
+      if (state.filter === 'tools') return toolKeys.includes(entry.key);
+      if (state.filter === 'github') return entry.key === 'github_trending';
+      return entry.key === 'hacker_news';
+    }
+    function card(entry, variant) {
+      let meta = formatTime(entry.published_at), foot = '打开原文';
+      if (entry.key === 'github_trending') { meta = '今日 +' + (entry.today_stars || 0) + ' stars'; foot = entry.language || 'GitHub'; }
+      if (entry.key === 'hacker_news') { meta = (entry.score || 0) + ' points · ' + (entry.comments || 0) + ' comments'; foot = '发布于 ' + formatTime(entry.published_at); }
+      return '<a class="card ' + (variant || '') + '" href="' + escapeHtml(entry.url) + '" target="_blank" rel="noopener noreferrer">' +
+        '<div class="card-top"><span class="source">' + escapeHtml(entry.source) + '</span><span class="meta">' + escapeHtml(meta) + '</span></div>' +
+        '<h3>' + escapeHtml(entry.title) + '</h3><p class="description">' + escapeHtml(entry.description || '暂无简介') + '</p>' +
+        '<div class="card-foot"><span>' + escapeHtml(foot) + '</span><span aria-hidden="true">↗</span></div></a>';
+    }
+    function cards(entries, className, variant) { return entries.length ? '<div class="cards ' + className + '">' + entries.map(entry => card(entry,variant)).join('') + '</div>' : '<p class="empty">今天还没有符合这一筛选的资讯。</p>'; }
+    function section(title,note,content,id) { return '<section class="section ' + (id || '') + '"><div class="section-head"><div><h2>' + title + '</h2><span class="section-note">' + note + '</span></div></div>' + content + '</section>'; }
+    function today(entries) {
+      const now = Date.now(), day = 86400000;
+      const recent = entries.filter(entry => { const age = now - parseTime(entry.published_at); return age >= -300000 && age <= day; }).sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at)).slice(0,8);
+      return section('今日值得看','过去 24 小时 · 按发布时间排列',cards(recent,'today-grid','today-card'),'today-section');
+    }
+    function official(all) {
+      const current = all.filter(entry => entry.key === state.official).sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at));
+      const tabs = officialKeys.map(key => '<button class="tab" data-official="' + key + '" aria-selected="' + (key === state.official) + '">' + names[key] + '</button>').join('');
+      return section('官方动态','模型、产品与研究团队的一手更新','<div class="official-tabs" role="tablist">' + tabs + '</div>' + cards(current,'two-up',''),'official-section');
+    }
+    function tools(all) {
+      const github = all.filter(entry => entry.key === 'github_trending');
+      const product = all.filter(entry => entry.key === 'product_hunt').sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at));
+      let body = '';
+      if (github.length) body += '<div><div class="stream-label">GitHub Trending · 今日 Stars</div>' + cards(github,'two-up','') + '</div>';
+      if (state.filter !== 'github') body += '<div><div class="stream-label">Product Hunt · 最新产品</div>' + cards(product,'two-up','') + '</div>';
+      return section('新工具 / 新项目','正在获得关注的产品与开源项目',body,'tools-section');
+    }
+    function discussion(all) {
+      const entries = all.filter(entry => entry.key === 'hacker_news').sort((a,b) => (b.score || 0)-(a.score || 0));
+      return section('大家在讨论什么','Hacker News · 按 points 排列',cards(entries,'discussions',''),'discussion-section');
+    }
+    function render() {
+      const all = normalize(state.data), filtered = all.filter(matches), app = document.querySelector('#app');
+      let html = today(filtered);
+      if (state.filter === 'all' || state.filter === 'official') html += official(all);
+      if (['all','tools','github'].includes(state.filter)) html += tools(state.filter === 'github' ? all.filter(entry => entry.key === 'github_trending') : all);
+      if (state.filter === 'all' || state.filter === 'discussion') html += discussion(all);
+      app.innerHTML = html;
+      document.querySelectorAll('.filter').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.filter === state.filter)));
+    }
+    async function init() {
+      try {
+        const response = await fetch('./data/news.json',{cache:'no-store'});
+        if (!response.ok) throw new Error('读取数据失败');
+        state.data = await response.json();
+        document.querySelector('#updated').textContent = state.data.updated_at ? '最后更新：' + formatTime(state.data.updated_at) : '等待首次自动更新';
+        render();
+      } catch (error) {
+        document.querySelector('#app').innerHTML = '<p class="loading">资讯加载失败，请通过网站地址或本地服务器打开页面后重试。</p>';
+        document.querySelector('#updated').textContent = '暂时无法读取数据';
       }
-      render();
-    </script>
-  </body>
+    }
+    document.addEventListener('click', event => {
+      const filter = event.target.closest('[data-filter]'), officialTab = event.target.closest('[data-official]');
+      if (filter && state.data) { state.filter = filter.dataset.filter; render(); }
+      if (officialTab && state.data) { state.official = officialTab.dataset.official; render(); }
+    });
+    init();
+  </script>
+</body>
 </html>
