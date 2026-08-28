@@ -28,6 +28,8 @@
     .official-tabs { display:flex; gap:4px; margin:14px 0 -2px; } .tab { border-bottom:2px solid transparent; padding:8px 0; margin-right:18px; } .tab[aria-selected="true"] { color:var(--ink); border-bottom-color:var(--accent); }
     .stream-label { margin:22px 0 -2px; color:var(--accent); font:500 11px "DM Mono",monospace; letter-spacing:.08em; text-transform:uppercase; }
     .empty { padding:25px 0; color:var(--muted); font-size:14px; } .loading { padding:70px 0; color:var(--muted); text-align:center; }
+    .all-link { display:inline-flex; align-items:center; gap:8px; margin-top:16px; padding:10px 0; border:0; border-bottom:1px solid var(--ink); color:var(--ink); background:transparent; font:500 12px "DM Mono",monospace; cursor:pointer; }
+    .all-link:hover,.all-link:focus-visible { color:var(--accent); border-color:var(--accent); } .mode-note { margin:0 0 28px; color:var(--muted); font-size:13px; }
     footer { padding:20px 0 38px; border-top:1px solid var(--line); color:var(--muted); font:11px "DM Mono",monospace; letter-spacing:.04em; }
     @media (max-width:960px) { .today-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
     @media (max-width:620px) { .wrap { width:min(100% - 28px,620px); } header { padding-top:32px; } .radar-strip { margin-top:24px; } main { padding-top:28px; } .section { margin-bottom:38px; } .today-grid,.two-up,.discussions { grid-template-columns:1fr; } .section-note { display:none; } .card { padding:16px; } .today-card .description { -webkit-line-clamp:2; } }
@@ -38,14 +40,14 @@
   <header><div class="wrap">
     <div class="eyebrow">Personal AI Briefing / Daily</div>
     <h1>AI Radar</h1>
-    <p class="intro">每天一页，先看到真正值得点开的 AI 动态。</p>
+    <p class="intro">每天一页，先看到今天最值得点开的 AI 动态。</p>
     <div class="radar-strip"><span class="radar-dot" aria-hidden="true"></span><span id="updated">正在读取最新情报…</span></div>
     <nav class="filters" aria-label="资讯筛选">
-      <button class="filter" data-filter="all" aria-pressed="true">全部</button>
-      <button class="filter" data-filter="official" aria-pressed="false">官方更新</button>
+      <button class="filter" data-filter="today" aria-pressed="true">今日</button>
+      <button class="filter" data-filter="official" aria-pressed="false">官方</button>
       <button class="filter" data-filter="tools" aria-pressed="false">新工具</button>
       <button class="filter" data-filter="github" aria-pressed="false">GitHub</button>
-      <button class="filter" data-filter="discussion" aria-pressed="false">讨论热点</button>
+      <button class="filter" data-filter="discussion" aria-pressed="false">热议</button>
     </nav>
   </div></header>
   <main class="wrap" id="app"><p class="loading">正在加载资讯…</p></main>
@@ -56,42 +58,47 @@
     const parseTime = value => { const n = new Date(value).getTime(); return Number.isFinite(n) ? n : 0; };
     const names = { github_trending:'GitHub Trending', product_hunt:'Product Hunt', openai:'OpenAI', anthropic:'Anthropic', google_deepmind:'Google DeepMind', hacker_news:'Hacker News' };
     const officialKeys = ['openai','anthropic','google_deepmind'], toolKeys = ['github_trending','product_hunt'];
-    const state = { filter:'all', official:'openai', data:null };
+    const state = { filter:'today', official:'openai', showAll:false, data:null };
 
-    function normalize(data) { return Object.entries(names).flatMap(([key,name]) => (data[key] || []).map(entry => Object.assign({},entry,{source:entry.source || name,key:key}))); }
-    function matches(entry) {
-      if (state.filter === 'all') return true;
-      if (state.filter === 'official') return officialKeys.includes(entry.key);
-      if (state.filter === 'tools') return toolKeys.includes(entry.key);
-      if (state.filter === 'github') return entry.key === 'github_trending';
-      return entry.key === 'hacker_news';
+    function normalize(data) {
+      const seen = new Set();
+      return Object.entries(names).flatMap(([key,name]) => (data[key] || []).map(entry => Object.assign({},entry,{source:entry.source || name,key:key}))).filter(entry => {
+        const identity = entry.url || entry.title;
+        if (!identity || seen.has(identity)) return false;
+        seen.add(identity);
+        return true;
+      });
     }
     function card(entry, variant) {
-      let meta = formatTime(entry.published_at), foot = '打开原文';
-      if (entry.key === 'github_trending') { meta = '今日 +' + (entry.today_stars || 0) + ' stars'; foot = entry.language || 'GitHub'; }
-      if (entry.key === 'hacker_news') { meta = (entry.score || 0) + ' points · ' + (entry.comments || 0) + ' comments'; foot = '发布于 ' + formatTime(entry.published_at); }
+      let meta = formatTime(entry.published_at);
+      if (entry.key === 'github_trending') meta = '今日 +' + (entry.today_stars || 0) + ' stars';
+      if (entry.key === 'hacker_news') meta = (entry.score || 0) + ' points · ' + (entry.comments || 0) + ' comments';
       return '<a class="card ' + (variant || '') + '" href="' + escapeHtml(entry.url) + '" target="_blank" rel="noopener noreferrer">' +
         '<div class="card-top"><span class="source">' + escapeHtml(entry.source) + '</span><span class="meta">' + escapeHtml(meta) + '</span></div>' +
-        '<h3>' + escapeHtml(entry.title) + '</h3><p class="description">' + escapeHtml(entry.description || '暂无简介') + '</p>' +
-        '<div class="card-foot"><span>' + escapeHtml(foot) + '</span><span aria-hidden="true">↗</span></div></a>';
+        '<h3>' + escapeHtml(entry.title) + '</h3><p class="description">' + escapeHtml(entry.summary_zh || entry.summary || entry.description || '暂无简介') + '</p>' +
+        '<div class="card-foot"><span>查看原文</span><span aria-hidden="true">↗</span></div></a>';
     }
-    function cards(entries, className, variant) { return entries.length ? '<div class="cards ' + className + '">' + entries.map(entry => card(entry,variant)).join('') + '</div>' : '<p class="empty">今天还没有符合这一筛选的资讯。</p>'; }
+    function cards(entries, className, variant) { return entries.length ? '<div class="cards ' + className + '">' + entries.map(entry => card(entry,variant)).join('') + '</div>' : '<p class="empty">暂时没有符合这一筛选的资讯。</p>'; }
     function section(title,note,content,id) { return '<section class="section ' + (id || '') + '"><div class="section-head"><div><h2>' + title + '</h2><span class="section-note">' + note + '</span></div></div>' + content + '</section>'; }
-    function today(entries) {
-      const now = Date.now(), day = 86400000;
-      const recent = entries.filter(entry => { const age = now - parseTime(entry.published_at); return age >= -300000 && age <= day; }).sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at)).slice(0,8);
-      return section('今日值得看','过去 24 小时 · 按发布时间排列',cards(recent,'today-grid','today-card'),'today-section');
+    function recentFirst(entries) {
+      return entries.slice().sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at) || (b.score || 0)-(a.score || 0) || (b.today_stars || 0)-(a.today_stars || 0));
+    }
+    function today(all) {
+      const now = Date.now(), day = 86400000, ordered = recentFirst(all);
+      const recent = ordered.filter(entry => { const age = now - parseTime(entry.published_at); return age >= -300000 && age <= day; });
+      const picks = recent.concat(ordered.filter(entry => !recent.includes(entry))).slice(0,5);
+      return section('如果今天只看 5 条 AI 信息','优先过去 24 小时 · 按新鲜度与讨论度排列',cards(picks,'today-grid','today-card'),'today-section') +
+        '<button class="all-link" data-action="all">查看全部情报 <span aria-hidden="true">↗</span></button>';
     }
     function official(all) {
-      const current = all.filter(entry => entry.key === state.official).sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at));
+      const current = recentFirst(all.filter(entry => entry.key === state.official));
       const tabs = officialKeys.map(key => '<button class="tab" data-official="' + key + '" aria-selected="' + (key === state.official) + '">' + names[key] + '</button>').join('');
       return section('官方动态','模型、产品与研究团队的一手更新','<div class="official-tabs" role="tablist">' + tabs + '</div>' + cards(current,'two-up',''),'official-section');
     }
     function tools(all) {
-      const github = all.filter(entry => entry.key === 'github_trending');
-      const product = all.filter(entry => entry.key === 'product_hunt').sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at));
-      let body = '';
-      if (github.length) body += '<div><div class="stream-label">GitHub Trending · 今日 Stars</div>' + cards(github,'two-up','') + '</div>';
+      const github = recentFirst(all.filter(entry => entry.key === 'github_trending'));
+      const product = recentFirst(all.filter(entry => entry.key === 'product_hunt'));
+      let body = '<div><div class="stream-label">GitHub Trending · 今日 Stars</div>' + cards(github,'two-up','') + '</div>';
       if (state.filter !== 'github') body += '<div><div class="stream-label">Product Hunt · 最新产品</div>' + cards(product,'two-up','') + '</div>';
       return section('新工具 / 新项目','正在获得关注的产品与开源项目',body,'tools-section');
     }
@@ -100,13 +107,14 @@
       return section('大家在讨论什么','Hacker News · 按 points 排列',cards(entries,'discussions',''),'discussion-section');
     }
     function render() {
-      const all = normalize(state.data), filtered = all.filter(matches), app = document.querySelector('#app');
-      let html = today(filtered);
-      if (state.filter === 'all' || state.filter === 'official') html += official(all);
-      if (['all','tools','github'].includes(state.filter)) html += tools(state.filter === 'github' ? all.filter(entry => entry.key === 'github_trending') : all);
-      if (state.filter === 'all' || state.filter === 'discussion') html += discussion(all);
-      app.innerHTML = html;
-      document.querySelectorAll('.filter').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.filter === state.filter)));
+      const all = normalize(state.data), app = document.querySelector('#app');
+      if (state.showAll) app.innerHTML = '<p class="mode-note">完整情报流 · 可通过顶部导航回到单一分类</p>' + official(all) + tools(all) + discussion(all);
+      else if (state.filter === 'today') app.innerHTML = today(all);
+      else if (state.filter === 'official') app.innerHTML = official(all);
+      else if (state.filter === 'tools') app.innerHTML = tools(all);
+      else if (state.filter === 'github') app.innerHTML = tools(all.filter(entry => entry.key === 'github_trending'));
+      else app.innerHTML = discussion(all);
+      document.querySelectorAll('.filter').forEach(button => button.setAttribute('aria-pressed',String(!state.showAll && button.dataset.filter === state.filter)));
     }
     async function init() {
       try {
@@ -121,9 +129,10 @@
       }
     }
     document.addEventListener('click', event => {
-      const filter = event.target.closest('[data-filter]'), officialTab = event.target.closest('[data-official]');
-      if (filter && state.data) { state.filter = filter.dataset.filter; render(); }
+      const filter = event.target.closest('[data-filter]'), officialTab = event.target.closest('[data-official]'), action = event.target.closest('[data-action]');
+      if (filter && state.data) { state.filter = filter.dataset.filter; state.showAll = false; render(); }
       if (officialTab && state.data) { state.official = officialTab.dataset.official; render(); }
+      if (action && state.data) { state.showAll = action.dataset.action === 'all'; state.filter = 'today'; render(); }
     });
     init();
   </script>
