@@ -59,6 +59,14 @@
     const names = { github_trending:'GitHub Trending', product_hunt:'Product Hunt', openai:'OpenAI', anthropic:'Anthropic', google_deepmind:'Google DeepMind', hacker_news:'Hacker News' };
     const officialKeys = ['openai','anthropic','google_deepmind'], toolKeys = ['product_hunt'];
     const state = { filter:'today', official:'openai', showAll:false, data:null };
+    const importanceSignals = [
+      { pattern:/\b(launch|release|announce|update|acquisition|funding|partnership)\b|发布|推出|宣布|更新|收购|融资|合作/i, points:6 },
+      { pattern:/\b(new model|new feature|open source|api|agent|benchmark|gpt|claude|gemini)\b|新模型|新功能|开源|智能体|基准测试/i, points:5 },
+      { pattern:/\b(product|tool|security|research|study)\b|产品|工具|安全|研究|行业/i, points:3 }
+    ];
+    const lowValueSignal = /\b(academic|thesis|survey|dataset)\b|学术|论文|数据集|课程作业/i;
+    const userValueSignals = /\b(api|agent|coding|workflow|tool|product|open source|gpt|claude|gemini)\b|API|智能体|编程|工作流|工具|产品|开源|大模型/i;
+    const sourceImportance = { openai:18, anthropic:18, google_deepmind:18, product_hunt:14, github_trending:14, hacker_news:10 };
 
     function normalize(data) {
       const seen = new Set();
@@ -73,9 +81,11 @@
       let meta = formatTime(entry.published_at);
       if (entry.key === 'github_trending') meta = '今日 +' + (entry.today_stars || 0) + ' stars';
       if (entry.key === 'hacker_news') meta = (entry.score || 0) + ' points · ' + (entry.comments || 0) + ' comments';
+      const title = entry.title_zh || entry.title || '未命名资讯';
+      const description = entry.summary_zh || entry.summary || entry.description || '暂无简介';
       return '<a class="card ' + (variant || '') + '" href="' + escapeHtml(entry.url) + '" target="_blank" rel="noopener noreferrer">' +
         '<div class="card-top"><span class="source">' + escapeHtml(entry.source) + '</span><span class="meta">' + escapeHtml(meta) + '</span></div>' +
-        '<h3>' + escapeHtml(entry.title) + '</h3><p class="description">' + escapeHtml(entry.summary_zh || entry.summary || entry.description || '暂无简介') + '</p>' +
+        '<h3>' + escapeHtml(title) + '</h3><p class="description">' + escapeHtml(description) + '</p>' +
         '<div class="card-foot"><span>查看原文</span><span aria-hidden="true">↗</span></div></a>';
     }
     function cards(entries, className, variant) { return entries.length ? '<div class="cards ' + className + '">' + entries.map(entry => card(entry,variant)).join('') + '</div>' : '<p class="empty">暂时没有符合这一筛选的资讯。</p>'; }
@@ -83,11 +93,94 @@
     function recentFirst(entries) {
       return entries.slice().sort((a,b) => parseTime(b.published_at)-parseTime(a.published_at) || (b.score || 0)-(a.score || 0) || (b.today_stars || 0)-(a.today_stars || 0));
     }
+    const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+    function withinHours(entry, now, hours) {
+      const timestamp = parseTime(entry.published_at);
+      if (!timestamp) return false;
+      const age = (now - timestamp) / 3600000;
+      return age >= -2 && age <= hours;
+    }
+    function entryText(entry) { return [entry.title_zh,entry.title,entry.summary_zh,entry.summary,entry.description].filter(Boolean).join(' '); }
+    function freshnessScore(entry, now) {
+      const timestamp = parseTime(entry.published_at);
+      if (!timestamp) return 0;
+      const age = Math.max(0, (now - timestamp) / 3600000);
+      return Math.round(35 * clamp(1 - age / 48, 0, 1));
+    }
+    function importanceScore(entry) {
+      let score = sourceImportance[entry.key] || 8;
+      const text = entryText(entry);
+      importanceSignals.forEach(signal => { if (signal.pattern.test(text)) score += signal.points; });
+      if (lowValueSignal.test(text)) score -= 6;
+      return clamp(score, 0, 30);
+    }
+    function heatScore(entry) {
+      const stars = Number(entry.today_stars) || 0;
+      const points = Number(entry.score) || 0;
+      const comments = Number(entry.comments) || 0;
+      const votes = Number(entry.votes || entry.upvotes) || 0;
+      if (entry.key === 'github_trending') return Math.min(20, Math.round(Math.log1p(stars) * 4));
+      if (entry.key === 'hacker_news') return Math.min(20, Math.round(Math.log1p(points) * 3 + Math.log1p(comments) * 2));
+      if (entry.key === 'product_hunt') return Math.min(20, Math.round(Math.log1p(votes) * 4));
+      return 0;
+    }
+    function userValueScore(entry) {
+      let score = { product_hunt:12, github_trending:12, hacker_news:9, openai:10, anthropic:10, google_deepmind:10 }[entry.key] || 8;
+      const text = entryText(entry);
+      if (userValueSignals.test(text)) score += 3;
+      if (lowValueSignal.test(text)) score -= 4;
+      return clamp(score, 0, 15);
+    }
+    function scoreEntry(entry, now) {
+      // 今日精选总分 100：新鲜度 35 + 重要性 30 + 热度 20 + 用户价值 15。
+      return freshnessScore(entry, now) + importanceScore(entry) + heatScore(entry) + userValueScore(entry);
+    }
+    function titleTokens(entry) {
+      const title = [entry.title_zh,entry.title].filter(Boolean).join(' ');
+      return new Set(title.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]+/g, ' ').split(/\s+/).filter(token => token.length > 2));
+    }
+    function similarTitle(first, second) {
+      const firstTitle = [first.title_zh,first.title].filter(Boolean).join(' ').toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]+/g, '');
+      const secondTitle = [second.title_zh,second.title].filter(Boolean).join(' ').toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]+/g, '');
+      if (firstTitle.length >= 8 && secondTitle.length >= 8 && (firstTitle.includes(secondTitle) || secondTitle.includes(firstTitle))) return true;
+      const a = titleTokens(first), b = titleTokens(second);
+      if (!a.size || !b.size) return false;
+      const same = [...a].filter(token => b.has(token)).length;
+      return same >= 3 && same / Math.min(a.size, b.size) >= .72;
+    }
+    function dedupeToday(entries) {
+      const seenUrls = new Set(), kept = [];
+      entries.forEach(entry => {
+        if (seenUrls.has(entry.url) || kept.some(existing => similarTitle(existing, entry))) return;
+        seenUrls.add(entry.url);
+        kept.push(entry);
+      });
+      return kept;
+    }
+    function selectDiverse(entries) {
+      const selected = [], counts = {};
+      entries.forEach(entry => {
+        if (selected.length >= 5 || counts[entry.key]) return;
+        selected.push(entry);
+        counts[entry.key] = 1;
+      });
+      entries.forEach(entry => {
+        if (selected.length >= 5 || selected.includes(entry) || (counts[entry.key] || 0) >= 2) return;
+        selected.push(entry);
+        counts[entry.key] = (counts[entry.key] || 0) + 1;
+      });
+      return selected.sort((a,b) => b._radarScore - a._radarScore);
+    }
+    function rankEntries(entries, now) {
+      return entries.map(entry => Object.assign({},entry,{_radarScore:scoreEntry(entry,now)})).sort((a,b) => b._radarScore - a._radarScore || parseTime(b.published_at) - parseTime(a.published_at));
+    }
     function today(all) {
-      const now = Date.now(), day = 86400000, ordered = recentFirst(all);
-      const recent = ordered.filter(entry => { const age = now - parseTime(entry.published_at); return age >= -300000 && age <= day; });
-      const picks = recent.concat(ordered.filter(entry => !recent.includes(entry))).slice(0,5);
-      return section('如果今天只看 5 条 AI 信息','优先过去 24 小时 · 按新鲜度与讨论度排列',cards(picks,'today-grid','today-card'),'today-section') +
+      const now = Date.now(), recent24 = rankEntries(all.filter(entry => withinHours(entry, now, 24)), now);
+      const recentQuality = dedupeToday(recent24).filter(entry => entry._radarScore >= 28);
+      const ranked = recentQuality.length >= 5 ? recent24 : rankEntries(all.filter(entry => withinHours(entry, now, 48)), now);
+      const quality = dedupeToday(ranked).filter(entry => entry._radarScore >= 28);
+      const picks = selectDiverse(quality);
+      return section('如果今天只看 5 条 AI 信息','从今天的 AI 动态里，挑出真正值得你点开的 5 条。',cards(picks,'today-grid','today-card'),'today-section') +
         '<button class="all-link" data-action="all">查看全部情报 <span aria-hidden="true">↗</span></button>';
     }
     function official(all, includeAll) {
