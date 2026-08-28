@@ -4,7 +4,7 @@
 
 这是一个“个人 AI 情报雷达”：它会自动收集和整理 AI 行业的重要信息，把官方动态、新产品、热门开源项目和社区讨论放到一页里，方便你每天快速浏览。
 
-🌐 **在线体验：** Pages 地址请以仓库 **Settings → Pages** 页面显示的实际地址为准（用户名已更新为 `zizixie`，当前不在 README 中猜测具体 Pages 地址）。
+🌐 **在线体验：** [https://zizixie.github.io/ai-radar/](https://zizixie.github.io/ai-radar/)
 
 <!-- 网页预览图占位：将截图保存为 assets/preview.png 后，可取消下一行注释。 -->
 <!-- ![AI Radar 网页预览](assets/preview.png) -->
@@ -42,7 +42,7 @@
 
 直接打开在线网页即可：
 
-👉 请打开仓库 **Settings → Pages** 中显示的在线地址（新用户名为 `zizixie`）。
+👉 [打开 AI Radar 在线网页](https://zizixie.github.io/ai-radar/)
 
 建议把它加入浏览器书签，每天花几分钟扫一眼。
 
