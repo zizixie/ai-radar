@@ -4,7 +4,16 @@
 
 这是一个“个人 AI 情报雷达”：它会自动收集和整理 AI 行业的重要信息，把官方动态、新产品、热门开源项目和社区讨论放到一页里，方便你每天快速浏览。
 
-🌐 **在线体验：** [aibao-lab.github.io/ai-radar](https://aibao-lab.github.io/ai-radar/)
+🌐 **在线体验：** Pages 地址请以仓库 **Settings → Pages** 页面显示的实际地址为准（用户名已更新为 `zizixie`，当前不在 README 中猜测具体 Pages 地址）。
+
+<!-- 网页预览图占位：将截图保存为 assets/preview.png 后，可取消下一行注释。 -->
+<!-- ![AI Radar 网页预览](assets/preview.png) -->
+
+## 30 秒开始使用
+
+- **只想看** → 打开仓库 Pages 中显示的在线体验地址
+- **想拥有自己的** → Fork → Pages → Actions
+- **不会代码** → 直接让 AI / Codex 帮你修改
 
 ## 它能帮你做什么？
 
@@ -33,7 +42,7 @@
 
 直接打开在线网页即可：
 
-👉 [https://aibao-lab.github.io/ai-radar/](https://aibao-lab.github.io/ai-radar/)
+👉 请打开仓库 **Settings → Pages** 中显示的在线地址（新用户名为 `zizixie`）。
 
 建议把它加入浏览器书签，每天花几分钟扫一眼。
 
@@ -43,7 +52,7 @@
 
 即使不会写代码，也可以照着做：
 
-1. 在本项目页面右上角点击 **Fork**，创建一份属于你的副本。
+1. 在 [ai-radar 仓库](https://github.com/zizixie/ai-radar) 页面右上角点击 **Fork**，创建一份属于你的副本。
 2. 进入你自己的仓库，点击 **Settings** → **Pages**。
 3. 在 **Source** 选择 Deploy from a branch，分支选 main，文件夹选 /(root)，点击 **Save**。
 4. 点击仓库顶部的 **Actions**。如果看到“Enable workflows”，点击它启用自动任务。
@@ -82,19 +91,29 @@
 
 例如，你可以说：“请为 AI Radar 增加一个我常看的公开 RSS 来源”，或“把每日更新时间改成晚上 8 点”。
 
+## 让 AI 帮你改成自己的
+
+可以直接复制这段话给 Codex：
+
+> 请基于这个 AI Radar 项目，保留现有功能和简洁风格，只帮我完成：[写下你想改的内容]。请先检查相关文件，再修改并告诉我如何发布。
+
+## 反馈与建议
+
+发现问题，或有新的公开信息源建议？欢迎通过 GitHub **Issues** 提交。
+
 ## 项目目录，一句话看懂
 
-~~~
+```
 index.html              网页长什么样、怎么展示资讯
 data/                   已整理好的资讯数据
 scripts/                自动抓取和整理资讯的小工具
 .github/workflows/      GitHub 每天自动运行的任务设置
 requirements.txt        自动抓取时需要安装的小工具清单
-~~~
+```
 
 ## 它是怎么工作的？
 
-~~~
+```
 公开信息源
     ↓
 Python 自动抓取
@@ -106,7 +125,7 @@ Python 自动抓取
 网页读取数据
     ↓
 GitHub Pages 展示
-~~~
+```
 
 ## 常见问题
 

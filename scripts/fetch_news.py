@@ -22,7 +22,7 @@ OUTPUT_FILE = ROOT / "data" / "news.json"
 MAX_ITEMS = 20
 TIMEOUT = 25
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; AI-Radar/1.1; +https://github.com/aibao-lab/ai-radar)",
+    "User-Agent": "Mozilla/5.0 (compatible; AI-Radar/1.1; +https://github.com/zizixie/ai-radar)",
     "Accept-Language": "en-US,en;q=0.9",
     "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.9,*/*;q=0.8",
 }
