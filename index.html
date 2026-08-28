@@ -57,7 +57,7 @@
     const formatTime = value => { if (!value) return '时间未标注'; const d = new Date(value); return Number.isNaN(d) ? value : new Intl.DateTimeFormat('zh-CN',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(d); };
     const parseTime = value => { const n = new Date(value).getTime(); return Number.isFinite(n) ? n : 0; };
     const names = { github_trending:'GitHub Trending', product_hunt:'Product Hunt', openai:'OpenAI', anthropic:'Anthropic', google_deepmind:'Google DeepMind', hacker_news:'Hacker News' };
-    const officialKeys = ['openai','anthropic','google_deepmind'], toolKeys = ['github_trending','product_hunt'];
+    const officialKeys = ['openai','anthropic','google_deepmind'];
     const state = { filter:'today', official:'openai', showAll:false, data:null };
 
     function normalize(data) {
@@ -90,17 +90,22 @@
       return section('如果今天只看 5 条 AI 信息','优先过去 24 小时 · 按新鲜度与讨论度排列',cards(picks,'today-grid','today-card'),'today-section') +
         '<button class="all-link" data-action="all">查看全部情报 <span aria-hidden="true">↗</span></button>';
     }
-    function official(all) {
+    function official(all, includeAll) {
+      if (includeAll) {
+        const body = officialKeys.map(key => '<div><div class="stream-label">' + names[key] + '</div>' + cards(recentFirst(all.filter(entry => entry.key === key)),'two-up','') + '</div>').join('');
+        return section('官方动态','模型、产品与研究团队的一手更新',body,'official-section');
+      }
       const current = recentFirst(all.filter(entry => entry.key === state.official));
       const tabs = officialKeys.map(key => '<button class="tab" data-official="' + key + '" aria-selected="' + (key === state.official) + '">' + names[key] + '</button>').join('');
       return section('官方动态','模型、产品与研究团队的一手更新','<div class="official-tabs" role="tablist">' + tabs + '</div>' + cards(current,'two-up',''),'official-section');
     }
-    function tools(all) {
-      const github = recentFirst(all.filter(entry => entry.key === 'github_trending'));
+    function productHunt(all) {
       const product = recentFirst(all.filter(entry => entry.key === 'product_hunt'));
-      let body = '<div><div class="stream-label">GitHub Trending · 今日 Stars</div>' + cards(github,'two-up','') + '</div>';
-      if (state.filter !== 'github') body += '<div><div class="stream-label">Product Hunt · 最新产品</div>' + cards(product,'two-up','') + '</div>';
-      return section('新工具 / 新项目','正在获得关注的产品与开源项目',body,'tools-section');
+      return section('新工具','Product Hunt · 最新产品',cards(product,'two-up',''),'tools-section');
+    }
+    function github(all) {
+      const entries = recentFirst(all.filter(entry => entry.key === 'github_trending'));
+      return section('GitHub 热门项目','GitHub Trending · 今日 Stars',cards(entries,'two-up',''),'github-section');
     }
     function discussion(all) {
       const entries = all.filter(entry => entry.key === 'hacker_news').sort((a,b) => (b.score || 0)-(a.score || 0));
@@ -108,11 +113,11 @@
     }
     function render() {
       const all = normalize(state.data), app = document.querySelector('#app');
-      if (state.showAll) app.innerHTML = '<p class="mode-note">完整情报流 · 可通过顶部导航回到单一分类</p>' + official(all) + tools(all) + discussion(all);
+      if (state.showAll) app.innerHTML = '<p class="mode-note">完整情报流 · 可通过顶部导航回到单一分类</p>' + official(all,true) + productHunt(all) + github(all) + discussion(all);
       else if (state.filter === 'today') app.innerHTML = today(all);
       else if (state.filter === 'official') app.innerHTML = official(all);
-      else if (state.filter === 'tools') app.innerHTML = tools(all);
-      else if (state.filter === 'github') app.innerHTML = tools(all.filter(entry => entry.key === 'github_trending'));
+      else if (state.filter === 'tools') app.innerHTML = productHunt(all);
+      else if (state.filter === 'github') app.innerHTML = github(all);
       else app.innerHTML = discussion(all);
       document.querySelectorAll('.filter').forEach(button => button.setAttribute('aria-pressed',String(!state.showAll && button.dataset.filter === state.filter)));
     }
