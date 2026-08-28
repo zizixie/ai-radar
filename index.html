@@ -51,7 +51,7 @@
     </nav>
   </div></header>
   <main class="wrap" id="app"><p class="loading">正在加载资讯…</p></main>
-  <footer><div class="wrap">AI RADAR · 官方动态、新工具与讨论热点 · 自动每日更新</div></footer>
+  <footer><div class="wrap">AI RADAR · 官方动态 · 新工具 · GitHub 热门 · 讨论热点 · 每日自动更新</div></footer>
   <script>
     const escapeHtml = (text = '') => String(text).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
     const formatTime = value => { if (!value) return '时间未标注'; const d = new Date(value); return Number.isNaN(d) ? value : new Intl.DateTimeFormat('zh-CN',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(d); };
@@ -95,6 +95,13 @@
     }
     const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
     function withinHours(entry, now, hours) {
+      if (entry.key === 'github_trending') {
+        // Trending 没有发布时间；fetched_at 只用于判断数据是否仍在本次窗口内，绝不计入新鲜度得分。
+        const fetchedAt = parseTime(entry.fetched_at);
+        if (!fetchedAt) return true;
+        const age = (now - fetchedAt) / 3600000;
+        return age >= -2 && age <= hours;
+      }
       const timestamp = parseTime(entry.published_at);
       if (!timestamp) return false;
       const age = (now - timestamp) / 3600000;
@@ -102,6 +109,7 @@
     }
     function entryText(entry) { return [entry.title_zh,entry.title,entry.summary_zh,entry.summary,entry.description].filter(Boolean).join(' '); }
     function freshnessScore(entry, now) {
+      if (entry.key === 'github_trending') return 0;
       const timestamp = parseTime(entry.published_at);
       if (!timestamp) return 0;
       const age = Math.max(0, (now - timestamp) / 3600000);
@@ -169,10 +177,20 @@
         selected.push(entry);
         counts[entry.key] = (counts[entry.key] || 0) + 1;
       });
+      entries.forEach(entry => {
+        if (selected.length >= 5 || selected.includes(entry)) return;
+        selected.push(entry);
+        counts[entry.key] = (counts[entry.key] || 0) + 1;
+      });
       return selected.sort((a,b) => b._radarScore - a._radarScore);
     }
+    function compareRank(a, b) {
+      if (b._radarScore !== a._radarScore) return b._radarScore - a._radarScore;
+      if (a.key === 'github_trending' || b.key === 'github_trending') return (b.today_stars || 0) - (a.today_stars || 0);
+      return parseTime(b.published_at) - parseTime(a.published_at);
+    }
     function rankEntries(entries, now) {
-      return entries.map(entry => Object.assign({},entry,{_radarScore:scoreEntry(entry,now)})).sort((a,b) => b._radarScore - a._radarScore || parseTime(b.published_at) - parseTime(a.published_at));
+      return entries.map(entry => Object.assign({},entry,{_radarScore:scoreEntry(entry,now)})).sort(compareRank);
     }
     function today(all) {
       const now = Date.now(), recent24 = rankEntries(all.filter(entry => withinHours(entry, now, 24)), now);

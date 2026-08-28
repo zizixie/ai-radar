@@ -38,9 +38,11 @@ HN_ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{item_id}.json"
 HN_SEARCH_URL = "https://hn.algolia.com/api/v1/search_by_date"
 
 AI_PATTERN = re.compile(
-    r"\b(ai|artificial intelligence|generative|genai|llm|large language model|agentic|ai agent|"
-    r"copilot|claude|chatgpt|openai|anthropic|gemini|deepmind|machine learning|neural network|"
-    r"ai coding|coding agent|vibe coding)\b",
+    r"\b(ai|artificial intelligence|generative ai|genai|llm|large language model|foundation model|"
+    r"language model|agentic|ai agent|copilot|chatbot|claude|chatgpt|openai|anthropic|gemini|deepmind|"
+    r"machine learning|neural network|ai coding|coding agent|vibe coding|diffusion|text-to-image|"
+    r"image generation|computer vision|model|models|agent|gpt)\b|"
+    r"人工智能|生成式 AI|大模型|智能体|机器学习|神经网络|AI 编程|AI 工具|模型|智能助手",
     re.IGNORECASE,
 )
 
@@ -96,6 +98,11 @@ def item(title: str, url: str, description: str, source: str, published_at: str,
     return result
 
 
+def is_ai_related(title: str, description: str) -> bool:
+    """Keep entries whose title or description clearly signals an AI topic."""
+    return bool(AI_PATTERN.search(f"{title} {description}"))
+
+
 def dedupe(items: list[dict]) -> list[dict]:
     seen, unique = set(), []
     for entry in items:
@@ -109,7 +116,7 @@ def dedupe(items: list[dict]) -> list[dict]:
 def fetch_github_trending() -> list[dict]:
     soup = BeautifulSoup(request(GITHUB_TRENDING_URL).text, "html.parser")
     projects = []
-    for row in soup.select("article.Box-row")[:MAX_ITEMS]:
+    for row in soup.select("article.Box-row"):
         title_link = row.select_one("h2 a")
         if not title_link:
             continue
@@ -117,18 +124,21 @@ def fetch_github_trending() -> list[dict]:
         description_node = row.select_one("p")
         language_node = row.select_one('[itemprop="programmingLanguage"]')
         stars_match = re.search(r"([\d,]+)\s+stars?\s+today", clean_text(row.get_text(" ", strip=True)), re.IGNORECASE)
+        description = description_node.get_text(" ", strip=True) if description_node else "GitHub Trending 项目。"
+        if not is_ai_related(title_link.get_text(" ", strip=True), description):
+            continue
         projects.append(item(
             title=clean_text(title_link.get_text(" ", strip=True)).replace(" / ", "/"),
             url=urljoin("https://github.com", href),
-            description=description_node.get_text(" ", strip=True) if description_node else "GitHub Trending 项目。",
-            source="GitHub Trending", published_at=iso_now(),
+            description=description,
+            source="GitHub Trending", published_at="", fetched_at=iso_now(),
             language=clean_text(language_node.get_text(" ", strip=True) if language_node else "") or "未标注",
             today_stars=int(stars_match.group(1).replace(",", "")) if stars_match else 0,
         ))
     return dedupe(projects)
 
 
-def fetch_rss(source: str, urls: tuple[str, ...] | str) -> list[dict]:
+def fetch_rss(source: str, urls: tuple[str, ...] | str, predicate=None) -> list[dict]:
     """Fetch RSS/Atom, trying fallback endpoints if a publisher changes one."""
     candidates, errors = ((urls,) if isinstance(urls, str) else urls), []
     for feed_url in candidates:
@@ -137,19 +147,28 @@ def fetch_rss(source: str, urls: tuple[str, ...] | str) -> list[dict]:
             if feed.bozo and not feed.entries:
                 raise ValueError(f"无法解析订阅源：{feed.bozo_exception}")
             entries = []
-            for entry_data in feed.entries[:MAX_ITEMS]:
+            for entry_data in feed.entries:
                 summary = entry_data.get("summary", entry_data.get("description", ""))
-                entries.append(item(
+                entry = item(
                     title=entry_data.get("title", ""), url=entry_data.get("link", ""),
                     description=BeautifulSoup(summary, "html.parser").get_text(" ", strip=True), source=source,
                     published_at=to_iso(entry_data.get("published", entry_data.get("updated", "")), entry_data.get("published_parsed", entry_data.get("updated_parsed"))),
-                ))
+                )
+                if predicate and not predicate(entry):
+                    continue
+                entries.append(entry)
+                if len(entries) >= MAX_ITEMS:
+                    break
             if entries:
                 return dedupe(entries)
             raise ValueError("订阅源没有可用条目")
         except Exception as error:
             errors.append(f"{feed_url}: {error}")
     raise RuntimeError("; ".join(errors))
+
+
+def fetch_product_hunt() -> list[dict]:
+    return fetch_rss("Product Hunt", PRODUCT_HUNT_FEEDS, lambda entry: is_ai_related(entry["title"], entry["description"]))
 
 
 def fetch_anthropic() -> list[dict]:
@@ -234,7 +253,7 @@ def fetch_hacker_news() -> list[dict]:
 
 SOURCES = (
     ("github_trending", "GitHub Trending", fetch_github_trending),
-    ("product_hunt", "Product Hunt", lambda: fetch_rss("Product Hunt", PRODUCT_HUNT_FEEDS)),
+    ("product_hunt", "Product Hunt", fetch_product_hunt),
     ("openai", "OpenAI", lambda: fetch_rss("OpenAI", OPENAI_RSS_URL)),
     ("anthropic", "Anthropic", fetch_anthropic),
     ("google_deepmind", "Google DeepMind", lambda: fetch_rss("Google DeepMind", DEEPMIND_RSS_URL)),
@@ -268,7 +287,7 @@ def main() -> int:
     OUTPUT_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if failures:
         print(f"已完成，失败来源：{', '.join(failures)}", file=sys.stderr)
-    return 0
+    return 1 if not successful_sources else 0
 
 
 if __name__ == "__main__":

@@ -6,9 +6,6 @@
 
 🌐 **在线体验：** [https://zizixie.github.io/ai-radar/](https://zizixie.github.io/ai-radar/)
 
-<!-- 网页预览图占位：将截图保存为 assets/preview.png 后，可取消下一行注释。 -->
-<!-- ![AI Radar 网页预览](assets/preview.png) -->
-
 ## 30 秒开始使用
 
 - **只想看** → 打开仓库 Pages 中显示的在线体验地址
@@ -27,8 +24,8 @@
 
 | 来源 | 你能看到什么 |
 | --- | --- |
-| GitHub Trending | 当天热门开源项目、编程语言和新增 Stars |
-| Product Hunt | 最新发布的产品 |
+| GitHub Trending | 经过 AI 相关筛选的热门开源项目、编程语言和新增 Stars |
+| Product Hunt | 经过 AI 相关筛选的最新 AI 产品和工具 |
 | OpenAI | OpenAI 官方新闻与产品更新 |
 | Anthropic | Anthropic 官方 Newsroom 动态 |
 | Google DeepMind | Google DeepMind 的研究、模型与产品动态 |
@@ -46,7 +43,7 @@
 
 建议把它加入浏览器书签，每天花几分钟扫一眼。
 
-页面顶部可以按“今日”“官方”“新工具”“GitHub”“热议”快速切换：首页“今日”会从多个来源中筛选最多 5 条值得关注的 AI 动态。
+页面顶部可以按“今日”“官方”“新工具”“GitHub”“热议”快速切换：首页“今日”会综合新鲜度、重要性、热度、AI 相关度和普通用户价值，从多个来源筛选最多 5 条值得关注的 AI 动态，并尽量保持来源多样。
 
 分类对应关系很简单：**新工具 = Product Hunt**，**GitHub = GitHub Trending**，两者是两个独立栏目。
 
@@ -133,7 +130,7 @@ GitHub Pages 展示
 
 ### 为什么信息没有更新？
 
-先到 **Actions** 看“更新 AI 情报”最近一次运行是否为绿色成功。公开网站偶尔会临时限制访问；项目会保留上一次成功抓到的数据，不会让整页变空。
+先到 **Actions** 看“更新 AI 情报”最近一次运行是否为绿色成功。单个公开来源偶尔无法访问时，项目会保留该来源上一次成功抓到的数据；如果全部来源都失败，Actions 会明确标记为失败，方便你及时发现。
 
 ### 怎么手动更新？
 
