@@ -1,14 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "title": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.235586Z",
-      "language": "JavaScript",
-      "today_stars": 3902
+      "fetched_at": "2026-08-31T05:30:58.584092Z",
+      "language": "TypeScript",
+      "today_stars": 1370
     },
     {
       "title": "K-Dense-AI/scientific-agent-skills",
@@ -16,19 +16,19 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.236313Z",
+      "fetched_at": "2026-08-31T05:30:58.584512Z",
       "language": "Python",
-      "today_stars": 1587
+      "today_stars": 1114
     },
     {
-      "title": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "title": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.237022Z",
-      "language": "TypeScript",
-      "today_stars": 907
+      "fetched_at": "2026-08-31T05:30:58.585257Z",
+      "language": "JavaScript",
+      "today_stars": 3722
     },
     {
       "title": "p-e-w/heretic",
@@ -36,95 +36,117 @@
       "description": "Fully automatic censorship removal for language models",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.237370Z",
+      "fetched_at": "2026-08-31T05:30:58.585591Z",
       "language": "Python",
-      "today_stars": 150
+      "today_stars": 369
     },
     {
-      "title": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.238115Z",
-      "language": "Go",
-      "today_stars": 303
-    },
-    {
-      "title": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.238467Z",
+      "fetched_at": "2026-08-31T05:30:58.586016Z",
       "language": "Python",
-      "today_stars": 73
+      "today_stars": 221
     },
     {
-      "title": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.238896Z",
+      "fetched_at": "2026-08-31T05:30:58.586329Z",
       "language": "Python",
-      "today_stars": 806
+      "today_stars": 230
     },
     {
-      "title": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "title": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.239552Z",
+      "fetched_at": "2026-08-31T05:30:58.589472Z",
+      "language": "TypeScript",
+      "today_stars": 504
+    },
+    {
+      "title": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-08-31T05:30:58.589787Z",
       "language": "Python",
-      "today_stars": 35
+      "today_stars": 132
     },
     {
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.240281Z",
-      "language": "Python",
-      "today_stars": 358
-    },
-    {
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.241666Z",
-      "language": "JavaScript",
-      "today_stars": 196
-    },
-    {
-      "title": "workweave/router",
-      "url": "https://github.com/workweave/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-30T05:21:47.241995Z",
-      "language": "Go",
-      "today_stars": 284
+      "fetched_at": "2026-08-31T05:30:58.590234Z",
+      "language": "TypeScript",
+      "today_stars": 182
     }
   ],
   "product_hunt": [
+    {
+      "title": "Murfy AI",
+      "url": "https://www.producthunt.com/products/murfy",
+      "description": "Write, review, and publish to arXiv 10x faster Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-10T02:38:59Z"
+    },
+    {
+      "title": "Superagent",
+      "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+      "description": "Claude Code for the rest of us Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-29T22:27:58Z"
+    },
+    {
+      "title": "Referent",
+      "url": "https://www.producthunt.com/products/referent",
+      "description": "The AI-native OS for modern law firms Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-26T10:25:02Z"
+    },
+    {
+      "title": "Olostep",
+      "url": "https://www.producthunt.com/products/olostep",
+      "description": "Turn the Web into Clean Data for AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-07-17T21:04:28Z"
+    },
+    {
+      "title": "Sayscroll",
+      "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+      "description": "The AI Teleprompter that scrolls as you speak Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-19T16:49:36Z"
+    },
+    {
+      "title": "Maritime",
+      "url": "https://www.producthunt.com/products/maritime",
+      "description": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-28T22:04:42Z"
+    },
+    {
+      "title": "oMLX",
+      "url": "https://www.producthunt.com/products/omlx",
+      "description": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-29T20:17:05Z"
+    },
     {
       "title": "Staats",
       "url": "https://www.producthunt.com/products/staats-3",
       "description": "Ask your coding agent how your site is doing Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-08-28T07:12:12Z"
-    },
-    {
-      "title": "Cohere Parse 5",
-      "url": "https://www.producthunt.com/products/cohere-2",
-      "description": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-28T15:59:34Z"
     },
     {
       "title": "Hy4 preview",
@@ -134,18 +156,11 @@
       "published_at": "2026-08-28T16:57:52Z"
     },
     {
-      "title": "CTRL Micro",
-      "url": "https://www.producthunt.com/products/ctrl-micro",
-      "description": "Haptic control deck for your Mac and AI agents Discussion | Link",
+      "title": "Cohere Parse 5",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "description": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-24T21:54:57Z"
-    },
-    {
-      "title": "OpenTag",
-      "url": "https://www.producthunt.com/products/opentag",
-      "description": "AI coworker lives on Slack and Teams Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-27T21:52:16Z"
+      "published_at": "2026-08-28T15:59:34Z"
     },
     {
       "title": "Play with Putty",
@@ -155,11 +170,11 @@
       "published_at": "2026-08-25T18:45:36Z"
     },
     {
-      "title": "Revalvo",
-      "url": "https://www.producthunt.com/products/revalvo",
-      "description": "Run prompts on every model at once. Score. Version. Ship. Discussion | Link",
+      "title": "Almanac",
+      "url": "https://www.producthunt.com/products/almanac-5",
+      "description": "The agent with a second brain Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-28T06:38:16Z"
+      "published_at": "2026-08-27T20:43:25Z"
     },
     {
       "title": "Caddi",
@@ -169,20 +184,6 @@
       "published_at": "2026-08-17T16:16:01Z"
     },
     {
-      "title": "screenpipe",
-      "url": "https://www.producthunt.com/products/screenpipe",
-      "description": "AI that records your computer work to power agents. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-27T03:15:53Z"
-    },
-    {
-      "title": "Aramb",
-      "url": "https://www.producthunt.com/products/aramb",
-      "description": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-04T10:19:31Z"
-    },
-    {
       "title": "Gemini Omni 1.1 Flash",
       "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
       "description": "Our newest multimodal model for video generation and editing Discussion | Link",
@@ -190,39 +191,32 @@
       "published_at": "2026-08-27T20:52:18Z"
     },
     {
-      "title": "Spline V2",
-      "url": "https://www.producthunt.com/products/spline",
-      "description": "Best 3D platform for the agentic era Discussion | Link",
+      "title": "Revalvo",
+      "url": "https://www.producthunt.com/products/revalvo",
+      "description": "Run prompts on every model at once. Score. Version. Ship. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-27T08:06:07Z"
+      "published_at": "2026-08-28T06:38:16Z"
     },
     {
-      "title": "Almanac",
-      "url": "https://www.producthunt.com/products/almanac-5",
-      "description": "The agent with a second brain Discussion | Link",
+      "title": "OpenTag",
+      "url": "https://www.producthunt.com/products/opentag",
+      "description": "AI coworker lives on Slack and Teams Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-27T20:43:25Z"
+      "published_at": "2026-08-27T21:52:16Z"
     },
     {
-      "title": "Gemini 3.5 Transcribe",
-      "url": "https://www.producthunt.com/products/gemini-3-5-transcribe",
-      "description": "Our most precise speech-to-text model yet Discussion | Link",
+      "title": "CTRL Micro",
+      "url": "https://www.producthunt.com/products/ctrl-micro",
+      "description": "Haptic control deck for your Mac and AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-26T19:07:31Z"
+      "published_at": "2026-08-24T21:54:57Z"
     },
     {
-      "title": "GLM-5.3-Flash",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "description": "The first natively multimodal model in GLM-5 series Discussion | Link",
+      "title": "Aramb",
+      "url": "https://www.producthunt.com/products/aramb",
+      "description": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-26T15:01:51Z"
-    },
-    {
-      "title": "Pluto",
-      "url": "https://www.producthunt.com/products/pluto-11",
-      "description": "Your professional profile is now an AI agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-27T04:30:47Z"
+      "published_at": "2026-08-04T10:19:31Z"
     }
   ],
   "openai": [
@@ -583,31 +577,94 @@
   ],
   "hacker_news": [
     {
-      "title": "You have to beat the models at something",
-      "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T03:11:30Z",
-      "score": 10,
+      "published_at": "2026-08-31T03:45:57Z",
+      "score": 36,
+      "comments": 34
+    },
+    {
+      "title": "Ask HN: What do your job interviews look like? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49505033",
+      "description": "For those who have recently (Summer 2026) gone through software engineering job interviews, have you noticed any changes in the interview process? Is it still the usual Leetcode, system design, behavioral and leadership questions, and maybe technology specific questions (e.g., Spring for Java devs, borrow checker details for Rust devs, etc.)? Or have you noticed something completely different because of the AI agentic era, with companies taking a fundamentally different approach to interviewing engineers? If so, could you share some of the more unique or unusual things you've seen?",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T02:43:53Z",
+      "score": 9,
       "comments": 0
     },
     {
-      "title": "Meta Project OT plan to replace employees with AI agents",
-      "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "description": "When AI makes results readily available, why do I lose my passion and want to do nothing?",
       "source": "Hacker News",
-      "published_at": "2026-08-30T02:01:08Z",
-      "score": 12,
-      "comments": 6
+      "published_at": "2026-08-31T02:40:37Z",
+      "score": 66,
+      "comments": 53
     },
     {
-      "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
-      "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T01:08:27Z",
-      "score": 4,
+      "published_at": "2026-08-31T02:39:48Z",
+      "score": 23,
       "comments": 0
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T01:28:22Z",
+      "score": 105,
+      "comments": 38
+    },
+    {
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-30T23:41:32Z",
+      "score": 41,
+      "comments": 3
+    },
+    {
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-30T20:46:53Z",
+      "score": 73,
+      "comments": 30
+    },
+    {
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-30T12:50:54Z",
+      "score": 189,
+      "comments": 210
+    },
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-30T10:20:11Z",
+      "score": 59,
+      "comments": 31
+    },
+    {
+      "title": "What We Tell AI",
+      "url": "https://www.whatwetellai.com/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-30T10:16:14Z",
+      "score": 39,
+      "comments": 14
     },
     {
       "title": "The Rise and Fall of Agent Civilizations",
@@ -615,35 +672,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-29T23:43:24Z",
-      "score": 14,
-      "comments": 0
-    },
-    {
-      "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
-      "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T19:52:56Z",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T19:09:33Z",
-      "score": 56,
-      "comments": 55
-    },
-    {
-      "title": "Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting",
-      "url": "https://github.com/QcFe/phpEZ",
-      "description": "I needed to make a tiny webapp backend to upload to shared LAMP hosting (they still exist, and I think they're fun despite us being well beyond 2005), but I couldn't face waiting for FTP to sync down however thousands files Laravel or similar frameworks need. So I made a tiny PHP framework that gets packaged into a single file. I'm using it for my own shady purposes, but I decided to put it on GitHub in case anyone else finds the approach useful. It has typed request/response handling, filesystem-based routing, object serialization, database models/schema generation, and a little schema alignment tool. It has no Composer dependencies. It's very much a tiny thing, but if anyone wants to try it and tell me where it breaks, I'd appreciate it :)",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T18:09:43Z",
-      "score": 7,
-      "comments": 2
+      "score": 232,
+      "comments": 145
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
@@ -651,26 +681,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-29T17:19:47Z",
-      "score": 315,
-      "comments": 73
-    },
-    {
-      "title": "Is the LLM smart or are you not?",
-      "url": "https://blog.troed.se/posts/the-anchoring-effect-and-cognitive-simplicity/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T17:13:36Z",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T14:02:10Z",
-      "score": 475,
-      "comments": 444
+      "score": 456,
+      "comments": 114
     },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
@@ -678,8 +690,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-29T01:24:13Z",
-      "score": 214,
-      "comments": 59
+      "score": 241,
+      "comments": 63
     },
     {
       "title": "I accidentally turned LLM memory into program analysis",
@@ -687,17 +699,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-28T23:27:45Z",
-      "score": 283,
-      "comments": 76
-    },
-    {
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T22:18:27Z",
-      "score": 59,
-      "comments": 25
+      "score": 300,
+      "comments": 83
     },
     {
       "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
@@ -705,7 +708,7 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-28T17:01:12Z",
-      "score": 117,
+      "score": 120,
       "comments": 40
     },
     {
@@ -714,8 +717,8 @@
       "description": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3",
       "source": "Hacker News",
       "published_at": "2026-08-28T15:20:13Z",
-      "score": 784,
-      "comments": 269
+      "score": 797,
+      "comments": 279
     },
     {
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
@@ -723,7 +726,7 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-08-28T06:33:57Z",
-      "score": 516,
+      "score": 521,
       "comments": 151
     },
     {
@@ -732,36 +735,27 @@
       "description": "https://archive.ph/ni6I3 https://storage.courtlistener.com/recap/gov.uscourts.cand.46...",
       "source": "Hacker News",
       "published_at": "2026-08-28T02:03:38Z",
-      "score": 614,
-      "comments": 423
+      "score": 633,
+      "comments": 432
     },
     {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-28T00:06:51Z",
+      "published_at": "2026-08-27T15:56:58Z",
+      "score": 795,
+      "comments": 348
+    },
+    {
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "description": "Hey HN! I built Typebase, a library that gives you Convex's DX with Supabase's openness. After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL for authorization. With Convex I loved how your server \"lives\" in your code, but disliked the DB model and the realtime-first defaults. With Typebase you just write TS files inside a typebase/ folder in your existing repo. You can define your DB tables inside a schema.ts file and export server functions that your frontend calls like local functions, fully typed. Auth is built in. Then one CLI command uploads your server to any of the available providers (Vercel, Cloudflare Workers or Deno Deploy for the servera and Neon for the DB), or generates the code so you can deploy it wherever you want. Built on top of oRPC, Drizzle, and better-auth. Happy to answer any questions or feedback!",
+      "source": "Hacker News",
+      "published_at": "2026-08-26T11:33:31Z",
       "score": 116,
-      "comments": 36
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-27T18:04:50Z",
-      "score": 133,
-      "comments": 59
-    },
-    {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-27T18:03:42Z",
-      "score": 360,
-      "comments": 127
+      "comments": 30
     }
   ],
-  "updated_at": "2026-08-30T05:21:48.916064Z"
+  "updated_at": "2026-08-31T05:31:00.239073Z"
 }
