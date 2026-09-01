@@ -6,19 +6,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.584092Z",
+      "fetched_at": "2026-09-01T05:04:59.704465Z",
       "language": "TypeScript",
-      "today_stars": 1370
-    },
-    {
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.584512Z",
-      "language": "Python",
-      "today_stars": 1114
+      "today_stars": 2824
     },
     {
       "title": "tt-a1i/archify",
@@ -26,9 +16,59 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.585257Z",
+      "fetched_at": "2026-09-01T05:04:59.704880Z",
       "language": "JavaScript",
-      "today_stars": 3722
+      "today_stars": 3991
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-01T05:04:59.705268Z",
+      "language": "Python",
+      "today_stars": 1980
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-01T05:04:59.706274Z",
+      "language": "Python",
+      "today_stars": 495
+    },
+    {
+      "title": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-01T05:04:59.706624Z",
+      "language": "Python",
+      "today_stars": 77
+    },
+    {
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-01T05:04:59.707353Z",
+      "language": "PowerShell",
+      "today_stars": 1401
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-01T05:04:59.707787Z",
+      "language": "JavaScript",
+      "today_stars": 512
     },
     {
       "title": "p-e-w/heretic",
@@ -36,68 +76,32 @@
       "description": "Fully automatic censorship removal for language models",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.585591Z",
+      "fetched_at": "2026-09-01T05:04:59.708914Z",
       "language": "Python",
-      "today_stars": 369
-    },
-    {
-      "title": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.586016Z",
-      "language": "Python",
-      "today_stars": 221
-    },
-    {
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.586329Z",
-      "language": "Python",
-      "today_stars": 230
-    },
-    {
-      "title": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.589472Z",
-      "language": "TypeScript",
-      "today_stars": 504
-    },
-    {
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.589787Z",
-      "language": "Python",
-      "today_stars": 132
-    },
-    {
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-08-31T05:30:58.590234Z",
-      "language": "TypeScript",
-      "today_stars": 182
+      "today_stars": 537
     }
   ],
   "product_hunt": [
     {
-      "title": "Murfy AI",
-      "url": "https://www.producthunt.com/products/murfy",
-      "description": "Write, review, and publish to arXiv 10x faster Discussion | Link",
+      "title": "Interactive Sessions",
+      "url": "https://www.producthunt.com/products/revolte",
+      "description": "Drive the full SDLC with AI agents, step by step Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-10T02:38:59Z"
+      "published_at": "2026-08-17T23:17:20Z"
+    },
+    {
+      "title": "Video Agent by Fotor",
+      "url": "https://www.producthunt.com/products/fotor",
+      "description": "Create and edit precision motion graphics & video with chat Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-17T12:24:54Z"
+    },
+    {
+      "title": "Orato",
+      "url": "https://www.producthunt.com/products/orato-speech-coach",
+      "description": "Practice speaking with AI. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-29T17:02:44Z"
     },
     {
       "title": "Superagent",
@@ -107,11 +111,25 @@
       "published_at": "2026-08-29T22:27:58Z"
     },
     {
-      "title": "Referent",
-      "url": "https://www.producthunt.com/products/referent",
-      "description": "The AI-native OS for modern law firms Discussion | Link",
+      "title": "oMLX",
+      "url": "https://www.producthunt.com/products/omlx",
+      "description": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-26T10:25:02Z"
+      "published_at": "2026-08-29T20:17:05Z"
+    },
+    {
+      "title": "Murfy AI",
+      "url": "https://www.producthunt.com/products/murfy",
+      "description": "Write, review, and publish to arXiv 10x faster Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-10T02:38:59Z"
+    },
+    {
+      "title": "Maritime",
+      "url": "https://www.producthunt.com/products/maritime",
+      "description": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-28T22:04:42Z"
     },
     {
       "title": "Olostep",
@@ -128,25 +146,11 @@
       "published_at": "2026-08-19T16:49:36Z"
     },
     {
-      "title": "Maritime",
-      "url": "https://www.producthunt.com/products/maritime",
-      "description": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
+      "title": "Referent",
+      "url": "https://www.producthunt.com/products/referent",
+      "description": "The AI-native OS for modern law firms Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-28T22:04:42Z"
-    },
-    {
-      "title": "oMLX",
-      "url": "https://www.producthunt.com/products/omlx",
-      "description": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-29T20:17:05Z"
-    },
-    {
-      "title": "Staats",
-      "url": "https://www.producthunt.com/products/staats-3",
-      "description": "Ask your coding agent how your site is doing Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-28T07:12:12Z"
+      "published_at": "2026-08-26T10:25:02Z"
     },
     {
       "title": "Hy4 preview",
@@ -163,25 +167,11 @@
       "published_at": "2026-08-28T15:59:34Z"
     },
     {
-      "title": "Play with Putty",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "description": "Simple, Collaborative Vibe Coding Discussion | Link",
+      "title": "Staats",
+      "url": "https://www.producthunt.com/products/staats-3",
+      "description": "Ask your coding agent how your site is doing Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-25T18:45:36Z"
-    },
-    {
-      "title": "Almanac",
-      "url": "https://www.producthunt.com/products/almanac-5",
-      "description": "The agent with a second brain Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-27T20:43:25Z"
-    },
-    {
-      "title": "Caddi",
-      "url": "https://www.producthunt.com/products/caddi-3",
-      "description": "Agent that builds agents by only showing your work only once Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-17T16:16:01Z"
+      "published_at": "2026-08-28T07:12:12Z"
     },
     {
       "title": "Gemini Omni 1.1 Flash",
@@ -191,35 +181,35 @@
       "published_at": "2026-08-27T20:52:18Z"
     },
     {
-      "title": "Revalvo",
-      "url": "https://www.producthunt.com/products/revalvo",
-      "description": "Run prompts on every model at once. Score. Version. Ship. Discussion | Link",
+      "title": "Almanac",
+      "url": "https://www.producthunt.com/products/almanac-5",
+      "description": "The agent with a second brain Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-28T06:38:16Z"
+      "published_at": "2026-08-27T20:43:25Z"
     },
     {
-      "title": "OpenTag",
-      "url": "https://www.producthunt.com/products/opentag",
-      "description": "AI coworker lives on Slack and Teams Discussion | Link",
+      "title": "Spline V2",
+      "url": "https://www.producthunt.com/products/spline",
+      "description": "Best 3D platform for the agentic era Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-27T21:52:16Z"
-    },
-    {
-      "title": "CTRL Micro",
-      "url": "https://www.producthunt.com/products/ctrl-micro",
-      "description": "Haptic control deck for your Mac and AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-24T21:54:57Z"
-    },
-    {
-      "title": "Aramb",
-      "url": "https://www.producthunt.com/products/aramb",
-      "description": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-04T10:19:31Z"
+      "published_at": "2026-08-27T08:06:07Z"
     }
   ],
   "openai": [
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source": "OpenAI",
+      "published_at": "2026-08-31T07:00:00Z"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source": "OpenAI",
+      "published_at": "2026-08-31T04:00:00Z"
+    },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -319,13 +309,6 @@
       "published_at": "2026-08-20T07:00:00Z"
     },
     {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "source": "OpenAI",
-      "published_at": "2026-08-20T07:00:00Z"
-    },
-    {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli",
       "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
@@ -352,16 +335,16 @@
       "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "source": "OpenAI",
       "published_at": "2026-08-18T22:00:00Z"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "source": "OpenAI",
-      "published_at": "2026-08-18T19:00:00Z"
     }
   ],
   "anthropic": [
+    {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "description": "Anthropic 官方 Newsroom 更新。",
+      "source": "Anthropic",
+      "published_at": "2026-08-31T00:00:00Z"
+    },
     {
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
@@ -424,13 +407,6 @@
       "description": "Anthropic 官方 Newsroom 更新。",
       "source": "Anthropic",
       "published_at": "2026-07-27T00:00:00Z"
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-07-24T00:00:00Z"
     }
   ],
   "google_deepmind": [
@@ -577,185 +553,185 @@
   ],
   "hacker_news": [
     {
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "title": "ArXiv has almost 600 submissions today and most are AI slop",
+      "url": "https://arxiv.org/list/math/new",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-31T03:45:57Z",
-      "score": 36,
-      "comments": 34
+      "published_at": "2026-09-01T04:24:01Z",
+      "score": 6,
+      "comments": 1
     },
     {
-      "title": "Ask HN: What do your job interviews look like? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49505033",
-      "description": "For those who have recently (Summer 2026) gone through software engineering job interviews, have you noticed any changes in the interview process? Is it still the usual Leetcode, system design, behavioral and leadership questions, and maybe technology specific questions (e.g., Spring for Java devs, borrow checker details for Rust devs, etc.)? Or have you noticed something completely different because of the AI agentic era, with companies taking a fundamentally different approach to interviewing engineers? If so, could you share some of the more unique or unusual things you've seen?",
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-31T02:43:53Z",
+      "published_at": "2026-09-01T01:25:40Z",
+      "score": 17,
+      "comments": 3
+    },
+    {
+      "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+      "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-01T00:43:31Z",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-01T00:07:08Z",
+      "score": 22,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+      "url": "https://github.com/nanlogic/saccade",
+      "description": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea, we install one of the extntion on chrome or edge to give continuously compile the tabs authorized by the user into semantically meaningful objects with stable identities, and push page changes as deltas to the local Node.js Broker. The Agent reads the full truth or delta of the specified tab via MCP and executes actions using object IDs bound to document. The preliminary result shows that it is very close to the performance of Playwright in terms of token use and speed. The only problem with this one is that at the very first time, it is going to send the full truth, and after that, for any page changes, it only sends the data. So, after the first read, the continuous operation of the page reaches the millisecond reaction loop. It can also upload filled forms, downloads, and all kinds of stuff. I want somebody to check and use it. If it is possible plz give me some feedback.",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T23:35:39Z",
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T22:41:19Z",
       "score": 9,
       "comments": 0
     },
     {
-      "title": "Why do I lose my passion and want to do nothing?",
-      "url": "https://news.ycombinator.com/item?id=49505014",
-      "description": "When AI makes results readily available, why do I lose my passion and want to do nothing?",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-31T02:40:37Z",
-      "score": 66,
+      "published_at": "2026-08-31T18:12:20Z",
+      "score": 123,
+      "comments": 169
+    },
+    {
+      "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T16:44:15Z",
+      "score": 36,
+      "comments": 22
+    },
+    {
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "description": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company. We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to. This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity. So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts. The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your agent ultimately has access to these two wikis and the original accounts, which invoke the feeling of “it just knows you.” Here’s a demo: https://www.youtube.com/watch?v=ajXP5PHuK18 We're three cofounders, Rohan, Kushagra, and Divit, and we've been friends for 11 years, since studying for the IIT-JEE. We all did Electrical Engineering (Rohan at IIT Delhi, me at IIT Kharagpur, Divit at BITS Pilani, Hyderabad), and Rohan and I later went to Harvard, where this pre-compilation layer became our capstone thesis. We have built multiple products around the idea of a pre-compiled knowledge layer. Our main differentiating point is the way we approach memory and context in general. Most AI assistant tools treat memory as an afterthought. We have worked on wikis for AI for more than a year now, building products for Harvard and NASA. The one thing we have learnt is that one needs to spend a lot more compute upfront, in the pre-compilation of this knowledge base, to get it right. Having this pre-compiled knowledge base enables a lot of interesting ideas. First is a proactive agent. Since I have compiled what’s going on in both my company and my current life, Almanac can start completing tasks on its own. Concretely, we run a background worker which takes a look at tasks that could be completed, pings the main agent, who then pings me, suggesting which tasks it could automate. As a result, I wake up to proactive notifications which look like “I already prepared a draft of your fundraising pitch deck, want to take a look?” Second, long-horizon tasks. In our wikis, we maintain a section on ongoing projects, so Almanac can pick a task back up days later without losing the thread. Most agents are session-bound: they run once, finish, and forget. But a lot of real work isn't one shot; it plays out over hours and days with people in the loop. The clearest example is anything that involves waiting on a human, like scheduling a meeting, following up on a sales thread, or chasing a document. Almanac can send an email on your behalf, and because it's always on and remembers the project, it notices the reply four hours later and drafts the right follow-up in context. Since launching, we've seen a lot of use cases for Almanac. One person runs her dog-rescue operation through it: finding available fosters, tracking pickups, and sending reminders for consent forms. Another researches Polymarket strategies with Almanac, where its memory holds what past strategies were, proposes new ones, and compares them against what went right or wrong last time. Another builds marketing campaigns on it without having to re-explain the business and the whole campaign every single time. Regarding privacy and security, Almanac only accesses accounts you explicitly connect. Your OAuth credentials are held by our connection provider, not in Almanac’s database. We only store the wiki and the source behind its citations. So an email used as a citation may be retained as Markdown. We’re live: https://usealmanac.com . We have a 7-day trial on all of our plans. Happy to hear if people have done similar setups, and what new features they’d like in Almanac. If you’re a company that wants to get an agent that actually gets tasks done, I would love to talk: https://cal.com/team/almanac/demo .",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T15:34:34Z",
+      "score": 51,
+      "comments": 45
+    },
+    {
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "description": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotics/hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together. Here’s a demo of HFlow in action: https://www.youtube.com/watch?v=xni0GwV-xAw Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data. Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models. An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns. HFlow currently accepts one MCAP file per episode. MCAP ( https://mcap.dev/ ) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run. Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another. HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset. We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest. Here are three examples of teams that would use HFlow: 1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode. 2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest. 3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions. The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart. HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves. Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T15:02:41Z",
+      "score": 44,
+      "comments": 12
+    },
+    {
+      "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T14:55:08Z",
+      "score": 9,
+      "comments": 5
+    },
+    {
+      "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+      "url": "https://news.ycombinator.com/item?id=49510066",
+      "description": "This is something I’ve been turning over in my head lately. I’m not denying AI is being used everywhere, but I don’t know if it’s actually helping businesses overall. If we shut it all down it seems that businesses would be fine (and maybe even better since there’d be no token burning budgets).",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T14:14:25Z",
+      "score": 30,
+      "comments": 57
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T14:07:15Z",
+      "score": 203,
       "comments": 53
     },
     {
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-31T02:39:48Z",
-      "score": 23,
-      "comments": 0
+      "published_at": "2026-08-31T13:07:48Z",
+      "score": 12,
+      "comments": 7
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-31T01:28:22Z",
-      "score": 105,
-      "comments": 38
+      "published_at": "2026-08-31T12:41:22Z",
+      "score": 355,
+      "comments": 395
     },
     {
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "title": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
+      "url": "https://github.com/glukicov/slideops",
+      "description": "I kept generating slide decks about my codebases with an agent, and weeks later they would go stale. Updating them was quite costly (time & tokens), as the agent would have to re-scan the whole repo to re-generate the slides. So I made the slide deck carry its own provenance: SlideOps skill turns a repo into a slide deck, with all references to files carrying exact line range and a hash. Checking is done with standard-library Python: no model calls, no network, and very fast. For example, it distinguishes MOVED (the code shifted) from CHANGED (the content differs). Updating the slides costs tokens, but now the checking part has already given the agent just the relevant context on what exactly needs to be repaired. SlideOps ships as a Claude Code plugin and runs as a plain agent skill in Codex, Copilot CLI and OpenCode. Longer write-up: https://medium.com/@lukicov/your-documentation-is-a-build-ar... GitHub repo: https://github.com/glukicov/slideops",
+      "source": "Hacker News",
+      "published_at": "2026-08-31T12:15:10Z",
+      "score": 21,
+      "comments": 5
+    },
+    {
+      "title": "AI-written code is still your code",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T23:41:32Z",
-      "score": 41,
-      "comments": 3
+      "published_at": "2026-08-31T12:08:25Z",
+      "score": 55,
+      "comments": 89
     },
     {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "title": "Agent memory as a file format",
+      "url": "https://calpaterson.com/memoryfields.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T20:46:53Z",
-      "score": 73,
-      "comments": 30
+      "published_at": "2026-08-31T11:17:25Z",
+      "score": 168,
+      "comments": 85
     },
     {
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T12:50:54Z",
-      "score": 189,
-      "comments": 210
+      "published_at": "2026-08-31T07:49:18Z",
+      "score": 357,
+      "comments": 113
     },
     {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "title": "Unlimited Codex, Inside ChatGPT",
+      "url": "https://github.com/devnoname120/codexify",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-08-30T10:20:11Z",
-      "score": 59,
-      "comments": 31
-    },
-    {
-      "title": "What We Tell AI",
-      "url": "https://www.whatwetellai.com/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-30T10:16:14Z",
-      "score": 39,
-      "comments": 14
-    },
-    {
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T23:43:24Z",
-      "score": 232,
-      "comments": 145
-    },
-    {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T17:19:47Z",
-      "score": 456,
-      "comments": 114
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-29T01:24:13Z",
-      "score": 241,
-      "comments": 63
-    },
-    {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T23:27:45Z",
-      "score": 300,
-      "comments": 83
-    },
-    {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T17:01:12Z",
-      "score": 120,
-      "comments": 40
-    },
-    {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "description": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T15:20:13Z",
-      "score": 797,
-      "comments": 279
-    },
-    {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T06:33:57Z",
-      "score": 521,
-      "comments": 151
-    },
-    {
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "description": "https://archive.ph/ni6I3 https://storage.courtlistener.com/recap/gov.uscourts.cand.46...",
-      "source": "Hacker News",
-      "published_at": "2026-08-28T02:03:38Z",
-      "score": 633,
-      "comments": 432
-    },
-    {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-08-27T15:56:58Z",
-      "score": 795,
-      "comments": 348
-    },
-    {
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "url": "https://typebase.io",
-      "description": "Hey HN! I built Typebase, a library that gives you Convex's DX with Supabase's openness. After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL for authorization. With Convex I loved how your server \"lives\" in your code, but disliked the DB model and the realtime-first defaults. With Typebase you just write TS files inside a typebase/ folder in your existing repo. You can define your DB tables inside a schema.ts file and export server functions that your frontend calls like local functions, fully typed. Auth is built in. Then one CLI command uploads your server to any of the available providers (Vercel, Cloudflare Workers or Deno Deploy for the servera and Neon for the DB), or generates the code so you can deploy it wherever you want. Built on top of oRPC, Drizzle, and better-auth. Happy to answer any questions or feedback!",
-      "source": "Hacker News",
-      "published_at": "2026-08-26T11:33:31Z",
-      "score": 116,
-      "comments": 30
+      "published_at": "2026-08-31T07:33:05Z",
+      "score": 17,
+      "comments": 6
     }
   ],
-  "updated_at": "2026-08-31T05:31:00.239073Z"
+  "updated_at": "2026-09-01T05:05:07.356720Z"
 }
