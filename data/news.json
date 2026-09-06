@@ -1,44 +1,24 @@
 {
   "github_trending": [
     {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.842987Z",
-      "language": "JavaScript",
-      "today_stars": 1679
-    },
-    {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.843782Z",
+      "fetched_at": "2026-09-06T04:35:51.698818Z",
       "language": "JavaScript",
-      "today_stars": 1135
+      "today_stars": 1314
     },
     {
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.844144Z",
-      "language": "Python",
-      "today_stars": 511
-    },
-    {
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.844482Z",
-      "language": "Python",
-      "today_stars": 1130
+      "fetched_at": "2026-09-06T04:35:51.699300Z",
+      "language": "JavaScript",
+      "today_stars": 2845
     },
     {
       "title": "NousResearch/hermes-agent",
@@ -46,59 +26,19 @@
       "description": "The agent that grows with you",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.844811Z",
+      "fetched_at": "2026-09-06T04:35:51.699643Z",
       "language": "Python",
-      "today_stars": 720
+      "today_stars": 575
     },
     {
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.845284Z",
-      "language": "Go",
-      "today_stars": 501
-    },
-    {
-      "title": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.845635Z",
-      "language": "TypeScript",
-      "today_stars": 391
-    },
-    {
-      "title": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.846973Z",
+      "fetched_at": "2026-09-06T04:35:51.700293Z",
       "language": "Python",
-      "today_stars": 342
-    },
-    {
-      "title": "radixark/miles",
-      "url": "https://github.com/radixark/miles",
-      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.847340Z",
-      "language": "Python",
-      "today_stars": 64
-    },
-    {
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.847758Z",
-      "language": "TypeScript",
-      "today_stars": 345
+      "today_stars": 475
     },
     {
       "title": "cathrynlavery/diagram-design",
@@ -106,39 +46,89 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-05T04:24:23.848403Z",
+      "fetched_at": "2026-09-06T04:35:51.700627Z",
       "language": "HTML",
-      "today_stars": 437
+      "today_stars": 855
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-06T04:35:51.701067Z",
+      "language": "TypeScript",
+      "today_stars": 725
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-06T04:35:51.701421Z",
+      "language": "TypeScript",
+      "today_stars": 136
+    },
+    {
+      "title": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-06T04:35:51.702108Z",
+      "language": "Python",
+      "today_stars": 990
+    },
+    {
+      "title": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-06T04:35:51.702760Z",
+      "language": "JavaScript",
+      "today_stars": 95
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-06T04:35:51.703127Z",
+      "language": "TypeScript",
+      "today_stars": 674
     }
   ],
   "product_hunt": [
     {
-      "title": "Clockwork",
-      "url": "https://www.producthunt.com/products/clockwork-5",
-      "description": "The calendar where your AI agents show up for work Discussion | Link",
+      "title": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
+      "description": "Lets your AI agents debug production without redeploying Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-03T15:55:16Z"
+      "published_at": "2026-08-31T03:39:25Z"
     },
     {
-      "title": "Inline",
-      "url": "https://www.producthunt.com/products/inline-5",
-      "description": "Multiplayer work with AI, teammates, and friends Discussion | Link",
+      "title": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2",
+      "description": "Behavioral learning that makes AI agents better over time Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-03T10:39:09Z"
+      "published_at": "2026-09-01T08:22:47Z"
     },
     {
-      "title": "myAIcademy",
-      "url": "https://www.producthunt.com/products/myaicademy",
-      "description": "Learn AI skills for your specific role and team Discussion | Link",
+      "title": "dif.sh",
+      "url": "https://www.producthunt.com/products/dif-sh",
+      "description": "Markdown feature flags your coding agent installs for you Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-28T16:01:08Z"
+      "published_at": "2026-08-07T14:50:06Z"
     },
     {
-      "title": "WeatherNext 3",
-      "url": "https://www.producthunt.com/products/weathernext-3",
-      "description": "Our most advanced and accurate global weather AI model Discussion | Link",
+      "title": "Experiential Labs",
+      "url": "https://www.producthunt.com/products/experiential-labs",
+      "description": "Open source AI gateway turning traffic into a better model Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-03T15:17:27Z"
+      "published_at": "2026-09-04T03:10:57Z"
     },
     {
       "title": "Google Gemini 3.8 Flash and Cyber",
@@ -155,25 +145,39 @@
       "published_at": "2026-09-03T20:14:40Z"
     },
     {
-      "title": "Grove",
-      "url": "https://www.producthunt.com/products/grove-8",
-      "description": "One terminal for you and your AI agent Discussion | Link",
+      "title": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy",
+      "description": "Learn AI skills for your specific role and team Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-02T14:13:31Z"
+      "published_at": "2026-08-28T16:01:08Z"
     },
     {
-      "title": "Tidy",
-      "url": "https://www.producthunt.com/products/tidy-6",
-      "description": "Fix grammar in any Mac app with free on-device AI Discussion | Link",
+      "title": "WeatherNext 3",
+      "url": "https://www.producthunt.com/products/weathernext-3",
+      "description": "Our most advanced and accurate global weather AI model Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-01T19:04:06Z"
+      "published_at": "2026-09-03T15:17:27Z"
     },
     {
-      "title": "Blume.codes",
-      "url": "https://www.producthunt.com/products/blume-codes",
-      "description": "Turns coding agent sessions into better rules and skills Discussion | Link",
+      "title": "Inline",
+      "url": "https://www.producthunt.com/products/inline-5",
+      "description": "Multiplayer work with AI, teammates, and friends Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-31T17:22:47Z"
+      "published_at": "2026-09-03T10:39:09Z"
+    },
+    {
+      "title": "Clockwork",
+      "url": "https://www.producthunt.com/products/clockwork-5",
+      "description": "The calendar where your AI agents show up for work Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-03T15:55:16Z"
+    },
+    {
+      "title": "Tabbit AI",
+      "url": "https://www.producthunt.com/products/tabbitai",
+      "description": "The best AI browser built both for you and your Agents. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-21T11:43:12Z"
     },
     {
       "title": "Agent Builder by Airtop",
@@ -190,11 +194,11 @@
       "published_at": "2026-09-02T12:06:50Z"
     },
     {
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
-      "description": "Claude Cowork for high-volume GTM workflows Discussion | Link",
+      "title": "Tidy",
+      "url": "https://www.producthunt.com/products/tidy-6",
+      "description": "Fix grammar in any Mac app with free on-device AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-03T03:04:36Z"
+      "published_at": "2026-09-01T19:04:06Z"
     },
     {
       "title": "MagiCrew",
@@ -204,18 +208,18 @@
       "published_at": "2026-08-18T14:55:47Z"
     },
     {
-      "title": "Tabbit AI",
-      "url": "https://www.producthunt.com/products/tabbitai",
-      "description": "The best AI browser built both for you and your Agents. Discussion | Link",
+      "title": "Blume.codes",
+      "url": "https://www.producthunt.com/products/blume-codes",
+      "description": "Turns coding agent sessions into better rules and skills Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-21T11:43:12Z"
+      "published_at": "2026-08-31T17:22:47Z"
     },
     {
-      "title": "ARBR",
-      "url": "https://www.producthunt.com/products/arbr",
-      "description": "Control Every AI Request Discussion | Link",
+      "title": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4",
+      "description": "Claude Cowork for high-volume GTM workflows Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-25T11:23:26Z"
+      "published_at": "2026-09-03T03:04:36Z"
     },
     {
       "title": "Causal",
@@ -225,32 +229,18 @@
       "published_at": "2026-09-02T11:32:44Z"
     },
     {
-      "title": "Basedash AI Sources",
-      "url": "https://www.producthunt.com/products/basedash",
-      "description": "Trust every AI answer by seeing what built it Discussion | Link",
+      "title": "ARBR",
+      "url": "https://www.producthunt.com/products/arbr",
+      "description": "Control Every AI Request Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-02T04:29:20Z"
+      "published_at": "2026-08-25T11:23:26Z"
     },
     {
-      "title": "Doop",
-      "url": "https://www.producthunt.com/products/doop",
-      "description": "Design with AI agents - live on the same canvas Discussion | Link",
+      "title": "Grove",
+      "url": "https://www.producthunt.com/products/grove-8",
+      "description": "One terminal for you and your AI agent Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-02T06:26:19Z"
-    },
-    {
-      "title": "Onset MCP",
-      "url": "https://www.producthunt.com/products/onset-io",
-      "description": "Write and publish release notes from your AI assistant Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-07-28T21:30:24Z"
-    },
-    {
-      "title": "Userlens",
-      "url": "https://www.producthunt.com/products/userlens",
-      "description": "AI agent to improve product adoption Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-04-25T15:16:39Z"
+      "published_at": "2026-09-02T14:13:31Z"
     }
   ],
   "openai": [
@@ -611,31 +601,76 @@
   ],
   "hacker_news": [
     {
-      "title": "Ask HN: Initial Thoughts on GPT-6 Astra?",
-      "url": "https://news.ycombinator.com/item?id=49571621",
-      "description": "Personally, I've found it to be a bit too-aligned out of the gate, with some overly-legalistic interpretations and cautiousness that is unwarranted and makes it sounds like it actively wants to rat you out for... anything. Anyone find something similar, completely different, or somewhere in between?",
-      "source": "Hacker News",
-      "published_at": "2026-09-05T00:02:26Z",
-      "score": 6,
-      "comments": 3
-    },
-    {
-      "title": "GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users",
-      "url": "https://twitter.com/sama/status/2096008528834244741",
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-04T23:57:51Z",
-      "score": 8,
-      "comments": 0
+      "published_at": "2026-09-06T02:12:46Z",
+      "score": 7,
+      "comments": 1
     },
     {
-      "title": "GPT-6 Astra on Vercel AI Gateway",
-      "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-04T23:51:38Z",
-      "score": 3,
-      "comments": 0
+      "published_at": "2026-09-06T01:52:45Z",
+      "score": 92,
+      "comments": 47
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T22:15:52Z",
+      "score": 50,
+      "comments": 16
+    },
+    {
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T21:43:22Z",
+      "score": 56,
+      "comments": 66
+    },
+    {
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T13:09:53Z",
+      "score": 28,
+      "comments": 9
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T07:52:50Z",
+      "score": 368,
+      "comments": 328
+    },
+    {
+      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+      "url": "https://www.effort.news/revelation",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T06:31:31Z",
+      "score": 28,
+      "comments": 13
+    },
+    {
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-05T03:38:56Z",
+      "score": 71,
+      "comments": 68
     },
     {
       "title": "Show HN: Moadim.io – A scheduler for agents",
@@ -643,8 +678,8 @@
       "description": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder. With more than 1,000 users, I define this project as almost \"done\" and ready for production. Me and thousand more people are use it in a daily manner. It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable. You are welcome to have a look at the source code of the daemon in \" http://github.com/moadim-io/daemon \" Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a \"done\" software in the realm of agents schedulers that focus on cron-like work. Also feel free to start the github repository and open issues and PRs for your suggestions.",
       "source": "Hacker News",
       "published_at": "2026-09-04T23:50:29Z",
-      "score": 20,
-      "comments": 11
+      "score": 32,
+      "comments": 17
     },
     {
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -652,8 +687,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T23:38:50Z",
-      "score": 58,
-      "comments": 26
+      "score": 249,
+      "comments": 158
     },
     {
       "title": "Claude Code skills for advanced context engineering techniques and patterns",
@@ -661,8 +696,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T22:52:14Z",
-      "score": 13,
-      "comments": 1
+      "score": 38,
+      "comments": 4
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
@@ -670,26 +705,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T21:39:19Z",
-      "score": 155,
-      "comments": 80
-    },
-    {
-      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
-      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-04T21:00:02Z",
-      "score": 35,
-      "comments": 2
-    },
-    {
-      "title": "GPT-6 Astra Generally Available",
-      "url": "https://twitter.com/OpenAI/status/2095968413646737608",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-04T20:16:50Z",
-      "score": 22,
-      "comments": 6
+      "score": 304,
+      "comments": 222
     },
     {
       "title": "Can AI design circuit boards yet?",
@@ -697,17 +714,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T19:48:29Z",
-      "score": 193,
-      "comments": 127
-    },
-    {
-      "title": "More Targets of the OpenAI Agent Swarm",
-      "url": "https://fi-le.net/vanderbilt/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-04T19:31:04Z",
-      "score": 13,
-      "comments": 1
+      "score": 393,
+      "comments": 209
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
@@ -715,8 +723,8 @@
       "description": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...",
       "source": "Hacker News",
       "published_at": "2026-09-04T18:42:56Z",
-      "score": 540,
-      "comments": 336
+      "score": 749,
+      "comments": 481
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
@@ -724,8 +732,8 @@
       "description": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant",
       "source": "Hacker News",
       "published_at": "2026-09-04T17:18:08Z",
-      "score": 252,
-      "comments": 89
+      "score": 390,
+      "comments": 118
     },
     {
       "title": "“Next-token predictor” is the wrong mental model for LLMs",
@@ -733,8 +741,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T17:09:24Z",
-      "score": 94,
-      "comments": 216
+      "score": 148,
+      "comments": 297
     },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -742,8 +750,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T16:24:50Z",
-      "score": 63,
-      "comments": 29
+      "score": 76,
+      "comments": 32
     },
     {
       "title": "Corporate America is getting hooked on open-source AI",
@@ -751,8 +759,8 @@
       "description": "https://archive.is/kmOqm",
       "source": "Hacker News",
       "published_at": "2026-09-04T15:33:45Z",
-      "score": 278,
-      "comments": 257
+      "score": 320,
+      "comments": 298
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
@@ -760,8 +768,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-04T11:59:15Z",
-      "score": 371,
-      "comments": 72
+      "score": 393,
+      "comments": 74
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
@@ -769,27 +777,9 @@
       "description": "https://www.reuters.com/world/europe/openai-agents-hijacked-...",
       "source": "Hacker News",
       "published_at": "2026-09-04T11:54:53Z",
-      "score": 1555,
-      "comments": 1234
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "description": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber. I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron. I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot \"activate the virtual environment\" or similar trivial operations spending a non negligible sum every month. I started thinking, maybe I can do something to make my workflow more efficient? Do I really need trillions of parameters to accomplish those tasks? How it Works When you type a prompt, it goes through a lightweight NLU pipeline written in ~1000 lines of Python that implement the following steps: 1. Strip expletives, interjections, encouraging, discouraging and thanking words (remove noise) 2. Sentiment analysis 3. Exact Match (very fast) 4. Template Match (slower) 5. Probabilistic Match (even slower) Step 5 relies on: 1. IDF (Inverse Document Frequency) to identify rare words. 2. BOW (Bag Of Words) to accommodate word inversions. 3. IDF weighted Levenshtein to safely handle typos. Permission gating is hardcoded into the dataset and enforced for all potentially destructive commands, so it's inherently safer than letting an unpredictable LLM run wild on your machine. - TERMy in operation: https://www.youtube.com/watch?v=qeIp0xePLBg - Variance and typo tolerance: https://www.youtube.com/watch?v=tQvGDk6fkk0 - Copilot integration: https://www.youtube.com/watch?v=Wzzouhq2a8A - Advanced features: https://www.youtube.com/watch?v=qeIp0xePLBg - Source Code: https://github.com/gioblu/NPC-Forge",
-      "source": "Hacker News",
-      "published_at": "2026-09-04T09:03:00Z",
-      "score": 103,
-      "comments": 29
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-03T21:20:34Z",
-      "score": 290,
-      "comments": 146
+      "score": 2147,
+      "comments": 1528
     }
   ],
-  "updated_at": "2026-09-05T04:24:26.540067Z"
+  "updated_at": "2026-09-06T04:35:54.269625Z"
 }
