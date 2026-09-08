@@ -1,94 +1,34 @@
 {
   "github_trending": [
     {
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-08T04:32:25.923378Z",
+      "language": "TypeScript",
+      "today_stars": 96
+    },
+    {
+      "title": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-08T04:32:25.923732Z",
+      "language": "JavaScript",
+      "today_stars": 135
+    },
+    {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.147816Z",
+      "fetched_at": "2026-09-08T04:32:25.924428Z",
       "language": "JavaScript",
-      "today_stars": 1485
-    },
-    {
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.148634Z",
-      "language": "HTML",
-      "today_stars": 620
-    },
-    {
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.148971Z",
-      "language": "Python",
-      "today_stars": 520
-    },
-    {
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.149318Z",
-      "language": "Python",
-      "today_stars": 46
-    },
-    {
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.149734Z",
-      "language": "TypeScript",
-      "today_stars": 551
-    },
-    {
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.150055Z",
-      "language": "Python",
-      "today_stars": 748
-    },
-    {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.150891Z",
-      "language": "JavaScript",
-      "today_stars": 1539
-    },
-    {
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.151264Z",
-      "language": "TypeScript",
-      "today_stars": 276
-    },
-    {
-      "title": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.151614Z",
-      "language": "TypeScript",
-      "today_stars": 604
+      "today_stars": 1897
     },
     {
       "title": "coreyhaines31/marketingskills",
@@ -96,29 +36,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.152365Z",
+      "fetched_at": "2026-09-08T04:32:25.924815Z",
       "language": "JavaScript",
-      "today_stars": 329
-    },
-    {
-      "title": "aipoch/open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.152713Z",
-      "language": "TypeScript",
-      "today_stars": 146
-    },
-    {
-      "title": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.153050Z",
-      "language": "JavaScript",
-      "today_stars": 121
+      "today_stars": 580
     },
     {
       "title": "The-Swarm-Corporation/AutoHedge",
@@ -126,18 +46,83 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-07T04:37:00.153746Z",
+      "fetched_at": "2026-09-08T04:32:25.925141Z",
       "language": "Python",
-      "today_stars": 142
+      "today_stars": 517
+    },
+    {
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-08T04:32:25.926022Z",
+      "language": "Python",
+      "today_stars": 351
+    },
+    {
+      "title": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-08T04:32:25.926334Z",
+      "language": "Zig",
+      "today_stars": 58
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-08T04:32:25.926913Z",
+      "language": "TypeScript",
+      "today_stars": 394
     }
   ],
   "product_hunt": [
     {
-      "title": "Agentic Video Understanding in Gemini",
-      "url": "https://www.producthunt.com/products/google",
-      "description": "Agentic video analysis for faster, smarter Gemini insights Discussion | Link",
+      "title": "PR Lens by Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
+      "description": "See code through a new lens Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-02T19:44:06Z"
+      "published_at": "2026-08-28T12:00:55Z"
+    },
+    {
+      "title": "Tucky",
+      "url": "https://www.producthunt.com/products/tucky",
+      "description": "Notes docked to your screen edge, with an AI agent inside Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-06T21:09:48Z"
+    },
+    {
+      "title": "Clipnote",
+      "url": "https://www.producthunt.com/products/clipnote-2",
+      "description": "Save your AI conversations so they persist after closing tab Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-07T01:55:40Z"
+    },
+    {
+      "title": "Nina by Antalpha",
+      "url": "https://www.producthunt.com/products/antalpha",
+      "description": "Non-custodial AI Agent: research, predict & trade crypto Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-28T09:37:21Z"
+    },
+    {
+      "title": "Routines by Databox",
+      "url": "https://www.producthunt.com/products/databox",
+      "description": "An AI Analyst that runs analysis and reports on a schedule Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-27T09:02:16Z"
+    },
+    {
+      "title": "Remind",
+      "url": "https://www.producthunt.com/products/remind-7",
+      "description": "Full-screen meeting reminders with AI briefings Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-06T16:10:46Z"
     },
     {
       "title": "AI Toolbox 3.0",
@@ -147,18 +132,25 @@
       "published_at": "2026-07-25T13:16:23Z"
     },
     {
+      "title": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata",
+      "description": "The AI employee in Slack that reads the room Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2025-12-16T20:05:20Z"
+    },
+    {
+      "title": "Agentic Video Understanding in Gemini",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "Agentic video analysis for faster, smarter Gemini insights Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-02T19:44:06Z"
+    },
+    {
       "title": "Kit by Speakeasy",
       "url": "https://www.producthunt.com/products/speakeasydev",
       "description": "Your coding agent runtime. Claude but fast, cheap, concise. Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-09-02T14:23:38Z"
-    },
-    {
-      "title": "Tadata",
-      "url": "https://www.producthunt.com/products/tadata",
-      "description": "The AI employee in Slack that reads the room. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2025-12-16T20:05:20Z"
     },
     {
       "title": "DocsAlot Visual Editor",
@@ -175,6 +167,13 @@
       "published_at": "2026-08-07T14:50:06Z"
     },
     {
+      "title": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2",
+      "description": "Behavioral learning that makes AI agents better over time Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-01T08:22:47Z"
+    },
+    {
       "title": "Hyperprobe",
       "url": "https://www.producthunt.com/products/hyperprobe",
       "description": "Lets your AI agents debug production without redeploying Discussion | Link",
@@ -189,39 +188,11 @@
       "published_at": "2026-09-04T03:10:57Z"
     },
     {
-      "title": "Reflexio",
-      "url": "https://www.producthunt.com/products/reflexio-2",
-      "description": "Behavioral learning that makes AI agents better over time Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-01T08:22:47Z"
-    },
-    {
-      "title": "Google Gemini 3.8 Flash and Cyber",
-      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
-      "description": "Next-gen Gemini for agents, reasoning, and cyber security Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-02T15:45:58Z"
-    },
-    {
       "title": "WeatherNext 3",
       "url": "https://www.producthunt.com/products/weathernext-3",
       "description": "Our most advanced and accurate global weather AI model Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-09-03T15:17:27Z"
-    },
-    {
-      "title": "Inline",
-      "url": "https://www.producthunt.com/products/inline-5",
-      "description": "Multiplayer work with AI, teammates, and friends Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-03T10:39:09Z"
-    },
-    {
-      "title": "myAIcademy",
-      "url": "https://www.producthunt.com/products/myaicademy",
-      "description": "Learn AI skills for your specific role and team Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-28T16:01:08Z"
     },
     {
       "title": "GPT-6 Astra",
@@ -231,49 +202,35 @@
       "published_at": "2026-09-03T20:14:40Z"
     },
     {
+      "title": "Google Gemini 3.8 Flash and Cyber",
+      "url": "https://www.producthunt.com/products/gemini-3-8-flash",
+      "description": "Next-gen Gemini for agents, reasoning, and cyber security Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-02T15:45:58Z"
+    },
+    {
+      "title": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy",
+      "description": "Learn AI skills for your specific role and team Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-28T16:01:08Z"
+    },
+    {
       "title": "Clockwork",
       "url": "https://www.producthunt.com/products/clockwork-5",
       "description": "The calendar where your AI agents show up for work Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-09-03T15:55:16Z"
-    },
-    {
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
-      "description": "Claude Cowork for high-volume GTM workflows Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-03T03:04:36Z"
-    },
-    {
-      "title": "ARBR",
-      "url": "https://www.producthunt.com/products/arbr",
-      "description": "Control Every AI Request Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-25T11:23:26Z"
-    },
-    {
-      "title": "Blume.codes",
-      "url": "https://www.producthunt.com/products/blume-codes",
-      "description": "Turns coding agent sessions into better rules and skills Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-31T17:22:47Z"
-    },
-    {
-      "title": "Agent Builder by Airtop",
-      "url": "https://www.producthunt.com/products/airtop",
-      "description": "Build agents that heal themselves. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-25T14:48:06Z"
-    },
-    {
-      "title": "Fillo",
-      "url": "https://www.producthunt.com/products/fillo-native-forms-without-the-backend",
-      "description": "Build forms into your product with your coding agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-02T12:06:50Z"
     }
   ],
   "openai": [
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "source": "OpenAI",
+      "published_at": "2026-09-07T00:00:00Z"
+    },
     {
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind",
@@ -406,13 +363,6 @@
       "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "source": "OpenAI",
       "published_at": "2026-08-27T03:00:00Z"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "source": "OpenAI",
-      "published_at": "2026-08-26T10:00:00Z"
     }
   ],
   "anthropic": [
@@ -631,58 +581,85 @@
   ],
   "hacker_news": [
     {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "title": "Denzel Explains AI \"Slop\"",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-07T00:46:01Z",
-      "score": 11,
+      "published_at": "2026-09-08T03:14:53Z",
+      "score": 7,
       "comments": 0
     },
     {
-      "title": "AI Is Already Making Us Less Human",
-      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-07T00:38:24Z",
+      "published_at": "2026-09-08T02:12:13Z",
       "score": 6,
-      "comments": 3
+      "comments": 2
     },
     {
-      "title": "GPT-6 Astra beats portal [video]",
-      "url": "https://www.youtube.com/watch?v=g5u2y0BwRJ0",
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "url": "https://github.com/yayster/yayster.el",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-07T00:35:33Z",
-      "score": 3,
-      "comments": 0
+      "published_at": "2026-09-07T19:50:21Z",
+      "score": 35,
+      "comments": 6
     },
     {
-      "title": "Pivot to AI safety, I beg you",
-      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+      "title": "AI Cold Showers",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-06T23:37:04Z",
-      "score": 11,
+      "published_at": "2026-09-07T19:05:39Z",
+      "score": 73,
+      "comments": 12
+    },
+    {
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "description": "In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.",
+      "source": "Hacker News",
+      "published_at": "2026-09-07T16:40:32Z",
+      "score": 123,
+      "comments": 134
+    },
+    {
+      "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
+      "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-07T14:31:27Z",
+      "score": 17,
       "comments": 9
     },
     {
-      "title": "GOP issues stark warning to AI companies",
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "description": "https://archive.md/5hi5i",
       "source": "Hacker News",
-      "published_at": "2026-09-06T22:59:40Z",
-      "score": 22,
-      "comments": 15
+      "published_at": "2026-09-07T10:38:32Z",
+      "score": 72,
+      "comments": 114
     },
     {
-      "title": "Ask HN: Show your micro-SaaS",
-      "url": "https://news.ycombinator.com/item?id=49590656",
-      "description": "HN is a fantastic founder community. We, the people, love transparency, numbers, and analyzing bootstrapped business models. What is your current project? Share your wins, losses, and tech stack. Share monthly recurring revenue (MRR) if you feel like.",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-06T20:37:23Z",
-      "score": 8,
-      "comments": 2
+      "published_at": "2026-09-07T04:49:36Z",
+      "score": 85,
+      "comments": 50
+    },
+    {
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-07T04:18:28Z",
+      "score": 56,
+      "comments": 13
     },
     {
       "title": "Ask HN: How do you manage skills files?",
@@ -690,26 +667,17 @@
       "description": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? I believe skills will eventually be eating by model capabilities, but until then I'm just looking for a better way to manage things.",
       "source": "Hacker News",
       "published_at": "2026-09-06T19:27:10Z",
-      "score": 30,
-      "comments": 23
+      "score": 296,
+      "comments": 266
     },
     {
-      "title": "YouTube had a bug – I used ChatGPT to investigate",
-      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "description": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p...",
       "source": "Hacker News",
-      "published_at": "2026-09-06T17:01:39Z",
-      "score": 9,
-      "comments": 7
-    },
-    {
-      "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-      "url": "https://news.ycombinator.com/item?id=49588265",
-      "description": "This has been bothering me for a while. I feel like I have a decent conceptual grasp of what LLMs are doing with written text. But it seems like they also unlocked a bunch of progress in understanding and generating images, audio, and video. I can’t twist my brain into understanding the connection. Is the boom in generated non-text content also built on LLMs, or is it just correlated with it because a bunch of excitement drove investment into the industry? I’m hoping for an ELI-non-ai-but-cs-major, this has been bothering me for a while.",
-      "source": "Hacker News",
-      "published_at": "2026-09-06T16:42:35Z",
-      "score": 3,
-      "comments": 2
+      "published_at": "2026-09-06T18:10:53Z",
+      "score": 93,
+      "comments": 14
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -717,17 +685,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-06T15:08:44Z",
-      "score": 133,
-      "comments": 87
-    },
-    {
-      "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
-      "url": "https://news.ycombinator.com/item?id=49586386",
-      "description": "I would love to know what's your setup like, how you make it enjoyable and what kind of work you offload to AI vs what you're still doing yourself. Not talking to the hobbyists or Managers who can now prototype stuff and produce fancy presentations quicker, but to the actual employed Software Engineer developing software running in production used by actual customers.",
-      "source": "Hacker News",
-      "published_at": "2026-09-06T13:32:22Z",
-      "score": 5,
-      "comments": 5
+      "score": 209,
+      "comments": 180
     },
     {
       "title": "The pencil case model of creativity",
@@ -735,8 +694,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-06T12:05:34Z",
-      "score": 61,
-      "comments": 20
+      "score": 68,
+      "comments": 22
     },
     {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
@@ -744,8 +703,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-06T11:56:43Z",
-      "score": 596,
-      "comments": 392
+      "score": 714,
+      "comments": 433
     },
     {
       "title": "AI, Tools and Transformation",
@@ -753,26 +712,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-06T02:12:46Z",
-      "score": 150,
-      "comments": 65
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-06T01:52:45Z",
-      "score": 231,
-      "comments": 184
-    },
-    {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-05T22:15:52Z",
-      "score": 76,
-      "comments": 23
+      "score": 155,
+      "comments": 76
     },
     {
       "title": "Ask HN: Fable hacked my piano, can I release the results?",
@@ -780,8 +721,8 @@
       "description": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM discussion of Rubato and fermata, solenoid response times and proper sustain pedal technique, they settled on their ultimate version of Gymnopedie No 1. I then asked Fable to compare it to the open source version I'd downloaded from Mutopia, which it promptly ripped apart. No sustain, zero rubato, upside down balance. Ok, what about the version I'd just bought? The PianoDisc versions are mp3s encoded with the right channel carrying MIDI to be played on the piano, and the left channel containing any accompanying music to be played through attached speakers (who doesn't want the harmonica on Piano Man?) I gave the mp3 to Fable, which promptly decoded the format, identifying the right channel carrying MIDI using a 2004.5 Hz square wave. It then went on to analyze the nuance of pedal lift and melody relative to the chords. Fable then asked if I wanted it to build an encoder to write my own MIDI files into the right channel of mp3s. Sounds great, and I instructed it to write the encoder. What it came back with was a python encoder PLUS a decoder. In the verbose explanation, it mentioned decoy notes. Curious, I asked it to explain the decoy notes. Apparently PianoDisc adds obfuscation into their format which is handled properly by their decoder, but would leave naively extracted MIDI unplayable on other systems. Fable created an encoder which adds those decoy notes, and a decoder which removes them. Am I allowed to publish the decoder? The encoder?",
       "source": "Hacker News",
       "published_at": "2026-09-05T14:54:44Z",
-      "score": 35,
-      "comments": 20
+      "score": 286,
+      "comments": 155
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
@@ -789,27 +730,36 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-09-05T07:52:50Z",
-      "score": 408,
-      "comments": 340
+      "score": 412,
+      "comments": 342
     },
     {
-      "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-      "url": "https://www.effort.news/revelation",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-05T06:31:31Z",
-      "score": 62,
+      "published_at": "2026-09-04T21:39:19Z",
+      "score": 319,
+      "comments": 233
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "description": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...",
+      "source": "Hacker News",
+      "published_at": "2026-09-04T18:42:56Z",
+      "score": 766,
+      "comments": 509
+    },
+    {
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "description": "Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle ( https://dailybaffle.com ) in mind. But once I had built it, I realized it just didn't quite fit with the aesthetic of the Baffle's other puzzles, so I decided to put it up separately. While most of the puzzles on the Daily Baffle were intended to be rather challenging, for this one I really just wanted to make something somewhat beautiful and relaxing. It wasn't so much about coming up with a highly original idea or a difficult challenge as much as just combining a few familiar ideas in a pleasant way. It was coded entirely by Claude, with me carefully prodding it on to achieve the look I wanted. I had hand-coded everything on the Daily Baffle, but those days are past now. I was pretty thrilled with the \"window through the fog\" effect that CC was able to achieve from my written design spec. I wasn't sure if that would come out right, but it did. It's just a static react app hosted on Render, no backend. The haikus are handwritten with the help of a massive list of generated nature concepts alongside possible metaphor angles. The art is generated by Gemini and ChatGPT. I wish it was hand-painted, but that would be prohibitively expensive and time-consuming and then this puzzle would likely not exist. Happy to answer any questions, and encourage anyone to check out the Baffle if they like harder puzzles!",
+      "source": "Hacker News",
+      "published_at": "2026-09-04T18:14:44Z",
+      "score": 72,
       "comments": 27
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-04T23:38:50Z",
-      "score": 267,
-      "comments": 173
     }
   ],
-  "updated_at": "2026-09-07T04:37:02.676200Z"
+  "updated_at": "2026-09-08T04:32:28.366092Z"
 }
