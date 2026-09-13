@@ -1,64 +1,24 @@
 {
   "github_trending": [
     {
-      "title": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.719207Z",
-      "language": "Python",
-      "today_stars": 3463
-    },
-    {
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.719984Z",
+      "fetched_at": "2026-09-13T04:44:15.689934Z",
       "language": "TypeScript",
-      "today_stars": 152
+      "today_stars": 504
     },
     {
-      "title": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.720248Z",
-      "language": "TypeScript",
-      "today_stars": 552
-    },
-    {
-      "title": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.720687Z",
-      "language": "TypeScript",
-      "today_stars": 626
-    },
-    {
-      "title": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.720924Z",
-      "language": "TypeScript",
-      "today_stars": 647
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.721215Z",
-      "language": "Shell",
-      "today_stars": 729
+      "fetched_at": "2026-09-13T04:44:15.690404Z",
+      "language": "JavaScript",
+      "today_stars": 217
     },
     {
       "title": "jihe520/MathModelAgent",
@@ -66,55 +26,99 @@
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.721667Z",
+      "fetched_at": "2026-09-13T04:44:15.691326Z",
       "language": "Python",
-      "today_stars": 129
+      "today_stars": 262
     },
     {
-      "title": "jordan-gibbs/hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "title": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.722101Z",
-      "language": "Python",
-      "today_stars": 153
-    },
-    {
-      "title": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.722335Z",
-      "language": "Rust",
-      "today_stars": 120
-    },
-    {
-      "title": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-12T04:31:30.722832Z",
+      "fetched_at": "2026-09-13T04:44:15.691925Z",
       "language": "TypeScript",
-      "today_stars": 106
+      "today_stars": 376
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-13T04:44:15.692503Z",
+      "language": "Python",
+      "today_stars": 230
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-13T04:44:15.693347Z",
+      "language": "Python",
+      "today_stars": 113
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-13T04:44:15.693680Z",
+      "language": "Python",
+      "today_stars": 210
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-13T04:44:15.693989Z",
+      "language": "Rust",
+      "today_stars": 54
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-13T04:44:15.694288Z",
+      "language": "Go",
+      "today_stars": 189
     }
   ],
   "product_hunt": [
     {
-      "title": "Cline Desktop App",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "description": "An open-source app for open-weight models Discussion | Link",
+      "title": "Work Life Panda",
+      "url": "https://www.producthunt.com/products/work-life-panda",
+      "description": "Every task, every calendar, one app. Private on-device AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-08T14:26:09Z"
+      "published_at": "2026-09-04T17:55:05Z"
     },
     {
-      "title": "TIM PG",
-      "url": "https://www.producthunt.com/products/tim-pg",
-      "description": "Anonymize sensitive data before pasting into AI tools Discussion | Link",
+      "title": "ABrush",
+      "url": "https://www.producthunt.com/products/abrush-ai-2",
+      "description": "AI Studio for Digital Artists Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-08T07:15:23Z"
+      "published_at": "2026-09-10T20:18:42Z"
+    },
+    {
+      "title": "QApilot MCP for Android",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "description": "Android app testing inside your coding agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-03T00:25:21Z"
+    },
+    {
+      "title": "sizeless",
+      "url": "https://www.producthunt.com/products/sizeless",
+      "description": "Spatial AI for underground infrastructure Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-10T17:55:17Z"
     },
     {
       "title": "Spaces",
@@ -124,11 +128,11 @@
       "published_at": "2026-09-08T18:31:12Z"
     },
     {
-      "title": "Jackalope",
-      "url": "https://www.producthunt.com/products/jackalope",
-      "description": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
+      "title": "Accordio",
+      "url": "https://www.producthunt.com/products/accordio",
+      "description": "Give Claude the admin tools is missing Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-10T22:46:57Z"
+      "published_at": "2026-09-11T00:18:55Z"
     },
     {
       "title": "Cadenya",
@@ -138,11 +142,11 @@
       "published_at": "2026-09-10T23:21:08Z"
     },
     {
-      "title": "sizeless",
-      "url": "https://www.producthunt.com/products/sizeless",
-      "description": "Spatial AI for underground infrastructure Discussion | Link",
+      "title": "Anysite.io",
+      "url": "https://www.producthunt.com/products/anysite",
+      "description": "Build and enrich B2B lists by chatting to your agent Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-10T17:55:17Z"
+      "published_at": "2026-08-11T14:08:45Z"
     },
     {
       "title": "chat-recall",
@@ -159,25 +163,32 @@
       "published_at": "2026-09-04T12:33:44Z"
     },
     {
-      "title": "Anysite.io",
-      "url": "https://www.producthunt.com/products/anysite",
-      "description": "Build and enrich B2B lists by chatting to your agent Discussion | Link",
+      "title": "Jackalope",
+      "url": "https://www.producthunt.com/products/jackalope",
+      "description": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-11T14:08:45Z"
+      "published_at": "2026-09-10T22:46:57Z"
     },
     {
-      "title": "Accordio",
-      "url": "https://www.producthunt.com/products/accordio",
-      "description": "Give Claude the admin tools is missing Discussion | Link",
+      "title": "TIM PG",
+      "url": "https://www.producthunt.com/products/tim-pg",
+      "description": "Anonymize sensitive data before pasting into AI tools Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-11T00:18:55Z"
+      "published_at": "2026-08-08T07:15:23Z"
     },
     {
-      "title": "Athenic AI",
-      "url": "https://www.producthunt.com/products/athenic-ai",
-      "description": "Beat the market with 90+ datasets and AI made for analysis Discussion | Link",
+      "title": "Cline Desktop App",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "description": "An open-source app for open-weight models Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-11T00:37:08Z"
+      "published_at": "2026-09-08T14:26:09Z"
+    },
+    {
+      "title": "Viso Now",
+      "url": "https://www.producthunt.com/products/viso-now",
+      "description": "Build computer vision applications with AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-17T11:04:57Z"
     },
     {
       "title": "Suno v6",
@@ -187,25 +198,11 @@
       "published_at": "2026-09-10T05:13:30Z"
     },
     {
-      "title": "Desert Ant Labs",
-      "url": "https://www.producthunt.com/products/desert-ant-labs",
-      "description": "Small specialized AI models for speech, text, vision Discussion | Link",
+      "title": "Athenic AI",
+      "url": "https://www.producthunt.com/products/athenic-ai",
+      "description": "Beat the market with 90+ datasets and AI made for analysis Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-09T19:54:29Z"
-    },
-    {
-      "title": "hob",
-      "url": "https://www.producthunt.com/products/hob-2",
-      "description": "The professional workspace for your whole agent stack Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-09T20:07:52Z"
-    },
-    {
-      "title": "Viso Now",
-      "url": "https://www.producthunt.com/products/viso-now",
-      "description": "Build computer vision applications with AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-17T11:04:57Z"
+      "published_at": "2026-08-11T00:37:08Z"
     },
     {
       "title": "AirPods 5",
@@ -234,13 +231,6 @@
       "description": "AI customer experience that builds and improves itself Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-09-03T21:03:57Z"
-    },
-    {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "Sharper visuals, faster flow, better creative control Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-08T19:47:45Z"
     }
   ],
   "openai": [
@@ -601,185 +591,185 @@
   ],
   "hacker_news": [
     {
-      "title": "Ask HN: Did Google kill its enterprise workhorse model?",
-      "url": "https://news.ycombinator.com/item?id=49668196",
-      "description": "Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there's even any Pro class model in general availability (with geo restrictions etc.)? Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn't the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case). The Gemini family had a distinct niche in document comprehension, with thousand page input documents taking only 300k tokens. Nothing quite like that in OpenAI or Anthropic world, even at more than 10x the token adjusted price. Should we just give up on Google at this point and engineer around the competitors' limits and eat the costs? Totally unnecessary own goal by team Google.",
-      "source": "Hacker News",
-      "published_at": "2026-09-12T02:41:49Z",
-      "score": 9,
-      "comments": 1
-    },
-    {
-      "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
-      "url": "https://twitter.com/markchen90/status/2097400166554993041",
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-12T01:50:53Z",
-      "score": 11,
+      "published_at": "2026-09-13T03:25:32Z",
+      "score": 6,
       "comments": 5
     },
     {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-12T00:24:36Z",
-      "score": 36,
-      "comments": 9
+      "published_at": "2026-09-13T01:22:31Z",
+      "score": 41,
+      "comments": 44
     },
     {
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-11T23:43:53Z",
-      "score": 29,
+      "published_at": "2026-09-13T00:47:48Z",
+      "score": 30,
+      "comments": 19
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-13T00:30:44Z",
+      "score": 269,
+      "comments": 152
+    },
+    {
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-13T00:07:29Z",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-13T00:04:15Z",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T23:45:58Z",
+      "score": 22,
       "comments": 10
     },
     {
-      "title": "ChatGPT puts 20x Plan on hold",
-      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "title": "A full-duplex AI phone agent that listens while speaking",
+      "url": "https://www.famulor.io",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-11T23:21:38Z",
-      "score": 13,
+      "published_at": "2026-09-12T22:42:43Z",
+      "score": 3,
+      "comments": 0
+    },
+    {
+      "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+      "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T21:44:28Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "Free Agent – Amp",
+      "url": "https://ampcode.com/news/free-agent",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T20:54:56Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T20:28:29Z",
+      "score": 75,
+      "comments": 61
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T20:25:48Z",
+      "score": 170,
+      "comments": 90
+    },
+    {
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T19:57:19Z",
+      "score": 34,
+      "comments": 42
+    },
+    {
+      "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+      "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T19:49:12Z",
+      "score": 17,
+      "comments": 14
+    },
+    {
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "url": "https://www.tokendelivery.ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T16:45:14Z",
+      "score": 6,
       "comments": 1
+    },
+    {
+      "title": "You Didn't Deploy the AI Agent You Evaluated",
+      "url": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T16:39:13Z",
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "description": "https://archive.ph/kt50V",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T15:08:27Z",
+      "score": 425,
+      "comments": 293
+    },
+    {
+      "title": "Ask HN: What default model do you use and why?",
+      "url": "https://news.ycombinator.com/item?id=49672966",
+      "description": "I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just doing an initial mobile app planning with 4 agents. After I waited out the timeout period 6 hours later, and I picked up again, the cache had timed out so it burned through 2% of the session in less than a minute. Opus 4.8 is now my goto and I will be avoiding 5 until I see a reason to switch back. 4.8 is 'good enough' for what I need and has been a great value. It mostly gets things right. Most of what I do is web and mobile , largely cloud backend.",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T14:58:44Z",
+      "score": 51,
+      "comments": 92
+    },
+    {
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-12T11:13:38Z",
+      "score": 110,
+      "comments": 54
     },
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "description": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...",
       "source": "Hacker News",
       "published_at": "2026-09-11T23:17:42Z",
-      "score": 486,
-      "comments": 281
-    },
-    {
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T22:44:03Z",
-      "score": 32,
-      "comments": 11
-    },
-    {
-      "title": "They do think AI might kill everyone",
-      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T22:30:09Z",
-      "score": 23,
-      "comments": 0
-    },
-    {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T21:35:29Z",
-      "score": 72,
-      "comments": 60
-    },
-    {
-      "title": "GPT-6 Astra does 3D camera tracking and VFX in Blender",
-      "url": "https://twitter.com/ryanvogel/status/2098477000843211081",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T18:21:58Z",
-      "score": 20,
-      "comments": 3
-    },
-    {
-      "title": "Open-weights world models' parameter size doubles every ~6 months",
-      "url": "https://twitter.com/kaarelkaarelson/status/2098472992821199358",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T18:09:18Z",
-      "score": 14,
-      "comments": 8
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "description": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T17:45:12Z",
-      "score": 764,
-      "comments": 755
-    },
-    {
-      "title": "Show HN: Extension to filter LLM written articles",
-      "url": "https://hnslop.nilsherzig.com/",
-      "description": "Firefox Extension/Userscript and API to get Pangram scores for all articles on the hackernews frontpage. The extension allows you to hide articles with a high score. This is about detecting posts written by LLMs, not posts about AI. Feel free to use the API to build your own tooling/readers. Big thanks to https://news.ycombinator.com/user?id=salahadawi for providing the data :).",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T17:14:49Z",
-      "score": 16,
-      "comments": 1
-    },
-    {
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T16:08:50Z",
-      "score": 178,
-      "comments": 77
-    },
-    {
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "url": "https://github.com/godot-pty/gpty",
-      "description": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid/tile them how they see fit. But since we have the Godot game engine at our disposal, we can do some more interesting things, like add an FPS counter, and then subsequently also let people set their preferred FPS (the idea being the potential lower power draw if someone's running it on a laptop on battery power vs someone running it on a desktop with high/native FPS). In its current state, with me using Oh-my-Pi a lot, it's evolving into a terminal workspace that can be used for orchestrating autonomous AI agents by way of dogfooding (or you know, just run herdr inside of gPTY - it's the better orchestrator and just good software - I found it after starting this project, and now I'm finding myself using it a lot). Also, we're not limited to just terminals. Since we have Godot, we have basically a 2D (and potentially a 3D) canvas to play with. We can already full-screen the app for \"zen\" mode, no taskbar, no distractions. TUI die-hards can have their media or other apps entirely in terminal panes. There has been some ground-work on getting Markdowns displayed properly done and I want to work on some kind of Wiki framework for local knowledge-management next, then create more types of panes (think native audio/video on a media pane, that sits alongside your terminal pane), and some simple 2D games (like snake) to prototype. More details are on the ROADMAP. What's not easy (and probably won't happen) is a browser. Having done a couple of (small) projects using Electron already, the temptation to ditch Godot/Rust (learning curve) did come up (and also the ecosystem, the ease with which I could pull components and use web technologies - development velocity would definitely be higher there). But on the flipside, given all of the available LLM and AI support that we are privileged to have today, I figured the velocity should be comparable depending on how much I leaned on those. And lean I did. Godot/Rust seemed the better call to me and my intent anyway - going with the 'it's not just the end but the journey that matters' philosophy. So yes, there has been heavy use of LLMs & AI to generate a lot of the code. But I do review and steer actively, not relying solely on vibes, and there's a few bits here & there that have been human authored. There are definitely a lot of polish and QoL items that need to land to make the end user experience better, but in the meantime, let me know your thoughts and/or concerns! Repository: https://github.com/godot-pty/gpty Docs/Blog: https://godot-pty.github.io/gpty/",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T16:03:05Z",
-      "score": 85,
-      "comments": 42
-    },
-    {
-      "title": "Hacker News with reduced priority for AI driven content",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T15:52:49Z",
-      "score": 112,
-      "comments": 54
-    },
-    {
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T15:01:19Z",
-      "score": 178,
-      "comments": 84
-    },
-    {
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "url": "https://clawfight.ai/agents.md",
-      "description": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space. This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became completely submerged in the all-hours modern AI builder workflow. I stood up openclaw to see if I could have an agentic org drive this project. I spent a good amount of time on “openclaw ops”, babysitting 3 agents and trying to make them the best versions of themselves. They still do stupid things that cost me tokens. For the game render, I started out using Unreal Engine and allowing agents to remote control their players, but the quality just wasn’t there. I recently moved to doing near-real time video renders of the match and will bring UE back in for multi-agent games. Everything is AI generated. I’m fascinated by the future of realtime video generation and building out native MCP infrastructure. You can play directly from model provider apps (claude connector or openai plugin) and has fallback support for more basic HTTP clients. But the architecture and gameplay is MCP first. Tell your agent/app “go read clawfight.ai/agents.md and play”",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T13:54:17Z",
-      "score": 13,
-      "comments": 13
-    },
-    {
-      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-      "description": "https://xcancel.com/DavidAgranovich/status/20981685228622154...",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T11:36:24Z",
-      "score": 60,
-      "comments": 66
-    },
-    {
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-11T10:48:00Z",
-      "score": 599,
-      "comments": 616
+      "score": 928,
+      "comments": 577
     }
   ],
-  "updated_at": "2026-09-12T04:31:33.431501Z"
+  "updated_at": "2026-09-13T04:44:17.676375Z"
 }
