@@ -1,80 +1,140 @@
 {
   "github_trending": [
     {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.361612Z",
-      "language": "JavaScript",
-      "today_stars": 826
-    },
-    {
       "title": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.362013Z",
+      "fetched_at": "2026-09-22T04:52:12.063389Z",
       "language": "TypeScript",
-      "today_stars": 98
+      "today_stars": 607
     },
     {
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.362397Z",
-      "language": "JavaScript",
-      "today_stars": 2428
+      "fetched_at": "2026-09-22T04:52:12.064556Z",
+      "language": "Rust",
+      "today_stars": 167
     },
     {
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.363879Z",
+      "fetched_at": "2026-09-22T04:52:12.066199Z",
+      "language": "Python",
+      "today_stars": 250
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-22T04:52:12.067011Z",
       "language": "TypeScript",
-      "today_stars": 419
+      "today_stars": 394
     },
     {
-      "title": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "title": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.364564Z",
-      "language": "Jupyter Notebook",
-      "today_stars": 465
-    },
-    {
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-21T04:52:32.365861Z",
-      "language": "JavaScript",
-      "today_stars": 736
+      "fetched_at": "2026-09-22T04:52:12.067367Z",
+      "language": "Rust",
+      "today_stars": 50
     }
   ],
   "product_hunt": [
     {
-      "title": "Minicart",
-      "url": "https://www.producthunt.com/products/minicart",
-      "description": "Launch your store. Let AI run the busywork. Discussion | Link",
+      "title": "NiubiGEO",
+      "url": "https://www.producthunt.com/products/niubigeo",
+      "description": "Open-source AI visibility. Human-powered growth. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-14T17:22:27Z"
+      "published_at": "2026-09-21T02:04:19Z"
     },
     {
-      "title": "Morsa Signals",
-      "url": "https://www.producthunt.com/products/morsa-signals",
-      "description": "GTM and AI visibility workflows for developer tools Discussion | Link",
+      "title": "Jevtown",
+      "url": "https://www.producthunt.com/products/jevtown",
+      "description": "10,000 AI readers react to your post before you publish it Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-17T15:07:28Z"
+      "published_at": "2026-09-20T21:22:04Z"
+    },
+    {
+      "title": "AI Creative Insights by Decode",
+      "url": "https://www.producthunt.com/products/decode-by-entropik",
+      "description": "Predict which ad wins before you spend on media Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-16T07:12:09Z"
+    },
+    {
+      "title": "Google Flow for iOS & Android",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "Google's AI creative studio now on mobile Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-21T04:12:23Z"
+    },
+    {
+      "title": "Milliseconds.ai",
+      "url": "https://www.producthunt.com/products/milliseconds-ai",
+      "description": "Fast AI decisions on text and images, via one API Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-20T20:14:25Z"
+    },
+    {
+      "title": "slop-grader",
+      "url": "https://www.producthunt.com/products/slop-grader",
+      "description": "Jev-AI CLI tool that evaluates text against custom rulesets Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-20T17:10:58Z"
+    },
+    {
+      "title": "Hyrax AI",
+      "url": "https://www.producthunt.com/products/tristan-benozer",
+      "description": "The AI architect for your entire codebase Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-09T20:08:21Z"
+    },
+    {
+      "title": "Arcjet",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "description": "Secure the AI agents you're building at runtime Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-15T09:31:32Z"
+    },
+    {
+      "title": "Gradio Workflow",
+      "url": "https://www.producthunt.com/products/gradio",
+      "description": "connect nodes to build AI pipelines, powered by Hugging Face Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-18T17:16:18Z"
+    },
+    {
+      "title": "SecAIQ Watch",
+      "url": "https://www.producthunt.com/products/secaiq-watch",
+      "description": "What are your AI tools really doing on your machine? Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-20T09:44:03Z"
+    },
+    {
+      "title": "CC",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "description": "Shared agent that helps keep your family in sync Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-20T04:37:16Z"
+    },
+    {
+      "title": "Jev",
+      "url": "https://www.producthunt.com/products/jev-2",
+      "description": "Fast, structured AI decisions for software automation Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-21T02:19:43Z"
     },
     {
       "title": "Epismo OS",
@@ -84,25 +144,18 @@
       "published_at": "2026-09-19T20:05:33Z"
     },
     {
-      "title": "Basedash Models",
-      "url": "https://www.producthunt.com/products/basedash",
-      "description": "Define it once. Query it like a table. Discussion | Link",
+      "title": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals",
+      "description": "GTM and AI visibility workflows for developer tools Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-18T16:18:15Z"
+      "published_at": "2026-09-17T15:07:28Z"
     },
     {
-      "title": "Doneit 3.2",
-      "url": "https://www.producthunt.com/products/doneit",
-      "description": "Reimagined Doneit Assist, support for Siri AI, and more Discussion | Link",
+      "title": "Minicart",
+      "url": "https://www.producthunt.com/products/minicart",
+      "description": "Launch your store. Let AI run the busywork. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-14T05:59:28Z"
-    },
-    {
-      "title": "VoiceCap",
-      "url": "https://www.producthunt.com/products/voicecap",
-      "description": "The AI notetaker for meetings in your language Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-17T05:56:36Z"
+      "published_at": "2026-09-14T17:22:27Z"
     },
     {
       "title": "Bolt Forge",
@@ -112,70 +165,49 @@
       "published_at": "2026-09-16T23:59:56Z"
     },
     {
-      "title": "Unfetch.com",
-      "url": "https://www.producthunt.com/products/unfetch-com",
-      "description": "Let ChatGPT and Claude manage your ads. Discussion | Link",
+      "title": "Basedash Models",
+      "url": "https://www.producthunt.com/products/basedash",
+      "description": "Define it once. Query it like a table. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-14T09:16:41Z"
-    },
-    {
-      "title": "AINA",
-      "url": "https://www.producthunt.com/products/aina",
-      "description": "Find your job search blind spots with an AI coach Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-06T13:31:06Z"
-    },
-    {
-      "title": "Pushary",
-      "url": "https://www.producthunt.com/products/pushary",
-      "description": "Every agent accessible via your Mac’s notch Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-03T11:35:40Z"
-    },
-    {
-      "title": "ContextsBase - Backlog for Coding Agents",
-      "url": "https://www.producthunt.com/products/contextsbase",
-      "description": "From chat prompts to AI backlog Platform. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-17T19:38:27Z"
-    },
-    {
-      "title": "Polishory",
-      "url": "https://www.producthunt.com/products/polishory",
-      "description": "Get a clear plan to improve your website and prevent AI slop Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-18T03:00:06Z"
-    },
-    {
-      "title": "izzit",
-      "url": "https://www.producthunt.com/products/izzit",
-      "description": "One word. Three tries. Can the AI tell what you drew? Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-11T08:06:28Z"
-    },
-    {
-      "title": "NM Signals",
-      "url": "https://www.producthunt.com/products/nyman-media-signals",
-      "description": "Make your website work better for people and AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-06-18T04:36:17Z"
-    },
-    {
-      "title": "ZeroSphere",
-      "url": "https://www.producthunt.com/products/zerosphere",
-      "description": "AI Gets Its Own Display on your own machine. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-16T16:55:37Z"
-    },
-    {
-      "title": "Eggshell",
-      "url": "https://www.producthunt.com/products/eggshell-2",
-      "description": "Local memory for AI agents to reuse work, spend fewer tokens Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-12T11:59:22Z"
+      "published_at": "2026-09-18T16:18:15Z"
     }
   ],
   "openai": [
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T12:00:00Z"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T12:00:00Z"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T10:00:00Z"
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T07:00:00Z"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T00:00:00Z"
+    },
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -280,41 +312,6 @@
       "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "source": "OpenAI",
       "published_at": "2026-09-10T15:00:00Z"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T07:00:00Z"
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T07:00:00Z"
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T00:00:00Z"
-    },
-    {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T00:00:00Z"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "source": "OpenAI",
-      "published_at": "2026-09-09T13:00:00Z"
     }
   ],
   "anthropic": [
@@ -533,185 +530,185 @@
   ],
   "hacker_news": [
     {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T04:28:44Z",
+      "published_at": "2026-09-22T01:24:49Z",
+      "score": 77,
+      "comments": 42
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T01:05:19Z",
+      "score": 82,
+      "comments": 61
+    },
+    {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T00:24:00Z",
+      "score": 12,
+      "comments": 0
+    },
+    {
+      "title": "New bill to protect American citizens access to AI – Please read and share",
+      "url": "https://righttorun.us",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T20:30:38Z",
+      "score": 18,
+      "comments": 1
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T19:23:33Z",
+      "score": 175,
+      "comments": 182
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T19:17:42Z",
+      "score": 111,
+      "comments": 54
+    },
+    {
+      "title": "You can use any LLM just like JEV",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T19:03:31Z",
       "score": 10,
-      "comments": 0
-    },
-    {
-      "title": "The president wanted to unleash AI. Then came Anthropic",
-      "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T04:01:31Z",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
-      "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T01:23:53Z",
-      "score": 6,
-      "comments": 0
-    },
-    {
-      "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
-      "url": "https://github.com/behdad/gdocs-me-up",
-      "description": "Over the years I had written dozens of Google Docs documents, that I wanted to post to my website. Not only Google Docs's publish feature is broken and incomplete, Google does not index Google Docs either. So I set out to fix it for myself using AI agents. Sharing here in case someone else finds it useful.",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T00:46:42Z",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "How Anthropic CEO Dario Amodei's Writings Help Explain A.I. Fears",
-      "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T23:22:20Z",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
-      "url": "https://github.com/openlayer-ai/jevals",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T22:39:47Z",
-      "score": 14,
-      "comments": 0
-    },
-    {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T22:32:43Z",
-      "score": 329,
-      "comments": 127
-    },
-    {
-      "title": "Not all AI workers think the tech could kill everyone",
-      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T22:22:16Z",
-      "score": 21,
-      "comments": 19
-    },
-    {
-      "title": "I stopped drinking the AI Kool-Aid",
-      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T21:17:26Z",
-      "score": 61,
-      "comments": 43
-    },
-    {
-      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T20:32:43Z",
-      "score": 48,
-      "comments": 57
-    },
-    {
-      "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
-      "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-20T19:50:57Z",
-      "score": 9,
       "comments": 2
     },
     {
-      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
-      "url": "https://www.youtube.com/watch?v=KnckQp-c388",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-20T18:11:41Z",
-      "score": 20,
+      "published_at": "2026-09-21T18:53:01Z",
+      "score": 124,
+      "comments": 66
+    },
+    {
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T18:33:56Z",
+      "score": 27,
+      "comments": 10
+    },
+    {
+      "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
+      "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T17:24:51Z",
+      "score": 13,
+      "comments": 2
+    },
+    {
+      "title": "Big AI to humanity: drop dead",
+      "url": "https://matthewbutterick.com/chron/drop-dead.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T17:23:19Z",
+      "score": 40,
+      "comments": 0
+    },
+    {
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T17:00:23Z",
+      "score": 144,
+      "comments": 152
+    },
+    {
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "description": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets. Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one. foremerge intent publish --agent \"$A\" \\ --summary \"Replace PaymentService with StripePaymentService\" \\ --scope symbol:PaymentService=replace foremerge intent publish --agent \"$B\" \\ --summary \"Add PayPal support to PaymentService\" \\ --scope symbol:PaymentService=extend The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history. It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself. Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus. We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations) I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release. Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: `curl -fsSL https://foremerge.com/install.sh | sh` or `cargo install --locked foremerge`, then `foremerge init && foremerge setup all` in a repo. Apache-2.0. The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise? Repo here: https://github.com/naw103/foremerge Website: https://foremerge.com More information on the problems this solves: https://foremerge.com/blog/",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T16:22:06Z",
+      "score": 39,
+      "comments": 10
+    },
+    {
+      "title": "Amazon blocks Meta's Muse AI shopping agent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T16:08:50Z",
+      "score": 17,
       "comments": 3
     },
     {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: Vellum, the best diagram editor you'll ever use",
+      "url": "https://vellum.blueprintr.io",
+      "description": "I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. But its annoying I have to re-draw the same thing, but better in Draw.io / Visio when it comes to writing the formal documentation later. Vellum is designed to give you the speed of a whiteboard, but the architecture-diagram-finish in quality. It uses YAML to store everything, and even has a 'graph' section for those of you who like the diagram-as-code elements of mermaid... but vellum allows full authoring of layout without the restrictions of Mermaid. I love it to bits. I hope you will too. Been working on it a while, but decided to make it source available here: https://github.com/blueprintr-io/vellum-editor Proud to say its not purely vibe coded slop, but I used Claude to help with some of the more challenging geometry based elements and some housekeeping stuff.",
       "source": "Hacker News",
-      "published_at": "2026-09-20T17:51:27Z",
-      "score": 109,
-      "comments": 37
+      "published_at": "2026-09-21T16:05:42Z",
+      "score": 9,
+      "comments": 6
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-20T15:18:44Z",
-      "score": 696,
-      "comments": 367
+      "published_at": "2026-09-21T14:10:49Z",
+      "score": 218,
+      "comments": 106
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "description": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat But after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\". These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall. Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?",
+      "source": "Hacker News",
+      "published_at": "2026-09-21T12:47:05Z",
+      "score": 142,
+      "comments": 74
+    },
+    {
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-20T15:16:07Z",
-      "score": 491,
-      "comments": 142
+      "published_at": "2026-09-21T12:28:17Z",
+      "score": 59,
+      "comments": 21
     },
     {
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-20T11:37:10Z",
-      "score": 79,
-      "comments": 128
+      "published_at": "2026-09-21T12:07:16Z",
+      "score": 45,
+      "comments": 28
     },
     {
-      "title": "Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "title": "Don't Use AI to Write",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-19T23:02:34Z",
-      "score": 105,
-      "comments": 79
-    },
-    {
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-19T18:21:30Z",
-      "score": 184,
-      "comments": 49
-    },
-    {
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-19T16:35:24Z",
-      "score": 344,
-      "comments": 166
-    },
-    {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "description": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored. We wondered how far we could go with a small model trained to only make these kinds of decisions. Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman. The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior. CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB. The first training iteration took less than 30 minutes on synthetic data. Given a set of structured elements and values extracted from a document, it predicts whether to use the given value, CHECK, CLICK, or SKIP for each element. It does not predict new values for text fields, and does not consider screenshots. Element decisions are scored together, and your code can order the actions, and Cua Driver will execute them one at a time. A first evaluation of this specialist vs. hosted Jev on our form task: - For the whole decision set: 99.7% correct vs 83.6%. - For the subset of steps that require an action: 100% correct vs 96%. - For the subset of steps that are just leaving already-filled fields alone: 100% correct vs 74%. The specialist was trained specifically for this task and convention (just press skip for already filled boxes), while hosted Jev has not been fine-tuned for it, so this is an experiment in scoped specialization. We measured 7-9 ms to score a form locally vs. 260-280 ms per call to hosted Jev including network latency, though those samples measure different things and are not end-to-end form completion times. Our interest here is in the space between a brittle script and a general agent loop. The content and layout of form fields vary enough that scripts get unwieldy, but the set of available decisions can remain narrow and well scoped. We want to explore the possibility of a general agent encountering something novel, and passing well understood decisions over to specialists like this. That is a direction we are looking into. The current release is for forms only. We're open sourced the synthetic data generation, training, evaluation, and Driver integration under libs/cua-s1 with an MIT license. Comments welcome! Especially if you are building computer-use agents and have run into a recurring decision that is too variable to script but is too narrow to call another LLM for.",
-      "source": "Hacker News",
-      "published_at": "2026-09-19T15:52:51Z",
-      "score": 89,
-      "comments": 10
+      "published_at": "2026-09-21T08:54:44Z",
+      "score": 136,
+      "comments": 80
     }
   ],
-  "updated_at": "2026-09-21T04:52:34.948742Z"
+  "updated_at": "2026-09-22T04:52:14.085454Z"
 }
