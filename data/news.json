@@ -1,119 +1,168 @@
 {
   "github_trending": [
     {
-      "title": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
+      "title": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-22T04:52:12.063389Z",
+      "fetched_at": "2026-09-23T04:42:37.155357Z",
+      "language": "Go",
+      "today_stars": 245
+    },
+    {
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-23T04:42:37.155729Z",
       "language": "TypeScript",
-      "today_stars": 607
+      "today_stars": 255
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-22T04:52:12.064556Z",
-      "language": "Rust",
-      "today_stars": 167
-    },
-    {
-      "title": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-09-22T04:52:12.066199Z",
+      "fetched_at": "2026-09-23T04:42:37.156127Z",
       "language": "Python",
-      "today_stars": 250
+      "today_stars": 64
     },
     {
-      "title": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "title": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-22T04:52:12.067011Z",
-      "language": "TypeScript",
-      "today_stars": 394
+      "fetched_at": "2026-09-23T04:42:37.156434Z",
+      "language": "Go",
+      "today_stars": 2305
     },
     {
-      "title": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "title": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-22T04:52:12.067367Z",
-      "language": "Rust",
-      "today_stars": 50
+      "fetched_at": "2026-09-23T04:42:37.157033Z",
+      "language": "Python",
+      "today_stars": 230
     }
   ],
   "product_hunt": [
     {
-      "title": "NiubiGEO",
-      "url": "https://www.producthunt.com/products/niubigeo",
-      "description": "Open-source AI visibility. Human-powered growth. Discussion | Link",
+      "title": "Freebuff Ads",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "description": "Advertise to 500k developers in our coding agent Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-21T02:04:19Z"
+      "published_at": "2026-09-21T20:56:02Z"
     },
     {
-      "title": "Jevtown",
-      "url": "https://www.producthunt.com/products/jevtown",
-      "description": "10,000 AI readers react to your post before you publish it Discussion | Link",
+      "title": "SereneDB",
+      "url": "https://www.producthunt.com/products/serenedb-krummelanke",
+      "description": "Ultra-Fast Search & Analytics Database, Agentic AI ready Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-20T21:22:04Z"
+      "published_at": "2026-09-15T03:26:57Z"
     },
     {
-      "title": "AI Creative Insights by Decode",
-      "url": "https://www.producthunt.com/products/decode-by-entropik",
-      "description": "Predict which ad wins before you spend on media Discussion | Link",
+      "title": "WZRD",
+      "url": "https://www.producthunt.com/products/wzrd",
+      "description": "AI-native documents, slides, forms and sheets that talk back Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-16T07:12:09Z"
+      "published_at": "2026-09-21T09:19:43Z"
     },
     {
-      "title": "Google Flow for iOS & Android",
-      "url": "https://www.producthunt.com/products/google",
-      "description": "Google's AI creative studio now on mobile Discussion | Link",
+      "title": "Edyt",
+      "url": "https://www.producthunt.com/products/edyt",
+      "description": "AI for text you can't even select. Any app on Mac & Windows Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-21T04:12:23Z"
+      "published_at": "2026-09-03T02:52:58Z"
     },
     {
-      "title": "Milliseconds.ai",
-      "url": "https://www.producthunt.com/products/milliseconds-ai",
-      "description": "Fast AI decisions on text and images, via one API Discussion | Link",
+      "title": "Hola AI",
+      "url": "https://www.producthunt.com/products/hola-ai",
+      "description": "An AI voicemail assistant that answers calls when you can’t. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-20T20:14:25Z"
+      "published_at": "2026-09-21T21:42:18Z"
     },
     {
-      "title": "slop-grader",
-      "url": "https://www.producthunt.com/products/slop-grader",
-      "description": "Jev-AI CLI tool that evaluates text against custom rulesets Discussion | Link",
+      "title": "PixelCrew",
+      "url": "https://www.producthunt.com/products/pixelcrew",
+      "description": "Production-ready design from a crew of AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-20T17:10:58Z"
+      "published_at": "2026-09-19T04:11:25Z"
     },
     {
-      "title": "Hyrax AI",
-      "url": "https://www.producthunt.com/products/tristan-benozer",
-      "description": "The AI architect for your entire codebase Discussion | Link",
+      "title": "WeWeb MCP",
+      "url": "https://www.producthunt.com/products/weweb-io",
+      "description": "Your AI agent builds the app. You stay in control. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-09T20:08:21Z"
+      "published_at": "2026-07-06T10:03:58Z"
     },
     {
-      "title": "Arcjet",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "description": "Secure the AI agents you're building at runtime Discussion | Link",
+      "title": "Reeno",
+      "url": "https://www.producthunt.com/products/reeno",
+      "description": "AI calls you randomly to practice speaking a new language Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-15T09:31:32Z"
+      "published_at": "2026-09-21T04:20:26Z"
     },
     {
-      "title": "Gradio Workflow",
-      "url": "https://www.producthunt.com/products/gradio",
-      "description": "connect nodes to build AI pipelines, powered by Hugging Face Discussion | Link",
+      "title": "Valori",
+      "url": "https://www.producthunt.com/products/valori-systems-deleted-1168484",
+      "description": "The deterministic memory layer for AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-18T17:16:18Z"
+      "published_at": "2026-09-21T13:28:59Z"
+    },
+    {
+      "title": "Prowler Cloud",
+      "url": "https://www.producthunt.com/products/prowler",
+      "description": "Where your AI agent becomes a cloud security defender Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-17T17:01:37Z"
+    },
+    {
+      "title": "Plane Agents",
+      "url": "https://www.producthunt.com/products/planehq",
+      "description": "Assign work to AI agents, like any teammate Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-21T15:36:35Z"
+    },
+    {
+      "title": "Grok 4.7",
+      "url": "https://www.producthunt.com/products/grok-4-7-8",
+      "description": "SpaceXAI's most powerful model for coding and knowledge work Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-21T18:48:33Z"
+    },
+    {
+      "title": "2BA.AI",
+      "url": "https://www.producthunt.com/products/2ba-ai",
+      "description": "Stop waiting for tokens, and start shipping Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-16T13:13:32Z"
+    },
+    {
+      "title": "Brev",
+      "url": "https://www.producthunt.com/products/brev-io",
+      "description": "The AI coworker that drives action on your goals Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-15T03:33:39Z"
+    },
+    {
+      "title": "Contextberg",
+      "url": "https://www.producthunt.com/products/contextberg",
+      "description": "Local AI agent memory served via MCP Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-10T15:05:56Z"
+    },
+    {
+      "title": "Fez",
+      "url": "https://www.producthunt.com/products/fez-2",
+      "description": "AI agents that work as a team and make decisions together Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-21T18:50:10Z"
     },
     {
       "title": "SecAIQ Watch",
@@ -123,13 +172,6 @@
       "published_at": "2026-09-20T09:44:03Z"
     },
     {
-      "title": "CC",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "description": "Shared agent that helps keep your family in sync Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-20T04:37:16Z"
-    },
-    {
       "title": "Jev",
       "url": "https://www.producthunt.com/products/jev-2",
       "description": "Fast, structured AI decisions for software automation Discussion | Link",
@@ -137,53 +179,60 @@
       "published_at": "2026-09-21T02:19:43Z"
     },
     {
-      "title": "Epismo OS",
-      "url": "https://www.producthunt.com/products/epismo",
-      "description": "Keep your work when you switch AI tools Discussion | Link",
+      "title": "slop-grader",
+      "url": "https://www.producthunt.com/products/slop-grader",
+      "description": "Jev-AI CLI tool that evaluates text against custom rulesets Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-19T20:05:33Z"
+      "published_at": "2026-09-20T17:10:58Z"
     },
     {
-      "title": "Morsa Signals",
-      "url": "https://www.producthunt.com/products/morsa-signals",
-      "description": "GTM and AI visibility workflows for developer tools Discussion | Link",
+      "title": "Jevtown",
+      "url": "https://www.producthunt.com/products/jevtown",
+      "description": "10,000 AI readers react to your post before you publish it Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-17T15:07:28Z"
-    },
-    {
-      "title": "Minicart",
-      "url": "https://www.producthunt.com/products/minicart",
-      "description": "Launch your store. Let AI run the busywork. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-14T17:22:27Z"
-    },
-    {
-      "title": "Bolt Forge",
-      "url": "https://www.producthunt.com/products/bolt-new",
-      "description": "Bolt's new agent with open-source models and 50X usage Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-16T23:59:56Z"
-    },
-    {
-      "title": "Basedash Models",
-      "url": "https://www.producthunt.com/products/basedash",
-      "description": "Define it once. Query it like a table. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-18T16:18:15Z"
+      "published_at": "2026-09-20T21:22:04Z"
     }
   ],
   "openai": [
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "source": "OpenAI",
-      "published_at": "2026-09-21T12:00:00Z"
+      "published_at": "2026-09-22T21:00:00Z"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "source": "OpenAI",
+      "published_at": "2026-09-22T18:00:00Z"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "description": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "source": "OpenAI",
+      "published_at": "2026-09-22T12:00:00Z"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "source": "OpenAI",
+      "published_at": "2026-09-22T00:00:00Z"
     },
     {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "source": "OpenAI",
+      "published_at": "2026-09-21T12:00:00Z"
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "source": "OpenAI",
       "published_at": "2026-09-21T12:00:00Z"
     },
@@ -284,34 +333,6 @@
       "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "source": "OpenAI",
       "published_at": "2026-09-14T00:00:00Z"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "source": "OpenAI",
-      "published_at": "2026-09-11T10:00:00Z"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "source": "OpenAI",
-      "published_at": "2026-09-11T16:00:00Z"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T16:00:00Z"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "source": "OpenAI",
-      "published_at": "2026-09-10T15:00:00Z"
     }
   ],
   "anthropic": [
@@ -530,185 +551,185 @@
   ],
   "hacker_news": [
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "title": "Anthropic classifiers prohibit kernel development",
+      "url": "https://twitter.com/TheAhmadOsman/status/2102535871727857915/photo/1",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-22T01:24:49Z",
-      "score": 77,
-      "comments": 42
-    },
-    {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-22T01:05:19Z",
-      "score": 82,
-      "comments": 61
-    },
-    {
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-22T00:24:00Z",
-      "score": 12,
-      "comments": 0
-    },
-    {
-      "title": "New bill to protect American citizens access to AI – Please read and share",
-      "url": "https://righttorun.us",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T20:30:38Z",
-      "score": 18,
+      "published_at": "2026-09-23T04:01:50Z",
+      "score": 4,
       "comments": 1
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T19:23:33Z",
-      "score": 175,
-      "comments": 182
+      "published_at": "2026-09-22T23:46:07Z",
+      "score": 41,
+      "comments": 47
     },
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "title": "AI staff complain of mental toll over fears of threat to society",
+      "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T19:17:42Z",
-      "score": 111,
-      "comments": 54
-    },
-    {
-      "title": "You can use any LLM just like JEV",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T19:03:31Z",
+      "published_at": "2026-09-22T22:05:47Z",
       "score": 10,
       "comments": 2
     },
     {
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T18:53:01Z",
-      "score": 124,
-      "comments": 66
-    },
-    {
-      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T18:33:56Z",
-      "score": 27,
-      "comments": 10
-    },
-    {
-      "title": "Tinfield 1 is an open weight coding model from Nigeria that beats Opus 4.8",
-      "url": "https://twitter.com/Badtheorylabs/status/2102046067990692093",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T17:24:51Z",
-      "score": 13,
-      "comments": 2
-    },
-    {
-      "title": "Big AI to humanity: drop dead",
-      "url": "https://matthewbutterick.com/chron/drop-dead.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T17:23:19Z",
-      "score": 40,
-      "comments": 0
-    },
-    {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T17:00:23Z",
-      "score": 144,
-      "comments": 152
-    },
-    {
-      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "url": "https://github.com/naw103/foremerge",
-      "description": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets. Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one. foremerge intent publish --agent \"$A\" \\ --summary \"Replace PaymentService with StripePaymentService\" \\ --scope symbol:PaymentService=replace foremerge intent publish --agent \"$B\" \\ --summary \"Add PayPal support to PaymentService\" \\ --scope symbol:PaymentService=extend The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history. It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself. Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus. We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations) I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release. Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: `curl -fsSL https://foremerge.com/install.sh | sh` or `cargo install --locked foremerge`, then `foremerge init && foremerge setup all` in a repo. Apache-2.0. The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise? Repo here: https://github.com/naw103/foremerge Website: https://foremerge.com More information on the problems this solves: https://foremerge.com/blog/",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T16:22:06Z",
-      "score": 39,
-      "comments": 10
-    },
-    {
-      "title": "Amazon blocks Meta's Muse AI shopping agent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T16:08:50Z",
-      "score": 17,
-      "comments": 3
-    },
-    {
-      "title": "Show HN: Vellum, the best diagram editor you'll ever use",
-      "url": "https://vellum.blueprintr.io",
-      "description": "I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. But its annoying I have to re-draw the same thing, but better in Draw.io / Visio when it comes to writing the formal documentation later. Vellum is designed to give you the speed of a whiteboard, but the architecture-diagram-finish in quality. It uses YAML to store everything, and even has a 'graph' section for those of you who like the diagram-as-code elements of mermaid... but vellum allows full authoring of layout without the restrictions of Mermaid. I love it to bits. I hope you will too. Been working on it a while, but decided to make it source available here: https://github.com/blueprintr-io/vellum-editor Proud to say its not purely vibe coded slop, but I used Claude to help with some of the more challenging geometry based elements and some housekeeping stuff.",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T16:05:42Z",
-      "score": 9,
-      "comments": 6
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T14:10:49Z",
-      "score": 218,
-      "comments": 106
-    },
-    {
-      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-      "url": "https://news.ycombinator.com/item?id=49786609",
-      "description": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat But after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\". These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall. Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T12:47:05Z",
-      "score": 142,
-      "comments": 74
-    },
-    {
-      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-21T12:28:17Z",
-      "score": 59,
+      "published_at": "2026-09-22T22:03:46Z",
+      "score": 60,
       "comments": 21
     },
     {
-      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
-      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "description": "https://archive.ph/0V37g",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T19:03:38Z",
+      "score": 517,
+      "comments": 254
+    },
+    {
+      "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gpt-6-sol",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T12:07:16Z",
+      "published_at": "2026-09-22T18:54:40Z",
+      "score": 12,
+      "comments": 0
+    },
+    {
+      "title": "Does an open-weight decision model beat a hosted one? Jev vs. Laya",
+      "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T18:37:32Z",
+      "score": 11,
+      "comments": 2
+    },
+    {
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "description": "https://github.com/unreallabsai/unreal-agent",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T18:15:53Z",
+      "score": 147,
+      "comments": 91
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T18:00:34Z",
+      "score": 1329,
+      "comments": 647
+    },
+    {
+      "title": "Prominent art therapist quoted by Vice, Forbes and others is AI-generated",
+      "url": "https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T17:53:20Z",
+      "score": 14,
+      "comments": 1
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "description": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (think L3-L8) buy umbrella insurance. Coverage Cat pairs AI-guided intake with a licensed brokerage team, so you can size up coverage, see honest price ranges, and compare real carrier options without handing your details to five agents overnight. Folks who use personal AI agents (think Muse, Instinct, Town, Openclaw, etc.) can drive the same flow through the Agent API/MCP. We’d love your feedback so please do try it out. Just feed the prompt: “Shop for umbrella insurance with Coverage Cat” to your personal agent and let us know what you think! If you want to watch a couple of agents navigate the flow before you use it there’s a video here: https://youtu.be/1BUkgAn6s-I For those who are unfamiliar with this type of coverage, here’s a blurb from one of our insurance agents: “Umbrella liability insurance is a policy that provides additional coverage above the limits of existing auto, homeowners, renters, or landlord policies. It kicks in after the underlying policy limits are exhausted and may also cover personal injury claims like libel, slander, or defamation that standard policies often exclude. Policies typically start at $1 million in additional liability coverage and can protect you, your spouse, dependents, and even pets in your household.” Buying insurance online is a miserable experience. You fill out a bunch of forms that say they’re going to give you quotes. Most don’t and then you end up with tons of unwanted phone calls and spam. Even if you wade through the muck, you’ll often still end up with sub-optimal prices and coverage because of a lack of market transparency and poorly-aligned advisory incentives. We came to this problem because Max is a classic personal finance obsessive. He's the type of person that needs to know that he has the best possible price for something (everyone has one friend with the patience for a two hour phone call with the bank for some $10 fee) or that his insurance coverage is as tailored to his risk profile as the market will allow. He actually reads insurance policies end to end. Years ago, when he shopped for his homeowners insurance it took him 10+ phone calls and dozens of online form fills to find the right deal. He also suffered tons of collateral damage in the process: websites sold his information to dozens of agents who proceeded to call, text, and email him a spam hoard that grows to this day. After this painful search made us aware of the problem, we also spent a lot of time doing user research with wealthy-ish tech employees to see if they felt the same way. They did, and also complained that they 1) often felt like they'd left money on the table, 2) didn’t really understand their coverages, and 3) that brokers were slow, hard to communicate with, and unreliable. To solve the problem, we set out to build Coverage Cat. Our approach has three major components: First, we work really really hard to find and partner with insurance carriers that offer high-quality, competitively-priced products. We've also taken time to identify insurers that work on a direct-to-consumer basis or transparently list their prices online so we can make our customers aware of all the options available to them. We get paid commission when we match users to great insurance deals, but we still show and recommend folks deals that we don't make money on when they're accessible and will always recommend users buy what's best for their personal financial situation. Our goal is to meaningfully improve price transparency so consumers (and their AI agents) can make informed coverage decisions and not get nickel-and-dimed! Second, we automate every possible part of the insurance process. Some forms, portals, & approvals still need human review due to regulatory constraints, but if it's not restricted, we're automating it. LLMs have given our small team tremendous leverage and enabled us to tackle problems at a scale that would've been unfathomable five years ago. Finally, we build for agents first (a remix of the more classic adage, build for developers/APIs). We've always been big believers that personal finance would be the killer use-case for the AI revolution and have done our best to position ourselves to surf the wave. As personal assistants have started to explode onto the mainstream (think Muse, Instinct, Town, Codex, CC etc.) we've ensured our shopping and comparison process works via API/MCP so agents can present their users with all the information they need to make a good decision and transform a miserable shopping experience into a delightful one. Coverage Cat is an unusual business because, while we also help folks find homeowners insurance in California and Texas, our main focus is on umbrella insurance. Most brokerages only sell umbrella coverage as a customer retention product, but it makes them almost no money. We focus on it as our core business because: 1) it's one piece of the insurance puzzle that many people in tech overlook and/or are confused about even though it can have a huge impact on their financial well-being. 2) Existing online tools and brokerages broadly don't make it easy to comparison shop for. 3) It was, for us, the most technically feasible candidate for automation given startup resource constraints. Insofar as we know Coverage Cat is the first instance of a tool/portal that allows AI agents to complete most of the comparison and shopping steps required to allow people to buy insurance. Also happy to answer any questions about the product, the problem space, and even some insurance questions (Max is a licensed agent) where regulation permits. Cheers!",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T17:26:36Z",
       "score": 45,
       "comments": 28
     },
     {
-      "title": "Don't Use AI to Write",
-      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-21T08:54:44Z",
-      "score": 136,
-      "comments": 80
+      "published_at": "2026-09-22T16:51:31Z",
+      "score": 257,
+      "comments": 77
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T16:29:05Z",
+      "score": 1339,
+      "comments": 865
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "description": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact. It runs the two in series instead: 1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conflict resolution. 2. RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages. It can't change the verdict. A few things that went further than I expected: - Rules are a graph, not flat lists: nested all/any/not, and rules can assert facts that other rules consume (forward chaining). The decision trace shows the causal chain. - Audit mode records every rule evaluated, including the ones that didn't fire, condition by condition, with a snapshot of the rule set for replay. - Rules can steer retrieval (a fired rule narrows which documents get searched), and retrieved text can be turned into facts for the engine. - Non-technical authors can build rules in a visual editor, or paste a policy document and get LLM-drafted rules with citations. Drafts are never saved without review. YAML is still there for engineers. The landing page has a live demo with no signup (8 demo domains: loan, fraud, clinical, insurance, legal, ops, e-commerce, blockchain). There's also an MCP server, so Claude and other agents can call /decide as a tool: `uvx ai-rete-rag-mcp`. To be upfront: it's a hosted product with a free tier. The MCP client is open source (MIT, github.com/zaharajabeen13-create/ai-rete-rag-mcp); the engine and platform are not open source right now. I'd especially like to hear from anyone who has had to explain an automated decision to a regulator or an auditor: what did they actually ask for?",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T16:15:06Z",
+      "score": 34,
+      "comments": 2
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T15:22:17Z",
+      "score": 6,
+      "comments": 2
+    },
+    {
+      "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+      "url": "https://github.com/General-Instinct/InstinctFlash",
+      "description": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0. On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual / 50 action steps to 2 / 4 steps. Across 50 Robotwin2.0 tasks, we evaluated 1,153 episodes per configuration, LingBot-VA with InstinctFlash at 2 visual / 4 action steps achieved a 90.5% success rate, compared with 92.1% for the baseline at 25 visual / 50 action steps. Here’s an optimized 5B world action model, running in real time on a Jetson Thor: https://youtu.be/nku65iyL5Fw InstinctFlash currently supports 8 VLA / world-action model families, including pi0.5 and NVIDIA Cosmos Policy, across RTX 4090 / 5090 and Jetson Thor. Just give it your fine-tuned checkpoint and InstinctFlash handles the rest, exposing the accelerated model through a Python runtime or an OpenPI-compatible WebSocket server. We started working on this because we kept running into the same problem while deploying robot policies, the models were getting much better, but inference was often way too slow for the control loop we actually wanted. For pi0.5, mixed-precision GEMMs and CUDA graphs speed up computation and reduce launch overhead. For Cosmos, caching avoids redundant computation across diffusion steps. World-action models’ diffusion denoising step depends on the previous one which motivated our work on few-step distillation. Right now, InstinctFlash contains 6 aspects of optimization. - Graph: CUDA graph capture, memory planning and separating prefill from repeated execution. - Cache: Reusing KV and conditioning state across diffusion steps and prediction calls. - Attention: Specialized attention paths for different model architectures. - Kernels: Fused operations and kernels tailored to specific backends and tensor layouts. - Precision: FP8 and mixed-precision execution. - Model: Few-step distillation for diffusion and action generation. Teams at Samsung, Siemens, and other robotics startups have used InstinctFlash for model acceleration on VLAs, WAMs, and diffusion-based world models. Now we are opening up access to you. Feel free to try it here: https://github.com/General-Instinct/InstinctFlash More implementation details and benchmarks: https://general-instinct.com/blog/instinctflash-edge-inferen... Would love to hear your feedback!",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T15:20:06Z",
+      "score": 23,
+      "comments": 2
+    },
+    {
+      "title": "Show HN: OpenMCP – An open, code-first fork of the Model Context Protocol",
+      "url": "https://github.com/enclawed/omcp",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T15:19:26Z",
+      "score": 7,
+      "comments": 0
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T14:42:59Z",
+      "score": 273,
+      "comments": 199
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T13:52:15Z",
+      "score": 604,
+      "comments": 373
+    },
+    {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "description": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects really perform in comparison. Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on. JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting. A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost. Leaderboard right now: #1 - Jev 74.4 #2 - SemIf 73.1 #3 - djev 73.0 #4 - Winnow-12B Q8 71.2 #5 reflex 4B 70.3. MIT harness, public items, frozen artifacts, scoring code and public per-task outcomes: https://github.com/fstandhartinger/jevbench Two no-signup demos: https://who-is-right.app.mintapis.com https://is-it-ai-slop.app.mintapis.com Limitations: English-only; latency from one German server; local/demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise. Wdyt?",
+      "source": "Hacker News",
+      "published_at": "2026-09-22T13:01:03Z",
+      "score": 81,
+      "comments": 20
     }
   ],
-  "updated_at": "2026-09-22T04:52:14.085454Z"
+  "updated_at": "2026-09-23T04:42:39.748672Z"
 }
