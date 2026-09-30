@@ -1,14 +1,34 @@
 {
   "github_trending": [
     {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-30T05:29:37.084373Z",
+      "language": "Rust",
+      "today_stars": 990
+    },
+    {
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-29T05:41:20.660521Z",
+      "fetched_at": "2026-09-30T05:29:37.084754Z",
       "language": "Python",
-      "today_stars": 4561
+      "today_stars": 2575
+    },
+    {
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-30T05:29:37.085378Z",
+      "language": "Rust",
+      "today_stars": 232
     },
     {
       "title": "mvschwarz/openrig",
@@ -16,9 +36,19 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-29T05:41:20.661594Z",
+      "fetched_at": "2026-09-30T05:29:37.085710Z",
       "language": "TypeScript",
-      "today_stars": 734
+      "today_stars": 737
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-09-30T05:29:37.086879Z",
+      "language": "Python",
+      "today_stars": 786
     },
     {
       "title": "dream-num/univer",
@@ -26,46 +56,116 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-09-29T05:41:20.661902Z",
+      "fetched_at": "2026-09-30T05:29:37.087795Z",
       "language": "TypeScript",
-      "today_stars": 1099
+      "today_stars": 696
     }
   ],
   "product_hunt": [
     {
-      "title": "VibeDefend by CybeDefend",
-      "url": "https://www.producthunt.com/products/cybedefend",
-      "description": "The one command line to secure your Cursor and Claude Code Discussion | Link",
+      "title": "LUCI Desktop",
+      "url": "https://www.producthunt.com/products/luci-desktop",
+      "description": "Let your AI agents remember what you've seen Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-17T13:41:42Z"
+      "published_at": "2026-09-20T05:10:19Z"
     },
     {
-      "title": "Sayble",
-      "url": "https://www.producthunt.com/products/sayble",
-      "description": "AI copilot for calls that tells you what to say next Discussion | Link",
+      "title": "iFixAi",
+      "url": "https://www.producthunt.com/products/ifixai",
+      "description": "Independent auditing of AI agents to uncover misalignment Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-27T19:46:24Z"
+      "published_at": "2026-09-16T18:44:42Z"
     },
     {
-      "title": "Harness Router",
-      "url": "https://www.producthunt.com/products/harness-103",
-      "description": "Fast AI tool routing powered by Jev. Discussion | Link",
+      "title": "Hopscotch AI",
+      "url": "https://www.producthunt.com/products/hopscotch-7",
+      "description": "500+ AI models available via a single API Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-27T07:03:34Z"
+      "published_at": "2026-09-21T15:42:28Z"
     },
     {
-      "title": "Arc",
-      "url": "https://www.producthunt.com/products/arc-ai-screen-assistant",
-      "description": "Your mobile AI assistant on any screen Discussion | Link",
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.producthunt.com/products/claude",
+      "description": "Anthropic's second model in the Claude 5.5 family Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-27T17:11:05Z"
+      "published_at": "2026-09-28T18:27:48Z"
     },
     {
-      "title": "Okara",
-      "url": "https://www.producthunt.com/products/okara-2",
-      "description": "The world's first AI CMO Discussion | Link",
+      "title": "ZenABM",
+      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+      "description": "Create, optimize & report on LinkedIn Ads from any AI tool Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-25T06:04:25Z"
+      "published_at": "2026-09-25T22:31:56Z"
+    },
+    {
+      "title": "Iris",
+      "url": "https://www.producthunt.com/products/ihermes",
+      "description": "AI agents built for your company’s operations Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-18T07:10:09Z"
+    },
+    {
+      "title": "Imejis.io",
+      "url": "https://www.producthunt.com/products/imejis-io",
+      "description": "Give your agent a design studio to automate your marketing Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-17T10:42:00Z"
+    },
+    {
+      "title": "Jotform Sign for ChatGPT and Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "description": "Create, send, and sign documents in ChatGPT and Claude Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-17T12:01:24Z"
+    },
+    {
+      "title": "Supertake",
+      "url": "https://www.producthunt.com/products/supertake",
+      "description": "AI that turn your ideas into real investments Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-29T02:05:11Z"
+    },
+    {
+      "title": "Arsaze",
+      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+      "description": "Let Claude, ChatGPT or Gemini edit your real timeline Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-27T16:56:45Z"
+    },
+    {
+      "title": "Szept",
+      "url": "https://www.producthunt.com/products/szept",
+      "description": "Say it. Show it. Hand it to your agent. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-24T11:58:29Z"
+    },
+    {
+      "title": "Semos.ai Manager Agents",
+      "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
+      "description": "AI agents purpose-built for managers Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-14T11:23:03Z"
+    },
+    {
+      "title": "Codex Remote",
+      "url": "https://www.producthunt.com/products/codex-remote",
+      "description": "Put Codex or Claude Code on your own cloud machine Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-28T09:56:03Z"
+    },
+    {
+      "title": "ooon.ai",
+      "url": "https://www.producthunt.com/products/ooon-ai",
+      "description": "AI employee that answers, books, and reminds clients Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-19T22:05:34Z"
+    },
+    {
+      "title": "Timeless Code",
+      "url": "https://www.producthunt.com/products/timeos",
+      "description": "Meeting notetaker that installs and runs inside Claude Code Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-28T10:37:27Z"
     },
     {
       "title": "MCP Connectors by Databox",
@@ -82,27 +182,6 @@
       "published_at": "2026-09-26T10:22:26Z"
     },
     {
-      "title": "Statable Analytics",
-      "url": "https://www.producthunt.com/products/statable-analytics",
-      "description": "Web analytics built for you and your AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-15T20:12:55Z"
-    },
-    {
-      "title": "GenCode",
-      "url": "https://www.producthunt.com/products/genspark",
-      "description": "A coding agent inside the Genspark Super App Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-25T01:30:36Z"
-    },
-    {
-      "title": "PIP",
-      "url": "https://www.producthunt.com/products/pip-9",
-      "description": "AI buddy on your computer Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-27T16:48:56Z"
-    },
-    {
       "title": "Microsoft Copilot",
       "url": "https://www.producthunt.com/products/microsoft-copilot",
       "description": "The Al built for work Discussion | Link",
@@ -110,70 +189,49 @@
       "published_at": "2026-09-25T19:17:15Z"
     },
     {
-      "title": "Harmony",
-      "url": "https://www.producthunt.com/products/harmony-it",
-      "description": "AI agents that resolve IT/HR tickets inside Slack and Teams Discussion | Link",
+      "title": "Statable Analytics",
+      "url": "https://www.producthunt.com/products/statable-analytics",
+      "description": "Web analytics built for you and your AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-19T14:01:14Z"
+      "published_at": "2026-09-15T20:12:55Z"
     },
     {
-      "title": "Cuey",
-      "url": "https://www.producthunt.com/products/cuey-2",
-      "description": "Compare ChatGPT, Claude & Gemini answers in one tab. Discussion | Link",
+      "title": "VibeDefend by CybeDefend",
+      "url": "https://www.producthunt.com/products/cybedefend",
+      "description": "The one command line to secure your Cursor and Claude Code Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-07-22T21:39:59Z"
-    },
-    {
-      "title": "GPT-6 Sol & Luna",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "Frontier AI intelligence, now at half the price Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-22T21:59:44Z"
-    },
-    {
-      "title": "OpenScience",
-      "url": "https://www.producthunt.com/products/openscience",
-      "description": "The open-source AI workbench for scientific research Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-26T14:36:32Z"
-    },
-    {
-      "title": "Superhuman Go",
-      "url": "https://www.producthunt.com/products/superhuman-go",
-      "description": "The AI assistant that works where you do Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-22T06:48:30Z"
-    },
-    {
-      "title": "Humalike x GTA RP",
-      "url": "https://www.producthunt.com/products/humalike-2",
-      "description": "AI NPCs that talk, remember & act on their own Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-01T17:19:53Z"
-    },
-    {
-      "title": "Hemory",
-      "url": "https://www.producthunt.com/products/hemory",
-      "description": "Keep listening. Searchable memory for your AI agents. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-22T15:16:05Z"
-    },
-    {
-      "title": "GoodSocials",
-      "url": "https://www.producthunt.com/products/goodsocials",
-      "description": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-25T10:43:48Z"
-    },
-    {
-      "title": "Chit",
-      "url": "https://www.producthunt.com/products/chit-2",
-      "description": "A printed receipt of your day in Claude Code Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-18T06:58:09Z"
+      "published_at": "2026-09-17T13:41:42Z"
     }
   ],
   "openai": [
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source": "OpenAI",
+      "published_at": "2026-09-29T10:00:00Z"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": "OpenAI",
+      "published_at": "2026-09-29T10:00:00Z"
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "source": "OpenAI",
+      "published_at": "2026-09-29T00:00:00Z"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source": "OpenAI",
+      "published_at": "2026-09-28T19:00:00Z"
+    },
     {
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -224,9 +282,9 @@
       "published_at": "2026-09-23T13:00:00Z"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "source": "OpenAI",
       "published_at": "2026-09-23T12:00:00Z"
     },
@@ -238,16 +296,16 @@
       "published_at": "2026-09-23T12:00:00Z"
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "source": "OpenAI",
       "published_at": "2026-09-23T12:00:00Z"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "source": "OpenAI",
       "published_at": "2026-09-23T12:00:00Z"
     },
@@ -285,34 +343,6 @@
       "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "source": "OpenAI",
       "published_at": "2026-09-22T21:00:00Z"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "source": "OpenAI",
-      "published_at": "2026-09-22T18:00:00Z"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "description": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "source": "OpenAI",
-      "published_at": "2026-09-22T12:00:00Z"
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "source": "OpenAI",
-      "published_at": "2026-09-22T00:00:00Z"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "source": "OpenAI",
-      "published_at": "2026-09-21T12:00:00Z"
     }
   ],
   "anthropic": [
@@ -531,185 +561,185 @@
   ],
   "hacker_news": [
     {
-      "title": "AI risk is not sentience by computers, it is negligence by humans",
-      "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/",
+      "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+      "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-29T03:51:04Z",
-      "score": 4,
-      "comments": 1
-    },
-    {
-      "title": "OpenAI scraps release of Astra 6.1 model over safety issues",
-      "url": "https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-29T00:38:41Z",
-      "score": 14,
-      "comments": 4
-    },
-    {
-      "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-      "url": "https://sarahconstantin.substack.com/p/ai-companies-are-not-necessarily",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-29T00:29:20Z",
-      "score": 4,
-      "comments": 3
-    },
-    {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T23:40:59Z",
-      "score": 88,
-      "comments": 83
-    },
-    {
-      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "description": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt: “Create a Pac-Man game in a single HTML page” Each model gets one shot — no follow-up prompts or fixes.",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T22:43:12Z",
-      "score": 24,
-      "comments": 17
-    },
-    {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T21:26:41Z",
-      "score": 65,
-      "comments": 9
-    },
-    {
-      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
-      "url": "https://bughunters.google.com/blog/scaling-memory-safety",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T20:58:20Z",
-      "score": 11,
-      "comments": 3
-    },
-    {
-      "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T20:47:26Z",
-      "score": 79,
-      "comments": 83
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T20:23:36Z",
-      "score": 416,
-      "comments": 156
-    },
-    {
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T19:53:35Z",
-      "score": 393,
-      "comments": 140
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T18:58:53Z",
-      "score": 195,
-      "comments": 72
-    },
-    {
-      "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T18:31:44Z",
-      "score": 18,
-      "comments": 9
-    },
-    {
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "url": "https://github.com/google-research/rrsi",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T17:54:50Z",
+      "published_at": "2026-09-30T04:02:58Z",
       "score": 8,
-      "comments": 0
+      "comments": 3
     },
     {
-      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-      "description": "Hey HN! We're Dudu and Topaz from Vespper ( https://vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of how the product works here: https://youtu.be/odKxsgPjzzw We came to work on this problem after spending a year building an AI document editor for pharma companies. Before that, Topaz(myself) was a senior SWE at Snyk, working on distributed systems, and Dudu was a deep learning engineer at Viz.ai, building computer vision models for stroke detection. Our editor helped pharma companies generate regulatory documents (e.g. CSRs) to speed up their submissions. Initially, the output was Markdown, displayed in a WYSIWYG editor. However, users preferred working with their own Word templates. That's when the problems began. AI agents aren't great at editing Word documents. A Word document is a zip file of verbose XML files following the OOXML spec. Even \"small\" changes require backflips, for example: adding a numbered list requires creating an entry in numbering.xml with a fresh ID and linking it back in document.xml, bolding a sentence requires splitting it into 3+ run elements. The list goes on. This makes editing the zip directly (unzip + grep + sed) a bad idea for agents because they burn a lot of time + tokens on these mechanics. In practice, today's tooling falls into roughly three categories. You can let the agent write code against low-level libraries like python-docx or the Open XML SDK, you can give it an MCP with opinionated editing tools (SuperDoc, Office CLI, Adeu, etc), or you can round-trip the file through Markdown/HTML with something like pandoc/mammoth.js. None of them really work. The first two categories still burn the agent's context on Word mechanics instead of the task at hand (MCPs also introduce a new DSL to learn), and the third is very lossy (pandoc/mammoth.js/etc don't preserve enough fidelity). From firsthand experience, these problems hurt performance in downstream tasks. When we tried having our agent fill large documents, things broke quickly. The context window was already packed with customer data (files, user context, global rules, etc.), and the agent burned tokens + time on exploring the document and debugging failed edits. Filling a single CSR (clinical study report) took ~50 minutes, and the result was bad (missed fields/sections, broken styling, etc.). Harvey.ai's team reached similar conclusions: https://www.harvey.ai/blog/building-an-agent-for-complex-doc... That's when we shifted our focus. We designed an MCP that lets agents edit Word docs as if they were editing HTML. The agent receives HTML, makes find-and-replace edits, and we reconcile those edits back into the original .docx file. We picked HTML over Markdown because it's structurally much closer to OOXML and because CSS associates styles with elements roughly the way OOXML does. We had to write our own DOCX→HTML converter, since pandoc and mammoth.js didn't preserve enough fidelity. To be clear, our DOCX → HTML conversion is lossy too. That's fine though, because we never convert the HTML back to DOCX. The HTML is just a projection for the agent, so it only needs enough fidelity for the agent to understand the structure and styling of what it's editing. The original file stays the source of truth, and we mutate it in place. This also means the agent doesn't need to learn a new DSL. Editing a Word document feels just like editing an HTML file on the file system, something agents are already great at. A lot of DOCX MCPs hand agents dozens or even hundreds of tools to figure out on the fly. Our MCP exposes just three tools (read, search, edit). The Word document is completely abstracted. After an agent sends us an edit request (an \"old_html\" and \"new_html\" pair), we reconcile it to the original .docx file. The reconciliation is powered by our fine-tuned model, a 3-8B base with a LoRA adapter. It takes the HTML diff as input along with the original localized OOXML block and emits the new OOXML. The \"localization\" is done deterministically: we take the anchors the agent specifies and we try to find their XML twins, so the reconciler model has a single responsibility. On this narrow task a small model reaches the level of a frontier, well prompt-tuned model, while being small and fast enough to sit in the hot path. This project turned into months of work, but we're happy to release our v1. Our internal benchmark shows it's more accurate than the DOCX skill and raw python-docx while being ~2x cheaper and ~3x faster, mostly because it takes 3 tool calls (p50) per task whereas the DOCX skill takes 10 and Office CLI takes 13. Things aren't perfect yet. For example, we don't support manipulating images or comments at the moment. That said, we're already seeing people use our MCP in various ways: - Legal tech companies powering their live-editing flow in Office.js. - AI startup optimizing people’s resumes and applying on their behalf. - Govtech who need to draft policy memos. - A life sciences startup using long-running agents to complete regulatory forms. A note on privacy: our MCP runs in the cloud, so users send us their .docx files. We don't train on user data, and teams can opt for ZDR or self-hosting. There's a free tier with 500 edits a month, and we’d love you all to try. We want to bump that later, but we're a small team and running a fine-tuned model isn't cheap :( We'd love to hear your ideas and comments about docx editing in general! We'll be in the comments for the next few hours to respond",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T17:34:36Z",
-      "score": 34,
-      "comments": 9
-    },
-    {
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-28T17:33:34Z",
-      "score": 105,
-      "comments": 107
+      "published_at": "2026-09-30T03:19:54Z",
+      "score": 44,
+      "comments": 11
     },
     {
-      "title": "Show HN: I'm a dermatologist and I vibe coded a 3D biophysical skin model",
-      "url": "https://www.drmagnuslynch.com/skin",
-      "description": "I'm a dermatologist. A year ago I posted a skin cancer quiz I vibe coded with Gemini 2.5 Pro. A top comment said that was the limit of vibe coding. This year I tried something more ambitious: SkinLab, a biophysical model of human skin that runs in the browser using WebGL. You can cut it or wound it and it heals realistically to form a scar. Then you can treat the scar with laser and watch the healing process. - 1.2 million voxels (0.25 mm resolution) for epidermis, dermis and fat. - Spring lattice with a J-shaped collagen fibre law and tension along the skin's lines - Healing as coupled ODEs (TGF-beta, myofibroblasts, collagen, contraction) - One static HTML file, WebGL, three.js, no backend By accurate I mean the constants come from published papers and it reproduces biophysical behaviour, such as incisions opening more when made more across the skin's tension lines and offloading preventing raised scars. It is not validated against patient outcomes, so it's for research and teaching, and a small step towards my lab's long term goal of an accurate cellular-resolution model of human skin. Built with Claude Code over five days. I guided the anatomy and biology through many rounds of feedback and iteration but I believe that in the future agentic models will be able to iteratively build and improve integrative models based upon analysis of published literature. The tour (top right) takes a minute and runs in real time in your browser. Feedback welcome.",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T17:12:55Z",
-      "score": 4,
-      "comments": 0
-    },
-    {
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-28T16:11:42Z",
-      "score": 358,
-      "comments": 227
+      "published_at": "2026-09-30T02:36:12Z",
+      "score": 17,
+      "comments": 5
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "title": "Inspect: An open-source framework for large language model evaluations",
+      "url": "https://inspect.aisi.org.uk/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-28T15:46:36Z",
-      "score": 143,
-      "comments": 170
-    },
-    {
-      "title": "Stop letting your agent's scripts die in /tmp",
-      "url": "https://github.com/pfcoperez/scriptify",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-09-28T15:30:22Z",
+      "published_at": "2026-09-29T23:40:04Z",
       "score": 3,
       "comments": 0
     },
     {
-      "title": "Cf: The Agentic CLI for the Cloudflare API",
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+      "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-09-28T15:28:13Z",
-      "score": 142,
-      "comments": 66
+      "published_at": "2026-09-29T23:38:39Z",
+      "score": 19,
+      "comments": 3
+    },
+    {
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T22:52:30Z",
+      "score": 23,
+      "comments": 16
+    },
+    {
+      "title": "Is open-weight AI banned yet?",
+      "url": "https://isopenweightaibannedyet.com",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T20:16:25Z",
+      "score": 15,
+      "comments": 2
+    },
+    {
+      "title": "McDonald's push to have AI price your Big Mac",
+      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T19:58:50Z",
+      "score": 50,
+      "comments": 23
+    },
+    {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T19:21:25Z",
+      "score": 199,
+      "comments": 292
+    },
+    {
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
+      "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T19:17:32Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T17:44:21Z",
+      "score": 41,
+      "comments": 13
+    },
+    {
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T17:26:27Z",
+      "score": 197,
+      "comments": 229
+    },
+    {
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "description": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way. It's still a work in progress, but would love any feedback on the experience so far! 1. https://www.youtube.com/watch?v=JsBZOcqZerk 2. https://www.youtube.com/watch?v=ybkkiGtJmkM",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T17:15:56Z",
+      "score": 51,
+      "comments": 18
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T17:06:45Z",
+      "score": 856,
+      "comments": 777
+    },
+    {
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T16:30:48Z",
+      "score": 535,
+      "comments": 388
+    },
+    {
+      "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
+      "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T13:50:30Z",
+      "score": 24,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+      "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T12:05:07Z",
+      "score": 62,
+      "comments": 14
+    },
+    {
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T12:01:07Z",
+      "score": 47,
+      "comments": 2
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T11:13:54Z",
+      "score": 233,
+      "comments": 89
+    },
+    {
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-09-29T11:06:25Z",
+      "score": 66,
+      "comments": 2
     }
   ],
-  "updated_at": "2026-09-29T05:41:24.222327Z"
+  "updated_at": "2026-09-30T05:29:39.096587Z"
 }
