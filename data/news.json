@@ -1,34 +1,44 @@
 {
   "github_trending": [
     {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.635515Z",
-      "language": "JavaScript",
-      "today_stars": 1281
-    },
-    {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.635789Z",
+      "fetched_at": "2026-10-05T05:35:25.255322Z",
       "language": "JavaScript",
-      "today_stars": 699
+      "today_stars": 1171
     },
     {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.636043Z",
+      "fetched_at": "2026-10-05T05:35:25.255673Z",
       "language": "JavaScript",
-      "today_stars": 897
+      "today_stars": 197
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-05T05:35:25.255984Z",
+      "language": "JavaScript",
+      "today_stars": 1894
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-05T05:35:25.256229Z",
+      "language": "Python",
+      "today_stars": 83
     },
     {
       "title": "Panniantong/Agent-Reach",
@@ -36,29 +46,29 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.636647Z",
+      "fetched_at": "2026-10-05T05:35:25.256488Z",
       "language": "Python",
-      "today_stars": 1696
+      "today_stars": 980
     },
     {
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.637077Z",
-      "language": "TypeScript",
-      "today_stars": 79
+      "fetched_at": "2026-10-05T05:35:25.257003Z",
+      "language": "Python",
+      "today_stars": 245
     },
     {
-      "title": "cloudflare/cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "title": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.637273Z",
-      "language": "TypeScript",
-      "today_stars": 85
+      "fetched_at": "2026-10-05T05:35:25.257700Z",
+      "language": "JavaScript",
+      "today_stars": 232
     },
     {
       "title": "addyosmani/agent-skills",
@@ -66,89 +76,108 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.637459Z",
+      "fetched_at": "2026-10-05T05:35:25.257936Z",
       "language": "JavaScript",
-      "today_stars": 252
+      "today_stars": 336
     },
     {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.637683Z",
-      "language": "Shell",
-      "today_stars": 577
-    },
-    {
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.638132Z",
+      "fetched_at": "2026-10-05T05:35:25.258231Z",
       "language": "TypeScript",
-      "today_stars": 256
+      "today_stars": 628
     },
     {
-      "title": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.638325Z",
+      "fetched_at": "2026-10-05T05:35:25.258484Z",
       "language": "TypeScript",
-      "today_stars": 408
-    },
-    {
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.638677Z",
-      "language": "TypeScript",
-      "today_stars": 128
-    },
-    {
-      "title": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "GitHub Trending 项目。",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-04T05:49:22.638880Z",
-      "language": "Python",
-      "today_stars": 193
+      "today_stars": 125
     }
   ],
   "product_hunt": [
     {
-      "title": "Agent Activity",
-      "url": "https://www.producthunt.com/products/agent-activity",
-      "description": "See what your AI agents do behind Discussion | Link",
+      "title": "LaunchReel",
+      "url": "https://www.producthunt.com/products/launchreel-2",
+      "description": "claude design but for editing professional videos faster. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-30T16:56:38Z"
+      "published_at": "2026-10-03T21:31:56Z"
     },
     {
-      "title": "ZooWork",
-      "url": "https://www.producthunt.com/products/zoowork",
-      "description": "The AI agent delivery platform for FDEs and domain experts Discussion | Link",
+      "title": "Sorcrr",
+      "url": "https://www.producthunt.com/products/sorcrr",
+      "description": "Ai enabled bounty driven referral platform for hiring & gtm Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-24T04:22:40Z"
+      "published_at": "2026-09-12T17:05:39Z"
     },
     {
-      "title": "Singularity",
-      "url": "https://www.producthunt.com/products/singularity-2",
-      "description": "Run AI coding agents in parallel, one ticket at a time Discussion | Link",
+      "title": "ChatGPT Space",
+      "url": "https://www.producthunt.com/products/chatgpt-space",
+      "description": "Create, collaborate, and build together with AI in Space Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-01T13:12:28Z"
+      "published_at": "2026-09-29T18:04:19Z"
     },
     {
-      "title": "Thanor AI",
-      "url": "https://www.producthunt.com/products/thanor-ai",
-      "description": "Make your AI-built sites look expensive and not like slop Discussion | Link",
+      "title": "Aperture",
+      "url": "https://www.producthunt.com/products/aperture-7",
+      "description": "An AI code editor that checks its own work Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-30T22:07:19Z"
+      "published_at": "2026-10-03T19:44:58Z"
+    },
+    {
+      "title": "Thinking Orbs",
+      "url": "https://www.producthunt.com/products/thinking-orbs",
+      "description": "Animated AI Status Indicator Component Library for React Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-03T08:11:16Z"
+    },
+    {
+      "title": "Sente",
+      "url": "https://www.producthunt.com/products/sente-2",
+      "description": "Talk to your coding agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-16T00:38:07Z"
+    },
+    {
+      "title": "Sellio",
+      "url": "https://www.producthunt.com/products/sellio-2",
+      "description": "AI customer support in one shared inbox powered by AI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-03T23:54:19Z"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://www.producthunt.com/products/gemini-4-argon",
+      "description": "Google's frontier model for careful reasoning & complex work Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-30T20:08:45Z"
+    },
+    {
+      "title": "Clair",
+      "url": "https://www.producthunt.com/products/clair-3",
+      "description": "Answer Claude Code from your wrist Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-30T21:29:31Z"
+    },
+    {
+      "title": "DocsAlot MCP Connector",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "description": "Maintain your help-center by asking Claude, Cursor or Codex Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-29T14:43:58Z"
+    },
+    {
+      "title": "qarunbook",
+      "url": "https://www.producthunt.com/products/qarunbook",
+      "description": "A test plan your team and your AI can work through Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-02T18:08:33Z"
     },
     {
       "title": "Muse Gadgets",
@@ -158,46 +187,11 @@
       "published_at": "2026-10-03T02:07:11Z"
     },
     {
-      "title": "Cubicle",
-      "url": "https://www.producthunt.com/products/cubicle-2",
-      "description": "A live office for your AI agents, read-only by design Discussion | Link",
+      "title": "Agent Activity",
+      "url": "https://www.producthunt.com/products/agent-activity",
+      "description": "See what your AI agents do behind Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-29T19:41:10Z"
-    },
-    {
-      "title": "SCMD",
-      "url": "https://www.producthunt.com/products/scmd",
-      "description": "Manage what Claude Remembers and Keeps as Memory. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-21T21:15:45Z"
-    },
-    {
-      "title": "Notchware",
-      "url": "https://www.producthunt.com/products/notchware",
-      "description": "Music and AI agent alerts in your MacBook notch Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-26T20:51:19Z"
-    },
-    {
-      "title": "eu/jev",
-      "url": "https://www.producthunt.com/products/bevel-software",
-      "description": "The first Jev-like model hosted in the EU Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-02T13:47:50Z"
-    },
-    {
-      "title": "bmux",
-      "url": "https://www.producthunt.com/products/bmux",
-      "description": "Browser multiplexer for the agentic era Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-01T11:34:50Z"
-    },
-    {
-      "title": "Sapien",
-      "url": "https://www.producthunt.com/products/sapien-4",
-      "description": "AI market research with synthetic populations Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-03T02:30:10Z"
+      "published_at": "2026-09-30T16:56:38Z"
     },
     {
       "title": "Kilo",
@@ -214,53 +208,11 @@
       "published_at": "2026-10-01T07:14:59Z"
     },
     {
-      "title": "Mintlify Desktop",
-      "url": "https://www.producthunt.com/products/mintlify",
-      "description": "An AI-native app for writing documentation and knowledge Discussion | Link",
+      "title": "bmux",
+      "url": "https://www.producthunt.com/products/bmux",
+      "description": "Browser multiplexer for the agentic era Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-30T00:08:54Z"
-    },
-    {
-      "title": "Veltrix AI for E-commerce",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
-      "description": "Find how your e-commerce business could earn more Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-17T15:49:25Z"
-    },
-    {
-      "title": "Famulor",
-      "url": "https://www.producthunt.com/products/famulor-telephony-ai",
-      "description": "Your agent to answer calls and follow ups on WhatsApp Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-08-31T13:27:59Z"
-    },
-    {
-      "title": "Audryo",
-      "url": "https://www.producthunt.com/products/audryo",
-      "description": "Customer email your agent can operate. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-29T16:45:35Z"
-    },
-    {
-      "title": "Anthroposcaper",
-      "url": "https://www.producthunt.com/products/anthroposcaper",
-      "description": "Tag a 2D plan, get a 3D urban environment model Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-01T13:38:00Z"
-    },
-    {
-      "title": "Eleven v4 and Eleven v4 Turbo",
-      "url": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo",
-      "description": "Elevenlabs' fastest and most emotive voice models yet Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-28T20:49:50Z"
-    },
-    {
-      "title": "Finbar",
-      "url": "https://www.producthunt.com/products/finbar-2",
-      "description": "Agentic investment research Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-01T16:40:49Z"
+      "published_at": "2026-10-01T11:34:50Z"
     }
   ],
   "openai": [
@@ -621,22 +573,67 @@
   ],
   "hacker_news": [
     {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+      "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-04T03:18:55Z",
-      "score": 9,
-      "comments": 4
+      "published_at": "2026-10-05T00:17:37Z",
+      "score": 13,
+      "comments": 6
     },
     {
-      "title": "How the bad science of AI doomerism is good for big business",
-      "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
+      "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-04T02:43:55Z",
-      "score": 7,
+      "published_at": "2026-10-04T23:34:17Z",
+      "score": 8,
       "comments": 1
+    },
+    {
+      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-04T22:03:41Z",
+      "score": 16,
+      "comments": 9
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro...",
+      "source": "Hacker News",
+      "published_at": "2026-10-04T19:42:25Z",
+      "score": 65,
+      "comments": 30
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-04T09:24:52Z",
+      "score": 147,
+      "comments": 66
+    },
+    {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-04T08:41:58Z",
+      "score": 71,
+      "comments": 22
+    },
+    {
+      "title": "What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-04T07:53:45Z",
+      "score": 59,
+      "comments": 46
     },
     {
       "title": "Religious scholars met with Anthropic",
@@ -644,17 +641,17 @@
       "description": "https://archive.is/y8FW0",
       "source": "Hacker News",
       "published_at": "2026-10-04T02:34:22Z",
-      "score": 55,
-      "comments": 93
+      "score": 159,
+      "comments": 409
     },
     {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-03T18:29:30Z",
-      "score": 198,
-      "comments": 136
+      "published_at": "2026-10-03T17:57:03Z",
+      "score": 116,
+      "comments": 167
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
@@ -662,17 +659,8 @@
       "description": "https://archive.ph/TyDPf",
       "source": "Hacker News",
       "published_at": "2026-10-03T17:44:29Z",
-      "score": 90,
-      "comments": 115
-    },
-    {
-      "title": "The Journal of Writing and Artificial Intelligence",
-      "url": "https://www.jwai.org",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-03T15:36:43Z",
-      "score": 6,
-      "comments": 0
+      "score": 393,
+      "comments": 734
     },
     {
       "title": "I quit OpenAI because its culture is broken",
@@ -680,8 +668,8 @@
       "description": "https://archive.ph/5GQx8 https://www.theguardian.com/technology/2026/oct/03/openai-sa...",
       "source": "Hacker News",
       "published_at": "2026-10-03T13:46:34Z",
-      "score": 139,
-      "comments": 406
+      "score": 467,
+      "comments": 781
     },
     {
       "title": "Kolibri: A Sovereign Open-Weight Model",
@@ -689,35 +677,8 @@
       "description": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri",
       "source": "Hacker News",
       "published_at": "2026-10-03T09:36:04Z",
-      "score": 561,
-      "comments": 311
-    },
-    {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "url": "https://offrun.dev/",
-      "description": "Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.",
-      "source": "Hacker News",
-      "published_at": "2026-10-03T08:40:17Z",
-      "score": 74,
-      "comments": 61
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://allenai.org/blog/astabrief",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-02T21:25:25Z",
-      "score": 26,
-      "comments": 3
-    },
-    {
-      "title": "Every SaaS business will become a harness around a model",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-02T21:06:56Z",
-      "score": 162,
-      "comments": 107
+      "score": 659,
+      "comments": 327
     },
     {
       "title": "Three AI agents, two countries, and one uneven world wide web",
@@ -725,8 +686,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-02T20:39:05Z",
-      "score": 20,
-      "comments": 0
+      "score": 42,
+      "comments": 1
     },
     {
       "title": "Show HN: Made an open-source Lego AI generator",
@@ -734,8 +695,8 @@
       "description": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time. When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc. Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model. So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right? Then, after months of iterations and trying one thing after the other... it worked!!! Long story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models. I've packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter. Here's a bunch of exmaples: https://anteloc.github.io/index-samples.html . If you are curious about the internals of an .mpd model, the \"what was the agent picturing on its mind\", open the .mpd file that got your attention on a text editor, and read the first line under the ones starting with \"0 FILE\". I'd really appreciate feedback and comments, let's see where this goes =)",
       "source": "Hacker News",
       "published_at": "2026-10-02T20:00:15Z",
-      "score": 145,
-      "comments": 49
+      "score": 154,
+      "comments": 50
     },
     {
       "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
@@ -743,8 +704,8 @@
       "description": "pi pod runs sessions of the pi coding agent in isolated sandboxes (\"pods\") on a server you run, in composable environments. ---- Since moving my company towards AI-native work, I have been really frustrated by the state of \"agentic engineering\" environments. Products by the labs (claude code, codex) lock you into a single provider for your tokens. Agnostic solutions (factory, devin, arguably cursor) make you pay per-token costs. None of these products allow you to fully customize the harness, and of course they all run on someone else's infrastructure. I've been an early and fervent user of pi, which I think is fantastically simple and beautiful software. I have felt it needs an environment for it to work across platforms with fully functional composability for teams. This is very much a work in progress, but for my team this has been a much needed solution and has helped us tremendously. I hope you will give it a try and let me know how you would like it to improve.",
       "source": "Hacker News",
       "published_at": "2026-10-02T19:10:38Z",
-      "score": 86,
-      "comments": 31
+      "score": 114,
+      "comments": 47
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
@@ -752,8 +713,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-02T18:01:16Z",
-      "score": 345,
-      "comments": 98
+      "score": 359,
+      "comments": 102
     },
     {
       "title": "With most information hidden, the game Stratego had stumped AI until now",
@@ -761,8 +722,8 @@
       "description": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312",
       "source": "Hacker News",
       "published_at": "2026-10-02T14:11:24Z",
-      "score": 280,
-      "comments": 144
+      "score": 286,
+      "comments": 148
     },
     {
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
@@ -770,36 +731,27 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-02T02:51:27Z",
-      "score": 328,
-      "comments": 118
+      "score": 336,
+      "comments": 128
     },
     {
-      "title": "The OpenAI Decisions API needs a confidence you can trust",
-      "url": "https://anth.us/blog/openai-decisions-api-preview/",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-01T22:33:40Z",
-      "score": 32,
-      "comments": 15
+      "published_at": "2026-10-01T17:32:43Z",
+      "score": 202,
+      "comments": 270
     },
     {
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-01T22:22:21Z",
-      "score": 344,
-      "comments": 334
-    },
-    {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
-      "description": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now? Almost. They just need a context/semantic layer to ensure query correctness and some kind of artifact for publishing findings and visualizations. We built an open source project called Graphene that provides these tools: - Semantic layer that’s more token-efficient than YAML, more deterministic than Markdown (eg, composable, callable metric macros), with a query API that’s well in-distribution (SQL). - MDX-like files for dashboards (Markdown with inlined SQL + HTML components for viz with support for CSS and Javascript) - Connects to popular data warehouses or local DuckDB Your coding agent will build really in-depth reports and can ofc leverage any other skills or context that you've made available to it. We dogfood it inside a monorepo with our website, app source code, planning docs, etc so the agent has access to a ton of context. It’s also nice that the agent can add instrumentation, adjust pipelines and transformations, and add dashboards all in one PR. If you want to try it out, just point your coding agent at https://github.com/graphene-data/graphene/blob/main/docs/set... and ask it to set up Graphene. If you don’t have data to play with, you can clone our example project: 1. `git clone < https://github.com/graphene-data/example-flights.git` > 2. `cd example-flights && npm install` Would love any/all feedback!",
-      "source": "Hacker News",
-      "published_at": "2026-10-01T21:29:52Z",
-      "score": 28,
-      "comments": 7
+      "published_at": "2026-10-01T16:18:57Z",
+      "score": 635,
+      "comments": 217
     }
   ],
-  "updated_at": "2026-10-04T05:49:24.803734Z"
+  "updated_at": "2026-10-05T05:35:27.315121Z"
 }
