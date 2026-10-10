@@ -3,22 +3,22 @@
     {
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-09T06:05:23.570830Z",
+      "fetched_at": "2026-10-10T05:48:45.094905Z",
       "language": "HTML",
-      "today_stars": 1160
+      "today_stars": 1739
     },
     {
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-09T06:05:23.571780Z",
-      "language": "TypeScript",
-      "today_stars": 670
+      "fetched_at": "2026-10-10T05:48:45.095257Z",
+      "language": "Go",
+      "today_stars": 326
     },
     {
       "title": "anthropics/knowledge-work-plugins",
@@ -26,154 +26,198 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-09T06:05:23.572321Z",
+      "fetched_at": "2026-10-10T05:48:45.095551Z",
       "language": "Python",
-      "today_stars": 392
+      "today_stars": 709
+    },
+    {
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-10T05:48:45.095880Z",
+      "language": "Python",
+      "today_stars": 95
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-10T05:48:45.096171Z",
+      "language": "JavaScript",
+      "today_stars": 436
+    },
+    {
+      "title": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-10T05:48:45.096999Z",
+      "language": "未标注",
+      "today_stars": 65
     }
   ],
   "product_hunt": [
     {
-      "title": "Cekura Bench",
-      "url": "https://www.producthunt.com/products/vocera",
-      "description": "Speech-to-speech model benchmarks on live phone calls Discussion | Link",
+      "title": "Busabase",
+      "url": "https://www.producthunt.com/products/busabase",
+      "description": "The general system of record for AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-06T17:39:40Z"
+      "published_at": "2026-07-06T08:40:40Z"
     },
     {
-      "title": "AgentGuard",
-      "url": "https://www.producthunt.com/products/agentguard-5",
-      "description": "Scan AI agent Skills for risks before you install them Discussion | Link",
+      "title": "Cakie",
+      "url": "https://www.producthunt.com/products/cakie-2",
+      "description": "Turn screen recordings into prompts for AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-06T16:58:06Z"
+      "published_at": "2026-10-06T01:16:50Z"
     },
     {
-      "title": "Off the Record",
-      "url": "https://www.producthunt.com/products/off-the-record-2",
-      "description": "Block AI from transcribing your meetings. Discussion | Link",
+      "title": "OpenPilot",
+      "url": "https://www.producthunt.com/products/openpilot",
+      "description": "Open-source desktop AI agent for any model you choose Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T10:57:12Z"
+      "published_at": "2026-10-09T05:53:51Z"
     },
     {
-      "title": "Claude for Google Workspace",
-      "url": "https://www.producthunt.com/products/claude-for-google-workspace",
-      "description": "Bring Claude directly into Google Docs, Sheets & Slides Discussion | Link",
+      "title": "Microsoft Surface Laptop Ultra",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "description": "Run 120B AI models locally on Microsoft's new Surface Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T02:20:15Z"
+      "published_at": "2026-10-08T02:29:49Z"
     },
     {
-      "title": "ClawCall",
-      "url": "https://www.producthunt.com/products/clawcall",
-      "description": "Your AI agent's phone to dial, hold, and reports back Discussion | Link",
+      "title": "Porch",
+      "url": "https://www.producthunt.com/products/porch-6",
+      "description": "local project summaries and cost tracking for AI coding Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T05:27:12Z"
+      "published_at": "2026-10-09T04:53:12Z"
     },
     {
-      "title": "Udon",
-      "url": "https://www.producthunt.com/products/udon",
-      "description": "Control deck for your Mac home server with AI sysadmin. Discussion | Link",
+      "title": "Ambiguous Workspace",
+      "url": "https://www.producthunt.com/products/ambiguous-workspace",
+      "description": "18 productivity apps built for AI agents and humans Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-05T20:32:48Z"
+      "published_at": "2026-10-07T05:46:52Z"
     },
     {
-      "title": "Hallmonitor",
-      "url": "https://www.producthunt.com/products/hallmonitor",
-      "description": "See and answer every coding agent from your notch Discussion | Link",
+      "title": "Opposable",
+      "url": "https://www.producthunt.com/products/opposable",
+      "description": "Computer use for phones to give your AI thumbs Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T16:49:17Z"
+      "published_at": "2026-10-07T20:54:42Z"
     },
     {
-      "title": "pmtui",
-      "url": "https://www.producthunt.com/products/pmtui",
-      "description": "Autopilot for long-running AI sessions in terminal Discussion | Link",
+      "title": "Melete",
+      "url": "https://www.producthunt.com/products/melete",
+      "description": "An Always On Personal Agent With a Team Workspace Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T04:13:17Z"
+      "published_at": "2026-09-30T06:38:46Z"
     },
     {
-      "title": "Hark",
-      "url": "https://www.producthunt.com/products/hark-3",
-      "description": "The personal AI that handles life before you have to Discussion | Link",
+      "title": "iwant",
+      "url": "https://www.producthunt.com/products/iwant",
+      "description": "Find available GPUs and host open models in one command Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T01:29:22Z"
+      "published_at": "2026-10-09T04:20:47Z"
     },
     {
-      "title": "Liquid Inference",
-      "url": "https://www.producthunt.com/products/liquid-inference",
-      "description": "LLM router where providers compete for every prompt Discussion | Link",
+      "title": "Gemini Agent for Google Cloud",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "The work agent that runs on both Gemini and Claude Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T08:14:41Z"
+      "published_at": "2026-10-08T12:31:02Z"
     },
     {
-      "title": "NOVA CLI v1.0",
-      "url": "https://www.producthunt.com/products/nova-18",
-      "description": "AI developer in your terminal Discussion | Link",
+      "title": "Playground by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "description": "Create, play, and share your own games with Google AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T15:00:40Z"
+      "published_at": "2026-10-08T03:24:04Z"
     },
     {
-      "title": "KloudMate 2.0",
-      "url": "https://www.producthunt.com/products/kloudmate",
-      "description": "AI-powered Full-Stack Observability & Agentic SRE-Ops Discussion | Link",
+      "title": "Comcent",
+      "url": "https://www.producthunt.com/products/comcent",
+      "description": "AI-ready voice infrastructure on your own SIP trunk Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-31T09:31:23Z"
+      "published_at": "2026-10-07T10:05:19Z"
     },
     {
-      "title": "Polylane for Vercel",
-      "url": "https://www.producthunt.com/products/polylane",
-      "description": "An AI on-call engineer for your Vercel apps Discussion | Link",
+      "title": "Odyssey 3",
+      "url": "https://www.producthunt.com/products/odyssey-3",
+      "description": "A world model that simulates physics in real time Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T22:05:44Z"
+      "published_at": "2026-10-08T16:51:49Z"
     },
     {
-      "title": "Side",
-      "url": "https://www.producthunt.com/products/side",
-      "description": "A little AI chat panel that lives beside your Mac's Dock Discussion | Link",
+      "title": "Pine Computer",
+      "url": "https://www.producthunt.com/products/pine-computer",
+      "description": "A cloud computer built for AI to get jobs done Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-06T13:42:28Z"
+      "published_at": "2026-10-08T06:42:34Z"
     },
     {
-      "title": "Semwright",
-      "url": "https://www.producthunt.com/products/semwright",
-      "description": "Give AI agents structured access to real software Discussion | Link",
+      "title": "Sorted",
+      "url": "https://www.producthunt.com/products/sorted-6",
+      "description": "Your private AI file organizer for Mac Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T01:08:23Z"
+      "published_at": "2026-10-08T22:52:23Z"
     },
     {
-      "title": "Termaxa",
-      "url": "https://www.producthunt.com/products/termaxa",
-      "description": "See what an AI agent's command would destroy before it runs Discussion | Link",
+      "title": "AgentSDR",
+      "url": "https://www.producthunt.com/products/agentsdr",
+      "description": "Open-source AI SDR Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T21:24:04Z"
+      "published_at": "2026-10-06T09:07:53Z"
     },
     {
-      "title": "offstage",
-      "url": "https://www.producthunt.com/products/offstage",
-      "description": "Your computer-use agent gets a Mac account, not your screen Discussion | Link",
+      "title": "Voicera",
+      "url": "https://www.producthunt.com/products/voicera-3",
+      "description": "Turn natural speech into polished text, perfected with AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T01:49:22Z"
+      "published_at": "2026-10-02T12:20:23Z"
     },
     {
-      "title": "Tractionwave",
-      "url": "https://www.producthunt.com/products/tractionwave",
-      "description": "AI attention heatmaps for ads to check before you spend Discussion | Link",
+      "title": "Refs",
+      "url": "https://www.producthunt.com/products/refs",
+      "description": "Give Claude better references for your videos Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T22:16:39Z"
+      "published_at": "2026-10-08T14:22:26Z"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.producthunt.com/products/claude-haiku-5-5",
-      "description": "Anthropic's fastest and most capable Haiku yet Discussion | Link",
+      "title": "OpenCharm",
+      "url": "https://www.producthunt.com/products/opencharm",
+      "description": "Open-source body for the AI agent you already run Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T18:11:57Z"
+      "published_at": "2026-10-07T15:54:37Z"
     },
     {
-      "title": "Clippo",
-      "url": "https://www.producthunt.com/products/clippo-2",
-      "description": "Orchestrate AI agent teams on a visual canvas Discussion | Link",
+      "title": "Together Link",
+      "url": "https://www.producthunt.com/products/together-ai",
+      "description": "Use open models in your harness Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-07T19:03:43Z"
+      "published_at": "2026-10-05T17:52:00Z"
     }
   ],
   "openai": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "source": "OpenAI",
+      "published_at": "2026-10-09T07:00:00Z"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "source": "OpenAI",
+      "published_at": "2026-10-09T07:00:00Z"
+    },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
@@ -299,20 +343,6 @@
       "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "source": "OpenAI",
       "published_at": "2026-10-01T00:00:00Z"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "source": "OpenAI",
-      "published_at": "2026-09-30T10:30:00Z"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "source": "OpenAI",
-      "published_at": "2026-09-30T10:00:00Z"
     }
   ],
   "anthropic": [
@@ -531,185 +561,185 @@
   ],
   "hacker_news": [
     {
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "url": "https://github.com/edrisranjbar/lifeos",
+      "title": "If AI is conscient, then we are making slaves",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-09T00:02:19Z",
-      "score": 32,
-      "comments": 9
+      "published_at": "2026-10-10T04:51:26Z",
+      "score": 12,
+      "comments": 14
     },
     {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
+      "title": "Ethernet switch device driver model (switchdev)",
+      "url": "https://docs.kernel.org/networking/switchdev.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T23:29:43Z",
-      "score": 88,
-      "comments": 114
-    },
-    {
-      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T20:48:43Z",
+      "published_at": "2026-10-10T03:54:36Z",
       "score": 4,
       "comments": 0
     },
     {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T20:46:25Z",
-      "score": 105,
-      "comments": 14
-    },
-    {
-      "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-      "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T20:26:28Z",
-      "score": 11,
-      "comments": 2
-    },
-    {
-      "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
-      "url": "https://github.com/vahmoh25/Veda",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T19:35:13Z",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T19:17:51Z",
-      "score": 60,
-      "comments": 59
-    },
-    {
-      "title": "OpenAI cannot make AI safe on its own [pdf]",
-      "url": "https://mikitabalesni.com/letter/letter.pdf",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T19:12:38Z",
-      "score": 18,
+      "published_at": "2026-10-10T03:42:11Z",
+      "score": 17,
       "comments": 7
     },
     {
-      "title": "Can AI replace mathematicians? Vienna researchers weigh in",
-      "url": "https://rudolphina.univie.ac.at/en/can-ai-replace-mathematicians-university-vienna",
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T19:04:19Z",
+      "published_at": "2026-10-10T00:07:08Z",
+      "score": 16,
+      "comments": 1
+    },
+    {
+      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T23:37:34Z",
+      "score": 9,
+      "comments": 1
+    },
+    {
+      "title": "AI system submits false homicide tip to Philadelphia police",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T23:24:23Z",
       "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T18:55:18Z",
-      "score": 44,
-      "comments": 12
-    },
-    {
-      "title": "AI Makes Your DRM Irrelevant",
-      "url": "http://fantaize.net/posts/drm/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T18:52:29Z",
-      "score": 6,
       "comments": 2
     },
     {
-      "title": "Show HN: Aura – a self-hosted, multi-user AI agent with per-person graph memory",
-      "url": "https://github.com/chetto1983/Aura",
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T18:50:13Z",
-      "score": 6,
-      "comments": 2
-    },
-    {
-      "title": "Show HN: Crashlytics for AI Coding Agents",
-      "url": "https://github.com/0xfirattamur/xcrashlytics",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T18:33:49Z",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "url": "https://pocketty.app/",
-      "description": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done. I made this in anger/desperation for the latter half of my recent paternity leave. Nap traps are sweet, but there's only so much doom-scrolling and movie-watching I can handle... In any event, I've been using it for the last couple months and no longer have to be my desk anymore to be productive. Now the nap-traps are still productive (when i want them to be) ! How it works: - The app talks to your computer directly over plain SSH. Tailscale is the easy way to reach it from anywhere but any SSH host you can reach works. - A small Rust daemon on the host watches herdr. When a pane needs you, it seals the alert to your phone's key with HPKE (X25519, ChaCha20-Poly1305). A stateless relay (pocketty's) on Cloudflare Workers passes the sealed bytes to APNs (Apple Push Notification servers), and a notification extension opens them on the phone. The relay can't read them and keeps nothing. - Your SSH key is made in the Secure Enclave and can't be exported. - The terminal uses libghostty-vt for state and draws with wgpu on Metal, so full-screen TUIs look like they do on your desk, albeit narrower. - Diffs for each agent turn, a file browser, and previews of `localhost` dev servers your agent starts, all through the same SSH connection. No port forwarding to set up. herdr and the daemon are optional. Without them, it's a normal SSH client. There's no account to set up and no analytics or tracking in the app. The app runs a 14-day free trial, with full feature access. Then, if you're as happy as I am with it, then it can be yours forever with a one-time purchase: $99 for the first two weeks (launch promo) then $129 after that. Happy to answer anything about the sealed push setup or running libghostty on iOS.",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T18:11:52Z",
-      "score": 27,
-      "comments": 13
-    },
-    {
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T16:45:58Z",
-      "score": 377,
-      "comments": 248
-    },
-    {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "description": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making. So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts. The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo: https://github.com/opper-ai/jevman-benchmark/blob/main/CONTR... You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try. It's pretty fun to play and surprisingly difficult to beat jev's highscore. Any feedback is more than welcome!",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T16:34:13Z",
-      "score": 53,
-      "comments": 10
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "description": "I was using this mobile to reduce my screentime. Recently got the idea to put ai agent in it. Started with installing android, but failed as it has only 48MB RAM. Then reverse-engineered for few days and finally able use AI Agent in this and automated few actions. Thanks",
-      "source": "Hacker News",
-      "published_at": "2026-10-08T14:18:51Z",
-      "score": 27,
+      "published_at": "2026-10-09T23:06:25Z",
+      "score": 41,
       "comments": 12
     },
     {
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "url": "https://github.com/SamsungLabs/LittleBit",
+      "title": "Can AI automate AI R&D yet?",
+      "url": "https://epoch.ai/publications/innovationeval",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T13:29:46Z",
-      "score": 81,
-      "comments": 23
+      "published_at": "2026-10-09T22:14:40Z",
+      "score": 6,
+      "comments": 8
     },
     {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-08T07:07:34Z",
-      "score": 133,
-      "comments": 58
+      "published_at": "2026-10-09T22:00:35Z",
+      "score": 128,
+      "comments": 99
     },
     {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "description": "https://github.com/openai/math/blob/main/history.md",
+      "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
+      "url": "https://github.com/tlack/babytalk",
+      "description": "I have been playing with a lot of $20 devices with no keyboards or screens. I wanted to use speech to interact with them, but without it having to run through a cloud service or use a fixed command vocabulary. I worked with Claude to implement high performance 4bit int kernels for the ESP32S3 and P4 and quantize some larger STT and TTS models. Surprisingly, it's quite usable on these tiny boards. Also includes a finetuned model that can better cope with my diesel drones, hacking coughs, and mumbling. Works with Micropython (RAM scarcity issues) and AtomVM (better).",
       "source": "Hacker News",
-      "published_at": "2026-10-08T07:05:40Z",
-      "score": 278,
-      "comments": 558
+      "published_at": "2026-10-09T21:33:56Z",
+      "score": 8,
+      "comments": 5
+    },
+    {
+      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+      "url": "https://codeberg.org/ethical-foss/open-slopware",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T19:50:16Z",
+      "score": 28,
+      "comments": 14
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to the police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T19:44:59Z",
+      "score": 19,
+      "comments": 2
+    },
+    {
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T18:38:44Z",
+      "score": 174,
+      "comments": 56
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T17:42:12Z",
+      "score": 74,
+      "comments": 14
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T17:02:31Z",
+      "score": 326,
+      "comments": 237
+    },
+    {
+      "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+      "description": "https://archive.ph/ANnky",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T16:50:01Z",
+      "score": 23,
+      "comments": 24
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T14:56:13Z",
+      "score": 51,
+      "comments": 21
+    },
+    {
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "description": "https://archive.is/EFOhL",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T12:21:24Z",
+      "score": 181,
+      "comments": 163
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T11:36:20Z",
+      "score": 131,
+      "comments": 69
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-09T11:03:48Z",
+      "score": 391,
+      "comments": 171
     }
   ],
-  "updated_at": "2026-10-09T06:05:26.113337Z"
+  "updated_at": "2026-10-10T05:48:47.202378Z"
 }
