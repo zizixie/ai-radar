@@ -6,141 +6,74 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.203515Z",
+      "fetched_at": "2026-10-12T05:52:57.038004Z",
       "language": "HTML",
-      "today_stars": 1190
-    },
-    {
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.203733Z",
-      "language": "TypeScript",
-      "today_stars": 178
-    },
-    {
-      "title": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.204219Z",
-      "language": "C++",
-      "today_stars": 26
-    },
-    {
-      "title": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.204378Z",
-      "language": "Python",
-      "today_stars": 461
-    },
-    {
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.204672Z",
-      "language": "Python",
-      "today_stars": 96
-    },
-    {
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.204836Z",
-      "language": "Python",
-      "today_stars": 625
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-11T05:42:56.205024Z",
-      "language": "未标注",
-      "today_stars": 278
+      "today_stars": 1083
     }
   ],
   "product_hunt": [
     {
-      "title": "Onepin",
-      "url": "https://www.producthunt.com/products/onepin",
-      "description": "AI voiceover with every name, price and date said right Discussion | Link",
+      "title": "Ghost Core",
+      "url": "https://www.producthunt.com/products/ghost-core",
+      "description": "A personal AI computer that runs entirely on-device Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-21T23:58:07Z"
+      "published_at": "2026-10-05T17:44:06Z"
     },
     {
-      "title": "API Claws by Buda",
-      "url": "https://www.producthunt.com/products/buda-2",
-      "description": "Build self-improving agent harness with one API Discussion | Link",
+      "title": "HireKey",
+      "url": "https://www.producthunt.com/products/hirekey",
+      "description": "Your recruiter-informed AI copilot for tech job search Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-07-06T09:04:47Z"
+      "published_at": "2026-10-02T08:43:03Z"
     },
     {
-      "title": "Maildun for Mac",
-      "url": "https://www.producthunt.com/products/maildun-for-mac",
-      "description": "Design on-brand emails by hand, with AI, or over MCP Discussion | Link",
+      "title": "OpenScreen 2",
+      "url": "https://www.producthunt.com/products/openscreen-2",
+      "description": "Record your demo and let your AI agent do the edits Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-10T01:06:33Z"
+      "published_at": "2026-09-28T08:10:44Z"
     },
     {
-      "title": "Lune",
-      "url": "https://www.producthunt.com/products/lune-research",
-      "description": "The search engine built for scientific AI agents Discussion | Link",
+      "title": "Pickle Sensei",
+      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
+      "description": "AI pickleball coach for solo practice, one swing at a time Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-10T03:56:36Z"
+      "published_at": "2026-10-03T01:00:11Z"
     },
     {
-      "title": "Microsoft-Decision-1",
-      "url": "https://www.producthunt.com/products/microsoft-decision-1",
-      "description": "Microsoft’s decision model for agents and workflows Discussion | Link",
+      "title": "Farol",
+      "url": "https://www.producthunt.com/products/farol-3",
+      "description": "The macOS terminal that shows which coding agent needs you Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-09T18:50:17Z"
+      "published_at": "2026-10-10T10:38:06Z"
     },
     {
-      "title": "ReSO AI",
-      "url": "https://www.producthunt.com/products/reso",
-      "description": "Get discovered & recommended when customers ask AI Discussion | Link",
+      "title": "Halo",
+      "url": "https://www.producthunt.com/products/halo-11",
+      "description": "Notifications, dictation and AI agents in your Mac's notch Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-09-09T15:34:33Z"
+      "published_at": "2026-10-08T08:48:13Z"
     },
     {
-      "title": "Claude Dashboards & Motion",
-      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
-      "description": "Ask Claude for live dashboards and animated explainers Discussion | Link",
+      "title": "FloorGen",
+      "url": "https://www.producthunt.com/products/floorgen",
+      "description": "Draw the house, or just ask. Free floor plans with AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-09T15:13:51Z"
+      "published_at": "2026-10-09T18:19:20Z"
     },
     {
-      "title": "KernelAI",
-      "url": "https://www.producthunt.com/products/kernelai",
-      "description": "Private, offline AI for iPhone and Android Discussion | Link",
+      "title": "Agibot",
+      "url": "https://www.producthunt.com/products/agibot",
+      "description": "The always-on personal AI agent for your Mac. $0 forever Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-09T16:58:13Z"
+      "published_at": "2026-10-10T13:04:39Z"
     },
     {
-      "title": "ej",
-      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
-      "description": "An 11MB local model for typed decisions in one pass Discussion | Link",
+      "title": "Edgee Mod for Claude Code",
+      "url": "https://www.producthunt.com/products/edgee",
+      "description": "Use any model inside Claude Code, keep your Claude plan Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-09T18:42:37Z"
-    },
-    {
-      "title": "Hypervibe",
-      "url": "https://www.producthunt.com/products/hypervibe-2",
-      "description": "Run your AI coding agents on one infinite board Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T00:23:22Z"
+      "published_at": "2026-10-08T08:41:39Z"
     },
     {
       "title": "AgentDock",
@@ -150,11 +83,25 @@
       "published_at": "2026-10-09T21:55:39Z"
     },
     {
-      "title": "PocketWebTools for Mac",
-      "url": "https://www.producthunt.com/products/pocketwebtools",
-      "description": "Local AI chat, transcription and video tools in one Mac app Discussion | Link",
+      "title": "API Claws by Buda",
+      "url": "https://www.producthunt.com/products/buda-2",
+      "description": "Build self-improving agent harness with one API Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-09T07:00:05Z"
+      "published_at": "2026-07-06T09:04:47Z"
+    },
+    {
+      "title": "ej",
+      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+      "description": "An 11MB local model for typed decisions in one pass Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-09T18:42:37Z"
+    },
+    {
+      "title": "Lune",
+      "url": "https://www.producthunt.com/products/lune-research",
+      "description": "The search engine built for scientific AI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-10T03:56:36Z"
     },
     {
       "title": "Museum of Models",
@@ -164,53 +111,11 @@
       "published_at": "2026-10-08T02:10:32Z"
     },
     {
-      "title": "OpenVids",
-      "url": "https://www.producthunt.com/products/openvids",
-      "description": "Open-source video editor you run by chatting with AI agents Discussion | Link",
+      "title": "PocketWebTools for Mac",
+      "url": "https://www.producthunt.com/products/pocketwebtools",
+      "description": "Local AI chat, transcription and video tools in one Mac app Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T19:58:50Z"
-    },
-    {
-      "title": "Trophy MCP Servers",
-      "url": "https://www.producthunt.com/products/trophy-1-0",
-      "description": "Interact with Trophy from your favourite AI tools Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T15:06:32Z"
-    },
-    {
-      "title": "iwant",
-      "url": "https://www.producthunt.com/products/iwant",
-      "description": "Find available GPUs and host open models in one command Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-09T04:20:47Z"
-    },
-    {
-      "title": "Comcent",
-      "url": "https://www.producthunt.com/products/comcent",
-      "description": "AI-ready voice infrastructure on your own SIP trunk Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-07T10:05:19Z"
-    },
-    {
-      "title": "Ambiguous Workspace",
-      "url": "https://www.producthunt.com/products/ambiguous-workspace",
-      "description": "18 productivity apps built for AI agents and humans Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-07T05:46:52Z"
-    },
-    {
-      "title": "Melete",
-      "url": "https://www.producthunt.com/products/melete",
-      "description": "An Always On Personal Agent With a Team Workspace Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-30T06:38:46Z"
-    },
-    {
-      "title": "Sorted",
-      "url": "https://www.producthunt.com/products/sorted-6",
-      "description": "Your private AI file organizer for Mac Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T22:52:23Z"
+      "published_at": "2026-10-09T07:00:05Z"
     }
   ],
   "openai": [
@@ -571,40 +476,130 @@
   ],
   "hacker_news": [
     {
-      "title": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-11T03:42:47Z",
-      "score": 12,
+      "published_at": "2026-10-12T02:10:20Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T01:57:00Z",
+      "score": 17,
+      "comments": 0
+    },
+    {
+      "title": "Models as Insider Risks in the Super Intelligence Era",
+      "url": "https://twitter.com/satyanadella/status/2108931348857827686",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T00:07:52Z",
+      "score": 7,
+      "comments": 1
+    },
+    {
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T23:47:59Z",
+      "score": 14,
+      "comments": 2
+    },
+    {
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T23:09:56Z",
+      "score": 10,
       "comments": 3
     },
     {
-      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+      "url": "https://thelastwave.substack.com/p/theres-no-going-back",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-11T03:41:53Z",
-      "score": 33,
-      "comments": 47
+      "published_at": "2026-10-11T21:13:47Z",
+      "score": 13,
+      "comments": 0
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T20:35:03Z",
+      "score": 15,
+      "comments": 0
+    },
+    {
+      "title": "Multi-agent harnesses need separate message channels",
+      "url": "https://harshalgajjar.com/blog/multi-agent-harnesses-need-separate-message-channels",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T20:34:32Z",
+      "score": 11,
+      "comments": 3
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T20:20:52Z",
+      "score": 373,
+      "comments": 530
+    },
+    {
+      "title": "Tensordyne is making AI compute more efficient using logarithms",
+      "url": "https://www.zach.be/p/tensordyne-is-making-ai-compute-more",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T13:51:59Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T11:03:21Z",
+      "score": 87,
+      "comments": 31
+    },
+    {
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T10:47:21Z",
+      "score": 96,
+      "comments": 95
+    },
+    {
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "url": "https://news.ycombinator.com/item?id=50039291",
+      "description": "I sometimes run across comments where someone says they want an open-source router. I wonder if this is a viable idea for someone to start as a small company. What makes me hesitant is that, first, it looks like this already exists in several wireless and non-wireless routers (like the GL.iNet Flint or OpenWrt One), and second, I assume hackers would just make their own. I have been flashing DD-WRT to my routers for many years. My current setup is an Archer C9 that connects via cable to an Archer C8, which then wirelessly bridges to an R7000. All of them run DD-WRT. If I had \"fun money,\" I would buy a low-power SFF PC with dual NICs, run OPNsense or OpenWrt, and use the wireless routers strictly as access points. Since I don't have that much to spend, I look for older DD-WRT friendly routers, usually under $30, on Craigslist or Facebook Marketplace, and flash them myself. I see that Ubiquiti and MikroTik make quality routers with proprietary OSes for around $65 new. Protectli and Netgate offer pfSense routers starting at $259.00. The GL.iNet Flint 2 is $169.00, and the OpenWrt One is $89. According to ResellBot (because eBay now requires a login to see sold listings with prices), the sold \"DD-WRT Routers\" generally go for under $160. These include the WRT3200ACM, Netgear AC1750, Linksys EA9300, and Linksys R7350. When I asked an AI how I would go about judging interest, building, raising funds, and manufacturing, it seems doable but expensive (said $125,000 minimum in total made up of $30,000 for regulatory approval, engineering and protoyping $10,000+) and time-consuming just to get to a \"golden prototype\" for demos. So if I were a \"hacker\" and wanted an open-source router, depending on my funds, I would either: 1. Flash DD-WRT to an existing router (used or new). 2. Buy one with it already installed, like the OpenWrt One or a Protectli device. 3. Get an SFF PC and build my own. I remember when some comments about DropBox said it was a waste because any hacker could make that. I also know DropBox was marketed to the average person and businesses. I don't really see how a hacker friendly router could take off like that unless hackers are choosing the hardware and setting up the networks for average people. And I assume that most people setting up the networks want different qualities like brand name recognition, ease and speed of purchasing equipment (Walmart or BestBuy), and the ability to point a customer or family member to the number of solid reviews and articles saying it a good router to qualify their choices. So, do you actually want a router that you can buy with DD-WRT pre-installed?",
+      "source": "Hacker News",
+      "published_at": "2026-10-11T02:37:33Z",
+      "score": 48,
+      "comments": 49
+    },
+    {
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-11T02:02:38Z",
-      "score": 68,
-      "comments": 54
-    },
-    {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-11T00:22:33Z",
-      "score": 39,
-      "comments": 9
+      "score": 188,
+      "comments": 137
     },
     {
       "title": "Build your own decision model",
@@ -612,35 +607,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-10T22:50:10Z",
-      "score": 195,
-      "comments": 39
-    },
-    {
-      "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
-      "url": "https://github.com/academa-labs/manimgx",
-      "description": "Video as code took off with the Opus 5.5 release. People now make videos by writing code, with Remotion, HyperFrames and others. We wanted the same for 3D videos. You can use something like Blender, but it's heavy to install and slow to render. So we made ManimGX: - Lightweight: a 65–110 MB download, depending on the OS - Easy to install: pip install manimgx (Python 3.13+), with no system dependencies - Cross-platform: macOS, Windows and Linux, and even the browser via Pyodide and WebGPU - Blazingly fast: a Rust + wgpu engine, 90.6× faster than Manim CE and 18.7× faster than Blender Workbench, from launch to finished MP4 - Compatible with Manim Community Edition's API, with LaTeX and Typst math built in Now it's much easier for anyone with a coding agent to make 3D computer graphics videos. Repo: https://github.com/academa-labs/manimgx Docs: https://manimgx.academa.ai X post: https://x.com/sinaatalay/status/2109045945149395421 Happy to answer any questions!",
-      "source": "Hacker News",
-      "published_at": "2026-10-10T22:33:30Z",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "A Stark Warning from a Former AI Doomer",
-      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-10T22:19:34Z",
-      "score": 13,
-      "comments": 2
-    },
-    {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-10T21:19:42Z",
-      "score": 30,
-      "comments": 8
+      "score": 454,
+      "comments": 102
     },
     {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
@@ -648,8 +616,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-10T18:48:35Z",
-      "score": 146,
-      "comments": 96
+      "score": 176,
+      "comments": 114
     },
     {
       "title": "Bitwarden Dual License Model",
@@ -657,8 +625,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-10T14:32:50Z",
-      "score": 366,
-      "comments": 263
+      "score": 397,
+      "comments": 300
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
@@ -666,90 +634,27 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-10T10:52:09Z",
-      "score": 273,
-      "comments": 126
+      "score": 323,
+      "comments": 150
     },
     {
-      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "description": "Hello everyone, I wanted to share this small project that I have. It's born out of a necessity that I had, because Proton doesn't ship a Linux version of the drive yet (it's apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best. But for the time being I really needed to mount my Proton drive on my Linux machine the way I mounted it on my Mac, so I (and my faithful AI slave) did this small utility that allows you to mount your Proton Drive in a FUSE FS like if it is a local folder. It's fully written in Go because Proton's drive SDK and API libs are all in Go, and there's a community project on top of the reverse engineered proton API there too. I am not a Go developer, I know the foundations, so of course I used AI quite a lot, I am not super proud of it, but I am using it daily and testing it myself for a few months before releasing here. Hope you like it, feedbacks are welcome, just please be mindful of the person on the other side :)",
+      "source": "Hacker News",
+      "published_at": "2026-10-08T09:10:42Z",
+      "score": 119,
+      "comments": 44
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-10T09:30:03Z",
-      "score": 56,
-      "comments": 8
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T23:06:25Z",
-      "score": 64,
-      "comments": 20
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T22:14:40Z",
-      "score": 86,
-      "comments": 71
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T22:00:35Z",
-      "score": 208,
-      "comments": 153
-    },
-    {
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T18:38:44Z",
-      "score": 197,
-      "comments": 66
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T17:42:12Z",
-      "score": 198,
-      "comments": 58
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T17:02:31Z",
-      "score": 433,
-      "comments": 346
-    },
-    {
-      "title": "'Breathtaking,' 'Devastating': Mathematics reels after new OpenAI release",
-      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-      "description": "https://archive.ph/ANnky",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T16:50:01Z",
-      "score": 28,
-      "comments": 26
-    },
-    {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-09T14:56:13Z",
-      "score": 178,
-      "comments": 56
+      "published_at": "2026-10-08T07:07:34Z",
+      "score": 299,
+      "comments": 132
     }
   ],
-  "updated_at": "2026-10-11T05:42:58.285623Z"
+  "updated_at": "2026-10-12T05:52:59.708026Z"
 }
