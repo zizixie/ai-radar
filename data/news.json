@@ -6,19 +6,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-13T06:45:16.225734Z",
+      "fetched_at": "2026-10-14T04:49:47.827518Z",
       "language": "TypeScript",
-      "today_stars": 246
-    },
-    {
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-13T06:45:16.226112Z",
-      "language": "Python",
-      "today_stars": 157
+      "today_stars": 969
     },
     {
       "title": "cathrynlavery/diagram-design",
@@ -26,9 +16,19 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-13T06:45:16.226316Z",
+      "fetched_at": "2026-10-14T04:49:47.827744Z",
       "language": "HTML",
-      "today_stars": 2081
+      "today_stars": 1815
+    },
+    {
+      "title": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-14T04:49:47.827898Z",
+      "language": "TypeScript",
+      "today_stars": 190
     },
     {
       "title": "lyogavin/airllm",
@@ -36,28 +36,123 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-13T06:45:16.226525Z",
+      "fetched_at": "2026-10-14T04:49:47.828085Z",
       "language": "Jupyter Notebook",
-      "today_stars": 879
-    },
-    {
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-13T06:45:16.226813Z",
-      "language": "Python",
-      "today_stars": 626
+      "today_stars": 1001
     }
   ],
   "product_hunt": [
     {
-      "title": "Hexis Cloud",
-      "url": "https://www.producthunt.com/products/bevel-software",
-      "description": "One company brain for all your AI agents Discussion | Link",
+      "title": "MentionBird",
+      "url": "https://www.producthunt.com/products/mentionbird",
+      "description": "Ahrefs for AI Search Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-08T14:08:07Z"
+      "published_at": "2026-10-06T06:13:08Z"
+    },
+    {
+      "title": "Takes for Mac",
+      "url": "https://www.producthunt.com/products/takes-for-mac",
+      "description": "Record talking-head videos. Claude Code does the edit. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-11T19:12:39Z"
+    },
+    {
+      "title": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
+      "description": "The AI agent that does the work on your files Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T05:39:15Z"
+    },
+    {
+      "title": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos",
+      "description": "See how simulated buyers react, right in your agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-02T11:57:48Z"
+    },
+    {
+      "title": "PostNitro for Agents",
+      "url": "https://www.producthunt.com/products/postnitro",
+      "description": "Let your AI agent design and publish social posts Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-07T18:23:37Z"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://www.producthunt.com/products/opencode",
+      "description": "The open source AI coding agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-12T20:08:47Z"
+    },
+    {
+      "title": "Agent Craft",
+      "url": "https://www.producthunt.com/products/agent-craft",
+      "description": "100× your social engagement and leads Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-06T09:44:32Z"
+    },
+    {
+      "title": "OpenFlowKit 2",
+      "url": "https://www.producthunt.com/products/openflowkit",
+      "description": "Free, open-source diagrams you and your agent edit together Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T03:05:36Z"
+    },
+    {
+      "title": "Xiryn",
+      "url": "https://www.producthunt.com/products/xiryn",
+      "description": "The open-source personal agent that runs on your computer Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-12T08:12:38Z"
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://www.producthunt.com/products/meta-ai",
+      "description": "Meta’s most capable models for personal agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-12T16:59:33Z"
+    },
+    {
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "description": "Native macOS mail app with one-click sign-in codes and AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T06:49:28Z"
+    },
+    {
+      "title": "CLI Manager",
+      "url": "https://www.producthunt.com/products/cli-manager",
+      "description": "Let one AI agent open and drive your other CLI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-10T07:57:49Z"
+    },
+    {
+      "title": "Toby",
+      "url": "https://www.producthunt.com/products/toby-5",
+      "description": "Realistic mock interviews with an AI hiring manager Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T02:51:31Z"
+    },
+    {
+      "title": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "description": "AI-Native, Simple & Collaborative Wire Harness Design Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T02:17:03Z"
+    },
+    {
+      "title": "Scape",
+      "url": "https://www.producthunt.com/products/scape-3",
+      "description": "Orchestrate agent fleets with custom tools built on macOS Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-11T22:09:39Z"
+    },
+    {
+      "title": "Upsolve Row-Level Security",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "description": "Data permissions your AI agent can't talk its way past Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-07T21:50:34Z"
     },
     {
       "title": "Bearconnect 2.0",
@@ -65,13 +160,6 @@
       "description": "AI-Powered LinkedIn Platform for Content and Outreach Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-09-29T14:54:49Z"
-    },
-    {
-      "title": "Dropstone CLI",
-      "url": "https://www.producthunt.com/products/dropstone-cli",
-      "description": "The self-learning coding agent for your terminal Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-11T19:00:02Z"
     },
     {
       "title": "SquadRoom",
@@ -88,112 +176,21 @@
       "published_at": "2026-10-08T22:03:36Z"
     },
     {
-      "title": "Kudos 3.0",
-      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
-      "description": "The AI that finds money you're missing and gets it back Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-12T01:58:06Z"
-    },
-    {
-      "title": "Manifold MCP",
-      "url": "https://www.producthunt.com/products/manifold-mcp",
-      "description": "SEO, AI answers, social, ads and leads data for your agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-11T21:01:27Z"
-    },
-    {
-      "title": "guilds.run",
-      "url": "https://www.producthunt.com/products/guilds-run",
-      "description": "Create multi-agent workflows that you can trust Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-09T09:50:52Z"
-    },
-    {
-      "title": "ngram 2.0",
-      "url": "https://www.producthunt.com/products/ngram",
-      "description": "Create explainers, screencasts, and AI avatar videos Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-01T17:34:14Z"
-    },
-    {
-      "title": "Google EmbeddingGemma 2",
-      "url": "https://www.producthunt.com/products/embeddinggemma-2",
-      "description": "An open, lightweight multimodal embedding model Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-06T16:08:17Z"
-    },
-    {
-      "title": "Invited - AI Reminder Scanner",
-      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
-      "description": "AI reminder scanner for bills, invites & documents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T05:56:58Z"
-    },
-    {
       "title": "ExcaliClaw",
       "url": "https://www.producthunt.com/products/excaliclaw",
       "description": "Hand-drawn diagrams your AI agent can draw with you Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-11T21:09:34Z"
-    },
-    {
-      "title": "FloorGen",
-      "url": "https://www.producthunt.com/products/floorgen",
-      "description": "Draw the house, or just ask. Free floor plans with AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-09T18:19:20Z"
-    },
-    {
-      "title": "Farol",
-      "url": "https://www.producthunt.com/products/farol-3",
-      "description": "The macOS terminal that shows which coding agent needs you Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T10:38:06Z"
-    },
-    {
-      "title": "Pickle Sensei",
-      "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
-      "description": "AI pickleball coach for solo practice, one swing at a time Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-03T01:00:11Z"
-    },
-    {
-      "title": "Agibot",
-      "url": "https://www.producthunt.com/products/agibot",
-      "description": "The always-on personal AI agent for your Mac. $0 forever Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T13:04:39Z"
-    },
-    {
-      "title": "Edgee Mod for Claude Code",
-      "url": "https://www.producthunt.com/products/edgee",
-      "description": "Use any model inside Claude Code, keep your Claude plan Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T08:41:39Z"
-    },
-    {
-      "title": "Halo",
-      "url": "https://www.producthunt.com/products/halo-11",
-      "description": "Notifications, dictation and AI agents in your Mac's notch Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T08:48:13Z"
-    },
-    {
-      "title": "OpenScreen 2",
-      "url": "https://www.producthunt.com/products/openscreen-2",
-      "description": "Record your demo and let your AI agent do the edits Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-28T08:10:44Z"
-    },
-    {
-      "title": "HireKey",
-      "url": "https://www.producthunt.com/products/hirekey",
-      "description": "Your recruiter-informed AI copilot for tech job search Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-02T08:43:03Z"
     }
   ],
   "openai": [
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source": "OpenAI",
+      "published_at": "2026-10-13T12:00:00Z"
+    },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -326,13 +323,6 @@
       "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "source": "OpenAI",
       "published_at": "2026-10-01T16:00:00Z"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "source": "OpenAI",
-      "published_at": "2026-10-01T00:00:00Z"
     }
   ],
   "anthropic": [
@@ -408,6 +398,34 @@
     }
   ],
   "google_deepmind": [
+    {
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "source": "Google DeepMind",
+      "published_at": "2026-10-14T02:00:14Z"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-10-13T19:43:07Z"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-10-13T16:01:58Z"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-10-13T16:01:52Z"
+    },
     {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -519,217 +537,189 @@
       "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "source": "Google DeepMind",
       "published_at": "2026-08-21T11:59:48Z"
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "description": "Google DeepMind 官方更新。",
-      "source": "Google DeepMind",
-      "published_at": "2026-08-13T17:04:18Z"
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "source": "Google DeepMind",
-      "published_at": "2026-08-12T14:01:59Z"
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "description": "Google DeepMind 官方更新。",
-      "source": "Google DeepMind",
-      "published_at": "2026-08-06T15:06:15Z"
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "source": "Google DeepMind",
-      "published_at": "2026-07-30T15:00:59Z"
     }
   ],
   "hacker_news": [
     {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
+      "url": "https://ai-security-letter.org/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-13T05:57:32Z",
-      "score": 31,
-      "comments": 7
+      "published_at": "2026-10-14T01:45:06Z",
+      "score": 10,
+      "comments": 3
     },
     {
-      "title": "'I use AI to do the things that I'm bad at': Linus Torvalds",
-      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+      "title": "Ask HN: Where has creativity in software gone?",
+      "url": "https://news.ycombinator.com/item?id=50081189",
+      "description": "I sometimes read Show HN, and there is literally no creativity at all: note-taker app after note-taker clone. Everyone is essentially looking at what’s already there, and they say, “Why can’t I create the exact same product, but worse, and add an AI suffix?” There is nothing creative about AI. Show HN might as well be renamed “Prompt HN.” These promoters always say, “Prompting makes me efficient; I don’t have to write code by hand anymore.” Great. What has your “efficiency” gotten you? Yet another note-taker with an “AI” suffix? I could take notes in 1990. Where did the actual engineers go? Surely they aren’t all selling ads at Facebook’s spyware empire? Where are the transistor, the C programming language, Emacs, and SQLite developers of our time?",
+      "source": "Hacker News",
+      "published_at": "2026-10-14T01:14:37Z",
+      "score": 14,
+      "comments": 11
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-13T05:43:19Z",
-      "score": 4,
+      "published_at": "2026-10-14T01:09:13Z",
+      "score": 47,
+      "comments": 27
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-14T00:07:08Z",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://github.com/RayenMlayeh/jevcrawl",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T23:35:20Z",
+      "score": 9,
       "comments": 0
     },
     {
-      "title": "Software engineers don't get to be Luddites about AI",
-      "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "description": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data. Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction. How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That change took wrong answers from about one in five to 5 in 494 questions across our last three tests. The write-up covers how we test, the designs that failed, and the limits of the claim: https://pulseos.finance/pulse-local/writing/agree-or-not-sur... The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b). Limitations: the first start downloads about 2.9 GB of models. With the checker on, a money answer takes 12 to 14 seconds (you can turn the checker off). Small models can still misread an open-ended question. The app answers in English. Mac only for now; Windows is next. The app is free. An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored. Feedback welcome, especially on wrong answers and on questions it should handle but does not.",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T23:13:23Z",
+      "score": 83,
+      "comments": 48
+    },
+    {
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "description": "Hello HN! Wonderhop is a small browser game with no account needed to play, everyday there are 4 rounds of 7 quesitons like \"Name a food that a lot of people hate\" The goal depends on the mode: Either gives the answer most people would give, the one no one would give, the oldest answer or the most recent one and there's a leaderboard for the day. The most interesting part of the project was understanding answers that are typed freely and in 10 languages, there was some typos, plurals, nickname, or even duplicate way of sayign the same thing. We needed AI judge that checks it really existes conencted to some API like wikipedia to judge the veracity of each answer really quickly (less than 1s on average) The percentage starts from an estimate but move really fast with the answers of real players. If the list missed a good answer, it gets added as soon as a few different players give it. (There are also a lot of secrets and pop culture references added in the game :) ) A large part of the code was written with AI tools, but the artistic direction the concept and every choice design are human-made We'd love to know if the goal is clear from the very first question while playing and were any good answers rejected unfairly We are a couple of developers from Montreal that like guessing games so we built this in about two month. Thanks a lot!",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T23:10:04Z",
+      "score": 5,
+      "comments": 5
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-13T04:48:45Z",
-      "score": 19,
+      "published_at": "2026-10-13T21:55:25Z",
+      "score": 48,
+      "comments": 0
+    },
+    {
+      "title": "OpenAI employee arrested by FBI over hidden listening device, company says",
+      "url": "https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T20:59:13Z",
+      "score": 34,
+      "comments": 10
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "description": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T20:23:55Z",
+      "score": 482,
+      "comments": 418
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects. Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units. GPT-6 and Claude 5.5 have no public patches yet, so I ran them myself on 3–10 tasks on my own subscriptions (shown as faded circles, not ranked). Any feedback or model contributions are welcome, especially public patch exports for newer models. GitHub: https://github.com/La5u/Parsimony Not affiliated with any of the benchmarks.",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T19:50:31Z",
+      "score": 63,
+      "comments": 11
+    },
+    {
+      "title": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+      "url": "https://www.datalab.to/blog/indra-ocr",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T19:21:25Z",
+      "score": 35,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "url": "https://github.com/maharshi365/deslop",
+      "description": "Catches unsafe types, duplicate code, and low-value tests.",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T17:52:57Z",
+      "score": 28,
+      "comments": 6
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "description": "Main thread: Gemini 4 Argon - https://news.ycombinator.com/item?id=50073879",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T16:55:47Z",
+      "score": 206,
+      "comments": 48
+    },
+    {
+      "title": "Scientists wonder: Is my AI stealing my ideas?",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T16:05:51Z",
+      "score": 44,
+      "comments": 23
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "description": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T16:03:16Z",
+      "score": 1135,
+      "comments": 819
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T15:49:56Z",
+      "score": 633,
+      "comments": 605
+    },
+    {
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "description": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure. Consus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information. Demo: https://youtu.be/6MYxJe6P4oY Aerospace and defense is experiencing rapid growth. Unfortunately, most companies are struggling to use AI because of necessary data protections & compliance risk. These companies can move even faster if they could use the AI tools that most other industries take for granted. I spent most of my career prior to Consus in aerospace & defense. I launched national security payloads at SpaceX, and was an early employee at Castelion. I’ve watched first hand how compliance red-tape makes it difficult for companies to adopt new technologies and trust vendors that touch their sensitive data. For example, I worked with a satellite manufacturer that doesn’t allow any AI tools, even for non-sensitive work. Even as AI has become extremely useful over the past 9-12 months, I was surprised by how many aerospace & defense companies refused to touch it. They could see how it could be helpful, but they were scared about model providers training on their data, violating an ITAR rule, or risk losing new business because of a failed cyber assessment. These are all rational fears. There were a lot of ways to solve some/all of these problems, but we focused on building a compliant AI inference layer that can \"plug\" into any AI tool or workflow. Just as OpenRouter integrates with most tools, Consus can connect to tools like ChatGPT or Claude, open source tools including the Pi coding agent or Open WebUI, or integrate with applications built and maintained by individual organizations. Almost no aerospace & defense company lives in all three major GovClouds (AWS, Azure, Google). When I mapped where frontier models can legally run for ITAR and CUI work, each provider had some subset of models, and each model achieved varying levels of compliance. Our customers don’t think in terms of cloud providers. They think about the data controls they require, and the model they want to use. That is why we built the compliance suffix. Under the hood, every request hits a single OpenAI-compatible endpoint, where keys are verified and policy is enforced before anything touches inference. Every model name must carry a compliance suffix, such as gpt-5.6-sol:fedramp-high or claude-opus-5-5:itar, and any bare model name is rejected. We never proxy to the standard commercial endpoints. Our customers are also able to build an allowlist of models, and assign spend & model restrictions to individual users in the organization. This is all handled through our Consus Portal where teams can manage spend, keys, and policies. A typical question we hear is why not just use Bedrock in AWS GovCloud or Azure Government directly. For small teams, just getting access to these platforms is difficult. For larger organizations, GovCloud lets you inherit some but not all of the controls needed to handle sensitive data. Also, models are split across providers: GPT-5.6 Sol is only available in Azure Government, while Claude Opus 5.5 is served through Bedrock in AWS GovCloud. If you want both, you are standing up and securing two separate government cloud environments. We run all of them behind one endpoint so customers don’t have to pick a cloud, and we handle the compliance work for each one. Given the data sensitivities, Consus does not store any customer data at rest. All prompts and completions stay in memory only for the length of the request and are never logged or written to disk. Zero data retention is strictly enforced both on ourselves and the infrastructure/model providers. We do keep metadata on each request and response for billing and audit purposes. Consus is not self-serve by design. ITAR requires us to know exactly who is on the other end of every key, so we verify every organization and put a contract in place before issuing API keys. We charge our customers a compliance fee starting at $40/mo/seat plus AI tokens at cost. We are actively serving customers, and would love any feedback from security experts, or developers/engineers working in highly regulated industries! References: API Documentation: https://gateway.consus.io/overview Security & Architecture: https://gateway.consus.io/security Compliance Details: https://consus.io/compliance",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T15:41:00Z",
+      "score": 33,
       "comments": 16
     },
     {
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-13T02:46:43Z",
-      "score": 93,
-      "comments": 64
+      "published_at": "2026-10-13T15:25:50Z",
+      "score": 293,
+      "comments": 160
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
+      "title": "Show HN: RSI-Anything – JEPA world models for self-improving agents",
+      "url": "https://github.com/Gen-Verse/RSI-Anything",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-13T02:07:08Z",
-      "score": 132,
-      "comments": 66
-    },
-    {
-      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
-      "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-13T00:38:48Z",
-      "score": 18,
-      "comments": 1
-    },
-    {
-      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T23:07:25Z",
-      "score": 141,
-      "comments": 92
-    },
-    {
-      "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
-      "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T23:02:24Z",
-      "score": 10,
-      "comments": 1
-    },
-    {
-      "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
-      "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T22:05:07Z",
-      "score": 28,
-      "comments": 7
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T21:40:18Z",
-      "score": 347,
-      "comments": 277
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T21:35:35Z",
-      "score": 161,
-      "comments": 72
-    },
-    {
-      "title": "Phishing emails are now baiting your AI assistant",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T19:35:02Z",
-      "score": 11,
+      "published_at": "2026-10-13T14:58:09Z",
+      "score": 6,
       "comments": 0
-    },
-    {
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "description": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1...",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T18:00:25Z",
-      "score": 255,
-      "comments": 127
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T17:14:01Z",
-      "score": 330,
-      "comments": 276
-    },
-    {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "description": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost. * Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost. * Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators. * And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host. We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques. Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff. I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya. If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform. Thanks! https://agent37.com",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T16:46:34Z",
-      "score": 127,
-      "comments": 87
-    },
-    {
-      "title": "Audit of OpenAI's Navier-Stokes Formalization: Weak Bochner vs. Clay Statement C",
-      "url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T15:42:16Z",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Decentralizing Hugging Face and open model distribution",
-      "url": "https://github.com/pirateface/pirateface_hub",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T15:38:48Z",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T15:16:45Z",
-      "score": 175,
-      "comments": 64
-    },
-    {
-      "title": "QGIS enacts moratorium on AI contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "description": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem...",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T11:22:24Z",
-      "score": 372,
-      "comments": 402
-    },
-    {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "description": "Hi HN! I'm Saarth. I'm in 9th grade, and I built Atticus. Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it. The interesting part is that simple tasks, like opening apps, playing a Spotify playlist, or web queries, don't touch AI, and instead are processed locally and typically finish in under a second. For example, prompting Atticus to open apps takes around 0.08 seconds, sometimes even finishing before you finish your sentence, sort of like Jev. Any tasks that are more complicated will be sent to Claude via claude -p, meaning you never need an API key and Atticus will run on your existing Claude Pro or Max plan. By using this approach, costs are also cut down immensely, with, on average, tasks costing a fraction of a cent. To achieve Atticus' speed, it remembers shortcuts from each task it completes. When it does a task right for the first time, it saves its steps and replays them the next time without AI. For example, a workflow of creating a new meeting took about 30 seconds the first time around. Atticus then logs the exact steps to memory and takes 5-8 seconds on the next pass. To add to this, Atticus also learns about you as you use it more and from what's on your computer, including your name, your apps, and things you want it to remember, personalizing its answers to you. To combat the safety concerns over giving an AI unrestricted access to your device, Atticus has toggleable restrictions, so before anything is deleted, sent, bought, or written to a file, the user is prompted before that action. Some features I'm currently working on include a meeting copilot that capitalizes on Atticus' speed, allowing Atticus to listen in on meetings and answer questions in real time as they come in, personalized to the context of the meeting and what it knows about you. To run Atticus, macOS 26 or higher is required for its voice transcription features. The voice transcription is also done locally by macOS. Atticus is free, open source, and also very fresh, and I'm completely aware of its many rough edges, which is why I'd love to hear from everyone about what breaks and what you guys would like to see Atticus do!",
-      "source": "Hacker News",
-      "published_at": "2026-10-12T00:15:12Z",
-      "score": 94,
-      "comments": 19
     }
   ],
-  "updated_at": "2026-10-13T06:45:18.796746Z"
+  "updated_at": "2026-10-14T04:49:49.628248Z"
 }
