@@ -6,9 +6,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.636103Z",
+      "fetched_at": "2026-10-17T04:21:56.792955Z",
       "language": "Python",
-      "today_stars": 307
+      "today_stars": 1552
     },
     {
       "title": "K-Dense-AI/scientific-agent-skills",
@@ -16,39 +16,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.636481Z",
+      "fetched_at": "2026-10-17T04:21:56.793320Z",
       "language": "Python",
-      "today_stars": 1091
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.637701Z",
-      "language": "Shell",
-      "today_stars": 582
-    },
-    {
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.638032Z",
-      "language": "TypeScript",
-      "today_stars": 147
-    },
-    {
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.638453Z",
-      "language": "TypeScript",
-      "today_stars": 904
+      "today_stars": 1158
     },
     {
       "title": "affaan-m/ECC",
@@ -56,19 +26,59 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.639125Z",
+      "fetched_at": "2026-10-17T04:21:56.793748Z",
       "language": "JavaScript",
-      "today_stars": 1013
+      "today_stars": 1057
     },
     {
-      "title": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.639550Z",
+      "fetched_at": "2026-10-17T04:21:56.794076Z",
       "language": "Python",
-      "today_stars": 30
+      "today_stars": 281
+    },
+    {
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-17T04:21:56.794471Z",
+      "language": "TypeScript",
+      "today_stars": 449
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-17T04:21:56.794827Z",
+      "language": "TypeScript",
+      "today_stars": 672
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-17T04:21:56.795526Z",
+      "language": "Shell",
+      "today_stars": 973
+    },
+    {
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-17T04:21:56.796610Z",
+      "language": "Python",
+      "today_stars": 898
     },
     {
       "title": "xerj-org/xerj",
@@ -76,88 +86,116 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-16T04:28:16.639872Z",
+      "fetched_at": "2026-10-17T04:21:56.797234Z",
       "language": "Rust",
-      "today_stars": 715
+      "today_stars": 1648
     }
   ],
   "product_hunt": [
     {
-      "title": "CodeCrab",
-      "url": "https://www.producthunt.com/products/codecrab",
-      "description": "AI code reviews with deep analysis & multi-tool integrations Discussion | Link",
+      "title": "Tetriz Harness",
+      "url": "https://www.producthunt.com/products/tetriz-harness",
+      "description": "Turn what your team learns into everyone’s agent setup Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-13T02:12:58Z"
+      "published_at": "2026-10-15T11:55:43Z"
     },
     {
-      "title": "GLM-Legal",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "description": "Z.ai’s legal AI model for contract review and compliance Discussion | Link",
+      "title": "Nemotron 3.5 Super VL",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "description": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-12T16:24:12Z"
+      "published_at": "2026-10-15T15:27:13Z"
     },
     {
-      "title": "Kerno 1.0",
-      "url": "https://www.producthunt.com/products/kerno",
-      "description": "The AI Runtime Backend QA Engineer Discussion | Link",
+      "title": "Parallax",
+      "url": "https://www.producthunt.com/products/parallax-5",
+      "description": "Every coding agent you run, in one place. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-12T13:19:36Z"
+      "published_at": "2026-10-15T19:25:02Z"
     },
     {
-      "title": "Audimate",
-      "url": "https://www.producthunt.com/products/audimate",
-      "description": "AI assistant that works right in the apps you already use Discussion | Link",
+      "title": "Grablo Spot",
+      "url": "https://www.producthunt.com/products/grablo-spot",
+      "description": "Free AI NVR that finds any person or vehicle in seconds Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-12T06:24:43Z"
+      "published_at": "2026-10-15T11:36:40Z"
     },
     {
-      "title": "SuperLocalMemory",
-      "url": "https://www.producthunt.com/products/superlocalmemory-v2",
-      "description": "Agent memory with Laya, Jev + Google Gemma Discussion | Link",
+      "title": "Muse Spark Open",
+      "url": "https://www.producthunt.com/products/muse-spark-open",
+      "description": "The most capable US open weights model to date Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-13T19:43:21Z"
+      "published_at": "2026-10-15T20:13:34Z"
     },
     {
-      "title": "withHuman",
-      "url": "https://www.producthunt.com/products/withhuman",
-      "description": "A open-source human approval layer for AI Agents Discussion | Link",
+      "title": "Taim",
+      "url": "https://www.producthunt.com/products/taim-4",
+      "description": "Capture it. Taim files, schedules & syncs it with your AI. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T16:01:56Z"
+      "published_at": "2026-10-07T19:36:42Z"
     },
     {
-      "title": "Navige",
-      "url": "https://www.producthunt.com/products/navige",
-      "description": "Cut AI agent costs and control runaway spending Discussion | Link",
+      "title": "Dottr",
+      "url": "https://www.producthunt.com/products/dottr",
+      "description": "Agent that drafts contracts, flags risks + gets them signed Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T06:29:41Z"
+      "published_at": "2026-10-15T02:37:55Z"
     },
     {
-      "title": "CmdRound",
-      "url": "https://www.producthunt.com/products/cmdround",
-      "description": "Assess how engineers build with artificial intelligence Discussion | Link",
+      "title": "Neophyte",
+      "url": "https://www.producthunt.com/products/neophyte",
+      "description": "Watch an AI agent sign up and onboard to any product Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T10:18:29Z"
+      "published_at": "2026-10-13T01:43:19Z"
     },
     {
-      "title": "Rushilo",
-      "url": "https://www.producthunt.com/products/rushilo",
-      "description": "Edit video by talking to Claude Code or Codex Discussion | Link",
+      "title": "Scalebrowser",
+      "url": "https://www.producthunt.com/products/scalebrowser",
+      "description": "Human browser capabilities. Now for AI agents. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T15:35:56Z"
+      "published_at": "2026-09-25T21:11:39Z"
     },
     {
-      "title": "Chatway MCP",
-      "url": "https://www.producthunt.com/products/chatway",
-      "description": "Let ChatGPT & Claude answer customer support tickets via MCP Discussion | Link",
+      "title": "Fish Audio Drama 3",
+      "url": "https://www.producthunt.com/products/fish-speech",
+      "description": "AI voice acting you can direct, not just generate Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T11:30:36Z"
+      "published_at": "2026-10-14T00:37:36Z"
     },
     {
-      "title": "Actually Asked",
-      "url": "https://www.producthunt.com/products/actually-asked",
-      "description": "A self-improving branded AI FAQ page Discussion | Link",
+      "title": "Atelier",
+      "url": "https://www.producthunt.com/products/atelier-9",
+      "description": "The studio your AI coding agents work in Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T15:36:37Z"
+      "published_at": "2026-10-14T22:43:03Z"
+    },
+    {
+      "title": "Agent Vault",
+      "url": "https://www.producthunt.com/products/agent-vault-2",
+      "description": "Superpowers for your Agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-14T23:12:59Z"
+    },
+    {
+      "title": "Toad",
+      "url": "https://www.producthunt.com/products/toad-4",
+      "description": "Point your agent at any machine you own. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-15T16:36:36Z"
+    },
+    {
+      "title": "Harness by Autonomous",
+      "url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "description": "Every coding agent, every machine, one command center. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-15T13:27:08Z"
+    },
+    {
+      "title": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "description": "A password manager for AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-16T00:51:53Z"
     },
     {
       "title": "Backdrop",
@@ -167,13 +205,6 @@
       "published_at": "2026-10-13T05:14:44Z"
     },
     {
-      "title": "SaidTrace",
-      "url": "https://www.producthunt.com/products/saidtrace",
-      "description": "Private voice memos. Your choice of AI. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-03T19:44:01Z"
-    },
-    {
       "title": "Dreamscale Labs",
       "url": "https://www.producthunt.com/products/dreamscale-labs",
       "description": "Run the best robot AI models over the cloud Discussion | Link",
@@ -181,42 +212,28 @@
       "published_at": "2026-10-13T06:27:22Z"
     },
     {
-      "title": "AI Sandboxes by Buddy",
-      "url": "https://www.producthunt.com/products/buddy",
-      "description": "Isolated cloud machines for your AI coding agents Discussion | Link",
+      "title": "SaidTrace",
+      "url": "https://www.producthunt.com/products/saidtrace",
+      "description": "Private voice memos. Your choice of AI. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T12:11:07Z"
-    },
-    {
-      "title": "Screenwell.ai",
-      "url": "https://www.producthunt.com/products/screenwell-ai",
-      "description": "An AI interviewer that runs your first-round screening Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T15:32:34Z"
-    },
-    {
-      "title": "Elocuenti",
-      "url": "https://www.producthunt.com/products/elocuenti",
-      "description": "Agentic commerce: sell on WhatsApp and AI assistants Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T13:49:48Z"
-    },
-    {
-      "title": "Exodus for Google Cloud Run",
-      "url": "https://www.producthunt.com/products/exodus-by-elim-io",
-      "description": "Upgrade any app to Cloud Run, with your coding agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-13T09:40:26Z"
-    },
-    {
-      "title": "Epherem",
-      "url": "https://www.producthunt.com/products/epherem",
-      "description": "Find login and database flaws in your AI-built app Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-12T05:28:21Z"
+      "published_at": "2026-10-03T19:44:01Z"
     }
   ],
   "openai": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source": "OpenAI",
+      "published_at": "2026-10-16T19:00:00Z"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "source": "OpenAI",
+      "published_at": "2026-10-16T00:00:00Z"
+    },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -281,16 +298,16 @@
       "published_at": "2026-10-13T12:00:00Z"
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "source": "OpenAI",
       "published_at": "2026-10-09T07:00:00Z"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "source": "OpenAI",
       "published_at": "2026-10-09T07:00:00Z"
     },
@@ -342,20 +359,6 @@
       "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "source": "OpenAI",
       "published_at": "2026-10-07T00:00:00Z"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "source": "OpenAI",
-      "published_at": "2026-10-06T12:00:00Z"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "source": "OpenAI",
-      "published_at": "2026-10-06T12:00:00Z"
     }
   ],
   "anthropic": [
@@ -574,22 +577,166 @@
   ],
   "hacker_news": [
     {
-      "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
-      "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+      "title": "China to Restrict Open-Weights Model Exports",
+      "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-16T00:56:54Z",
-      "score": 13,
-      "comments": 20
+      "published_at": "2026-10-17T02:41:30Z",
+      "score": 8,
+      "comments": 1
     },
     {
-      "title": "A model where companies lease critical minerals instead of selling them",
-      "url": "https://ccsi.columbia.edu/metals-service-maas/",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-16T00:52:32Z",
-      "score": 7,
+      "published_at": "2026-10-17T01:05:28Z",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
+      "description": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is. If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see. I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T23:52:04Z",
+      "score": 12,
       "comments": 3
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T19:04:47Z",
+      "score": 275,
+      "comments": 255
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "description": "https://words.filippo.io/seeds-solved/",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:55:59Z",
+      "score": 750,
+      "comments": 293
+    },
+    {
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "url": "https://stoke.money",
+      "description": "Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track my actual cash flow. These apps also have a huge focus on managing budgets, which has never been for me. My spending is rarely consistent month-to-month, so every month I'm comparing my fully justified spending against my budget, and tweaking my budget until I “pass”. So I built yet another finance tracking app. It has the usual components - accounts, transactions, categories - but the core is a cash flow projection engine, and everything else is built around it. Budgets are gone. Instead, each income/spending category is projected forward from your historical activity, but not as a flat monthly number. They land in whatever account you historically use (e.g. checking account for paychecks/rent/bills, credit/debit cards for daily spending). Credit card payments are modeled automatically based on your projected credit card balance. You can set up your own recurring transfers between accounts as well, to model savings, for example. The end result is that the app can forecast how your cash moves, and you can see in advance when any account might run low. If all of your accounts look good for the next 12 months, maybe you don't have a budgeting problem. What’s made the biggest difference for me has been the MCP integration, which I have connected to Claude (but can be connected to any AI agent of your choice). I have asked it to import historical transactions by uploading PDF account statements, categorize/tag all transactions that took place while I was on vacation, and plan transfers across my accounts to cover expected payments. I hope some people that share my frustrations will find this app useful.",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:54:47Z",
+      "score": 25,
+      "comments": 18
+    },
+    {
+      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+      "url": "https://github.com/Moshik21/weatherdeck",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:54:22Z",
+      "score": 8,
+      "comments": 0
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:32:35Z",
+      "score": 228,
+      "comments": 62
+    },
+    {
+      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
+      "url": "https://www.kapwing.com/ai/prompt-generator/camera",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:25:51Z",
+      "score": 6,
+      "comments": 1
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "description": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:11:42Z",
+      "score": 231,
+      "comments": 71
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:00:18Z",
+      "score": 116,
+      "comments": 23
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T17:08:38Z",
+      "score": 441,
+      "comments": 381
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T15:55:40Z",
+      "score": 188,
+      "comments": 73
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T14:35:43Z",
+      "score": 51,
+      "comments": 19
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "description": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T14:18:44Z",
+      "score": 198,
+      "comments": 90
+    },
+    {
+      "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+      "url": "https://github.com/sshoecraft/meshxfs",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T14:08:29Z",
+      "score": 10,
+      "comments": 1
+    },
+    {
+      "title": "Introducing Beam: Reflection’s 501B open-weight model",
+      "url": "https://reflection.ai/blog/beam-is-available",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T13:34:30Z",
+      "score": 11,
+      "comments": 1
+    },
+    {
+      "title": "Show HN: Capy-flash – a 125B MoE model on two 16 GB consumer GPUs",
+      "url": "https://github.com/ValerioDolci/capy-flash",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T13:28:36Z",
+      "score": 7,
+      "comments": 1
     },
     {
       "title": "Muse Spark Open",
@@ -597,53 +744,8 @@
       "description": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...",
       "source": "Hacker News",
       "published_at": "2026-10-15T17:47:39Z",
-      "score": 684,
-      "comments": 369
-    },
-    {
-      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T17:12:48Z",
-      "score": 5,
-      "comments": 1
-    },
-    {
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "description": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments)",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T17:05:19Z",
-      "score": 235,
-      "comments": 75
-    },
-    {
-      "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
-      "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T16:39:58Z",
-      "score": 26,
-      "comments": 32
-    },
-    {
-      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
-      "url": "https://github.com/rlshaw-ml/BlastLoop",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T16:26:39Z",
-      "score": 13,
-      "comments": 1
-    },
-    {
-      "title": "Frontier Pre-Training at Microsoft AI",
-      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T16:12:13Z",
-      "score": 37,
-      "comments": 3
+      "score": 902,
+      "comments": 467
     },
     {
       "title": "Krea 3 – An image model built for editing at scale",
@@ -651,108 +753,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-15T16:04:05Z",
-      "score": 275,
-      "comments": 86
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T14:58:48Z",
-      "score": 233,
-      "comments": 191
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T14:35:15Z",
-      "score": 142,
-      "comments": 121
-    },
-    {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T07:20:39Z",
-      "score": 21,
-      "comments": 18
-    },
-    {
-      "title": "How to be more ambitious: A tutorial for humans with models",
-      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T07:16:25Z",
-      "score": 24,
-      "comments": 5
-    },
-    {
-      "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
-      "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T05:02:06Z",
-      "score": 15,
-      "comments": 0
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T20:30:54Z",
-      "score": 419,
-      "comments": 157
-    },
-    {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "description": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.” Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server. We weren't the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It's nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn't survive the integration. So we decided firmly to do things differently this time. Petal is completely free and open source and we aren't monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it's a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle. We hope through this we can help foster a large and vibrant community around innovating in this product sector. What Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join \"eng-sync\" instead of passing links around. It runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to. The part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn't expect that. We will do a proper writeup on what worked and what didn't, and are happy to answer questions about it here. Till, Darren, Max and I will be in the thread.",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T18:23:14Z",
-      "score": 213,
-      "comments": 41
-    },
-    {
-      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-      "url": "https://github.com/bealesh/neckbeard",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T17:45:34Z",
-      "score": 75,
-      "comments": 57
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T17:45:23Z",
-      "score": 940,
-      "comments": 614
-    },
-    {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "description": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else. - Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice. - Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new one-sender inbox locked to whoever wrote first. Bring you own domain. Bring your own AI (MCP server ready). Forwarding. Please help me test it.",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T17:00:59Z",
-      "score": 110,
-      "comments": 93
-    },
-    {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-14T16:52:42Z",
-      "score": 135,
-      "comments": 116
+      "score": 342,
+      "comments": 107
     }
   ],
-  "updated_at": "2026-10-16T04:28:19.260175Z"
+  "updated_at": "2026-10-17T04:21:58.458127Z"
 }
