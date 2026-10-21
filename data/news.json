@@ -6,49 +6,19 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.756753Z",
+      "fetched_at": "2026-10-21T04:42:17.083756Z",
       "language": "Python",
-      "today_stars": 3856
+      "today_stars": 3861
     },
     {
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757003Z",
-      "language": "TypeScript",
-      "today_stars": 1311
-    },
-    {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757162Z",
-      "language": "Rust",
-      "today_stars": 666
-    },
-    {
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757327Z",
-      "language": "Python",
-      "today_stars": 1011
-    },
-    {
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757487Z",
-      "language": "TypeScript",
-      "today_stars": 564
+      "fetched_at": "2026-10-21T04:42:17.084243Z",
+      "language": "JavaScript",
+      "today_stars": 1712
     },
     {
       "title": "stablyai/orca",
@@ -56,9 +26,69 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757643Z",
+      "fetched_at": "2026-10-21T04:42:17.084639Z",
       "language": "TypeScript",
-      "today_stars": 1590
+      "today_stars": 1565
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.085138Z",
+      "language": "JavaScript",
+      "today_stars": 1208
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.085504Z",
+      "language": "Python",
+      "today_stars": 1206
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.085881Z",
+      "language": "TypeScript",
+      "today_stars": 684
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.086264Z",
+      "language": "Python",
+      "today_stars": 802
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.086717Z",
+      "language": "TypeScript",
+      "today_stars": 1240
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.087205Z",
+      "language": "Shell",
+      "today_stars": 562
     },
     {
       "title": "headroomlabs-ai/headroom",
@@ -66,29 +96,39 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.757790Z",
+      "fetched_at": "2026-10-21T04:42:17.087554Z",
       "language": "Python",
-      "today_stars": 310
+      "today_stars": 549
     },
     {
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.758228Z",
+      "fetched_at": "2026-10-21T04:42:17.087955Z",
       "language": "Python",
-      "today_stars": 606
+      "today_stars": 267
     },
     {
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.758374Z",
-      "language": "TypeScript",
-      "today_stars": 167
+      "fetched_at": "2026-10-21T04:42:17.088401Z",
+      "language": "Python",
+      "today_stars": 93
+    },
+    {
+      "title": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-21T04:42:17.088872Z",
+      "language": "Python",
+      "today_stars": 83
     },
     {
       "title": "shiyu-coder/Kronos",
@@ -96,46 +136,130 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-20T04:46:10.758520Z",
+      "fetched_at": "2026-10-21T04:42:17.089231Z",
       "language": "Python",
-      "today_stars": 363
+      "today_stars": 733
     }
   ],
   "product_hunt": [
     {
-      "title": "Beam.win",
-      "url": "https://www.producthunt.com/products/beam-win",
-      "description": "Run AI agents on one Mac and use its windows on another Discussion | Link",
+      "title": "Praex",
+      "url": "https://www.producthunt.com/products/praex",
+      "description": "The coding agent that runs on its own AI models Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-18T19:13:45Z"
+      "published_at": "2026-10-19T21:26:11Z"
     },
     {
-      "title": "Own 1",
-      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "description": "Own your data. Own your AI. A mind of your own. Discussion | Link",
+      "title": "The New Beings",
+      "url": "https://www.producthunt.com/products/the-new-beings",
+      "description": "AI agents on their break, performing a live talk show Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-18T08:46:56Z"
+      "published_at": "2026-10-19T18:03:58Z"
     },
     {
-      "title": "Wally by Willow",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "description": "Your Scribe agent that learns how you write Discussion | Link",
+      "title": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "description": "Every friends' chat gets an AI friend with superpowers Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-16T21:44:53Z"
+      "published_at": "2026-10-17T18:04:38Z"
     },
     {
-      "title": "walkai-talkai",
-      "url": "https://www.producthunt.com/products/walkai-talkai",
-      "description": "Talk to your AI coding agent over a walkie-talkie Discussion | Link",
+      "title": "Kling 4.0",
+      "url": "https://www.producthunt.com/products/kling-4-0-4",
+      "description": "Fast and affordable AI video for high-frequency creators Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-17T21:25:08Z"
+      "published_at": "2026-10-19T17:51:17Z"
     },
     {
-      "title": "Tori",
-      "url": "https://www.producthunt.com/products/tori-3",
-      "description": "The smartest AI support agent for customer success Discussion | Link",
+      "title": "Jotform App Builder for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "description": "Build and edit no-code apps inside ChatGPT & Claude Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-16T12:24:54Z"
+      "published_at": "2026-10-12T12:34:44Z"
+    },
+    {
+      "title": "ToDo.is",
+      "url": "https://www.producthunt.com/products/todo-is",
+      "description": "Write a to-do and your AI agent gets it done Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-16T00:10:20Z"
+    },
+    {
+      "title": "RunInfra",
+      "url": "https://www.producthunt.com/products/runinfra",
+      "description": "Open models, built for agents. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T23:12:51Z"
+    },
+    {
+      "title": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104",
+      "description": "Harness the agent. Then harness its self-improvement. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T19:43:26Z"
+    },
+    {
+      "title": "Mintlify Autopilot",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "description": "An always-on agent that keeps your docs up to date Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T18:29:25Z"
+    },
+    {
+      "title": "Stella",
+      "url": "https://www.producthunt.com/products/stella-5",
+      "description": "Your emotional wellness AI. A friend to figure it out with. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T03:42:11Z"
+    },
+    {
+      "title": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "description": "The AI knowledge graph that builds itself Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-12T14:56:55Z"
+    },
+    {
+      "title": "Composio Instant",
+      "url": "https://www.producthunt.com/products/composio",
+      "description": "The easiest way for AI agents to pay for their own tools Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-30T14:02:39Z"
+    },
+    {
+      "title": "Sorcerer",
+      "url": "https://www.producthunt.com/products/sorcerer",
+      "description": "Simulate an AI agent community reacting to \"what if\" Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T18:20:54Z"
+    },
+    {
+      "title": "call4me",
+      "url": "https://www.producthunt.com/products/call4me",
+      "description": "Give your AI agent a phone that calls and answers Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T18:24:29Z"
+    },
+    {
+      "title": "Intel® GPU D-series",
+      "url": "https://www.producthunt.com/products/intel",
+      "description": "Memory-rich AI inference without HBM Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-20T02:46:24Z"
+    },
+    {
+      "title": "Exa 3.0",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "description": "Smarter search that gives AI agent richer data at lower cost Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T20:05:52Z"
+    },
+    {
+      "title": "Lugh Xtudio",
+      "url": "https://www.producthunt.com/products/lugh-xtudio",
+      "description": "The video studio where AI agents edit with you Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-20T03:08:40Z"
     },
     {
       "title": "Starkomand",
@@ -157,72 +281,30 @@
       "description": "Highly efficient agentic 501B parameter open model Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-06T00:17:47Z"
-    },
-    {
-      "title": "CrawlForge MCP",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp",
-      "description": "Give your AI agent 31 web tools in one MCP server Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-11T23:38:09Z"
-    },
-    {
-      "title": "shim-cli",
-      "url": "https://www.producthunt.com/products/shim-cli",
-      "description": "See what your coding agent sends. Mask what you can. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-12T12:26:38Z"
-    },
-    {
-      "title": "MyLens",
-      "url": "https://www.producthunt.com/products/mylens-ai",
-      "description": "1-1 Live Presentations at Scale with AI. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-16T21:46:17Z"
-    },
-    {
-      "title": "Gravity Notes",
-      "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
-      "description": "One list of notes, for you and your AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T18:10:51Z"
-    },
-    {
-      "title": "Tomo for ChatGPT",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "description": "Ask anything. Then play it, Duolingo-style. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-17T10:14:13Z"
-    },
-    {
-      "title": "Bee Frontier and Bee Eclipse",
-      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
-      "description": "Amazon's personal AI memory, now on your wrist or phone Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-15T15:11:11Z"
-    },
-    {
-      "title": "Krea 3",
-      "url": "https://www.producthunt.com/products/krea",
-      "description": "Krea's AI image model: 2K edits in under 8 seconds Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-16T00:01:46Z"
-    },
-    {
-      "title": "Openbroca",
-      "url": "https://www.producthunt.com/products/openbroca",
-      "description": "Lightweight AI dictation for Mac that sounds like you Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-12T17:32:18Z"
-    },
-    {
-      "title": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "description": "Generate video, images & audio from any AI agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-29T08:31:33Z"
     }
   ],
   "openai": [
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "source": "OpenAI",
+      "published_at": "2026-10-20T10:00:00Z"
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "source": "OpenAI",
+      "published_at": "2026-10-20T07:00:00Z"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "source": "OpenAI",
+      "published_at": "2026-10-20T00:00:00Z"
+    },
     {
       "title": "Advancing coding in low‑resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
@@ -238,16 +320,16 @@
       "published_at": "2026-10-16T19:00:00Z"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "source": "OpenAI",
       "published_at": "2026-10-16T00:00:00Z"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "source": "OpenAI",
       "published_at": "2026-10-16T00:00:00Z"
     },
@@ -315,16 +397,16 @@
       "published_at": "2026-10-13T12:00:00Z"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "source": "OpenAI",
       "published_at": "2026-10-09T07:00:00Z"
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "source": "OpenAI",
       "published_at": "2026-10-09T07:00:00Z"
     },
@@ -341,101 +423,9 @@
       "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "source": "OpenAI",
       "published_at": "2026-10-08T12:00:00Z"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "source": "OpenAI",
-      "published_at": "2026-10-08T12:00:00Z"
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "source": "OpenAI",
-      "published_at": "2026-10-08T00:00:00Z"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "source": "OpenAI",
-      "published_at": "2026-10-07T12:00:00Z"
     }
   ],
-  "anthropic": [
-    {
-      "title": "Investing in the public benefit",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-18T00:00:00Z"
-    },
-    {
-      "title": "An update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-15T00:00:00Z"
-    },
-    {
-      "title": "Preparing for the 2026 US midterms",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-14T00:00:00Z"
-    },
-    {
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-14T00:00:00Z"
-    },
-    {
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-08T00:00:00Z"
-    },
-    {
-      "title": "Building on our commitment to American scientific discovery",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-08T00:00:00Z"
-    },
-    {
-      "title": "Introducing the Anthropic Cyber Mission",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-08T00:00:00Z"
-    },
-    {
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-06T00:00:00Z"
-    },
-    {
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-02T00:00:00Z"
-    },
-    {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "description": "Anthropic 官方 Newsroom 更新。",
-      "source": "Anthropic",
-      "published_at": "2026-10-01T00:00:00Z"
-    }
-  ],
+  "anthropic": [],
   "google_deepmind": [
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -580,67 +570,139 @@
   ],
   "hacker_news": [
     {
-      "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
-      "url": "https://github.com/gojko/lights-on-software-factory",
-      "description": "A starting point for running a lights-on software factory with Claude Code. Based on the setup developed for Votito, where the orchestrator reduced token cost compared to bare-bones Claude workflow execution by around 80%.",
-      "source": "Hacker News",
-      "published_at": "2026-10-20T01:22:00Z",
-      "score": 6,
-      "comments": 0
-    },
-    {
-      "title": "Ask HN: Dark mode for HN please? (2026)",
-      "url": "https://news.ycombinator.com/item?id=50160116",
-      "description": "The 2020 thread does a lot: https://news.ycombinator.com/item?id=23197966 It shows 100 solutions in light of Parkinson’s Law of Triviality. Intense opinions and discussion. It teaches about alligator energy and how they can live without food for up to two years. It teaches that this site should look like top, yet I’ve rarely seen top on a white terminal in the past two decades. This does exist, nofi. Workarounds exist, and those are “mid” janky shit shows. One I tried was an iOS app. It flashes the page between light and dark on every click. Aside from not being a solution, it’s nausea-inducing, takes 20+ steps to install, requires you to blindly trust the app without a Git repo, and requires you to change your OS. It shows that running 20 miles to solve this is what people do to get to any promise of a solution. So many of these exist that it’s just a swamp of well intended nightmares making the problem worse. HN is filled with love for fonts, styling, terminal themes, CSS madness, and quirks. Yet here I am with empty hands and little karma, with a screen that burns into my eyes at night. The last bastion of light, in more ways than intended. As with the resolution to PHP’s sleep(), going with something that keeps things running unchanged for those who don’t move, but tailoring it further for those who want it, I’d opt for two extremes for logged-in users: A: Adding a custom CSS styling text area, allowing for maximized creativity, experimentation, hacking, and freedom, and supporting any matter of taste and necessity. It is just fun, and this might be shut down due to arguments about security, bloat, resetting mistakes, and such. But it’s still the most fun and expressive option. B: Having a drop-down setting for some styles, where just inverting the whole site with two lines of CSS using `filter: invert()` works for me, or choosing whatever theme is agreed upon somewhere. We have millions of dollars’ worth of CSS talent on this site and similar amounts of LLM investment to get something tasteful, respectful, well thought out, and just great. Make it a contest. Hurt me plenty. This is not a dilemma, but I hope to inspire a move toward a native solution so I can read HN at night without the abracadabra of altering my OS, browser, trust, or, well, anything outside this site. I’m also fine with no solution to this if the answer is: You should not read HN at night for a better and healthier life. Then add that to HN policy. I didn’t find that. Sorry for bringing this up again.",
-      "source": "Hacker News",
-      "published_at": "2026-10-20T01:09:40Z",
-      "score": 11,
-      "comments": 5
-    },
-    {
-      "title": "Investors temper Anthropic IPO valuation expectations over growth slowdown",
-      "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/",
+      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-20T00:49:40Z",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-      "url": "https://news.ycombinator.com/item?id=50159886",
-      "description": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't see this feature on different Linux file viewers (and it was apparently a requested feature others were looking for). So what have you built privately with AI that you might like to share ideas about? edit: alternatively, are there any things you'd like to see others create (and I suppose a comment about what holds you back from creating them)?",
-      "source": "Hacker News",
-      "published_at": "2026-10-20T00:37:45Z",
-      "score": 3,
-      "comments": 3
-    },
-    {
-      "title": "People are using AI to make smart TVs, dumb TVs",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-20T00:19:13Z",
-      "score": 24,
+      "published_at": "2026-10-21T00:40:56Z",
+      "score": 10,
       "comments": 1
     },
     {
-      "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
-      "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+      "title": "SpaceX revenue soars 161% as AI business grows",
+      "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-20T00:17:11Z",
-      "score": 11,
-      "comments": 0
+      "published_at": "2026-10-21T00:25:45Z",
+      "score": 18,
+      "comments": 3
     },
     {
-      "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
-      "url": "https://skymizer.ai/products/htx301/",
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-20T00:15:09Z",
-      "score": 7,
+      "published_at": "2026-10-20T22:27:07Z",
+      "score": 29,
+      "comments": 17
+    },
+    {
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T20:09:46Z",
+      "score": 128,
+      "comments": 57
+    },
+    {
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T19:55:11Z",
+      "score": 81,
+      "comments": 57
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T17:48:29Z",
+      "score": 101,
+      "comments": 64
+    },
+    {
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T17:10:31Z",
+      "score": 36,
       "comments": 2
+    },
+    {
+      "title": "Gemini 4 Argon is now available for everyone",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T16:36:24Z",
+      "score": 20,
+      "comments": 6
+    },
+    {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "description": "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second. I've always loved quiz games and thought this would be a fun way to see what it can do and how fast it is. I made the cards from scratch, and Jev gets exactly the picture you see. More cards will come over time. Play against Jev on your own (there's a leaderboard for each mode), or start a live match and challenge your friends, with Jev as one more player. The code is open source, so feel free to build your own game or make more cards that I can publish. Play: https://jevcards.com Code: https://github.com/Jose-Sabater/jevcards (the newest cards stay private for a while) Disclaimer: I ran Jev through both TypeSafe and Opper, and made the cards through Opper's vision models and Claude Code. I work at Opper, but jevcards is open source and free to play.",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T15:11:56Z",
+      "score": 58,
+      "comments": 48
+    },
+    {
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T15:10:54Z",
+      "score": 58,
+      "comments": 7
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "description": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXM There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features to it, and at one stage, our wrapper code exceeded 100,000 lines. This January, a routine LiteLLM upgrade caused intermittent connection errors, and we had to roll back. We still haven't figured out the cause, but since then, we no longer upgrade LiteLLM directly and instead manually backport upstream fixes. These experiences made us realize that continuing to patch LiteLLM is not a sustainable long-term solution, and we had to redesign the gateway ourselves. While redesigning our gateway, we wanted to make it easier to add features without breaking existing ones. Inspired by Nginx, we think an AI gateway should have a really small core, only responsible for dispatching events. We believe that everything should be a plugin in our gateway, including providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities (images, videos), and gateway features for reliability and security (smart routing, fallbacks, and PII redaction through example plugins). Beyond that, we want developers to be able to easily extend the gateway's capabilities by adding their own plugins, without touching the core. Adding a provider, even your own, is dead simple, because quirks are plugins too and there’s nothing magical about them. A provider is a short file, Mistral’s is 22 lines, and each quirk, like Groq putting token usage in its own field, gets its own test. Respan Gateway does more than let you call Claude or Gemini models from the OpenAI SDK. It handles tools, images, and reasoning protocols automatically: an application based on the OpenAI Realtime API can also use Gemini Live through the gateway, though not every feature translates. A simple chat app can use MCP tools configured in the gateway, without implementing MCP itself. We also parse requests into a shared structure. When the client and provider use the same API, we preserve provider-specific fields in their native format, even if our shared structure doesn't have a field for them. That way, the gateway can write them back instead of dropping them. Here’s how it works: An adapter hands each HTTP or WebSocket connection to the first client format that recognizes it. The format exposes the request as a two-way stream of typed input and output events. The core runs plugins in registration order, allowing them to choose a provider, filter or wrap either stream, make additional calls, return a response, or refuse the request. A provider format then opens the upstream connection. If the client and provider use the same format and no plugin changes the payload, the original bytes and protocol-specific fields can pass through unchanged. When formats differ, they translate through shared types for messages, tool calls, results, streams, and usage. This stream model can represent both one-shot HTTP requests and long-lived bidirectional sessions. The gateway is open source at https://github.com/respanai/respan-gateway under the MIT or Apache-2.0 license. You don't need to use Respan's hosted platform and can run it directly on your local machine. Build it from source, add your provider keys, and swap the base URL in a supported client. You can keep using the API your client already speaks. It's still pre-alpha. We make money from our hosted platform ( https://www.respan.ai/pricing ), which runs the gateway for you with native observability and evals, along with unified billing. If you’re building routing, tools, filtering, observability, or security for agents, we'd love to see it as a plugin. PLUGINS.md in the repo explains how to write one and links to the plugins we’ve created so far. Turning that into an ecosystem is basically our roadmap, and we welcome you to contribute your own plugins. We'd love to answer any questions and hear your feedback! https://github.com/respanai/respan-gateway",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T15:09:29Z",
+      "score": 46,
+      "comments": 19
+    },
+    {
+      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "description": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which is going to be the best damn email osint tool out there, in another year. But just before building MailAccess i built VoidAccess, because i was delving a lot into DarkINT and the content inside the dark web is too difficult to navigate through for a human, so i automated that pipeline, made sure the noise was removed, and anything NSFW was filtered out, to give the analyst an overview of what is present in the dark web, without having to actually go through it manually. Very simple to run, you just run a few commands to install, and a couple to investigate. Then the engine takes over, and stops onyl when the job is done(or at a particular time limit, if set by the user). Do check it out, if that is something that interests you. Thanks to the community for giving it the love it has got till now.",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T14:49:33Z",
+      "score": 127,
+      "comments": 13
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T09:08:54Z",
+      "score": 2186,
+      "comments": 847
+    },
+    {
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "url": "https://deathplanswitch.com/",
+      "description": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients. There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients. Death Plan Switch solves this problem, it's free to download and use or study under the MIT license. I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests. I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts. Happy to answer any questions. Kind regards, Peter Bishop.",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T04:37:43Z",
+      "score": 94,
+      "comments": 63
+    },
+    {
+      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+      "url": "https://rouler.io/",
+      "description": "Hi HN, Rouler is \"rules for your routes\". It allows you to steer network traffic across multiple network interfaces on Windows. For example: - Run Tailscale, Mullvad and OpenVPN official clients simultaneously. - Use Rouler to send Slack via the OpenVPN connection, Chrome + an IP range via Tailscale and a torrent client via Mullvad. Rouler is VPN agnostic, so you can \"split-tunnel\" with anything that sets up a windows network interface. I'm an independent developer from Australia and have been working on Rouler for a bit over a year. It's been a challenging project to say the least, but I'm really happy with how it's turning out. I have spent a great deal of time building and throwing things away, starting over, belting the initial poc into something that I find intuitive... hopefully others do too! I've done all the testing, fixing and improving I can, so now it's open for public beta. I'd love to hear your feedback... and there are some specific points I'm interested in hearing about listed on the Rouler website. Please reply with any questions you might have. Thanks for reading! Brendan p.s. Rouler is \"built in Rust\" TM ;-) --- On AI (skip if you're sick of hearing about it): Since AI is the hot topic and people are naturally cautious about it, I'll add some quick notes about it, specifically about the driver development as that's the key thing to get right. The driver is hand written and every detail has been poured over many times over. I spent somewhere around 6-9 months manually building and testing just the driver, staring at Dbgview logs, wireshark logs, windows route tables, restarting VM's back to their snapshot and manually copying things across to start again. That's not always the most efficient way of doing things, but it's the way it had to be done. If I had tried to vibe code it Rouler simply wouldn't exist. I did try to lean on AI at times, but it constantly sent me in the wrong direction, told me things weren't possible, tried to take shortcuts and implement poor performing trade-offs. It also loved to hallucinate the windows api. Keep in mind this was around the Opus 4.1 - 4.6 days. Outside of the driver, in user mode land, AI has crept more and more into my workflow. I've had a lot of success utilising the latest models in the app in particular, and I purposefully separated the UI and core logic so I'm able to quickly iterate on the UI. I've also found AI very useful for scripting and refactoring. It has built some great scripts that would've taken me days or weeks to build and fine tune.",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T03:51:43Z",
+      "score": 21,
+      "comments": 6
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -648,44 +710,26 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-19T23:22:18Z",
-      "score": 133,
-      "comments": 21
+      "score": 719,
+      "comments": 208
     },
     {
-      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+      "title": "How abliterated models can get you pwned",
       "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-19T23:08:52Z",
-      "score": 69,
-      "comments": 44
+      "score": 234,
+      "comments": 133
     },
     {
-      "title": "Towards Company World Models",
-      "url": "https://www.beaconholdings.com/research/towards-company-world-models",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com",
+      "description": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or county rules may apply. The decision point becomes whether, at each point on the route the drone can fly based upon whether regulations permit, the wind direction favours it and whether it flying over a road or people? Depending on when the drone flies, the same path valid two hours ago may no longer be valid. For example a trip from 24th & Valencia ( Mission) to 19th Ave & Irving (Inner Sunset) and back is 5.1 km each way. A DJI mini 4 Pro would take 19 min on 7 mph winds from the west and use 92% of its usable battery and give a Go signal with warning. But at 11mph wind from the same direction would become No-Go because it would use 111% of its usable battery. Or whenever there is a Giants game at Oracle Park, this route is unusable because it is 2.5miles from the stadium. FAA bars all drones within 3 nautical miles from a stadium from 1 hour before the game to one hour after it ends. I chose San Francisco as the first city to build this because there is enough data about the buildings (92% coverage), wind data is easily available at the drone flying height, and the city has a mix of slopes, water bodies, buildings and airport-related airspace restrictions all in one city. The city also has local rules regarding drone flights in parks - both operated by the city as well as by Golden Gate National recreational areas ( National Park Service). I used kimi to build it and claude acted a sa judge. To understand more about the challenges faced during the build and the tradeoffs made please read - https://dovepass.com/how-it-was-built/ \"",
       "source": "Hacker News",
-      "published_at": "2026-10-19T18:51:09Z",
-      "score": 24,
-      "comments": 4
-    },
-    {
-      "title": "Introducing Clairic, a new System One class of extraction models",
-      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T18:18:33Z",
-      "score": 52,
-      "comments": 4
-    },
-    {
-      "title": "Show HN: Open-source early-reading reader with phonics help",
-      "url": "https://github.com/finereli/yarareads",
-      "description": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself. So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself. My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section. We're going to release more chapters and more stories in the near future. And there's one other thing - The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course). The reader is free to use on its website and open source if you want to tinker and create your own version. The included stories are under Creative Commons.",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T17:58:54Z",
-      "score": 20,
-      "comments": 5
+      "published_at": "2026-10-19T19:21:56Z",
+      "score": 17,
+      "comments": 3
     },
     {
       "title": "Mercury 3: Diffusion at scale",
@@ -693,17 +737,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-19T17:27:11Z",
-      "score": 232,
-      "comments": 85
-    },
-    {
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T17:09:45Z",
-      "score": 28,
-      "comments": 6
+      "score": 255,
+      "comments": 91
     },
     {
       "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
@@ -711,54 +746,9 @@
       "description": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ We also put together a post with example traces and analyses from flow-1 and other models: https://laminar.sh/blog/flow-1-in-action Agent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles. Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough. Collecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from. Using another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things. So we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run. flow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full. The beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It’s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events. Once you’re analyzing every trace, you also have too many individual events to read. That’s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them. You can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod. Trace → analyze → catch errors and form clusters → fix → release. Making this loop easy is why we built Laminar. We’ve put the same thought into the rest of Laminar. Our blog ( https://laminar.sh/blog ) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction. Laminar is Apache 2.0 and self-hostable ( https://github.com/lmnr-ai/lmnr ). We make money from the managed cloud. We’d love to hear how you track your agents’ performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn’t introduced a different failure?",
       "source": "Hacker News",
       "published_at": "2026-10-19T16:00:18Z",
-      "score": 49,
-      "comments": 23
-    },
-    {
-      "title": "Agentic Monitoring",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T14:52:04Z",
-      "score": 67,
-      "comments": 3
-    },
-    {
-      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-      "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T14:31:27Z",
-      "score": 18,
-      "comments": 1
-    },
-    {
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "url": "https://github.com/kividbio/kividb",
-      "description": "Hi all, So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have something picking the best of Rust, but also picking the best parts of other alternatives like Garnet and Dragonfly. I used AI a lot, but I was the one making the design decisions based on the tests that claude picked from my history of troubleshooting sessions as part of my job. KiviDB supports both RESP2 and RESP3 protocol. I had some founders credits on my AWS account which helped me with the infra, and running instances I could perform benchmark on. Its keyspace is sharded across threads, it is multi-threaded in nature, and performs best on Linux due to io_uring, I used the tokio_uring crate for this. It also has tokio fallback for other OS's. I hadn't open sourced it until recently as I felt it was not ready yet, the best way to learn it was to build a cloud managed service for it across all three widely used cloud providers i.e AWS, GCP and azure. Since I used to mainly work with cloud, I had some insights on what would be the best ways for the deployments, how to conduct failovers, manage SLAs, etc. And that's what I took help from claude to fast pace it. The website does look like AI slop but it works for now, given my limited resources, that's all I had. You may check it out at : https://kividb.io , I open sourced the core engine under AGPLv3, didn't want to have just source available, because that is available with other tools too. It supports apprx 98-99% of the redis 8.10 commands, few have issues and you can find them at https://github.com/kividbio/kividb/issues , contributors are welcome. Now the numbers, for the final benchmark, I used 2 c7gn.metal servers, in the same placement group in us-east1, and I used memtier-benchmark tool for this. The setting was : 10M keys, 100B each, 32 cores in use with both pipeline and un-pipelined runs. pipeline 16 GET: KiviDB 21.2M ops/sec vs Dragonfly 2.0 9.1M, Redis 8.10 2.4M, Redis Cluster 32 shards 4.7M When not pipelined, Dragonfly performed slightly better at 3.35M ops/sec vs kividb at 3.07M ops/sec. Memory per key was also slightly worse than dragonfly and almost same as Redis, 177B (kividb) vs 134B (dragonfly) vs 178B (redis). With vector ingestion times it was slower but when querying, it was faster than most alternatives at lower ef, however slower than dragonfly at high ef. Most of the technical details are mentioned here so you can check it out: https://kividb.io/benchmarks . easiest way to try it: docker run -d -p 6380:6380 kividb/kividb I am looking forward to building a community around this, provide better rust based tools, I am open to constructive criticism and value informed opinion. Thanks",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T13:53:52Z",
-      "score": 66,
-      "comments": 40
-    },
-    {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "description": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like. Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing. Early access is open at heymaxwell.ai. Happy to answer questions here.",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T13:47:56Z",
-      "score": 46,
-      "comments": 21
-    },
-    {
-      "title": "Cairn: Open windows into AI-driven cyber operations",
-      "url": "https://norforge.com/blog/inside_cairn",
-      "description": "https://www.reuters.com/legal/government/how-one-hacker-used... https://www.theverge.com/ai-artificial-intelligence/1013643/...",
-      "source": "Hacker News",
-      "published_at": "2026-10-19T13:35:12Z",
-      "score": 27,
-      "comments": 9
+      "score": 58,
+      "comments": 27
     }
   ],
-  "updated_at": "2026-10-20T04:46:12.850065Z"
+  "updated_at": "2026-10-21T04:42:19.445126Z"
 }
