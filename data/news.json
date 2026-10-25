@@ -6,19 +6,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-24T04:32:46.940021Z",
+      "fetched_at": "2026-10-25T04:37:19.142577Z",
       "language": "JavaScript",
-      "today_stars": 2716
-    },
-    {
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-24T04:32:46.940541Z",
-      "language": "Python",
-      "today_stars": 635
+      "today_stars": 2264
     },
     {
       "title": "NVIDIA/OpenShell",
@@ -26,28 +16,113 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-24T04:32:46.940776Z",
+      "fetched_at": "2026-10-25T04:37:19.142884Z",
       "language": "Rust",
-      "today_stars": 1119
+      "today_stars": 896
     },
     {
-      "title": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "title": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-24T04:32:46.941205Z",
+      "fetched_at": "2026-10-25T04:37:19.143135Z",
       "language": "Python",
-      "today_stars": 226
+      "today_stars": 13
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-25T04:37:19.143367Z",
+      "language": "CSS",
+      "today_stars": 455
+    },
+    {
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-25T04:37:19.143657Z",
+      "language": "Python",
+      "today_stars": 392
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-25T04:37:19.143883Z",
+      "language": "Rust",
+      "today_stars": 619
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-25T04:37:19.144326Z",
+      "language": "TypeScript",
+      "today_stars": 44
+    },
+    {
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-25T04:37:19.144771Z",
+      "language": "TypeScript",
+      "today_stars": 477
     }
   ],
   "product_hunt": [
     {
-      "title": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "description": "One memory for your AI agents and human team members. Discussion | Link",
+      "title": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "description": "Post insights delivered direct to your AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-19T10:05:22Z"
+      "published_at": "2026-10-14T21:47:26Z"
+    },
+    {
+      "title": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "description": "AI 3D that creates real parts, not just shapes Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-15T15:16:27Z"
+    },
+    {
+      "title": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
+      "description": "Vibe code, publish, and monetize games with AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-15T17:34:35Z"
+    },
+    {
+      "title": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "description": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-22T18:14:06Z"
+    },
+    {
+      "title": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
+      "description": "Every Claude Code agent, at a glance, in your Mac's notch Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-20T12:55:46Z"
+    },
+    {
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "description": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-23T13:28:40Z"
     },
     {
       "title": "Cloudflare Clairic",
@@ -57,11 +132,18 @@
       "published_at": "2026-10-21T02:18:07Z"
     },
     {
-      "title": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
-      "description": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "description": "Your AI agents, live on your iPhone lock screen Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-20T18:09:25Z"
+      "published_at": "2026-10-22T14:38:26Z"
+    },
+    {
+      "title": "FLUX 3 Max",
+      "url": "https://www.producthunt.com/products/fal-ai",
+      "description": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T20:10:40Z"
     },
     {
       "title": "Gerty",
@@ -71,11 +153,32 @@
       "published_at": "2026-10-22T14:14:10Z"
     },
     {
-      "title": "Dots Phone",
-      "url": "https://www.producthunt.com/products/dots-phone",
-      "description": "A phone-calling plugin for OpenAI Dots Discussion | Link",
+      "title": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
+      "description": "One memory for your AI agents and human team members. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-21T00:32:17Z"
+      "published_at": "2026-10-19T10:05:22Z"
+    },
+    {
+      "title": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "description": "The world's first long-form video agent for mobile Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-09-19T05:45:58Z"
+    },
+    {
+      "title": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "description": "Use AI to defend against AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-22T21:03:15Z"
+    },
+    {
+      "title": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "description": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-20T18:09:25Z"
     },
     {
       "title": "Termi Protocol",
@@ -92,25 +195,11 @@
       "published_at": "2026-10-22T21:38:15Z"
     },
     {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
-      "description": "Use AI to defend against AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-22T21:03:15Z"
-    },
-    {
       "title": "ElevenLabs Realtime",
       "url": "https://www.producthunt.com/products/realtime-max-mini",
       "description": "Realtime voice agent models with 570ms to first audio Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-20T14:31:02Z"
-    },
-    {
-      "title": "FLUX 3 Max",
-      "url": "https://www.producthunt.com/products/fal-ai",
-      "description": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-19T20:10:40Z"
     },
     {
       "title": "Polylane for Cloudflare",
@@ -120,27 +209,6 @@
       "published_at": "2026-10-21T16:40:31Z"
     },
     {
-      "title": "MOVO AI",
-      "url": "https://www.producthunt.com/products/movo-ai",
-      "description": "The world's first long-form video agent for mobile Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-19T05:45:58Z"
-    },
-    {
-      "title": "Instant Search",
-      "url": "https://www.producthunt.com/products/instant-search-2",
-      "description": "The fastest, most precise local AI Search for your files. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-23T05:36:03Z"
-    },
-    {
-      "title": "Monish",
-      "url": "https://www.producthunt.com/products/monish",
-      "description": "Your AI agents, live on your iPhone lock screen Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-22T14:38:26Z"
-    },
-    {
       "title": "Agent Hunt",
       "url": "https://www.producthunt.com/products/monid",
       "description": "Live rankings of the tools AI agents use most Discussion | Link",
@@ -148,39 +216,11 @@
       "published_at": "2026-10-23T04:03:20Z"
     },
     {
-      "title": "Bloblings",
-      "url": "https://www.producthunt.com/products/bloblings",
-      "description": "A pet for every Claude Code session Discussion | Link",
+      "title": "Dots Phone",
+      "url": "https://www.producthunt.com/products/dots-phone",
+      "description": "A phone-calling plugin for OpenAI Dots Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-22T09:49:27Z"
-    },
-    {
-      "title": "Causo",
-      "url": "https://www.producthunt.com/products/causo",
-      "description": "Find leads beyond database filters with AI research & MCP Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-19T17:22:39Z"
-    },
-    {
-      "title": "Dadan",
-      "url": "https://www.producthunt.com/products/dadan",
-      "description": "One AI video workspace for recordings, meetings and guides Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-20T11:49:27Z"
-    },
-    {
-      "title": "Mistral Voxtral 3",
-      "url": "https://www.producthunt.com/products/mistral-7b",
-      "description": "Mistral’s speech models for transcription, TTS and agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-20T16:09:31Z"
-    },
-    {
-      "title": "CutBay",
-      "url": "https://www.producthunt.com/products/cutbay",
-      "description": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-10T03:52:57Z"
+      "published_at": "2026-10-21T00:32:17Z"
     }
   ],
   "openai": [
@@ -470,31 +510,112 @@
   ],
   "hacker_news": [
     {
-      "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
-      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-24T00:32:17Z",
+      "published_at": "2026-10-25T03:56:01Z",
+      "score": 29,
+      "comments": 2
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T01:33:49Z",
+      "score": 44,
+      "comments": 15
+    },
+    {
+      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T01:07:24Z",
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T23:11:54Z",
+      "score": 243,
+      "comments": 251
+    },
+    {
+      "title": "Making My Blog Readable by AI Agents",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T21:21:33Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T19:47:19Z",
+      "score": 513,
+      "comments": 530
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T18:04:57Z",
+      "score": 170,
+      "comments": 155
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T15:35:17Z",
+      "score": 39,
+      "comments": 31
+    },
+    {
+      "title": "DetectorScope: AI text detectors that show their work",
+      "url": "https://github.com/google-deepmind/detectorscope",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T15:13:07Z",
+      "score": 9,
+      "comments": 2
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T11:18:54Z",
+      "score": 94,
+      "comments": 49
+    },
+    {
+      "title": "That AI Temptation",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T06:18:39Z",
+      "score": 16,
+      "comments": 5
+    },
+    {
+      "title": "CowAgent – Open-Source Super AI Assistant",
+      "url": "https://cowagent.ai/en/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T03:32:47Z",
       "score": 10,
-      "comments": 0
-    },
-    {
-      "title": "AI devours a fifth of companies' IT budgets",
-      "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T22:00:05Z",
-      "score": 16,
-      "comments": 3
-    },
-    {
-      "title": "AI is devastating higher education, but the system was broken",
-      "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T21:11:59Z",
-      "score": 16,
-      "comments": 0
+      "comments": 2
     },
     {
       "title": "Securing our frontier model training environment",
@@ -502,8 +623,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-23T19:50:56Z",
-      "score": 92,
-      "comments": 99
+      "score": 119,
+      "comments": 120
     },
     {
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
@@ -511,26 +632,17 @@
       "description": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience: - Links can be copied with a click, so no need to drag-select over many lines - cmd+v just pastes images (even on SSH) - images have a thumbnail preview. - Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc). It just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing? It's small but it made my environment feel more cozy. On a personal note, I've been on a frustrating sick leave for a while now. I created Corgi to challenge myself, and see if I can go back. The answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience. I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice. There's still a lot to improve and some rough edges, so feedback would be greatly appreciated. Thank you :)",
       "source": "Hacker News",
       "published_at": "2026-10-23T19:46:38Z",
-      "score": 56,
-      "comments": 12
+      "score": 126,
+      "comments": 42
     },
     {
-      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T19:31:36Z",
-      "score": 47,
-      "comments": 40
-    },
-    {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-23T19:09:54Z",
-      "score": 295,
-      "comments": 113
+      "score": 505,
+      "comments": 193
     },
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -538,17 +650,8 @@
       "description": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
       "source": "Hacker News",
       "published_at": "2026-10-23T16:59:08Z",
-      "score": 792,
-      "comments": 483
-    },
-    {
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "url": "https://www.thisandthat.chat/enron/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T12:02:53Z",
-      "score": 58,
-      "comments": 53
+      "score": 1060,
+      "comments": 655
     },
     {
       "title": "Show HN: Making a smart TV dumb and then smart",
@@ -556,8 +659,8 @@
       "description": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working. My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home. While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience. It was liberating to finally free the TV of bloatware and make it truly personalized!",
       "source": "Hacker News",
       "published_at": "2026-10-23T00:10:45Z",
-      "score": 91,
-      "comments": 69
+      "score": 107,
+      "comments": 77
     },
     {
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
@@ -565,8 +668,8 @@
       "description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is selling tokens really the best strategy? Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side",
       "source": "Hacker News",
       "published_at": "2026-10-22T21:03:55Z",
-      "score": 602,
-      "comments": 672
+      "score": 648,
+      "comments": 733
     },
     {
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
@@ -574,8 +677,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-22T17:44:06Z",
-      "score": 490,
-      "comments": 212
+      "score": 499,
+      "comments": 217
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
@@ -583,72 +686,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-22T16:08:00Z",
-      "score": 620,
-      "comments": 595
-    },
-    {
-      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-      "url": "https://github.com/dsmurrell/onkey",
-      "description": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve. Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original. So, I asked an agent (Claude Code) if it could write some code to listen to Spotify and also listen to me and see if it could detect both pitches and score me. It impressed me by writing some Python and showing me my pitch in the terminal! It couldn’t go all the way though and detect the singer’s pitch in real time. So I found the next best setup and built OnKey, a Mac app that needs to listen to the song once (it doesn’t save it) and then when it’s learnt the song (takes a couple of minutes), you can sing along to the pitch track that it’s learnt. OnKey is free to use and open source under the MIT license. It can listen to Spotify, Apple Music, and YouTube playing in your browser with the right permissions. During the build I found that someone had done something similar in Nightingale, but this requires a library of songs exported to disk and who has this in 2026 (maybe some of you ;) - but we need to help the normies too). You can check out a demo video on the site of me singing (warning given) here: https://singonkey.app The app sends out to find the song info (short Shazam fingerprint, and looks up song details), lyrics (from LRCLIB), and checks for updates. The app never sends the music (it doesn’t save this to disk) and your voice. Everything you’d expect to stay private does. It’s still weak in a few places: - when the song’s backing is noisy it’s hard to pick the pitch track out - sometimes it gets a note an octave off - it’s limited to Apple Silicon Macs, M1 or later, and only macOS 14.2 up because extra drivers aren’t required past this point - the scoring is built for beginners like me so it’s fairly easy on you Would love for people to try it out and let me know what works and what doesn’t for them!",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T14:04:44Z",
-      "score": 217,
-      "comments": 91
-    },
-    {
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T05:23:11Z",
-      "score": 242,
-      "comments": 111
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T02:18:41Z",
-      "score": 616,
-      "comments": 185
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T19:14:01Z",
-      "score": 561,
-      "comments": 531
-    },
-    {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "description": "Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent's state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API. You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn't think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machines. Anthropic and OpenAI are building hosted versions of this, like Claude Managed Agents and the OpenAI Agents API. Omnara is an open-source version you can run on your own servers and use your own models. It's basically a harness server like the opencode or codex servers, but durable, scalable, with the usual harness features like file and shell tools, subagents, compaction, permission prompts, MCP, skills, memory, yada yada yada. Here's some interesting architectural decisions we made while building this out: Most harnesses, like Claude Code, Codex, OpenCode, Pi, Goose, etc, run the agent loop in one long-lived process that keeps its log in a JSONL or SQLite file. In Omnara, the log is an append-only event log in Postgres, with inputs, model outputs and tool calls stored as typed rows in their own tables. The loop runs on stateless workers in the control plane. A worker runs one iteration of the loop, either a model call or the tool calls it produced, then releases the agent and puts the next iteration on a queue in Postgres. Whichever worker is free picks it up, so each iteration of an agent's loop can run in a different process on a different machine. Each iteration's result commits in one transaction, so the model output, its tool calls, usage and the next wakeup are saved together or not at all. If a worker dies mid-iteration, nothing commits, its lease expires, and another worker retries it. Agents waiting on a user, a tool or a retry don't hold a worker, so one worker can multiplex thousands of agents. Also unlike other harnesses, the machines that the workers (our agent loop) run on aren't where the agent runs its commands. Instead, any macOS or Linux machine with an internet connection, like your laptop or any cloud sandbox, can run a small daemon (omnarad) that connects out to Omnara, so it doesn't need any open inbound ports. The agent then gets tools for that machine, like running a command or editing a file. An agent can have any number of machines connected to it. A fun thing I like to do is I have my laptop and a cloud sandbox connected to the same agent, so when my laptop is on, my agent codes there and I can interact with it, and I have it often push to Github. When I close my laptop, my agent sees the laptop went offline, pulls the latest changes to its cloud sandbox, and continues there. The entire codebase is open source at https://github.com/omnara-ai/omnara , and it’s self hostable, even on a single machine with docker compose. You can also use the hosted version at https://omnara.com . Let me know what you think!",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T16:44:53Z",
-      "score": 112,
-      "comments": 34
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T13:37:00Z",
-      "score": 159,
-      "comments": 105
-    },
-    {
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "url": "https://uberblok.storagebits.workers.dev/",
-      "description": "I've worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS. A deep dive into copy-on-write, txgs, vdevs, RAID-Z, snapshots, the ARC, metaslabs, the ZIL, send/receive with explanations and animated diagrams. I'm sure people here know these internals better than I do, so corrections are very welcome. I built it with my agent swarm organization, Algotitan. I hope you'll enjoy the deep dive into Uberblok as much as I do. Museum: https://uberblok.storagebits.workers.dev Repo: https://github.com/algotitanhq/uberblok",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T13:04:25Z",
-      "score": 120,
-      "comments": 30
+      "score": 648,
+      "comments": 623
     }
   ],
-  "updated_at": "2026-10-24T04:32:49.510925Z"
+  "updated_at": "2026-10-25T04:37:20.987691Z"
 }
