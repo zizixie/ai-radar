@@ -1,34 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.142577Z",
-      "language": "JavaScript",
-      "today_stars": 2264
-    },
-    {
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.142884Z",
-      "language": "Rust",
-      "today_stars": 896
-    },
-    {
-      "title": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.143135Z",
-      "language": "Python",
-      "today_stars": 13
+      "fetched_at": "2026-10-26T04:42:46.237964Z",
+      "language": "TypeScript",
+      "today_stars": 675
     },
     {
       "title": "Nutlope/hallmark",
@@ -36,19 +16,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.143367Z",
+      "fetched_at": "2026-10-26T04:42:46.238262Z",
       "language": "CSS",
-      "today_stars": 455
-    },
-    {
-      "title": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.143657Z",
-      "language": "Python",
-      "today_stars": 392
+      "today_stars": 1317
     },
     {
       "title": "pbakaus/impeccable",
@@ -56,38 +26,76 @@
       "description": "The design language that makes your AI harness better at design.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.143883Z",
+      "fetched_at": "2026-10-26T04:42:46.238779Z",
       "language": "Rust",
-      "today_stars": 619
+      "today_stars": 1092
     },
     {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.144326Z",
-      "language": "TypeScript",
-      "today_stars": 44
+      "fetched_at": "2026-10-26T04:42:46.239196Z",
+      "language": "Python",
+      "today_stars": 381
     },
     {
-      "title": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-25T04:37:19.144771Z",
-      "language": "TypeScript",
-      "today_stars": 477
+      "fetched_at": "2026-10-26T04:42:46.240102Z",
+      "language": "JavaScript",
+      "today_stars": 2878
+    },
+    {
+      "title": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-26T04:42:46.240327Z",
+      "language": "Python",
+      "today_stars": 197
     }
   ],
   "product_hunt": [
     {
-      "title": "LinkIntel",
-      "url": "https://www.producthunt.com/products/linkintel",
-      "description": "Post insights delivered direct to your AI Discussion | Link",
+      "title": "Yourcast 2.0",
+      "url": "https://www.producthunt.com/products/yourcast",
+      "description": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-14T21:47:26Z"
+      "published_at": "2026-10-24T14:42:59Z"
+    },
+    {
+      "title": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "description": "Secure data rooms your AI agents can run. Live in < 60 sec. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-24T19:09:46Z"
+    },
+    {
+      "title": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "description": "One local AI server for all your Windows apps Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-24T02:40:27Z"
+    },
+    {
+      "title": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
+      "description": "Product observability for teams shipping fast with AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-18T18:03:42Z"
+    },
+    {
+      "title": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "description": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-22T18:14:06Z"
     },
     {
       "title": "zCAD AI",
@@ -104,11 +112,11 @@
       "published_at": "2026-10-15T17:34:35Z"
     },
     {
-      "title": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "description": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+      "title": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "description": "Post insights delivered direct to your AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-22T18:14:06Z"
+      "published_at": "2026-10-14T21:47:26Z"
     },
     {
       "title": "AgentValley",
@@ -125,81 +133,11 @@
       "published_at": "2026-10-23T13:28:40Z"
     },
     {
-      "title": "Cloudflare Clairic",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "description": "Cloudflare's AI model for fast, cheap data extraction Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-21T02:18:07Z"
-    },
-    {
-      "title": "Monish",
-      "url": "https://www.producthunt.com/products/monish",
-      "description": "Your AI agents, live on your iPhone lock screen Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-22T14:38:26Z"
-    },
-    {
-      "title": "FLUX 3 Max",
-      "url": "https://www.producthunt.com/products/fal-ai",
-      "description": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-19T20:10:40Z"
-    },
-    {
-      "title": "Gerty",
-      "url": "https://www.producthunt.com/products/gerty",
-      "description": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-22T14:14:10Z"
-    },
-    {
-      "title": "Context Engine",
-      "url": "https://www.producthunt.com/products/context-engine-2",
-      "description": "One memory for your AI agents and human team members. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-19T10:05:22Z"
-    },
-    {
-      "title": "MOVO AI",
-      "url": "https://www.producthunt.com/products/movo-ai",
-      "description": "The world's first long-form video agent for mobile Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-09-19T05:45:58Z"
-    },
-    {
-      "title": "Plango",
-      "url": "https://www.producthunt.com/products/plango",
-      "description": "Use AI to defend against AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-22T21:03:15Z"
-    },
-    {
-      "title": "DotMD",
-      "url": "https://www.producthunt.com/products/dotmd-3",
-      "description": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-20T18:09:25Z"
-    },
-    {
-      "title": "Termi Protocol",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "description": "Watch AI agents code in 3D and hand off the work Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-23T04:32:57Z"
-    },
-    {
       "title": "Peras",
       "url": "https://www.producthunt.com/products/peras",
       "description": "Pause Claude Code and Codex before they burn your week Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-22T21:38:15Z"
-    },
-    {
-      "title": "ElevenLabs Realtime",
-      "url": "https://www.producthunt.com/products/realtime-max-mini",
-      "description": "Realtime voice agent models with 570ms to first audio Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-20T14:31:02Z"
     },
     {
       "title": "Polylane for Cloudflare",
@@ -209,11 +147,11 @@
       "published_at": "2026-10-21T16:40:31Z"
     },
     {
-      "title": "Agent Hunt",
-      "url": "https://www.producthunt.com/products/monid",
-      "description": "Live rankings of the tools AI agents use most Discussion | Link",
+      "title": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "description": "Watch AI agents code in 3D and hand off the work Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-23T04:03:20Z"
+      "published_at": "2026-10-23T04:32:57Z"
     },
     {
       "title": "Dots Phone",
@@ -221,6 +159,48 @@
       "description": "A phone-calling plugin for OpenAI Dots Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-21T00:32:17Z"
+    },
+    {
+      "title": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "description": "The fastest, most precise local AI Search for your files. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-23T05:36:03Z"
+    },
+    {
+      "title": "Context Engine",
+      "url": "https://www.producthunt.com/products/context-engine-2",
+      "description": "One memory for your AI agents and human team members. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-19T10:05:22Z"
+    },
+    {
+      "title": "DotMD",
+      "url": "https://www.producthunt.com/products/dotmd-3",
+      "description": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-20T18:09:25Z"
+    },
+    {
+      "title": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "description": "Live rankings of the tools AI agents use most Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-23T04:03:20Z"
+    },
+    {
+      "title": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "description": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-22T14:14:10Z"
+    },
+    {
+      "title": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "description": "Use AI to defend against AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-22T21:03:15Z"
     }
   ],
   "openai": [
@@ -510,13 +490,130 @@
   ],
   "hacker_news": [
     {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-25T03:56:01Z",
-      "score": 29,
-      "comments": 2
+      "published_at": "2026-10-26T03:12:05Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T02:22:38Z",
+      "score": 19,
+      "comments": 26
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T01:47:46Z",
+      "score": 100,
+      "comments": 57
+    },
+    {
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "description": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering. I've contributed to a few issues now and worked closely with the maintainer. I've watched this evolve over the last few months. I feel it's ready for everyone to check out and stress test. Source: github.com/strelov1/freehire",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T01:13:43Z",
+      "score": 7,
+      "comments": 0
+    },
+    {
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T22:49:06Z",
+      "score": 42,
+      "comments": 26
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T21:11:31Z",
+      "score": 213,
+      "comments": 243
+    },
+    {
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://github.com/SRN0129/Agenttrust",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T20:46:50Z",
+      "score": 7,
+      "comments": 0
+    },
+    {
+      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+      "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T20:44:07Z",
+      "score": 17,
+      "comments": 12
+    },
+    {
+      "title": "Crosscut – Drawing Dynamic Models",
+      "url": "https://www.inkandswitch.com/crosscut/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T20:01:53Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "The Power Grab of the AI Doomers",
+      "url": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T20:01:52Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T18:42:23Z",
+      "score": 35,
+      "comments": 14
+    },
+    {
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T16:31:21Z",
+      "score": 55,
+      "comments": 78
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T16:28:26Z",
+      "score": 209,
+      "comments": 305
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T09:51:17Z",
+      "score": 138,
+      "comments": 75
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -524,17 +621,26 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-25T01:33:49Z",
-      "score": 44,
-      "comments": 15
+      "score": 354,
+      "comments": 131
     },
     {
-      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "description": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities. Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well. Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts. This is the first release - I’m already working on the next version with improvements. I would appreciate, if anyone is interested in this space, download the model from huggingface, check it out and let me know any feedback. Also, open to connecting with others in this space as well.",
       "source": "Hacker News",
-      "published_at": "2026-10-25T01:07:24Z",
-      "score": 4,
-      "comments": 0
+      "published_at": "2026-10-25T01:30:13Z",
+      "score": 56,
+      "comments": 25
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "description": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do oversight and what do oversight of and this is solved through the ORRCF (for Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden) (b) the second problem is how to scaffold sustainable AI-written code; the ADRs (Architectural Deliberation Records, after Nygard's decision records) written by the models, summarize all the thought process involved in any design decision and provides the blueprint for the code. In tandem, the records provide both the reason why certain non-obvious design choices were made, from a constant, to a library choice, to an ordering in an operation; and also under what conditions different decisions would be made, for instance, in a different platform, or under different latency requirements, or for a different audience, and so on. This is a framework I've been working for over a year, that is the starting point of all my projects. It involves a lot of moving parts and my challenge is figuring out onboarding. I'm hoping the plugin, ADRs4AI/plugins, just created and now also submitted to Anthropic's marketplace, will make it easier. I am also in the process of recording introductory videos. I would like feedback on the onboarding, on what you make of the currently online materials, and how I could make any of this clearer. Thanks!",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T00:43:47Z",
+      "score": 19,
+      "comments": 14
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -542,8 +648,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-24T23:11:54Z",
-      "score": 243,
-      "comments": 251
+      "score": 514,
+      "comments": 550
     },
     {
       "title": "Making My Blog Readable by AI Agents",
@@ -551,17 +657,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-24T21:21:33Z",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T19:47:19Z",
-      "score": 513,
-      "comments": 530
+      "score": 35,
+      "comments": 9
     },
     {
       "title": "Why is AI generated language so hard to understand?",
@@ -569,126 +666,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-24T18:04:57Z",
-      "score": 170,
-      "comments": 155
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T15:35:17Z",
-      "score": 39,
-      "comments": 31
-    },
-    {
-      "title": "DetectorScope: AI text detectors that show their work",
-      "url": "https://github.com/google-deepmind/detectorscope",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T15:13:07Z",
-      "score": 9,
-      "comments": 2
-    },
-    {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T11:18:54Z",
-      "score": 94,
-      "comments": 49
-    },
-    {
-      "title": "That AI Temptation",
-      "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T06:18:39Z",
-      "score": 16,
-      "comments": 5
-    },
-    {
-      "title": "CowAgent – Open-Source Super AI Assistant",
-      "url": "https://cowagent.ai/en/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T03:32:47Z",
-      "score": 10,
-      "comments": 2
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T19:50:56Z",
-      "score": 119,
-      "comments": 120
-    },
-    {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "description": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience: - Links can be copied with a click, so no need to drag-select over many lines - cmd+v just pastes images (even on SSH) - images have a thumbnail preview. - Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc). It just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing? It's small but it made my environment feel more cozy. On a personal note, I've been on a frustrating sick leave for a while now. I created Corgi to challenge myself, and see if I can go back. The answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience. I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice. There's still a lot to improve and some rough edges, so feedback would be greatly appreciated. Thank you :)",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T19:46:38Z",
-      "score": 126,
-      "comments": 42
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T19:09:54Z",
-      "score": 505,
-      "comments": 193
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "description": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T16:59:08Z",
-      "score": 1060,
-      "comments": 655
-    },
-    {
-      "title": "Show HN: Making a smart TV dumb and then smart",
-      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
-      "description": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working. My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home. While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience. It was liberating to finally free the TV of bloatware and make it truly personalized!",
-      "source": "Hacker News",
-      "published_at": "2026-10-23T00:10:45Z",
-      "score": 107,
-      "comments": 77
-    },
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is selling tokens really the best strategy? Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T21:03:55Z",
-      "score": 648,
-      "comments": 733
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T17:44:06Z",
-      "score": 499,
-      "comments": 217
-    },
-    {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T16:08:00Z",
-      "score": 648,
-      "comments": 623
+      "score": 243,
+      "comments": 197
     }
   ],
-  "updated_at": "2026-10-25T04:37:20.987691Z"
+  "updated_at": "2026-10-26T04:42:47.718755Z"
 }
