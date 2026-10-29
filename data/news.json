@@ -6,29 +6,9 @@
       "description": "GitHub Trending 项目。",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.520975Z",
+      "fetched_at": "2026-10-29T05:44:04.693379Z",
       "language": "未标注",
-      "today_stars": 1395
-    },
-    {
-      "title": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.521433Z",
-      "language": "CSS",
-      "today_stars": 2830
-    },
-    {
-      "title": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.521749Z",
-      "language": "TypeScript",
-      "today_stars": 777
+      "today_stars": 2139
     },
     {
       "title": "obra/superpowers",
@@ -36,9 +16,29 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.522191Z",
+      "fetched_at": "2026-10-29T05:44:04.693819Z",
       "language": "Shell",
-      "today_stars": 617
+      "today_stars": 1095
+    },
+    {
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-29T05:44:04.694494Z",
+      "language": "Rust",
+      "today_stars": 117
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-10-29T05:44:04.694812Z",
+      "language": "CSS",
+      "today_stars": 2110
     },
     {
       "title": "pbakaus/impeccable",
@@ -46,9 +46,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.522488Z",
+      "fetched_at": "2026-10-29T05:44:04.695146Z",
       "language": "Rust",
-      "today_stars": 1449
+      "today_stars": 1472
     },
     {
       "title": "makecindy/cindy",
@@ -56,45 +56,136 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.522807Z",
+      "fetched_at": "2026-10-29T05:44:04.695483Z",
       "language": "TypeScript",
-      "today_stars": 1465
+      "today_stars": 728
     },
     {
-      "title": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.523100Z",
+      "fetched_at": "2026-10-29T05:44:04.695811Z",
       "language": "TypeScript",
-      "today_stars": 951
+      "today_stars": 1054
     },
     {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "title": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-10-28T05:38:06.523467Z",
-      "language": "JavaScript",
-      "today_stars": 1165
+      "fetched_at": "2026-10-29T05:44:04.696800Z",
+      "language": "Shell",
+      "today_stars": 90
     }
   ],
   "product_hunt": [
     {
-      "title": "Spacesheep",
-      "url": "https://www.producthunt.com/products/spacesheep",
-      "description": "Documents of the future, made by AI, read by your team Discussion | Link",
+      "title": "App Store Screenshots",
+      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "description": "Your coding agent designs your app store screenshots Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-23T04:03:25Z"
+      "published_at": "2026-10-04T07:57:55Z"
     },
     {
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
-      "description": "Decision models join LLMs to extract data from documents Discussion | Link",
+      "title": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "description": "Six 2B-class models for phones, laptops and robots Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-27T04:48:43Z"
+      "published_at": "2026-10-27T17:20:52Z"
+    },
+    {
+      "title": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "description": "Check if AI agents can use your website Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-28T00:45:35Z"
+    },
+    {
+      "title": "Zro: Uncensored Security Models",
+      "url": "https://www.producthunt.com/products/zro",
+      "description": "Abliterated open models for security work Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-11T09:32:19Z"
+    },
+    {
+      "title": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "description": "AI ad fraud protection for Google and Meta ads Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-23T14:44:56Z"
+    },
+    {
+      "title": "Agent Handshake by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "description": "Agent-to-agent customer support that holds its answer Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T16:08:44Z"
+    },
+    {
+      "title": "Our Silly Games",
+      "url": "https://www.producthunt.com/products/our-silly-games",
+      "description": "Skills to build games with Claude. Free multiplayer hosting. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-27T16:11:14Z"
+    },
+    {
+      "title": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "description": "Let websites use AI running on your computer Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-28T06:46:15Z"
+    },
+    {
+      "title": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "description": "Spotlight-style AI chat for your Mac Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-27T18:33:40Z"
+    },
+    {
+      "title": "Trigger.dev: Webhooks for your AI agents",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "description": "Run AI agents with Slack, Supabase and 50+ other services Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-16T09:30:22Z"
+    },
+    {
+      "title": "Hob",
+      "url": "https://www.producthunt.com/products/hob-3",
+      "description": "Open-source, on device alternative to Claude and ChatGPT Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T16:38:07Z"
+    },
+    {
+      "title": "Zest",
+      "url": "https://www.producthunt.com/products/zest-6",
+      "description": "Hold ⌥Space, flick, and an AI agent does the dev chore Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-25T11:30:16Z"
+    },
+    {
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "description": "Take your AI tokens anywhere Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-28T06:14:57Z"
+    },
+    {
+      "title": "Notra",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "description": "Notra is a GEO tool that helps you rank in AI Search. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-23T20:02:20Z"
+    },
+    {
+      "title": "Nuvio 5.0",
+      "url": "https://www.producthunt.com/products/nuvio",
+      "description": "Hand your financial admin to your AI agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T20:06:22Z"
     },
     {
       "title": "NINX",
@@ -111,27 +202,6 @@
       "published_at": "2026-10-22T14:16:30Z"
     },
     {
-      "title": "Off Grid AI",
-      "url": "https://www.producthunt.com/products/off-grid-ai",
-      "description": "Private AI on your phone and computer. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T12:12:10Z"
-    },
-    {
-      "title": "PulseDev",
-      "url": "https://www.producthunt.com/products/pulsedev",
-      "description": "Click any UI bug on localhost and your AI agent fixes it Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T22:47:46Z"
-    },
-    {
-      "title": "Nuvio 5.0",
-      "url": "https://www.producthunt.com/products/nuvio",
-      "description": "Hand your financial admin to your AI agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T20:06:22Z"
-    },
-    {
       "title": "GPT-6.1 Terra",
       "url": "https://www.producthunt.com/products/openai",
       "description": "Fast, capable computer use at half the price Discussion | Link",
@@ -139,91 +209,42 @@
       "published_at": "2026-10-26T23:33:48Z"
     },
     {
-      "title": "Revix AI",
-      "url": "https://www.producthunt.com/products/revix-ai-2",
-      "description": "AI code review that learns your repo's own rules Discussion | Link",
+      "title": "ContextGem 1.0",
+      "url": "https://www.producthunt.com/products/contextgem",
+      "description": "Decision models join LLMs to extract data from documents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-26T21:29:10Z"
+      "published_at": "2026-10-27T04:48:43Z"
     },
     {
-      "title": "Notra",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "description": "Notra is a GEO tool that helps you rank in AI Search. Discussion | Link",
+      "title": "Off Grid AI",
+      "url": "https://www.producthunt.com/products/off-grid-ai",
+      "description": "Private AI on your phone and computer. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-23T20:02:20Z"
-    },
-    {
-      "title": "AI Bridge",
-      "url": "https://www.producthunt.com/products/ai-bridge",
-      "description": "Every AI coding agent on your Mac, in its place Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-21T08:10:28Z"
-    },
-    {
-      "title": "ManyAgents",
-      "url": "https://www.producthunt.com/products/manyagents",
-      "description": "Run a team of AI coding agents from one Mac window Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-25T19:55:39Z"
-    },
-    {
-      "title": "AVP",
-      "url": "https://www.producthunt.com/products/avp",
-      "description": "Open source alternative to Git for AI coding agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-25T22:53:07Z"
-    },
-    {
-      "title": "AllModels",
-      "url": "https://www.producthunt.com/products/allmodels-io",
-      "description": "Explore every abliterated model Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T05:15:29Z"
-    },
-    {
-      "title": "Kiwi",
-      "url": "https://www.producthunt.com/products/kiwi-7",
-      "description": "A proactive AI assistant that texts you before you ask Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-24T23:19:29Z"
-    },
-    {
-      "title": "WhoIsCooking",
-      "url": "https://www.producthunt.com/products/whoiscooking",
-      "description": "See which AI agent is heating your Mac and cool it down. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-25T21:45:54Z"
-    },
-    {
-      "title": "N8N Chat UI",
-      "url": "https://www.producthunt.com/products/n8n-chat-ui-2",
-      "description": "Beautiful, no-code, on-brand AI chat widgets for n8n Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-08T02:43:27Z"
-    },
-    {
-      "title": "SurgePix",
-      "url": "https://www.producthunt.com/products/surgepix",
-      "description": "AI visuals. Edit every layer. Agent-callable. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-16T07:19:17Z"
-    },
-    {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.producthunt.com/products/minimax-4",
-      "description": "MiniMax’s Flash model, 3x faster and 70% cheaper for agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-19T12:54:36Z"
-    },
-    {
-      "title": "VibeiDE",
-      "url": "https://www.producthunt.com/products/vibeide",
-      "description": "Queue agent tasks in parallel and review each result Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-25T21:30:48Z"
+      "published_at": "2026-10-26T12:12:10Z"
     }
   ],
   "openai": [
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "OpenAI",
+      "published_at": "2026-10-28T13:15:00Z"
+    },
+    {
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "description": "How AI might enter the org chart—beneath, beside, and between us.",
+      "source": "OpenAI",
+      "published_at": "2026-10-28T10:00:00Z"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "source": "OpenAI",
+      "published_at": "2026-10-28T09:30:00Z"
+    },
     {
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
       "url": "https://openai.com/index/retell-ai",
@@ -342,31 +363,17 @@
       "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "source": "OpenAI",
       "published_at": "2026-10-22T00:00:00Z"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "source": "OpenAI",
-      "published_at": "2026-10-21T17:00:00Z"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "source": "OpenAI",
-      "published_at": "2026-10-21T21:00:00Z"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "source": "OpenAI",
-      "published_at": "2026-10-21T12:00:00Z"
     }
   ],
   "anthropic": [],
   "google_deepmind": [
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-10-28T17:00:58Z"
+    },
     {
       "title": "Genie 4: A new generation of world simulation",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -499,33 +506,116 @@
       "description": "Google DeepMind 官方更新。",
       "source": "Google DeepMind",
       "published_at": "2026-09-01T17:08:51Z"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "description": "Google DeepMind 官方更新。",
-      "source": "Google DeepMind",
-      "published_at": "2026-08-27T16:11:32Z"
     }
   ],
   "hacker_news": [
     {
-      "title": "Amazon defines the role of the developer in the age of AI",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-28T01:00:33Z",
-      "score": 11,
+      "published_at": "2026-10-29T03:33:42Z",
+      "score": 175,
+      "comments": 38
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T00:30:37Z",
+      "score": 49,
+      "comments": 67
+    },
+    {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T00:16:08Z",
+      "score": 48,
+      "comments": 87
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T22:27:46Z",
+      "score": 46,
+      "comments": 28
+    },
+    {
+      "title": "Claude Code found 14,219 photos of my face on my Android that I never took",
+      "url": "https://twitter.com/coolerwave/status/2115393243458207755",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T18:00:40Z",
+      "score": 14,
+      "comments": 1
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T17:01:23Z",
+      "score": 865,
+      "comments": 714
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T15:46:30Z",
+      "score": 220,
+      "comments": 142
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T14:46:53Z",
+      "score": 3,
+      "comments": 0
+    },
+    {
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T14:02:20Z",
+      "score": 112,
+      "comments": 116
+    },
+    {
+      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+      "url": "https://bou.ke/blog/zoetermeer/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T13:43:32Z",
+      "score": 23,
       "comments": 2
     },
     {
-      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
-      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-10-27T22:29:50Z",
-      "score": 15,
-      "comments": 1
+      "published_at": "2026-10-28T13:41:30Z",
+      "score": 449,
+      "comments": 496
+    },
+    {
+      "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T10:10:58Z",
+      "score": 69,
+      "comments": 33
     },
     {
       "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
@@ -533,8 +623,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T22:23:37Z",
-      "score": 34,
-      "comments": 26
+      "score": 48,
+      "comments": 34
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
@@ -542,8 +632,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T20:50:42Z",
-      "score": 189,
-      "comments": 167
+      "score": 322,
+      "comments": 336
     },
     {
       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
@@ -551,17 +641,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T20:48:49Z",
-      "score": 131,
-      "comments": 59
-    },
-    {
-      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T20:18:54Z",
-      "score": 11,
-      "comments": 1
+      "score": 219,
+      "comments": 142
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
@@ -569,17 +650,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T19:55:06Z",
-      "score": 267,
-      "comments": 120
-    },
-    {
-      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-      "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T18:08:20Z",
-      "score": 33,
-      "comments": 9
+      "score": 525,
+      "comments": 194
     },
     {
       "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
@@ -587,17 +659,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T17:49:47Z",
-      "score": 24,
-      "comments": 9
-    },
-    {
-      "title": "Show HN: Agent-relay for multi-vendor coding sessions",
-      "url": "https://github.com/saranyan/agent-relay",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T17:14:54Z",
-      "score": 6,
-      "comments": 0
+      "score": 62,
+      "comments": 23
     },
     {
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
@@ -605,8 +668,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T16:40:15Z",
-      "score": 365,
-      "comments": 279
+      "score": 394,
+      "comments": 312
     },
     {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
@@ -614,8 +677,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T16:25:30Z",
-      "score": 297,
-      "comments": 226
+      "score": 373,
+      "comments": 284
     },
     {
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
@@ -623,72 +686,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-10-27T15:28:26Z",
-      "score": 498,
-      "comments": 269
-    },
-    {
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "description": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T15:12:20Z",
-      "score": 28,
-      "comments": 20
-    },
-    {
-      "title": "Is my data used for model training?",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T13:56:15Z",
-      "score": 216,
-      "comments": 101
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T11:08:15Z",
-      "score": 468,
-      "comments": 213
-    },
-    {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T10:27:50Z",
-      "score": 464,
-      "comments": 268
-    },
-    {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-27T06:25:37Z",
-      "score": 449,
-      "comments": 313
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-10-26T22:41:48Z",
-      "score": 178,
-      "comments": 78
-    },
-    {
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "description": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
-      "source": "Hacker News",
-      "published_at": "2026-10-26T18:01:17Z",
-      "score": 628,
-      "comments": 421
+      "score": 575,
+      "comments": 292
     }
   ],
-  "updated_at": "2026-10-28T05:38:08.661169Z"
+  "updated_at": "2026-10-29T05:44:06.876049Z"
 }
