@@ -63,18 +63,39 @@
   ],
   "product_hunt": [
     {
-      "title": "ChatGPT Images 2.6",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "Create, edit, and animate images with AI Discussion | Link",
+      "title": "NoMac",
+      "url": "https://www.producthunt.com/products/nomac",
+      "description": "Your AI agent's own Mac, billed per minute. No subscription Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T16:20:03Z"
+      "published_at": "2026-10-26T19:07:17Z"
     },
     {
-      "title": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "description": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+      "title": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2",
+      "description": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T17:10:35Z"
+      "published_at": "2026-10-30T21:17:40Z"
+    },
+    {
+      "title": "Agent Clan",
+      "url": "https://www.producthunt.com/products/agent-clan",
+      "description": "Command your Claude Code and Codex agents with gestures Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-07T17:52:26Z"
+    },
+    {
+      "title": "Memorias",
+      "url": "https://www.producthunt.com/products/memorias-3",
+      "description": "An AI biographer that turns your stories into a book Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-13T13:48:16Z"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "description": "A model that can see and refine what it builds Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-06T14:18:59Z"
     },
     {
       "title": "Instagram Edits for Desktop",
@@ -82,6 +103,27 @@
       "description": "Instagram's free desktop video editor with AI agents Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-06T00:46:05Z"
+    },
+    {
+      "title": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "description": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-05T17:12:40Z"
+    },
+    {
+      "title": "Exa Monitors v2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "description": "Web search on a schedule that calls your agent, $2/1k runs Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-02T18:27:33Z"
+    },
+    {
+      "title": "Google Omni 1.2 Flash",
+      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+      "description": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-05T17:10:35Z"
     },
     {
       "title": "Switchy",
@@ -98,11 +140,11 @@
       "published_at": "2026-10-21T15:22:29Z"
     },
     {
-      "title": "Exa Monitors v2",
-      "url": "https://www.producthunt.com/products/exa-ai",
-      "description": "Web search on a schedule that calls your agent, $2/1k runs Discussion | Link",
+      "title": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
+      "description": "AI SDR that books meetings in Japan, the US & SE Asia Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-02T18:27:33Z"
+      "published_at": "2026-11-02T00:27:34Z"
     },
     {
       "title": "ClarifierAI for Chrome",
@@ -112,13 +154,6 @@
       "published_at": "2026-10-26T10:38:44Z"
     },
     {
-      "title": "Deal Pilot",
-      "url": "https://www.producthunt.com/products/deal-pilot",
-      "description": "AI SDR that books meetings in Japan, the US & SE Asia Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T00:27:34Z"
-    },
-    {
       "title": "The Writer's Quarter",
       "url": "https://www.producthunt.com/products/the-writer-s-quarter",
       "description": "AI-Free Writing & Novel Planning Software Discussion | Link",
@@ -126,11 +161,11 @@
       "published_at": "2026-11-06T16:06:36Z"
     },
     {
-      "title": "OrgSync",
-      "url": "https://www.producthunt.com/products/orgsync-2",
-      "description": "Company brain for Claude, ChatGPT & Codex teams Discussion | Link",
+      "title": "crystl",
+      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "description": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-04T15:12:38Z"
+      "published_at": "2026-11-06T02:44:33Z"
     },
     {
       "title": "Rankfender v3.0",
@@ -140,39 +175,11 @@
       "published_at": "2026-11-05T14:05:15Z"
     },
     {
-      "title": "Wonder Dev View",
-      "url": "https://www.producthunt.com/products/wonder-dev-view",
-      "description": "Run many Claude Code and Codex agents in parallel Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T03:47:30Z"
-    },
-    {
       "title": "Tobira Site Agent",
       "url": "https://www.producthunt.com/products/tobira-ai",
       "description": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-24T11:25:07Z"
-    },
-    {
-      "title": "SafeGrd",
-      "url": "https://www.producthunt.com/products/safegrd",
-      "description": "Safae database backups that AI can restore but not delete Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T11:51:56Z"
-    },
-    {
-      "title": "Vakilat",
-      "url": "https://www.producthunt.com/products/vakilat",
-      "description": "AI research for Indian lawyers with \"0\" hallucinations Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-03T19:34:46Z"
-    },
-    {
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
-      "description": "The AI engineer for your production issues Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T08:53:29Z"
     }
   ],
   "openai": [
@@ -462,13 +469,130 @@
   ],
   "hacker_news": [
     {
-      "title": "Goodbye Claude, Hello Pi",
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T05:30:11Z",
+      "score": 12,
+      "comments": 9
+    },
+    {
+      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T03:06:55Z",
+      "score": 15,
+      "comments": 11
+    },
+    {
+      "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
+      "url": "https://news.ycombinator.com/item?id=50419019",
+      "description": "Here are several user reports of Opus 5.5 being nerfed: https://www.reddit.com/r/ClaudeCode/comments/1xr4urz/opus_55_in_the_past_two_weeks/ https://www.reddit.com/r/ClaudeCode/comments/1xr9x5y/the_nerf_is_real_thank_you_uwum1ha1nho/ https://www.reddit.com/r/ClaudeCode/comments/1xqvqip/anthropic_should_offer_a_free_reset_and_restore/ https://www.reddit.com/r/ClaudeCode/comments/1xr0nz5/either_a_lawsuit_an_apology_or_never_touching/ https://www.reddit.com/r/ClaudeCode/comments/1xl72og/opus_56_imminently_about_to_release/ https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/ https://www.reddit.com/r/ClaudeCode/comments/1xr8jod/opus_high_55_nerfed/ https://www.reddit.com/r/ClaudeCode/comments/1xqujuh/opus_55_started_coming_up_with_unintelligible/ https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data/ https://www.reddit.com/r/ClaudeCode/comments/1xr488d/weve_been_nerfed/ https://www.reddit.com/r/ClaudeCode/comments/1xr6r3t/has_claude_been_made_dumber_again/ https://www.reddit.com/r/ClaudeCode/comments/1xr8aic/fable_opus_55_noticeable_performance_regression/ https://www.reddit.com/r/ClaudeCode/comments/1xrc97q/claude_again_ignoring_all_hooks_first_time_since/ https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/ These are all within the last week. I have noticed the same thing myself. I am going to pause Opus 5.5 use. I find it really scummy business practice. We trust them that what is behind the string \"opus-5-5\" is consistent and what we signed up for. Of course behind the scenes they can do whatever they like and serve whatever model they like under that string. It is a scummy and deceptive business practice though.",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T23:49:19Z",
+      "score": 15,
+      "comments": 8
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T23:44:36Z",
+      "score": 142,
+      "comments": 201
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T19:37:42Z",
+      "score": 206,
+      "comments": 158
+    },
+    {
+      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T19:14:41Z",
+      "score": 22,
+      "comments": 0
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T18:43:07Z",
+      "score": 94,
+      "comments": 114
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T18:16:07Z",
+      "score": 695,
+      "comments": 384
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T14:49:23Z",
+      "score": 185,
+      "comments": 204
+    },
+    {
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T14:42:38Z",
+      "score": 96,
+      "comments": 49
+    },
+    {
+      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T12:41:25Z",
+      "score": 40,
+      "comments": 28
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T08:40:23Z",
+      "score": 177,
+      "comments": 105
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-08T03:11:48Z",
-      "score": 77,
-      "comments": 37
+      "score": 728,
+      "comments": 451
+    },
+    {
+      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T02:37:10Z",
+      "score": 13,
+      "comments": 2
     },
     {
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
@@ -476,8 +600,8 @@
       "description": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection. Most importantly it works completely local no internet required.",
       "source": "Hacker News",
       "published_at": "2026-11-07T21:47:47Z",
-      "score": 31,
-      "comments": 15
+      "score": 38,
+      "comments": 23
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -485,17 +609,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-07T20:45:32Z",
-      "score": 296,
-      "comments": 205
-    },
-    {
-      "title": "Driver AI in Stunt Car Racer, Commodore 64",
-      "url": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T19:59:25Z",
-      "score": 5,
-      "comments": 0
+      "score": 599,
+      "comments": 407
     },
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
@@ -503,8 +618,8 @@
       "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft...",
       "source": "Hacker News",
       "published_at": "2026-11-07T18:02:17Z",
-      "score": 430,
-      "comments": 255
+      "score": 500,
+      "comments": 309
     },
     {
       "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
@@ -512,8 +627,17 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-07T15:16:01Z",
-      "score": 60,
-      "comments": 12
+      "score": 79,
+      "comments": 14
+    },
+    {
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "description": "Hi Guys, like many of you I work with AI agents every day and across several clients. The major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory. So I’m curious how you actually handle this: 1. When you start a new session, how do you give context to the agent (context came from chat, mail, ticket ...) ? 2. Do you use more than one agent type (claude, codex ...) ? And if yes, how do you carry context between agents ? 3. If you work for several clients, how do you keep their context separate ? 4. The last time something went wrong ( an agent used a rejected approach, forgot a decision ...), what happened, and how much time did it cost to you ? 5. Did you paid or built a tool that helped you with these problems ? Do you still use it ? I’m exploring whether to build something, so I’m trying to learn how other people really work. Thanks for your return.",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T10:01:48Z",
+      "score": 39,
+      "comments": 31
     },
     {
       "title": "The Components of Agent Memory",
@@ -521,126 +645,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-07T06:39:04Z",
-      "score": 155,
-      "comments": 86
-    },
-    {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T02:20:06Z",
-      "score": 88,
-      "comments": 73
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T20:27:23Z",
-      "score": 363,
-      "comments": 346
-    },
-    {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "description": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3...",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T16:54:36Z",
-      "score": 312,
-      "comments": 614
-    },
-    {
-      "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
-      "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T16:04:58Z",
-      "score": 39,
-      "comments": 0
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T13:35:27Z",
-      "score": 361,
-      "comments": 251
-    },
-    {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T09:13:30Z",
-      "score": 101,
-      "comments": 39
-    },
-    {
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T05:19:04Z",
-      "score": 217,
-      "comments": 217
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-05T23:09:57Z",
-      "score": 515,
-      "comments": 229
-    },
-    {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-05T22:17:15Z",
-      "score": 1593,
-      "comments": 519
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "description": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable. Here’s a video walkthrough: https://www.youtube.com/watch?v=3Ev6I7DOV9c When we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on top of Redis, but this became too cumbersome to maintain and upgrade. This led us to extend our game server orchestrator to support what we call Rivet Actors today: many lightweight workers with in-memory state and durable storage. By using actors, we were able to serve tens of millions of monthly active users. As agents grew in popularity, it became clear that running agents in sandboxes is inefficient. Sandboxes are expensive, mostly idle, and slow to start. Developers started using actors because they are far more memory efficient (72 KB baseline for actors vs 512 MB for a minimal sandbox) and fast to start (4.9 ms p99 for actors vs 1.7 s p99 for sandboxes). For example, Amp is using Rivet to orchestrate multiplayer agents. They originally tried to build on Cloudflare Durable Objects, but couldn’t launch because of the platform’s limitations and unresponsive support. They migrated to Rivet Actors in a weekend and deploy on-prem. Rivet’s flexible architecture lets them adapt it to their own use cases without being constrained by a framework or the memory, storage, and runtime limits of Cloudflare Durable Objects. Under the hood, Rivet is backed by S3 while maintaining SSD speeds. Why S3? Previously, Rivet ran on FoundationDB. However, we were surprised to find that companies are storing orders of magnitude more data on Rivet Actors than in Postgres, such as large session transcripts, agent artifacts, and full POSIX filesystems. As their data grew, they had to start paying for SSDs that sat mostly idle with old transcripts. This led us to double down on S3 as our primary storage medium without sacrificing performance. This choice means that data stored on Rivet is 10× cheaper than on EBS gp3 while maintaining SSD speeds. It’s not as simple as writing data straight to S3. Lots of PUTs for tiny blobs of data are slow and expensive. Instead, we use an SSD tier to optimize speed and cost: When you write data to an actor’s SQLite database, the write is acknowledged once SSDs in 2 of 3 availability zones have it. Then, the data is batched to S3 in the background. This means that S3 is never on the write path, which lowers latency and cost. When reading data or waking an actor, Rivet reads from SSDs if already cached and falls back to S3 if not. SSD caches can be tuned to meet your needs, giving you configurable tiered storage for your actors. This architecture lets Rivet provide 1.07 ms durable writes (3 AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object storage (p99). We’ve spent a lot of time making sure that Rivet can run wherever you need it. Self-hosting requires deploying a single Rust binary with S3 as the only dependency, Rivet Cloud lets you deploy dedicated clusters on AWS or GCP in any region, and BYOC lets us deploy Rivet to your VPC without having to operate it yourself. Rivet also runs identically in local dev as in production, since Rivet is a lightweight binary that runs anywhere Rivet Actors can be written in TypeScript or Rust. Out of the box, they support agents (Pi Durable), workflows, real-time, multiplayer, running AI-generated code, Durable Streams, and integrations with tools like Vercel’s Eve and Turso. See all of our available guides, or point your agent at them: https://rivet.dev/docs/#guides Try it out now, by reading our quickstart guides ( https://rivet.dev/docs/ ) or ask your agent: “Run npx skills add rivet-dev/skills, then build a multiplayer chat agent and run it locally.” We’d love to get feedback on your experience with Rivet! We’re deeply invested in making Rivet an easy-to-self-host, flexible, and efficient way to run agentic workloads. GitHub: https://github.com/rivet-dev/rivet Architecture: https://rivet.dev/docs/architecture/ Benchmarks: https://rivet.dev/docs/benchmarking/ Self-hosting: https://rivet.dev/docs/deploy/self-host/",
-      "source": "Hacker News",
-      "published_at": "2026-11-05T17:17:42Z",
-      "score": 120,
-      "comments": 59
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "description": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack. Kino is code-first. All editing, all motion graphics, all dragging of timeline items around, all teammate comments, and all 3D scenes are expressed as code, built on Remotion. This was hard to get right, as we found ourselves building a what-you-see-is-what-you-get editor for React, which we then turned into a video editor. For our launch video I told Claude-with-Kino to find a macOS Leopard install disk and reskin our whole video to match. Kino is also fully collaborative and real-time, so you can see your teammates' cursors and exactly which part of the timeline they’re currently watching. For our launch video I had 5+ agents editing the timeline concurrently while my friend Donald had his swarm working a few minutes further down. Donald had one agent rotoscoping to make our visual effects work, I had an LLM color grading all media via our LUT support, and we both made tiny tweaks to the timeline along the way. To make this code-first editor work with video footage, everything gets transcribed, embedded, described, and face-detected. You can scrub your footage locally after you drag it in, but we upload a low-res proxy so your teammates and cloud inference can see it. This local scrubbing plus custom pro media decoders means you can drag a 250GB ProRes clip from your new iPhone right into your Kino timeline. We built custom decoders for professional codecs such as ProRes, BRAW, R3D, and more (see my extremely successful nine point HN post https://news.ycombinator.com/item?id=50198052 ). None of the performance we’re getting would have been possible before WebCodecs and libraries like Mediabunny. I grew up making YouTube videos, and during my undergrad at MIT I co-directed a 3.5 hour archival footage documentary on the history of my school and technological development in America ( https://regressions.net ). Much of the work was logging footage, managing hard drives, manually syncing Premiere project state, and planning our movie in a spreadsheet. Our first launch in 2023 proclaimed that Kino was \"Silicon Valley meets Hollywood.\" It was more like Palantir for Hollywood; we ran bespoke on-prem Kino deployments with our team of forward deployed engineers on shows like Survivor and A24's Beef. It was a rush, but it felt like the slowest way to improve video editing for the whole world. Bound by the Avid Media Composer and strict studio security rules, we couldn't touch frontier models, and we couldn't make editors >10x faster. So in 2025, we rebuilt Kino as a true editor, and we took a bet on coding-as-editing. Everything in Kino has a URL: projects, clips, footage, comments and replies, even a single frame and the line of code that draws it. Projects and media living in one place and everything being addressable means that your agents and team have a single, editable source of truth for video production. At a lower level, I now paste Kino links into my agent constantly, whether it’s making sure Codex knows exactly which timeline item (among thousands) I am referring to or which teammate’s comment needs fixing. We have teams managing their whole company’s media in Kino, spinning up agents to make new videos every day, then using review links to flag issues. One founder ships ads like this: each day he uses Kino's YouTube support to find b-roll he is allowed to use, he edits something, his co-founder leaves notes such as “we need to use this clip instead” and his agent can then apply them. Full-time filmmakers are also using Kino. They tend to resemble “toxenmaxxer” software developers, where 15+ agents iterate on a single project, each trusting Kino as the source of truth for timeline state, graphics, media, everything. The full editor is free, including unlimited imports and exports, real-time collaboration and MCP access for your own agent. Pro is $25 per editor per month and adds unlimited MCP tool calls, share links, more storage, YouTube search, and the ability to edit alongside your team. You can download it at https://kino.ai . We have not yet released Kino for the pure web browser, just Electron for now. If you make videos personally, if you have ProRes media and you want to try to break Kino, if you have legacy video editor projects to bring in, or if you want to make more content for your company, we'd love to hear how Kino works for you.",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T17:31:53Z",
-      "score": 111,
-      "comments": 36
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T15:30:30Z",
-      "score": 636,
-      "comments": 191
-    },
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T11:52:17Z",
-      "score": 1296,
-      "comments": 749
+      "score": 179,
+      "comments": 99
     }
   ],
-  "updated_at": "2026-11-08T05:57:07.619176Z"
+  "updated_at": "2026-11-09T06:20:38.198133Z"
 }
