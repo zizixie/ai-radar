@@ -1,44 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.472002Z",
-      "language": "Rust",
-      "today_stars": 190
-    },
-    {
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.472399Z",
-      "language": "JavaScript",
-      "today_stars": 2085
-    },
-    {
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.472782Z",
-      "language": "Python",
-      "today_stars": 443
-    },
-    {
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.473476Z",
+      "fetched_at": "2026-11-10T07:13:11.196547Z",
       "language": "Python",
-      "today_stars": 390
+      "today_stars": 1038
     },
     {
       "title": "meta/astryx",
@@ -46,28 +16,169 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.473846Z",
+      "fetched_at": "2026-11-10T07:13:11.196970Z",
       "language": "TypeScript",
-      "today_stars": 96
+      "today_stars": 3278
     },
     {
-      "title": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-08T05:57:05.476866Z",
-      "language": "Go",
-      "today_stars": 123
+      "fetched_at": "2026-11-10T07:13:11.197571Z",
+      "language": "C++",
+      "today_stars": 574
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-10T07:13:11.197886Z",
+      "language": "Python",
+      "today_stars": 551
+    },
+    {
+      "title": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-10T07:13:11.198190Z",
+      "language": "TypeScript",
+      "today_stars": 216
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-10T07:13:11.198478Z",
+      "language": "Rust",
+      "today_stars": 916
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-10T07:13:11.199117Z",
+      "language": "Python",
+      "today_stars": 506
+    },
+    {
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-10T07:13:11.199409Z",
+      "language": "Python",
+      "today_stars": 31
     }
   ],
   "product_hunt": [
     {
-      "title": "NoMac",
-      "url": "https://www.producthunt.com/products/nomac",
-      "description": "Your AI agent's own Mac, billed per minute. No subscription Discussion | Link",
+      "title": "Voyager",
+      "url": "https://www.producthunt.com/products/vygr",
+      "description": "✴️ An agentic file browser to navigate your work context Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-26T19:07:17Z"
+      "published_at": "2026-10-01T07:18:43Z"
+    },
+    {
+      "title": "Dageno AI 2.0",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "description": "See why AI recommends your competitors instead of you Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-03T10:49:37Z"
+    },
+    {
+      "title": "Egoist AI Passport",
+      "url": "https://www.producthunt.com/products/egoist-ai-passport",
+      "description": "Secure and share your personal data with AI tools. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-07T16:27:33Z"
+    },
+    {
+      "title": "ProtoMap",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "description": "Stop wasting AI tokens rediscovering dependencies Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-28T18:27:44Z"
+    },
+    {
+      "title": "Flic Cue",
+      "url": "https://www.producthunt.com/products/flic-cue",
+      "description": "The AI Voice Button: hold to talk, shake to undo, open SDKs Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-06T08:39:34Z"
+    },
+    {
+      "title": "Terse - Durable Actors",
+      "url": "https://www.producthunt.com/products/terse-durable-actors",
+      "description": "Infrastructure for Multiplayer AI Products Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-05T20:09:55Z"
+    },
+    {
+      "title": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "description": "Sound engineered for dogs, not humans Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-02T11:48:42Z"
+    },
+    {
+      "title": "Cardboard AI",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "description": "Best way to edit videos with AI Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-05T15:56:52Z"
+    },
+    {
+      "title": "Watchflows",
+      "url": "https://www.producthunt.com/products/watchflows",
+      "description": "Visual automation for your Mac, with AI built in Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-28T04:13:10Z"
+    },
+    {
+      "title": "KIKUmap",
+      "url": "https://www.producthunt.com/products/kikumap",
+      "description": "A mind map for your Claude and ChatGPT chats Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-05T19:49:12Z"
+    },
+    {
+      "title": "Databox CLI",
+      "url": "https://www.producthunt.com/products/databox",
+      "description": "Your agentic analytics platform in the terminal Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T13:19:37Z"
+    },
+    {
+      "title": "Arcjet AI security models",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "description": "A family of custom-trained security models for coding agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-06T15:23:25Z"
+    },
+    {
+      "title": "ClipsPal",
+      "url": "https://www.producthunt.com/products/clipspal",
+      "description": "AI video editor that edits your talking-head videos Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-08T13:34:07Z"
+    },
+    {
+      "title": "Cue",
+      "url": "https://www.producthunt.com/products/cue-voice-keyboard",
+      "description": "AI meeting notes, prep Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-08T20:08:44Z"
     },
     {
       "title": "AXL",
@@ -75,6 +186,13 @@
       "description": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-10-30T21:17:40Z"
+    },
+    {
+      "title": "NoMac",
+      "url": "https://www.producthunt.com/products/nomac",
+      "description": "Your AI agent's own Mac, billed per minute. No subscription Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T19:07:17Z"
     },
     {
       "title": "Agent Clan",
@@ -98,91 +216,42 @@
       "published_at": "2026-11-06T14:18:59Z"
     },
     {
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "description": "Instagram's free desktop video editor with AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-06T00:46:05Z"
-    },
-    {
-      "title": "GPT‑6 Cyber",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T17:12:40Z"
-    },
-    {
-      "title": "Exa Monitors v2",
-      "url": "https://www.producthunt.com/products/exa-ai",
-      "description": "Web search on a schedule that calls your agent, $2/1k runs Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T18:27:33Z"
-    },
-    {
       "title": "Google Omni 1.2 Flash",
       "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
       "description": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-05T17:10:35Z"
-    },
-    {
-      "title": "Switchy",
-      "url": "https://www.producthunt.com/products/switchy",
-      "description": "Mac controls, deploys, 2FA & AI limits in your menu bar Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-06T11:24:14Z"
-    },
-    {
-      "title": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "description": "Your personal AI advisor for a more intentional life Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-21T15:22:29Z"
-    },
-    {
-      "title": "Deal Pilot",
-      "url": "https://www.producthunt.com/products/deal-pilot",
-      "description": "AI SDR that books meetings in Japan, the US & SE Asia Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T00:27:34Z"
-    },
-    {
-      "title": "ClarifierAI for Chrome",
-      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
-      "description": "Use AI for writing & translating in your Chrome Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T10:38:44Z"
-    },
-    {
-      "title": "The Writer's Quarter",
-      "url": "https://www.producthunt.com/products/the-writer-s-quarter",
-      "description": "AI-Free Writing & Novel Planning Software Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-06T16:06:36Z"
-    },
-    {
-      "title": "crystl",
-      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
-      "description": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-06T02:44:33Z"
-    },
-    {
-      "title": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "description": "The SEO/GEO operating system, built for people and AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T14:05:15Z"
-    },
-    {
-      "title": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "description": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-24T11:25:07Z"
     }
   ],
   "openai": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "source": "OpenAI",
+      "published_at": "2026-11-09T19:00:00Z"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "source": "OpenAI",
+      "published_at": "2026-11-09T13:00:00Z"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "source": "OpenAI",
+      "published_at": "2026-11-09T08:00:00Z"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "source": "OpenAI",
+      "published_at": "2026-11-09T08:00:00Z"
+    },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "url": "https://openai.com/index/partnering-with-hacktron",
@@ -294,34 +363,6 @@
       "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
       "source": "OpenAI",
       "published_at": "2026-11-03T08:00:00Z"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "source": "OpenAI",
-      "published_at": "2026-11-03T08:00:00Z"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "source": "OpenAI",
-      "published_at": "2026-11-03T00:00:00Z"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "source": "OpenAI",
-      "published_at": "2026-11-02T15:30:00Z"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "source": "OpenAI",
-      "published_at": "2026-11-02T15:00:00Z"
     }
   ],
   "anthropic": [],
@@ -469,31 +510,175 @@
   ],
   "hacker_news": [
     {
-      "title": "Apple capped engineers at a $200 daily AI budget",
-      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "url": "https://news.ycombinator.com/item?id=50436636",
+      "description": "Only an email so far, nothing official I could find. I figure if you didn't get this email you are ok. --- We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their official updates here. Following an investigation by the Notion security team, we have determined that your workspace, [...], was among the <1% of Notion workspaces that may have been affected by the Fireworks security incident. Some unattributable chat sessions with Notion AI may have been exposed in this incident. “Unattributable” means the chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain tool call results. Beyond what’s in the chat transcript itself, there’s no information tying the chat back to your workspace, users, or company. No other data from within your workspace is affected. This email explains what happened, what data of yours might be affected, what we’re doing to address this, and what we recommend to protect your data from this Fireworks AI incident. What is Fireworks AI and how we used them: Fireworks is one of the most used global AI infrastructure platforms powering tens of thousands of customers and used by hundreds of thousands of developers. We used Fireworks for classification jobs to help customers understand their own AI usage through a feature in Notion called Insights, and we used them as a general inference provider to serve open-weight models inside our product. The Insights feature has been disabled as we investigate this incident, and we are no longer serving open-weight models through Fireworks. What happened and how we addressed it: We learned from Fireworks about potential incidents earlier this month, and we shut down all connections to their systems out of an abundance of caution. On November 6, Fireworks notified us that malicious actors may have accessed potential customer data. Our team immediately began another internal investigation. On November 8, Fireworks confirmed this new dataset for us. Upon analysis of the new data, we discovered that it included unattributable Notion AI chat transcripts used for the Insights feature. Chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain any tool call results. Beyond the words in the chat transcripts themselves, the data contained no information that could specifically identify your workspace, users, or company. No other Notion data from your workspace is affected, and we continue to monitor this incident. Recommended next steps for you: You can retrieve and review the impacted data securely inside your workspace. See below: - [...] We recommend that you treat this data as if it were exposed. If anyone on your team might have pasted sensitive information into chats in Notion AI like passwords, API keys, or other credentials during this timeframe, please rotate them now. You trust us with your life's work in Notion, and that trust covers every partner we choose. In this critical time for global security, it is our mission to raise the standard for how your data is protected. You have our uncompromising commitment. --- I downloaded the dataset and it's a full chat for me.",
       "source": "Hacker News",
-      "published_at": "2026-11-09T05:30:11Z",
-      "score": 12,
-      "comments": 9
+      "published_at": "2026-11-10T06:00:48Z",
+      "score": 9,
+      "comments": 0
     },
     {
-      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T03:06:55Z",
-      "score": 15,
-      "comments": 11
+      "published_at": "2026-11-10T03:20:06Z",
+      "score": 108,
+      "comments": 52
     },
     {
-      "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
-      "url": "https://news.ycombinator.com/item?id=50419019",
-      "description": "Here are several user reports of Opus 5.5 being nerfed: https://www.reddit.com/r/ClaudeCode/comments/1xr4urz/opus_55_in_the_past_two_weeks/ https://www.reddit.com/r/ClaudeCode/comments/1xr9x5y/the_nerf_is_real_thank_you_uwum1ha1nho/ https://www.reddit.com/r/ClaudeCode/comments/1xqvqip/anthropic_should_offer_a_free_reset_and_restore/ https://www.reddit.com/r/ClaudeCode/comments/1xr0nz5/either_a_lawsuit_an_apology_or_never_touching/ https://www.reddit.com/r/ClaudeCode/comments/1xl72og/opus_56_imminently_about_to_release/ https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/ https://www.reddit.com/r/ClaudeCode/comments/1xr8jod/opus_high_55_nerfed/ https://www.reddit.com/r/ClaudeCode/comments/1xqujuh/opus_55_started_coming_up_with_unintelligible/ https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data/ https://www.reddit.com/r/ClaudeCode/comments/1xr488d/weve_been_nerfed/ https://www.reddit.com/r/ClaudeCode/comments/1xr6r3t/has_claude_been_made_dumber_again/ https://www.reddit.com/r/ClaudeCode/comments/1xr8aic/fable_opus_55_noticeable_performance_regression/ https://www.reddit.com/r/ClaudeCode/comments/1xrc97q/claude_again_ignoring_all_hooks_first_time_since/ https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/ These are all within the last week. I have noticed the same thing myself. I am going to pause Opus 5.5 use. I find it really scummy business practice. We trust them that what is behind the string \"opus-5-5\" is consistent and what we signed up for. Of course behind the scenes they can do whatever they like and serve whatever model they like under that string. It is a scummy and deceptive business practice though.",
+      "title": "Why Is AI Slop So Frustrating to Read?",
+      "url": "https://zonderlabs.com/slop",
+      "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-08T23:49:19Z",
-      "score": 15,
-      "comments": 8
+      "published_at": "2026-11-09T23:21:45Z",
+      "score": 16,
+      "comments": 4
+    },
+    {
+      "title": "USB: A trust layer for AI skills and MCP servers",
+      "url": "https://github.com/PeepSick/usbplus",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T21:42:46Z",
+      "score": 11,
+      "comments": 2
+    },
+    {
+      "title": "Indie Game Development with AI",
+      "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T21:33:55Z",
+      "score": 18,
+      "comments": 7
+    },
+    {
+      "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+      "url": "https://github.com/humanethq/airgap-check",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T20:37:28Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T20:04:55Z",
+      "score": 336,
+      "comments": 242
+    },
+    {
+      "title": "I ran 120B MoE models on my 32GB M1 Max using under 16 GB",
+      "url": "https://mitln.github.io/moe-inference-engine/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T19:20:34Z",
+      "score": 27,
+      "comments": 4
+    },
+    {
+      "title": "Claude Fable 5.2 launch offers",
+      "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T19:12:16Z",
+      "score": 25,
+      "comments": 5
+    },
+    {
+      "title": "Testing Claude on real-world electronics design",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:58:48Z",
+      "score": 26,
+      "comments": 4
+    },
+    {
+      "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:29:41Z",
+      "score": 25,
+      "comments": 1
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:24:38Z",
+      "score": 537,
+      "comments": 120
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:05:44Z",
+      "score": 84,
+      "comments": 24
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:01:10Z",
+      "score": 469,
+      "comments": 741
+    },
+    {
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T17:58:46Z",
+      "score": 287,
+      "comments": 118
+    },
+    {
+      "title": "The Race to Build a \"Find My\" for AI Chips",
+      "url": "https://spectrum.ieee.org/find-my-ai-chip",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T14:09:02Z",
+      "score": 23,
+      "comments": 10
+    },
+    {
+      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T11:36:55Z",
+      "score": 78,
+      "comments": 12
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "description": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T08:17:49Z",
+      "score": 208,
+      "comments": 73
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "description": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models. Flide achieves up to a 9.5x speedup over vLLM and SGLang. It now supports 30+ popular local Jev-like decision models. Start to make your decision immediately: pip install flide",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T04:43:12Z",
+      "score": 123,
+      "comments": 29
     },
     {
       "title": "I'm not convinced the AI bubble exists",
@@ -501,153 +686,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-08T23:44:36Z",
-      "score": 142,
-      "comments": 201
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T19:37:42Z",
-      "score": 206,
-      "comments": 158
-    },
-    {
-      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T19:14:41Z",
-      "score": 22,
-      "comments": 0
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T18:43:07Z",
-      "score": 94,
-      "comments": 114
-    },
-    {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T18:16:07Z",
-      "score": 695,
-      "comments": 384
-    },
-    {
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T14:49:23Z",
-      "score": 185,
-      "comments": 204
-    },
-    {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T14:42:38Z",
-      "score": 96,
-      "comments": 49
-    },
-    {
-      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T12:41:25Z",
-      "score": 40,
-      "comments": 28
-    },
-    {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T08:40:23Z",
-      "score": 177,
-      "comments": 105
-    },
-    {
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T03:11:48Z",
-      "score": 728,
-      "comments": 451
-    },
-    {
-      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T02:37:10Z",
-      "score": 13,
-      "comments": 2
-    },
-    {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "description": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection. Most importantly it works completely local no internet required.",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T21:47:47Z",
-      "score": 38,
-      "comments": 23
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T20:45:32Z",
-      "score": 599,
-      "comments": 407
-    },
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft...",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T18:02:17Z",
-      "score": 500,
-      "comments": 309
-    },
-    {
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T15:16:01Z",
-      "score": 79,
-      "comments": 14
-    },
-    {
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "url": "https://news.ycombinator.com/item?id=50403153",
-      "description": "Hi Guys, like many of you I work with AI agents every day and across several clients. The major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory. So I’m curious how you actually handle this: 1. When you start a new session, how do you give context to the agent (context came from chat, mail, ticket ...) ? 2. Do you use more than one agent type (claude, codex ...) ? And if yes, how do you carry context between agents ? 3. If you work for several clients, how do you keep their context separate ? 4. The last time something went wrong ( an agent used a rejected approach, forgot a decision ...), what happened, and how much time did it cost to you ? 5. Did you paid or built a tool that helped you with these problems ? Do you still use it ? I’m exploring whether to build something, so I’m trying to learn how other people really work. Thanks for your return.",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T10:01:48Z",
-      "score": 39,
-      "comments": 31
-    },
-    {
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T06:39:04Z",
-      "score": 179,
-      "comments": 99
+      "score": 550,
+      "comments": 943
     }
   ],
-  "updated_at": "2026-11-09T06:20:38.198133Z"
+  "updated_at": "2026-11-10T07:13:12.792866Z"
 }
