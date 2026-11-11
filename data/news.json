@@ -1,34 +1,34 @@
 {
   "github_trending": [
     {
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.196547Z",
-      "language": "Python",
-      "today_stars": 1038
-    },
-    {
       "title": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.196970Z",
+      "fetched_at": "2026-11-11T06:10:10.905066Z",
       "language": "TypeScript",
-      "today_stars": 3278
+      "today_stars": 3108
     },
     {
-      "title": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.197571Z",
-      "language": "C++",
-      "today_stars": 574
+      "fetched_at": "2026-11-11T06:10:10.905272Z",
+      "language": "Python",
+      "today_stars": 1679
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-11T06:10:10.905429Z",
+      "language": "JavaScript",
+      "today_stars": 465
     },
     {
       "title": "anthropics/claude-quickstarts",
@@ -36,39 +36,19 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.197886Z",
+      "fetched_at": "2026-11-11T06:10:10.905580Z",
       "language": "Python",
-      "today_stars": 551
+      "today_stars": 531
     },
     {
-      "title": "garrytan/gbrain",
-      "url": "https://github.com/garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.198190Z",
-      "language": "TypeScript",
-      "today_stars": 216
-    },
-    {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.198478Z",
-      "language": "Rust",
-      "today_stars": 916
-    },
-    {
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.199117Z",
-      "language": "Python",
-      "today_stars": 506
+      "fetched_at": "2026-11-11T06:10:10.905735Z",
+      "language": "C++",
+      "today_stars": 456
     },
     {
       "title": "homeassistant-ai/ha-mcp",
@@ -76,154 +56,213 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-10T07:13:11.199409Z",
+      "fetched_at": "2026-11-11T06:10:10.906007Z",
       "language": "Python",
-      "today_stars": 31
+      "today_stars": 790
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-11T06:10:10.906151Z",
+      "language": "Rust",
+      "today_stars": 780
     }
   ],
   "product_hunt": [
     {
-      "title": "Voyager",
-      "url": "https://www.producthunt.com/products/vygr",
-      "description": "✴️ An agentic file browser to navigate your work context Discussion | Link",
+      "title": "OpenVibe",
+      "url": "https://www.producthunt.com/products/openvibe-2",
+      "description": "A canvas of real terminals for your AI coding agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-01T07:18:43Z"
+      "published_at": "2026-11-09T17:34:57Z"
     },
     {
-      "title": "Dageno AI 2.0",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "description": "See why AI recommends your competitors instead of you Discussion | Link",
+      "title": "SideKick By Open",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "description": "“Claude, but for your product” is here. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-03T10:49:37Z"
+      "published_at": "2026-11-09T12:59:46Z"
     },
     {
-      "title": "Egoist AI Passport",
-      "url": "https://www.producthunt.com/products/egoist-ai-passport",
-      "description": "Secure and share your personal data with AI tools. Discussion | Link",
+      "title": "Operum",
+      "url": "https://www.producthunt.com/products/operum",
+      "description": "Your AI product team, with expert workflows built in Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-07T16:27:33Z"
+      "published_at": "2026-10-11T03:07:59Z"
     },
     {
-      "title": "ProtoMap",
-      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
-      "description": "Stop wasting AI tokens rediscovering dependencies Discussion | Link",
+      "title": "Wipecraft",
+      "url": "https://www.producthunt.com/products/wipecraft",
+      "description": "Mac System Data cleaner with on-device AI mode Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-28T18:27:44Z"
+      "published_at": "2026-11-09T11:50:59Z"
     },
     {
-      "title": "Flic Cue",
-      "url": "https://www.producthunt.com/products/flic-cue",
-      "description": "The AI Voice Button: hold to talk, shake to undo, open SDKs Discussion | Link",
+      "title": "Levo",
+      "url": "https://www.producthunt.com/products/levo-3",
+      "description": "Your AI agent finds what's safe to delete on your Mac Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-06T08:39:34Z"
+      "published_at": "2026-11-07T21:30:59Z"
     },
     {
-      "title": "Terse - Durable Actors",
-      "url": "https://www.producthunt.com/products/terse-durable-actors",
-      "description": "Infrastructure for Multiplayer AI Products Discussion | Link",
+      "title": "Kata Send",
+      "url": "https://www.producthunt.com/products/kata-send",
+      "description": "Cold email infrastructure for AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T20:09:55Z"
+      "published_at": "2026-11-05T08:50:12Z"
     },
     {
-      "title": "Pawse.ai",
-      "url": "https://www.producthunt.com/products/pawse-ai",
-      "description": "Sound engineered for dogs, not humans Discussion | Link",
+      "title": "Latch.ai",
+      "url": "https://www.producthunt.com/products/latch-ai-2",
+      "description": "Automate complex accounting work without a single prompt Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-02T11:48:42Z"
+      "published_at": "2026-10-28T20:19:05Z"
     },
     {
-      "title": "Cardboard AI",
-      "url": "https://www.producthunt.com/products/cardboard-3",
-      "description": "Best way to edit videos with AI Discussion | Link",
+      "title": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "description": "Grok Bot alternative that runs on your AI, completely free Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T15:56:52Z"
+      "published_at": "2026-11-10T04:16:01Z"
     },
     {
-      "title": "Watchflows",
-      "url": "https://www.producthunt.com/products/watchflows",
-      "description": "Visual automation for your Mac, with AI built in Discussion | Link",
+      "title": "Maxma",
+      "url": "https://www.producthunt.com/products/maxma-2",
+      "description": "The 24/7 AI teammate that scales your paid ad performance Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-28T04:13:10Z"
+      "published_at": "2026-10-24T00:59:22Z"
     },
     {
-      "title": "KIKUmap",
-      "url": "https://www.producthunt.com/products/kikumap",
-      "description": "A mind map for your Claude and ChatGPT chats Discussion | Link",
+      "title": "ForAgent",
+      "url": "https://www.producthunt.com/products/foragent",
+      "description": "Private phone numbers so AI agents can call each other Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T19:49:12Z"
+      "published_at": "2026-11-05T07:09:58Z"
     },
     {
-      "title": "Databox CLI",
-      "url": "https://www.producthunt.com/products/databox",
-      "description": "Your agentic analytics platform in the terminal Discussion | Link",
+      "title": "Lottie AI",
+      "url": "https://www.producthunt.com/products/lottiefiles",
+      "description": "Editable vector animations from a text prompt Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-26T13:19:37Z"
+      "published_at": "2026-11-09T08:16:41Z"
     },
     {
-      "title": "Arcjet AI security models",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "description": "A family of custom-trained security models for coding agents Discussion | Link",
+      "title": "Billing MCP By SubscriptionFlow",
+      "url": "https://www.producthunt.com/products/subscriptionflow-ai-billing-mcp",
+      "description": "Open Source AI Agent to Run Your Subscription Billing Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-06T15:23:25Z"
+      "published_at": "2026-10-15T07:32:33Z"
     },
     {
-      "title": "ClipsPal",
-      "url": "https://www.producthunt.com/products/clipspal",
-      "description": "AI video editor that edits your talking-head videos Discussion | Link",
+      "title": "Quillo",
+      "url": "https://www.producthunt.com/products/quillo-2",
+      "description": "Listen to any PDF in a natural voice, then ask Quillo Ai Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-08T13:34:07Z"
+      "published_at": "2026-11-05T15:57:02Z"
     },
     {
-      "title": "Cue",
-      "url": "https://www.producthunt.com/products/cue-voice-keyboard",
-      "description": "AI meeting notes, prep Discussion | Link",
+      "title": "Clive",
+      "url": "https://www.producthunt.com/products/clive",
+      "description": "Let Claude and other AIs set your iPhone alarms Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-08T20:08:44Z"
+      "published_at": "2026-11-10T00:23:22Z"
     },
     {
-      "title": "AXL",
-      "url": "https://www.producthunt.com/products/axl-2",
-      "description": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
+      "title": "Rodeo",
+      "url": "https://www.producthunt.com/products/rodeo-7",
+      "description": "A Notion alternative with AI meeting notes on the free plan Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-30T21:17:40Z"
+      "published_at": "2026-11-05T10:22:01Z"
     },
     {
-      "title": "NoMac",
-      "url": "https://www.producthunt.com/products/nomac",
-      "description": "Your AI agent's own Mac, billed per minute. No subscription Discussion | Link",
+      "title": "TK by Medium",
+      "url": "https://www.producthunt.com/products/medium",
+      "description": "An agentic notebook to build your best thinking Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-26T19:07:17Z"
+      "published_at": "2026-11-05T14:33:24Z"
     },
     {
-      "title": "Agent Clan",
-      "url": "https://www.producthunt.com/products/agent-clan",
-      "description": "Command your Claude Code and Codex agents with gestures Discussion | Link",
+      "title": "Ownkube",
+      "url": "https://www.producthunt.com/products/ownkube",
+      "description": "Deploy apps from your coding agent with one prompt Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-07T17:52:26Z"
+      "published_at": "2026-10-20T14:25:22Z"
     },
     {
-      "title": "Memorias",
-      "url": "https://www.producthunt.com/products/memorias-3",
-      "description": "An AI biographer that turns your stories into a book Discussion | Link",
+      "title": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
+      "description": "AI-native IDE: agents code with human review Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-13T13:48:16Z"
+      "published_at": "2026-11-09T17:01:49Z"
     },
     {
-      "title": "Inkling 2 Small",
-      "url": "https://www.producthunt.com/products/tinker-2",
-      "description": "A model that can see and refine what it builds Discussion | Link",
+      "title": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona",
+      "description": "AI agents that turn buying signals into booked sales calls Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-06T14:18:59Z"
+      "published_at": "2026-10-21T15:41:38Z"
     },
     {
-      "title": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "description": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+      "title": "Inspo by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "description": "Real website inspiration for your coding agent Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-05T17:10:35Z"
+      "published_at": "2026-11-09T21:48:31Z"
     }
   ],
   "openai": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T00:00:00Z"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "OpenAI",
+      "published_at": "2026-11-11T08:00:00Z"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "OpenAI",
+      "published_at": "2026-11-10T12:00:00Z"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": "OpenAI",
+      "published_at": "2026-11-10T10:00:00Z"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source": "OpenAI",
+      "published_at": "2026-11-10T09:00:00Z"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "source": "OpenAI",
+      "published_at": "2026-11-10T07:00:00Z"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "source": "OpenAI",
+      "published_at": "2026-11-10T00:00:00Z"
+    },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -314,59 +353,31 @@
       "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
       "source": "OpenAI",
       "published_at": "2026-11-05T00:00:00Z"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "source": "OpenAI",
-      "published_at": "2026-11-04T14:30:00Z"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "source": "OpenAI",
-      "published_at": "2026-11-04T07:00:00Z"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "source": "OpenAI",
-      "published_at": "2026-11-04T08:00:00Z"
-    },
-    {
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "source": "OpenAI",
-      "published_at": "2026-11-04T00:00:00Z"
-    },
-    {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "source": "OpenAI",
-      "published_at": "2026-11-04T00:00:00Z"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "source": "OpenAI",
-      "published_at": "2026-11-03T12:00:00Z"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "source": "OpenAI",
-      "published_at": "2026-11-03T08:00:00Z"
     }
   ],
   "anthropic": [],
   "google_deepmind": [
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-11-10T16:03:47Z"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "description": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "source": "Google DeepMind",
+      "published_at": "2026-11-10T12:02:28Z"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "source": "Google DeepMind",
+      "published_at": "2026-11-09T19:51:47Z"
+    },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -485,210 +496,189 @@
       "description": "Google DeepMind 官方更新。",
       "source": "Google DeepMind",
       "published_at": "2026-09-23T15:25:14Z"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "description": "Google DeepMind 官方更新。",
-      "source": "Google DeepMind",
-      "published_at": "2026-09-15T17:05:57Z"
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "source": "Google DeepMind",
-      "published_at": "2026-09-08T14:00:15Z"
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "description": "Google DeepMind 官方更新。",
-      "source": "Google DeepMind",
-      "published_at": "2026-09-03T15:02:08Z"
     }
   ],
   "hacker_news": [
     {
-      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-      "url": "https://news.ycombinator.com/item?id=50436636",
-      "description": "Only an email so far, nothing official I could find. I figure if you didn't get this email you are ok. --- We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their official updates here. Following an investigation by the Notion security team, we have determined that your workspace, [...], was among the <1% of Notion workspaces that may have been affected by the Fireworks security incident. Some unattributable chat sessions with Notion AI may have been exposed in this incident. “Unattributable” means the chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain tool call results. Beyond what’s in the chat transcript itself, there’s no information tying the chat back to your workspace, users, or company. No other data from within your workspace is affected. This email explains what happened, what data of yours might be affected, what we’re doing to address this, and what we recommend to protect your data from this Fireworks AI incident. What is Fireworks AI and how we used them: Fireworks is one of the most used global AI infrastructure platforms powering tens of thousands of customers and used by hundreds of thousands of developers. We used Fireworks for classification jobs to help customers understand their own AI usage through a feature in Notion called Insights, and we used them as a general inference provider to serve open-weight models inside our product. The Insights feature has been disabled as we investigate this incident, and we are no longer serving open-weight models through Fireworks. What happened and how we addressed it: We learned from Fireworks about potential incidents earlier this month, and we shut down all connections to their systems out of an abundance of caution. On November 6, Fireworks notified us that malicious actors may have accessed potential customer data. Our team immediately began another internal investigation. On November 8, Fireworks confirmed this new dataset for us. Upon analysis of the new data, we discovered that it included unattributable Notion AI chat transcripts used for the Insights feature. Chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain any tool call results. Beyond the words in the chat transcripts themselves, the data contained no information that could specifically identify your workspace, users, or company. No other Notion data from your workspace is affected, and we continue to monitor this incident. Recommended next steps for you: You can retrieve and review the impacted data securely inside your workspace. See below: - [...] We recommend that you treat this data as if it were exposed. If anyone on your team might have pasted sensitive information into chats in Notion AI like passwords, API keys, or other credentials during this timeframe, please rotate them now. You trust us with your life's work in Notion, and that trust covers every partner we choose. In this critical time for global security, it is our mission to raise the standard for how your data is protected. You have our uncompromising commitment. --- I downloaded the dataset and it's a full chat for me.",
+      "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
+      "url": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
+      "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-10T06:00:48Z",
-      "score": 9,
+      "published_at": "2026-11-11T05:16:07Z",
+      "score": 5,
       "comments": 0
     },
     {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "url": "https://taipeiledger.com/gpu/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-10T03:20:06Z",
-      "score": 108,
-      "comments": 52
-    },
-    {
-      "title": "Why Is AI Slop So Frustrating to Read?",
-      "url": "https://zonderlabs.com/slop",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T23:21:45Z",
-      "score": 16,
-      "comments": 4
-    },
-    {
-      "title": "USB: A trust layer for AI skills and MCP servers",
-      "url": "https://github.com/PeepSick/usbplus",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T21:42:46Z",
-      "score": 11,
+      "published_at": "2026-11-11T02:50:01Z",
+      "score": 7,
       "comments": 2
     },
     {
-      "title": "Indie Game Development with AI",
-      "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T21:33:55Z",
-      "score": 18,
-      "comments": 7
+      "published_at": "2026-11-11T00:15:33Z",
+      "score": 37,
+      "comments": 19
     },
     {
-      "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
-      "url": "https://github.com/humanethq/airgap-check",
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.10866",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T20:37:28Z",
-      "score": 9,
+      "published_at": "2026-11-10T22:44:49Z",
+      "score": 15,
       "comments": 0
     },
     {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T20:04:55Z",
-      "score": 336,
-      "comments": 242
+      "published_at": "2026-11-10T22:17:56Z",
+      "score": 368,
+      "comments": 169
     },
     {
-      "title": "I ran 120B MoE models on my 32GB M1 Max using under 16 GB",
-      "url": "https://mitln.github.io/moe-inference-engine/",
+      "title": "Show HN: AI agents that barter your stuff for things you want",
+      "url": "https://barterpilot.com/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T19:20:34Z",
-      "score": 27,
+      "published_at": "2026-11-10T21:36:17Z",
+      "score": 6,
       "comments": 4
     },
     {
-      "title": "Claude Fable 5.2 launch offers",
-      "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T19:12:16Z",
-      "score": 25,
-      "comments": 5
+      "published_at": "2026-11-10T21:25:03Z",
+      "score": 127,
+      "comments": 97
     },
     {
-      "title": "Testing Claude on real-world electronics design",
-      "url": "https://www.anthropic.com/research/claude-electronics-design",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: A clean-room Red Alert 2: Yuri's Revenge engine remake (Rust,wgpu,WASM)",
+      "url": "https://github.com/egeozcan/glasnost",
+      "description": "Hi everyone, I have been working on this for some time. It still has some bugs but I find it quite playable. The lack of remastered Red Alert 2 had been bothering me, that and other remakes I've seen done by Opus motivated me to start this project. This is clean-room in the sense that the speccer agent never communicated with the implementer and there was a scrubber in the middle. Please let me know what you think.",
       "source": "Hacker News",
-      "published_at": "2026-11-09T18:58:48Z",
-      "score": 26,
-      "comments": 4
+      "published_at": "2026-11-10T20:03:18Z",
+      "score": 3,
+      "comments": 3
     },
     {
-      "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "title": "Anthropic Targets $1.4T Valuation in IPO",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T18:29:41Z",
-      "score": 25,
+      "published_at": "2026-11-10T19:56:11Z",
+      "score": 16,
       "comments": 1
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T18:24:38Z",
-      "score": 537,
-      "comments": 120
+      "published_at": "2026-11-10T19:07:53Z",
+      "score": 15,
+      "comments": 3
     },
     {
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "title": "How do you keep up quality when you vibe-code?",
+      "url": "https://news.ycombinator.com/item?id=50444380",
+      "description": "I'm having a really hard time working with claude. In the past when I wrote all the code manually, it was always carefully reviewed and architected, with all possible flows carefully mapped out. Now, my code is mostly AI written which has led to things going out of control. Since it's easy to add new features and support many user flows, we went ahead and implemented flows that support a lot of cases our users run into. But now, I feel like things are getting too complex with no central notion of behaviour definitions, which causes every bug-fixing session to feel like a game of whack-a-mole, and results in missing edge cases and UI bugs that are becoming impossible to review and keep track of. Every time I build anything new, it adds more complexity and the agent only seems to focus on the surrounding code within that session without keeping track of how it fits into the rest of the code base/product. How do you all deal with this? Any suggestions for improving?",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:41:15Z",
+      "score": 26,
+      "comments": 25
+    },
+    {
+      "title": "Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
+      "url": "https://charleshuang.me/2026/09/27/theoremsmith/",
+      "description": "Making models better at formal verification will help push the boundaries of math research and significantly reduce the number of bugs in our code. Recently, training models on RL environments (tasks paired with verifiers that reward correct solutions) has driven big gains in model performance, and proofs are unusually easy to verify. Here we introduce TheoremSmith, a pipeline for generating synthetic formal verification environments. It reliably creates multi-hour, frontier-difficulty tasks and can scale throughput effectively. I'd appreciate any feedback, especially on ways models could still cheat the verifier, and on whether synthetic tasks like these are likely to help on real proofs. Code: https://github.com/abundant-ai/theoremsmith",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:33:17Z",
+      "score": 10,
+      "comments": 0
+    },
+    {
+      "title": "Businesses in ChatGPT – OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T18:05:44Z",
-      "score": 84,
-      "comments": 24
+      "published_at": "2026-11-10T18:10:40Z",
+      "score": 36,
+      "comments": 9
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T18:01:10Z",
-      "score": 469,
-      "comments": 741
+      "published_at": "2026-11-10T18:02:54Z",
+      "score": 38,
+      "comments": 21
     },
     {
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "description": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without <span>s everywhere, `<dialog>` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent <div>+JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge. 200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves. (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1] I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your context window. (Or cedeing activation mechanics to MCP dynamic tool search). The skill description is minmaxed for activating on relevant frontend tasks. The RAG work I'm pretty proud of… originally a 500mb native stack down to a ~7MB pure-JS package, ~10ms search on your CPU. We just introduced a deterministic 'legacy-scan' (trained on 30k github repos) to identify old 'n dusted patterns that your agent can modernize. (92% avg precision on held-out repos.) People make a lot of claims about what coding agents are good/bad at. We wanted receipts, so we invested heavily in eval infra [2] to help us hill-climb, but also to identify when knowledge is common enough we can prune our guides. (Ofc, some of the things we thought AI didn't know turned out to be wrong :) We run codex/claude/agy against 200 tasks without the skill and then with.. In total ~1,700 playwright/AST-based assertions. Agents go from 55% pass unguided to 92% guided. Try it out: DISABLE_TELEMETRY=1 npx modern-web-guidance@latest install DISABLE_TELEMETRY=1 npx modern-web-guidance@latest search \"animate dialog modal\" DISABLE_TELEMETRY=1 npx modern-web-guidance@latest legacy-scan ./src If you spot something wrong or weird, give us a holler! Longer write-up on the 1.0: https://developer.chrome.com/blog/modern-web-guidance-v1 --- 0: https://news.ycombinator.com/item?id=50416456 1: https://developer.chrome.com/docs/modern-web-guidance/guides 2: https://googlechrome.github.io/modern-web-guidance-src/",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:01:15Z",
+      "score": 324,
+      "comments": 100
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T17:58:46Z",
-      "score": 287,
-      "comments": 118
+      "published_at": "2026-11-10T17:55:07Z",
+      "score": 168,
+      "comments": 137
     },
     {
-      "title": "The Race to Build a \"Find My\" for AI Chips",
-      "url": "https://spectrum.ieee.org/find-my-ai-chip",
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T14:09:02Z",
-      "score": 23,
-      "comments": 10
+      "published_at": "2026-11-10T17:44:44Z",
+      "score": 96,
+      "comments": 58
     },
     {
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-09T11:36:55Z",
-      "score": 78,
-      "comments": 12
+      "published_at": "2026-11-10T16:07:15Z",
+      "score": 282,
+      "comments": 155
     },
     {
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "description": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180",
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "description": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM. I built Aircad because I was frustrated with what was out there. Current CAD tools are expensive and slow to improve. New features barely move the needle. With Aircad, you have fast, powerful geometry tools for just about anything, from conceptual models to your final design. The newer generation of web-based CAD isn’t comprehensive enough to complete a project or is slower than existing desktop products because it sends performance-sensitive work to a server (OnShape), or isn’t designed to scale to real work in a collaborative setting (many \"toy\" CAD tools). Current CAD collaboration workflows are fragile, costly, and complex. They’re file-based and separate the design artifacts (eg PDFs) from the source. Collaboration is often an expensive add-on that raises your subscription, is hard to learn, and feels unnatural. Aircad builds it in: version history, drawing comparison, forking, and realtime collaboration. AI in most CAD tools is tacked on as a plug-in instead of being deeply integrated, and those plug-ins are often inefficient, hard to adopt, and costly. Aircad has a built-in AI agent and a comprehensive scripting API with a stage-and-commit workflow, so you know exactly what is happening during a complex change. You can use AI to write new scripts and commands that extend Aircad with repeatable, shareable workflows.",
       "source": "Hacker News",
-      "published_at": "2026-11-09T08:17:49Z",
-      "score": 208,
-      "comments": 73
+      "published_at": "2026-11-10T15:01:19Z",
+      "score": 36,
+      "comments": 16
     },
     {
-      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-      "url": "https://github.com/OmniJev/Flide",
-      "description": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models. Flide achieves up to a 9.5x speedup over vLLM and SGLang. It now supports 30+ popular local Jev-like decision models. Start to make your decision immediately: pip install flide",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T04:43:12Z",
-      "score": 123,
-      "comments": 29
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "AI Users have workdays up to 90 min longer than non-users",
+      "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-08T23:44:36Z",
-      "score": 550,
-      "comments": 943
+      "published_at": "2026-11-10T12:57:24Z",
+      "score": 48,
+      "comments": 20
     }
   ],
-  "updated_at": "2026-11-10T07:13:12.792866Z"
+  "updated_at": "2026-11-11T06:10:12.909870Z"
 }
