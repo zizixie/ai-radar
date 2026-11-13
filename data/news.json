@@ -1,64 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.558419Z",
+      "fetched_at": "2026-11-13T06:40:09.775629Z",
       "language": "TypeScript",
-      "today_stars": 2776
-    },
-    {
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.558753Z",
-      "language": "Python",
-      "today_stars": 278
-    },
-    {
-      "title": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.559384Z",
-      "language": "未标注",
-      "today_stars": 361
-    },
-    {
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.559613Z",
-      "language": "JavaScript",
-      "today_stars": 787
-    },
-    {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.559841Z",
-      "language": "Rust",
-      "today_stars": 708
-    },
-    {
-      "title": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.560285Z",
-      "language": "Python",
-      "today_stars": 645
+      "today_stars": 739
     },
     {
       "title": "openai/codex-security",
@@ -66,60 +16,200 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-12T07:06:02.560511Z",
+      "fetched_at": "2026-11-13T06:40:09.776059Z",
       "language": "TypeScript",
-      "today_stars": 52
+      "today_stars": 643
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.777313Z",
+      "language": "TypeScript",
+      "today_stars": 151
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.777731Z",
+      "language": "Zig",
+      "today_stars": 54
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.778499Z",
+      "language": "JavaScript",
+      "today_stars": 816
+    },
+    {
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.778880Z",
+      "language": "TypeScript",
+      "today_stars": 1830
+    },
+    {
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.779208Z",
+      "language": "TypeScript",
+      "today_stars": 298
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.779527Z",
+      "language": "Python",
+      "today_stars": 415
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-13T06:40:09.779903Z",
+      "language": "C++",
+      "today_stars": 176
     }
   ],
   "product_hunt": [
     {
-      "title": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "description": "AI ad fraud detection that protects your marketing budget Discussion | Link",
+      "title": "Omnigraph",
+      "url": "https://www.producthunt.com/products/omnigraph",
+      "description": "Open source graph database for your AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-19T08:11:42Z"
+      "published_at": "2026-10-30T14:36:05Z"
     },
     {
-      "title": "Nod by n8n",
-      "url": "https://www.producthunt.com/products/n8n-io",
-      "description": "Open source personal agent with its own computer Discussion | Link",
+      "title": "Sendr V4: Lovable for GTM",
+      "url": "https://www.producthunt.com/products/sendr",
+      "description": "Your AI GTM engineer to build signal based go-to-market Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-10T13:38:19Z"
+      "published_at": "2026-10-01T19:46:45Z"
     },
     {
-      "title": "RigSpark",
-      "url": "https://www.producthunt.com/products/rigspark",
-      "description": "Know which AI to run on your own computer Discussion | Link",
+      "title": "Klang",
+      "url": "https://www.producthunt.com/products/klang",
+      "description": "Team memory of meetings and calls, on our own speech models Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-11T01:26:24Z"
+      "published_at": "2026-11-10T12:36:08Z"
     },
     {
-      "title": "CALL-E",
-      "url": "https://www.producthunt.com/products/call-e",
-      "description": "Make phone calls with your AI agent (Muse, ChatGPT, Claude) Discussion | Link",
+      "title": "Neura HQ",
+      "url": "https://www.producthunt.com/products/neura-4",
+      "description": "The agentic conversational storefront for consumer brands Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-28T18:49:25Z"
+      "published_at": "2026-11-04T11:07:16Z"
     },
     {
-      "title": "Kippy AI",
-      "url": "https://www.producthunt.com/products/kippy-ai",
-      "description": "Learn languages while having fun! Discussion | Link",
+      "title": "three.dev",
+      "url": "https://www.producthunt.com/products/three-dev",
+      "description": "Find out how your AI agent fails. Before your users do. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-08T11:17:04Z"
+      "published_at": "2026-11-10T16:51:51Z"
     },
     {
-      "title": "bonds chat",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "description": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
+      "title": "Plurai Simulation",
+      "url": "https://www.producthunt.com/products/plurai",
+      "description": "A simulated world that makes your agent improve on every run Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-11T05:07:26Z"
+      "published_at": "2026-11-05T19:33:30Z"
     },
     {
-      "title": "Mitra MCP",
-      "url": "https://www.producthunt.com/products/mitra-5",
-      "description": "Give your AI agents access to your personal phone line Discussion | Link",
+      "title": "Spacefast by Automattic",
+      "url": "https://www.producthunt.com/products/spacefast-by-automattic",
+      "description": "Give your AI agents a place to build, run, and ship Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-10T18:52:46Z"
+      "published_at": "2026-11-09T22:40:16Z"
+    },
+    {
+      "title": "Toki Matter",
+      "url": "https://www.producthunt.com/products/toki-ai",
+      "description": "The Al agent that advances your matters Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-04T07:06:17Z"
+    },
+    {
+      "title": "Adobe AI Assistant",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "description": "Create and edit faster with AI across Adobe apps Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-10T18:55:39Z"
+    },
+    {
+      "title": "Crossfade",
+      "url": "https://www.producthunt.com/products/crossfade",
+      "description": "Let your coding agent design in your open Figma file Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T02:56:39Z"
+    },
+    {
+      "title": "Insight7 Voice AI Agents",
+      "url": "https://www.producthunt.com/products/insight7",
+      "description": "AI voice agents that call your customers for you Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T13:19:50Z"
+    },
+    {
+      "title": "CanyonOS",
+      "url": "https://www.producthunt.com/products/canyon-code",
+      "description": "The One Platform for Scaling your Agentic Apps Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-03T20:30:53Z"
+    },
+    {
+      "title": "LeaseWire",
+      "url": "https://www.producthunt.com/products/leasewire",
+      "description": "Lease abstraction, wired to your model. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T20:10:27Z"
+    },
+    {
+      "title": "Customer.io Fall Release",
+      "url": "https://www.producthunt.com/products/customer-io",
+      "description": "Smarter marketing through Agent-recommended experiments Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-03T20:58:12Z"
+    },
+    {
+      "title": "Foxpit",
+      "url": "https://www.producthunt.com/products/foxpit",
+      "description": "Run Claude Code, Codex & OpenCode as one AI team Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T20:10:39Z"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://www.producthunt.com/products/google",
+      "description": "Fast, calibrated multimodal decisions Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T19:44:51Z"
+    },
+    {
+      "title": "Offstage Cloud",
+      "url": "https://www.producthunt.com/products/offstage-cloud",
+      "description": "On-demand macOS sandboxes for AI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T02:29:51Z"
     },
     {
       "title": "Muse Ember by Meta",
@@ -129,13 +219,6 @@
       "published_at": "2026-11-09T22:14:58Z"
     },
     {
-      "title": "Seedream 5.5 by ByteDance",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
-      "description": "ByteDance's AI image model built for 100-round editing Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-09T13:57:21Z"
-    },
-    {
       "title": "Relay",
       "url": "https://www.producthunt.com/products/relaytoai",
       "description": "DocSend for AI agents: send and receive docs with context Discussion | Link",
@@ -143,77 +226,42 @@
       "published_at": "2026-11-04T01:29:16Z"
     },
     {
-      "title": "MiniMax H3-Image",
-      "url": "https://www.producthunt.com/products/minimax",
-      "description": "Bringing 4K image generation into the 10-second era Discussion | Link",
+      "title": "Kippy AI",
+      "url": "https://www.producthunt.com/products/kippy-ai",
+      "description": "Learn languages while having fun! Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-10T16:35:28Z"
-    },
-    {
-      "title": "Mister Blocks",
-      "url": "https://www.producthunt.com/products/mister-blocks",
-      "description": "Take a picture of your LEGO and AI will make a build Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T03:26:18Z"
-    },
-    {
-      "title": "Stiro",
-      "url": "https://www.producthunt.com/products/stiro",
-      "description": "AI onboarding and customer success agent for SaaS Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-07T13:33:58Z"
-    },
-    {
-      "title": "Skillbox",
-      "url": "https://www.producthunt.com/products/skillbox-5",
-      "description": "One library for your AI skills, synced to every agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-06T04:01:18Z"
-    },
-    {
-      "title": "Kumiko",
-      "url": "https://www.producthunt.com/products/kumiko-2",
-      "description": "AI window manager for ultrawide and big-screen Macs Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-09T21:40:59Z"
-    },
-    {
-      "title": "Inspo by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "description": "Real website inspiration for your coding agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-09T21:48:31Z"
-    },
-    {
-      "title": "Quillo",
-      "url": "https://www.producthunt.com/products/quillo-2",
-      "description": "Listen to any PDF in a natural voice, then ask Quillo Ai Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T15:57:02Z"
-    },
-    {
-      "title": "QuotedPart",
-      "url": "https://www.producthunt.com/products/quotedpart",
-      "description": "AI quoting for CNC and sheet metal job shops Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-09T00:04:46Z"
-    },
-    {
-      "title": "ForAgent",
-      "url": "https://www.producthunt.com/products/foragent",
-      "description": "Private phone numbers so AI agents can call each other Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T07:09:58Z"
-    },
-    {
-      "title": "Levo",
-      "url": "https://www.producthunt.com/products/levo-3",
-      "description": "Your AI agent finds what's safe to delete on your Mac Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-07T21:30:59Z"
+      "published_at": "2026-11-08T11:17:04Z"
     }
   ],
   "openai": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T20:00:00Z"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T12:00:00Z"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T09:30:00Z"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source": "OpenAI",
+      "published_at": "2026-11-12T00:00:00Z"
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -325,38 +373,17 @@
       "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "source": "OpenAI",
       "published_at": "2026-11-05T17:00:00Z"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "source": "OpenAI",
-      "published_at": "2026-11-05T20:00:00Z"
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "source": "OpenAI",
-      "published_at": "2026-11-05T09:00:00Z"
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "source": "OpenAI",
-      "published_at": "2026-11-05T08:00:00Z"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "source": "OpenAI",
-      "published_at": "2026-11-05T02:00:00Z"
     }
   ],
   "anthropic": [],
   "google_deepmind": [
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "description": "Google DeepMind 官方更新。",
+      "source": "Google DeepMind",
+      "published_at": "2026-11-12T18:00:50Z"
+    },
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -489,51 +516,179 @@
       "description": "Google DeepMind 官方更新。",
       "source": "Google DeepMind",
       "published_at": "2026-09-24T16:20:39Z"
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "source": "Google DeepMind",
-      "published_at": "2026-09-23T16:00:57Z"
     }
   ],
   "hacker_news": [
     {
-      "title": "Some Memories of Early Anthropic",
-      "url": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic",
+      "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
+      "url": "https://github.com/anthropics/claude-code/issues/109446",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-12T03:11:43Z",
-      "score": 6,
-      "comments": 0
+      "published_at": "2026-11-13T03:13:43Z",
+      "score": 19,
+      "comments": 3
     },
     {
-      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
-      "url": "https://github.com/DaleFranks/ramasite",
-      "description": "I'm new here, and little nervous about posting, but here goes. I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech. I've programmed in RPG using punch cards for an IBM /System360, and COBOL on a DEC pdp 11/34. I've worked professionally with VB, C#, SQL Server, ColdFusion, PHP, and more. I've seen a lot of technologies come and go. So this ain't the first time I've jogged around this track. Here's the problem I wanted to solve: I hate WordPress. I mean, as a concept, it's fine, but I used to have a fairly popular motorcycle blog on WP that got trashed by hackers. I've also run into that problem with customers. When hackers find a wordpress site, they just bang on it like a drum. It's a pain. It's also a pain just to manage it, with a wild-west plugin system where plugins constantly fall in and out of compatibility. I'm also not a huge fan of PHP, but since it comes stock with pretty much every shared hosting service, where a lot of my web work is done, it's kind of the default for doing web stuff. Back in about 2006 or so, I built my own blogging software, which I called .Blog, as an ASP.NET deal in C#. It took me about 6 months to build, start to finish. I didn't have time to keep up with it, which is why I defaulted back to WP sometime around 2014. I migrated to Grav when I ran across it (I guess around 2020 or so), and I liked that. But Grav ran into some issues, and development on it really slowed. In the past year or so, the company I work for has been delving into using Claude Code, and I got an idea. What if I could just use Claude Code to build a CMS that has everything I want, and nothing I don't? This project is the result of that idea. I designed the specifications for what I wanted it to do, and let Claude Code handle the actual code writing. I started with a flat-file, markdown-based flat-file CMS, and iterated on that. Fiddling around with markdown files and folders started to get tedious, so I moved towards SQLite as the back-end, to create a system as self-contained and easy to use as possible. This project is, I think, the final result of that idea. This project, from start to finish, took about 2 weeks to build using Laravel/Filament/PHP with Claude Code, compared to the 6 months it took to build .Blog by hand, 20 years ago. Cripes, I'm old. Personally, I'm pretty pleased with how this project turned out. I'm running two public websites on it. I'd be interested to hear what others think.",
-      "source": "Hacker News",
-      "published_at": "2026-11-12T02:53:22Z",
-      "score": 6,
-      "comments": 1
-    },
-    {
-      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
-      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-12T01:48:59Z",
-      "score": 8,
+      "published_at": "2026-11-13T03:08:08Z",
+      "score": 45,
+      "comments": 12
+    },
+    {
+      "title": "Show HN: KittyBrowser, I built a web browser in your terminal",
+      "url": "https://github.com/graiz/kittybrowser",
+      "description": "I'm spending more time in the terminal, and with kitty graphics support now in Ghostty and Rex, I thought a real browser in a coding pane might be possible. It is. kb drives headless Chrome and draws each frame as pixels, so you get the actual page, not a text approximation. Key features: - Built in Rust, on headless Chrome - Keyboard shortcuts, mouse clicks, scroll, zoom, find, copy - Frames can go through the terminal itself, so it should work over SSH CLI, MCP and an agent skill, so your coding agent drives the same page you're watching From its own pane, the agent runs things like: > kb https://news.ycombinator.com/ What I learned: the best way to design a CLI for agents is to watch agents use it. Most of the commands exist because an agent got stuck. I ran multiple agent loops where agents would try to use the documentation, get stuck and itterate on the docs. Note this project needs a terminal with the kitty graphics protocol (Ghostty, kitty, WezTerm, Rex) and Chrome. Tested on macOS; Linux builds but needs testers. Windows PRs welcome. cargo install --git https://github.com/graiz/kittybrowser kb news.ycombinator.com MIT licensed. Feedback welcome.",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T01:54:18Z",
+      "score": 5,
       "comments": 2
     },
     {
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-11T23:22:29Z",
-      "score": 30,
-      "comments": 7
+      "published_at": "2026-11-13T00:38:41Z",
+      "score": 71,
+      "comments": 22
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T23:06:17Z",
+      "score": 185,
+      "comments": 48
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:56:11Z",
+      "score": 252,
+      "comments": 70
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:13:26Z",
+      "score": 182,
+      "comments": 26
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:09:49Z",
+      "score": 150,
+      "comments": 144
+    },
+    {
+      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+      "url": "https://github.com/cerulion-inc/cerulion",
+      "description": "Hey HN! I'm Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We've worked hard on lowering IPC transport latencies without making the single process tradeoff or forcing POD message types. These fast multi-process graphs can then be resimmed deterministically, and existing ROS2 nodes/launch files can run unmodified alongside native Cerulion Rust/Python code. Installation and quickstart (with a one-shot prompt for your favorite coding agent) here at the repo README: https://github.com/cerulion-inc/cerulion I worked on off-road autonomy during my PhD at MIT, and we kept running into inter-process latency in ROS (2 lidars and 6 cameras). Loaned messages need POD types, which nukes standard, vendor-agnostic Image/PointCloud2. We ended up running some hot paths in a brittle single process, which made debugging a nightmare. I'm sure you've seen the heisenbugs ROS-based stacks can produce, with no way to easily reproduce the consumption order or interleaving of callbacks. Valuable data of runtime failures on the robot was hard to use effectively without deterministic reproducibility. This is what we fix. Cerulion bags record per-input reads and scheduler traces alongside message content in standard MCAPs. cerulion bag play --resim all --verify re-executes node code on the recorded schedule and compares each byte for exact matches or within defined tolerances. Exit 0 is a match, 1 shows the first topic/frame that diverges, 6 shows schedule divergence and --report gives an optional CI verdict. Eligible ROS2 processes can replay deterministically as well. Here's the data loop: 1. Run: Dependency-ordered level-based DAG scheduler with periodic/data/sync triggers, I/O deadlines, backpressure, and automatic profiling for process partitioning. Each node by default free-runs in its own process while preserving deterministic replay. Live runs pause/resume, and UMWAIT/WFE parks idle consumers on CPUs that support it. Wall-clock reads and runtime thread spawns in user code rejected at compile time by macros. ROS 2 is supported with rmw_cerulion for Foxy, Humble, Jazzy and Lyrical, that lets you run ROS2 nodes/launch files unmodified in the same graph as native Cerulion nodes. LD_PRELOAD gives ROS2 code shared memory loans through std::vector/std::string. cerulion ros2 attach folds in already-running ROS2 robots, and cerulion ros2 run/launch lets you run existing ROS2 workspaces on Cerulion without any additional setup (with an optional automatic migrate suggested that rewrites C++ publish sites). 2. Move: iceoryx2 shared memory with no serialization, no payload copy and no payload-sized allocation, including for variable-length messages like sensor_msgs/Image and PointCloud2. Round trip latency for a 1MiB sensor_msgs/Image between two processes is 4.08µs p50, with a tight tail of 7.38µs p99 (under 2x p50), with recording on . This is default Cerulion, against 10.95 ms for default ROS 2 Jazzy. Cerulion's p50 and p99 stay flat from 64B to 16 MiB. 3. Capture: With this round-trip latency, there are no tradeoffs, not for process isolation and not for bagging. We can afford always-on or event-based logging. Flashback is our robot dashcam: keeps ~30s of all logs and message contents in memory and saves it automatically on process crashes, topic stalls or declared incidents/manual triggers. 4. Reach: A free account lets you pair robots and desks, letting all your devices find each other with no config, IP addresses or discovery chatter. Pubsub is authenticated and on-demand, with signed grants that the robot verifies offline. We use Iroh to hole-punch or relay over WAN, and mDNS over LAN to transmit data using QUIC. Remote topics mirror into local shared memory, and each device has a single network gateway. 5. Diagnose: cerulion doctor scans for compile/run-time issues (better than Windows Troubleshooter I promise) and suggests fixes. Hindsight is an early access MCP to let agents analyze your bags. To get started: go to the repo, install Cerulion with the curl one-liner, and paste the prompt in Claude Code/Codex: https://github.com/cerulion-inc/cerulion#quickstart-run-reco... . Or shift your own gears, it's all in the repo that you should star! The CLI needs a free account, which we use to make device pairing as easy as AirDrop USED to be ;) Everything runs on Linux (x86_64/ARM64), macOS and Android (JNI), with more platforms coming. We'd love to hear your feedback! If you run ROS 2 on a real robot, point this at your stack and tell us what breaks. Docs: https://docs.cerulion.com Site: https://cerulion.com",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T20:53:04Z",
+      "score": 11,
+      "comments": 4
+    },
+    {
+      "title": "Relate – the agent-native graph database",
+      "url": "https://relatedb.ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T19:21:00Z",
+      "score": 21,
+      "comments": 9
+    },
+    {
+      "title": "Show HN: DRS-VPT. Localize a photo in a 3D point cloud without an initial pose",
+      "url": "https://github.com/ori-drs/drs-vpt",
+      "description": "Hi HN, I work on multi-modal sensing for robotics. We built DRS-VPT to estimate a camera's 6-DoF pose in a 3D map from a single photo and a 3D point cloud, without an initial guess or known camera intrinsics. The interesting part is generalisation: the same model works across driving LiDAR scans (KITTI, nuScenes), iPhone photos in indoor scans, and SFM maps. We provide the code, model and weights, but you can also try it out at https://huggingface.co/spaces/fulkast/drs-vpt-demo Happy to answer questions about the method or its limitations!",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T19:09:55Z",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:52:01Z",
+      "score": 381,
+      "comments": 103
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations - Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. You can self-host it (see 1-click install on Render) with an OpenRouter key, or try the hosted version at console.agentrun.ai. We’d love feedback, especially on the architecture (see README), or anything we may be missing to make it useful to you.",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:15:48Z",
+      "score": 91,
+      "comments": 26
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:01:48Z",
+      "score": 506,
+      "comments": 323
+    },
+    {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "description": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what you learn. This bottom-up process is the only way to deliver meaningful outcomes quickly in large, messy enterprise data environments. Consultants gathering context in meetings or teams defining a business ontology upfront to fit into the data has no chance of execution, in quarters and sometimes years. An AI-native system should automate this process, compounding learning to each new investigation and implementation. For instance, one of our enterprise projects was moving a company off its old data estate onto a lakehouse with more than 30 source-system families, thousands of tables and transformations, and hundreds of BI reports. No individual or AI agent knew how that data estate was connected and operated. The only way to learn it was to investigate the company's repos, dbt models, documentation, and data itself and propose hypotheses about the estate, run experiments, and learn from them, until we understand how each system behaves and under which conditions. The iterative work goes beyond understanding how data and systems fit together, and the business operations. Building useful software is iterative too. Whether you’re optimizing a warehouse, building a lakehouse pipeline or predicting churn, you need to run experiments and learn what works best in that environment. As you deliver more projects, that know-how compounds, similar in principle to RL. RAGing documentation has little value until it has been tried in a specific environment and the consequences are learned. As with human engineering work, experimentation and learning should happen in a sandbox. We built Kapso for this kind of work, you give it an objective and success criteria, and it works towards an optimum solution that can be deployed on your stack. You can view a video walkthrough here: https://www.youtube.com/watch?v=W4FHlza1fRs Here’s how it works… Kapso has a bank of lessons that are induced or deduced from the past experiments, and each carries a credence score, conditions on where it applies, and the evidence behind it. For each new experiment, an ideation module proposes ideas considering the earlier lessons, re-ranks them by expected return against the budget each would use, and sends the top-ranked ones to the implementor. Because the bank keeps learning from the past experiments in that environment, the proposed ideas are better suited to it than generic hypotheses from an LLM or RAG. Also, results of each experiment are verified by a verifier module that no experiment can access and cheat. As we’ve found when building such systems, sometimes the success criteria and evaluation tests need to be evolved. The experimentation modules can propose updates to the metrics and criteria for the verifier to approve or reject. After each run, learn() updates the bank of lessons’ scores and boundaries using the evidence from that run. Changes to the bank can also be A/B tested by running otherwise identical builds with the previous and updated banks. The bank is built on git, so you can share your experience with others, list the banks available to you, and update them (`kapso experience share/list/update` in CLI). The system is model-agnostic and coding-agent-agnostic. kapso.deploy(solution, target_stack) follows the same workflow, runs a shorter experimentation loop to adapt the best solution to the target stack (e.g. Docker, Modal, BentoCloud, LangGraph). Every domain has a harness to start from, you can write your own domain harness with /kapso:harness in the plugin or through CLI (kapso harness new <name>), and compound over that by running experimentations. We ran it on some public benchmarks and live competitions, with the following results… - Predictive modelling on relational databases: first on RelBench, Kumo AI (now Nvidia) and Stanford's benchmark, ahead of the best tabular foundation model ( https://star-project.stanford.edu/relbench/leaderboard/ ). This shows that keeping the learning in the harness-level can beat foundational table models. Updating a bank of lessons costs far less than retraining a tabular foundation model. - ML Engineering: First on OpenAI's MLE-bench at submission, still among the top open-source systems ( https://github.com/openai/mle-bench/pull/107 ). - AI competitions: ahead of the best agent the ALE-Bench authors at Sakana AI reported, and running autonomously at the live International Olympiad in AI 2026, above all 471 human contestants and in the top three AI systems ( https://ioai-official.org/ai-models-track/ioai%c2%b2-2026-re... ). We have a public bank for ML and Data at Leeroopedia ( https://leeroopedia.com/ ): around 100k pages extracted by experimenting on papers and repos, about 6M requests a month, about 28% from AI agents. If you are at a growing company with a complex data estate across multiple systems and functions, and your data and AI team is stretched, we would love to help! https://github.com/Leeroo-AI/kapso",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T17:51:23Z",
+      "score": 43,
+      "comments": 10
+    },
+    {
+      "title": "Show HN: Apron Chat Protocol",
+      "url": "https://apron.chat/",
+      "description": "Hi HN friends - I've been obsessed with chat protocols for ages - one previous project is ssh-chat ( https://ssh.chat/ ) I come bringing a new kind of chat protocol that I've been working on since I spent quite a lot of time exploring the 14 other competing standards we've come up with in the past few decades. The protocol details are here: https://apron.chat I'm hoping that Apron will better reflect our needs beyond 2026, which I expect will move more and more toward semi-private chats rather than global social networks. Come say hi on the live public demo: https://web.apron.chat Some fun facts: - The demo server runs in a Cloudflare Durable Worker. It's quite efficient, since it's hibernated except for when a message comes in. Easy to self-host this in the free tier. - Despite the JSON protocol being intentionally unabbreviated (\"message\" instead of \"msg\", etc), a typical Apron session still uses almost half as much bandwidth and messages compared to an equivalent Matrix or XMTP session. This is largely because Apron minimizes the number of roundtrips and state required for common chat scenarios. Also it compresses very nicely! - The official reference client is a PWA (Apron Web), we also have a TUI, macOS, and an iOS implementation by third party Apron-enjoyers. There's two reference server implementations (Cloudflare worker in TS and a Go implementation), plus a bunch of minimal implementations. - My favourite fun capability is embedding streaming messages, great for LLM outputs. This can be done just by piping to a curl command, no additional dependencies. There's also a mode for streaming a terminal (by piping something like `script` from util-linux which handles row/col/baud flushing, no special dependencies either). See section 4.8 for details: https://apron.chat/protocol#48-embeds-and-avatars",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T16:52:31Z",
+      "score": 39,
+      "comments": 1
+    },
+    {
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "url": "https://yourairedlines.com",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T14:31:21Z",
+      "score": 36,
+      "comments": 29
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T14:11:58Z",
+      "score": 140,
+      "comments": 27
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T11:46:41Z",
+      "score": 890,
+      "comments": 849
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -541,144 +696,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-11T21:24:35Z",
-      "score": 510,
-      "comments": 498
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T20:45:50Z",
-      "score": 43,
-      "comments": 12
-    },
-    {
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T19:06:43Z",
-      "score": 152,
-      "comments": 150
-    },
-    {
-      "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T18:44:23Z",
-      "score": 30,
-      "comments": 9
-    },
-    {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T18:32:42Z",
-      "score": 377,
-      "comments": 120
-    },
-    {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an...",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T18:21:38Z",
-      "score": 792,
-      "comments": 231
-    },
-    {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "description": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns. We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once. Pomerado started off as a project to improve these personal assistant workflows. As we started building, we realized that just-in-time tool creation could have significant applications for AI builders in legacy verticals. We’re ex-McKinsey and Scale AI, where we drove agent deployments in healthcare, professional services, and telecom. Each time, the biggest bottleneck was getting agents to interface well with legacy websites and apps. Pomerado is what we built. It’s a self-serve platform where devs can create APIs for any website (even those they don’t own), in minutes. Users (or their coding agents) provide a short natural language description, answer a few questions about their workflow, and receive a MCP in less than an hour. Future tool calls use the deterministic MCP, which usually returns results in 5-30 seconds. Here’s a walkthrough of our product: https://youtu.be/Bi4jci7rgHo In practice: - Our agent opens a browser, explores the website, and performs the requested task once by writing HTTP requests or a Playwright script. This example run establishes how to navigate the website, interact with the relevant controls, and obtain the desired result. If any additional user input is needed (e.g., login, clarification) the agent will ask the user over MCP. - Afterwards, the agent uses the example run, along with all of the data it recorded, to create a generalizable and repeatable API. Throughout this process, a separate Guardian model reviews the coding agent’s calls against a set of guardrails. We also run a battery of tests with synthetic inputs to ensure that the API is generalized and not overfit to one input. A final publication agent ensures that the integration publishes a reasonable and generalized input/output schema - We also handle sites that require authentication and 2FA. For authentication, we pass off to a deterministic sign-in process to ensure the model and our recorders never read customer credentials. Users can store 2FA TOTP seeds or link their account to a Pomerado phone number for us to autofill 2FA for them as well - If future runs fail, a maintenance job is kicked off to repair and improve the tool. The maintenance job can fix broken steps (e.g., a renamed button), add additional functionality (e.g., searching for business class flights in addition to economy), or add new guardrails (e.g., reservation dates must be in the future). We’ve even seen people improve tools by just saying “please make this faster” Unlike computer use, our MCPs are deterministic at runtime, which makes them much faster and cheaper. By taking slightly longer to do a task the first time, you reap the benefits much more in the future. It’s a great fit for repeated, high-volume tasks you want your agent to do. We’d love to have you try it! We have both an open-source (MIT) ( https://github.com/Pomerado/pomerado ) and a free hosted version ( https://app.pomerado.ai ). So far, users of Pomerado include: - A personal trainer using agents to prepare workouts and message clients. Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual - Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs. Dealers switched from computer use, which could take 1hr+ - Personal assistants using Pomerado to integrate with a broad range of consumer websites Please ask any questions or share any feedback in the comments, thanks!",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T17:11:56Z",
-      "score": 53,
-      "comments": 42
-    },
-    {
-      "title": "AI, activity, and outcomes in software engineering",
-      "url": "https://cabird.com/talks/shipping-faster/",
-      "description": "https://www.youtube.com/watch?v=0wumMeZsNsI",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T16:33:28Z",
-      "score": 113,
-      "comments": 103
-    },
-    {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "description": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft of whatever art I needed with actual brushes, and then be able to go in myself and edit every last stroke or layer that it created. Klad is that application. Written in Rust, it can be fully controlled by an agent through the CLI, and every function is available in a nice UI as well: a brush engine, frame-by-frame animation (and bones/IK), vectors, text layers, colours, layer effects, infinite undo (even after re-opening the file!),… Why I think it's useful for a wider audience: Adobe showed agents editing Photoshop files at MAX this week, with a private beta planned for early 2027. Klad is built on the same core idea, with editable paint strokes as core architecture, and it works today. Clone the repo to try it out: https://github.com/klad-app/klad You can basically point Claude to the repo, ask it to build it, and pick up the drawing skills. Then ask it to make any drawing you want! (After that, you or the agent can change absolutely every brush stroke in the app again, which makes edits a breeze.) The quality of the drawings really depends on the agent you use. I have tried it with Claude Fable 5.2 since it came out on Monday, and the drawings are already quite impressive. I'm confident that this will only improve. I use it every day on Mac, so that definitely works well. It builds on Linux too (tablet pen pressure still needs some work there). Windows builds in CI, I haven't used it there myself yet but I have some reports that it works perfectly fine. Coming up next is support for pixel art. I'm in the testing phase with this right now, and I expect it to go live in the repo sometime this weekend. Klad is source-available rather than open source: free to build and use for individuals and small companies, and I plan to sell pre-built binaries later, the way Aseprite does. The file format, CLI reference and agent skill are MIT. What I want to hear from people who try it: Can your agent work out the CLI without help, and where does it get confused? Can you go in and change one of its strokes easily? The command reference and guides are available at https://klad.studio I'll be here answering any questions about the technical side as well, as it's a pretty interesting challenge to build a performant engine with editable brush strokes that render as paint.",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T16:00:50Z",
-      "score": 78,
-      "comments": 31
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "description": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer. As small OSS models have gotten faster and more powerful, Yogurt seemed like a pretty obvious win for privacy and cost conscious folks. You do not need a frontier model to summarize meeting notes or answer questions about them. And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server. There’s no need to use a paid cloud service as a middleman. I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account. And more than that, they didn’t feel polished enough for it to be something I actually wanted to use daily, and so I built Yogurt to scratch that itch. I spent a lot of time fine-tuning every UI interaction/animation and optimizing the model calls to get the most out of your hardware + make it snappy. To support Windows/Mac/Linux, I decided to go with Electron. I use whisper.cpp for transcription and Apple’s on-device SpeechAnalyzer if your system supports it. For call summaries and questions, I use a local open weight LLM that automatically gets downloaded and set up based on what your hardware can handle without your cooling fans firing off like crazy (this part uses llama.cpp). I’ve spent a lot of time working on details like echo detection/reduction, global/folder/local level search respectively, and auto-end recordings. Hope this is useful for any of you who have held out on using AI note tools for privacy or cost reasons, or for folks using cloud tools who want to switch to something free and open source that still feels great to use. Would love to hear what you think about the onboarding and note taking experience :)",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T15:33:06Z",
-      "score": 222,
-      "comments": 92
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T14:10:46Z",
-      "score": 210,
-      "comments": 79
-    },
-    {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T12:05:22Z",
-      "score": 969,
-      "comments": 354
-    },
-    {
-      "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
-      "url": "https://github.com/NeuraCryption/SPECTRA",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T07:39:12Z",
-      "score": 24,
-      "comments": 1
-    },
-    {
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "url": "https://github.com/adrbn/bo2-mac",
-      "description": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T04:56:47Z",
-      "score": 143,
-      "comments": 62
-    },
-    {
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T22:17:56Z",
-      "score": 449,
-      "comments": 219
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T21:25:03Z",
-      "score": 528,
-      "comments": 535
+      "score": 669,
+      "comments": 694
     }
   ],
-  "updated_at": "2026-11-12T07:06:04.591661Z"
+  "updated_at": "2026-11-13T06:40:12.459061Z"
 }
