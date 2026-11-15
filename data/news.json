@@ -1,44 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.766100Z",
-      "language": "Go",
-      "today_stars": 215
-    },
-    {
       "title": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.766564Z",
+      "fetched_at": "2026-11-15T06:23:42.046990Z",
       "language": "TypeScript",
-      "today_stars": 1925
-    },
-    {
-      "title": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.766941Z",
-      "language": "TypeScript",
-      "today_stars": 751
-    },
-    {
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.767407Z",
-      "language": "Python",
-      "today_stars": 256
+      "today_stars": 1231
     },
     {
       "title": "tradermonty/claude-trading-skills",
@@ -46,9 +16,69 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.769079Z",
+      "fetched_at": "2026-11-15T06:23:42.047167Z",
       "language": "Python",
-      "today_stars": 69
+      "today_stars": 553
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.047457Z",
+      "language": "Go",
+      "today_stars": 893
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.047598Z",
+      "language": "TypeScript",
+      "today_stars": 64
+    },
+    {
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.047739Z",
+      "language": "TypeScript",
+      "today_stars": 495
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.047879Z",
+      "language": "TypeScript",
+      "today_stars": 9
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.048050Z",
+      "language": "Zig",
+      "today_stars": 37
+    },
+    {
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-15T06:23:42.048631Z",
+      "language": "Go",
+      "today_stars": 33
     },
     {
       "title": "Likely7/Veyra-NRVideo",
@@ -56,18 +86,81 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-14T06:16:19.769806Z",
+      "fetched_at": "2026-11-15T06:23:42.048787Z",
       "language": "C++",
-      "today_stars": 256
+      "today_stars": 420
     }
   ],
   "product_hunt": [
     {
-      "title": "Filament by Galaxy",
-      "url": "https://www.producthunt.com/products/galaxy",
-      "description": "Move data using your terminal or agent. Fast & open source. Discussion | Link",
+      "title": "HiringNow",
+      "url": "https://www.producthunt.com/products/hiringnow",
+      "description": "AI job agent that finds & apply for jobs before anyone else. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-16T14:05:37Z"
+      "published_at": "2026-11-02T10:23:37Z"
+    },
+    {
+      "title": "CodeMesh",
+      "url": "https://www.producthunt.com/products/codemesh-2",
+      "description": "Cut AI coding costs by 90% Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T09:07:28Z"
+    },
+    {
+      "title": "Dex Semantics",
+      "url": "https://www.producthunt.com/products/dex-by-exmergo",
+      "description": "Let your agent build analytics with 25% fewer errors Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T21:48:12Z"
+    },
+    {
+      "title": "Gemini Robotics 2.5",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "description": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T20:18:13Z"
+    },
+    {
+      "title": "Antelog",
+      "url": "https://www.producthunt.com/products/antelog",
+      "description": "Stops AI coding agents from leaking or destroying your data Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-10T05:38:22Z"
+    },
+    {
+      "title": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "description": "A blazing-fast, persistent, key-value AI workload database Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T21:27:29Z"
+    },
+    {
+      "title": "Businesses in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "description": "Help customers discover your business through ChatGPT Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T08:53:51Z"
+    },
+    {
+      "title": "Tabletop by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "description": "Build interactive group experiences with AI. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T11:39:17Z"
+    },
+    {
+      "title": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "description": "Open-source UI components for your AI agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-01T10:27:54Z"
+    },
+    {
+      "title": "FreeFlow Dictation",
+      "url": "https://www.producthunt.com/products/freeflow-dictation",
+      "description": "On-device Mac dictation with a Claude Code voice hook Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-10T08:38:27Z"
     },
     {
       "title": "Replicate",
@@ -77,39 +170,18 @@
       "published_at": "2026-11-13T02:06:54Z"
     },
     {
-      "title": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
-      "description": "Powerful content editor for people who aren’t editors Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-26T11:56:03Z"
-    },
-    {
-      "title": "Trainn MCP",
-      "url": "https://www.producthunt.com/products/trainn",
-      "description": "Create product videos and courses from any AI chat Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-12T05:01:59Z"
-    },
-    {
-      "title": "qorqbot",
-      "url": "https://www.producthunt.com/products/qorqbot",
-      "description": "Proactive agent for business work Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-18T20:15:41Z"
-    },
-    {
-      "title": "Aven App Agent",
-      "url": "https://www.producthunt.com/products/aven-app-agent",
-      "description": "AI that guides users through your app Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T22:12:11Z"
-    },
-    {
       "title": "Gemini 4 Hydrogen",
       "url": "https://www.producthunt.com/products/gemini-6",
       "description": "Fast agentic development for coders Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-12T18:37:12Z"
+    },
+    {
+      "title": "Filament by Galaxy",
+      "url": "https://www.producthunt.com/products/galaxy",
+      "description": "Move data using your terminal or agent. Fast & open source. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-16T14:05:37Z"
     },
     {
       "title": "Burnstate",
@@ -119,6 +191,20 @@
       "published_at": "2026-11-10T09:15:58Z"
     },
     {
+      "title": "qorqbot",
+      "url": "https://www.producthunt.com/products/qorqbot",
+      "description": "Proactive agent for business work Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-18T20:15:41Z"
+    },
+    {
+      "title": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "description": "Powerful content editor for people who aren’t editors Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-26T11:56:03Z"
+    },
+    {
       "title": "GAtrends",
       "url": "https://www.producthunt.com/products/gatrends",
       "description": "Spike alerts for your keywords in Telegram, Claude, ChatGPT Discussion | Link",
@@ -126,81 +212,25 @@
       "published_at": "2026-11-12T18:54:12Z"
     },
     {
+      "title": "Aven App Agent",
+      "url": "https://www.producthunt.com/products/aven-app-agent",
+      "description": "AI that guides users through your app Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T22:12:11Z"
+    },
+    {
+      "title": "Trainn MCP",
+      "url": "https://www.producthunt.com/products/trainn",
+      "description": "Create product videos and courses from any AI chat Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T05:01:59Z"
+    },
+    {
       "title": "Claude Meetings",
       "url": "https://www.producthunt.com/products/claude",
       "description": "Add Claude to your call and get work started as you talk Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-13T02:24:55Z"
-    },
-    {
-      "title": "Sendr V4: Lovable for GTM",
-      "url": "https://www.producthunt.com/products/sendr",
-      "description": "Your AI GTM engineer to build signal based go-to-market Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-01T19:46:45Z"
-    },
-    {
-      "title": "Omnigraph",
-      "url": "https://www.producthunt.com/products/omnigraph",
-      "description": "Open source graph database for your AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-10-30T14:36:05Z"
-    },
-    {
-      "title": "three.dev",
-      "url": "https://www.producthunt.com/products/three-dev",
-      "description": "Find out how your AI agent fails. Before your users do. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-10T16:51:51Z"
-    },
-    {
-      "title": "LeaseWire",
-      "url": "https://www.producthunt.com/products/leasewire",
-      "description": "Lease abstraction, wired to your model. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T20:10:27Z"
-    },
-    {
-      "title": "Insight7 Voice AI Agents",
-      "url": "https://www.producthunt.com/products/insight7",
-      "description": "AI voice agents that call your customers for you Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T13:19:50Z"
-    },
-    {
-      "title": "Neura HQ",
-      "url": "https://www.producthunt.com/products/neura-4",
-      "description": "The agentic conversational storefront for consumer brands Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-04T11:07:16Z"
-    },
-    {
-      "title": "Customer.io Fall Release",
-      "url": "https://www.producthunt.com/products/customer-io",
-      "description": "Smarter marketing through Agent-recommended experiments Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-03T20:58:12Z"
-    },
-    {
-      "title": "CanyonOS",
-      "url": "https://www.producthunt.com/products/canyon-code",
-      "description": "The One Platform for Scaling your Agentic Apps Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-03T20:30:53Z"
-    },
-    {
-      "title": "Klang",
-      "url": "https://www.producthunt.com/products/klang",
-      "description": "Team memory of meetings and calls, on our own speech models Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-10T12:36:08Z"
-    },
-    {
-      "title": "Crossfade",
-      "url": "https://www.producthunt.com/products/crossfade",
-      "description": "Let your coding agent design in your open Figma file Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-12T02:56:39Z"
     }
   ],
   "openai": [
@@ -490,103 +520,76 @@
   ],
   "hacker_news": [
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+      "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-14T02:52:59Z",
-      "score": 277,
-      "comments": 140
-    },
-    {
-      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-      "url": "https://opencyclone.vercel.app/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T02:46:12Z",
-      "score": 4,
-      "comments": 0
-    },
-    {
-      "title": "Sam Bankman-Fried would have made nearly $40B in Anthropic IPO",
-      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T02:30:28Z",
-      "score": 8,
-      "comments": 4
-    },
-    {
-      "title": "Of Course Americans Blamed the Ground Stop on AI",
-      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T02:02:02Z",
-      "score": 4,
-      "comments": 1
-    },
-    {
-      "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
-      "url": "https://www.youtube.com/watch?v=_e2dk4Pothw",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T00:59:29Z",
+      "published_at": "2026-11-15T02:49:18Z",
       "score": 5,
       "comments": 1
     },
     {
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-14T00:28:11Z",
-      "score": 75,
-      "comments": 73
+      "published_at": "2026-11-14T15:58:57Z",
+      "score": 53,
+      "comments": 38
     },
     {
-      "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
-      "url": "https://github.com/memrohq/memro",
-      "description": "Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!) Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features. If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add? It's hosted on GitLab, soo, that's one additional thing i'd like to mention Thanks for reading!! snipedbywifi (p.s. first HN post lol) (p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?)",
       "source": "Hacker News",
-      "published_at": "2026-11-14T00:20:15Z",
-      "score": 3,
+      "published_at": "2026-11-14T14:05:54Z",
+      "score": 152,
+      "comments": 37
+    },
+    {
+      "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+      "url": "https://www.shotoku.dev/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T13:02:53Z",
+      "score": 9,
       "comments": 1
     },
     {
-      "title": "Show HN: Anvil builds premium websites at lower cost",
-      "url": "https://www.tryanvil.dev/",
-      "description": "Anvil is an AI app builder focused on premium UI/UX without the premium price tags. Build polished websites by using natural language with with real project execution, live previews and automated error correction. Plans starts at $1 for 7 days with 1M tokens. Built independently from Africa in Zambia.",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T23:42:35Z",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "0.5B base model trained on 60B tokens rivals Qwen3.5-2B trained on 30T+ tokens",
-      "url": "https://huggingface.co/ArsalanZ/Nenya-2.5B-A0.5B-Base",
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-13T23:40:23Z",
-      "score": 11,
-      "comments": 2
+      "published_at": "2026-11-14T12:44:01Z",
+      "score": 22,
+      "comments": 6
     },
     {
-      "title": "Tell HN: Google Search to start locking down search behind a login wall",
-      "url": "https://news.ycombinator.com/item?id=50491617",
-      "description": "Usually, when I used Google Search on some ISP CGNAT IP addresses (not even a VPN), I usually get countless CAPTCHAs evertime I initiate a new session to Google Search on a new private browsing window (probably an artifact from residential proxy botnets). Recently, in addition to that, they started to just lock the entire search results page behind a login prompt on some of those bad IP addresses (like YouTube does for some time with the \"Sign in to confirm you're not a bot\" prompt). This potentially makes the service less accessible, especially for those using a shared/public computers. I did not even get this prompt on some VPN IPs, and even no CAPTCHAs at all, even with a free one like given by Firefox. Has anyone encountered that? I just encountered this today. It's really unfortunate for the internet to become less friendly to signed-out users, especially since AI scrapers starting to \"abuse\" the internet for their value.",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T23:26:24Z",
-      "score": 30,
-      "comments": 12
-    },
-    {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "title": "Why platform teams fail (and AI makes it worse)",
+      "url": "https://willdady.com/why-platform-teams-fail",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-13T23:02:44Z",
-      "score": 19,
+      "published_at": "2026-11-14T12:32:36Z",
+      "score": 18,
+      "comments": 6
+    },
+    {
+      "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+      "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T05:19:51Z",
+      "score": 13,
       "comments": 4
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T02:52:59Z",
+      "score": 1062,
+      "comments": 628
     },
     {
       "title": "Claude Meetings",
@@ -594,17 +597,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T22:39:15Z",
-      "score": 87,
-      "comments": 66
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T22:37:24Z",
-      "score": 17,
-      "comments": 2
+      "score": 111,
+      "comments": 87
     },
     {
       "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
@@ -612,8 +606,8 @@
       "description": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post. Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models. If I did the map with Nano Banana 2 it would have cost around 7k USD! Credit for the idea goes to Isometric NYC.",
       "source": "Hacker News",
       "published_at": "2026-11-13T17:58:37Z",
-      "score": 184,
-      "comments": 69
+      "score": 250,
+      "comments": 74
     },
     {
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
@@ -621,26 +615,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T17:55:28Z",
-      "score": 240,
-      "comments": 38
-    },
-    {
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T17:55:23Z",
-      "score": 156,
-      "comments": 66
-    },
-    {
-      "title": "Beating benchmarks by weight-space optimizing decision models with DSPy",
-      "url": "https://www.cmpnd.ai/blog/weight-space-programming-dspy.html",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T17:43:26Z",
-      "score": 8,
-      "comments": 0
+      "score": 289,
+      "comments": 49
     },
     {
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -648,8 +624,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T17:30:10Z",
-      "score": 367,
-      "comments": 96
+      "score": 427,
+      "comments": 108
     },
     {
       "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
@@ -657,8 +633,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T15:29:10Z",
-      "score": 181,
-      "comments": 171
+      "score": 192,
+      "comments": 193
     },
     {
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -666,9 +642,63 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T15:08:44Z",
-      "score": 209,
-      "comments": 207
+      "score": 468,
+      "comments": 688
+    },
+    {
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T11:13:46Z",
+      "score": 366,
+      "comments": 228
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T10:18:13Z",
+      "score": 493,
+      "comments": 390
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T03:08:08Z",
+      "score": 261,
+      "comments": 151
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "description": "https://twitter.com/willdepue/status/2120992457630326841",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:56:11Z",
+      "score": 395,
+      "comments": 166
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:52:01Z",
+      "score": 502,
+      "comments": 163
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:01:48Z",
+      "score": 569,
+      "comments": 350
     }
   ],
-  "updated_at": "2026-11-14T06:16:22.551830Z"
+  "updated_at": "2026-11-15T06:23:43.979920Z"
 }
