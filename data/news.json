@@ -1,84 +1,24 @@
 {
   "github_trending": [
     {
-      "title": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.515874Z",
-      "language": "TypeScript",
-      "today_stars": 988
-    },
-    {
       "title": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.516184Z",
+      "fetched_at": "2026-11-17T07:51:12.230419Z",
       "language": "TypeScript",
-      "today_stars": 355
+      "today_stars": 791
     },
     {
-      "title": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.516426Z",
+      "fetched_at": "2026-11-17T07:51:12.230940Z",
       "language": "TypeScript",
-      "today_stars": 247
-    },
-    {
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.517124Z",
-      "language": "Go",
-      "today_stars": 691
-    },
-    {
-      "title": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.517350Z",
-      "language": "Go",
-      "today_stars": 423
-    },
-    {
-      "title": "ggml-org/ggml",
-      "url": "https://github.com/ggml-org/ggml",
-      "description": "Tensor library for machine learning",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.517565Z",
-      "language": "C++",
-      "today_stars": 43
-    },
-    {
-      "title": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.517839Z",
-      "language": "Python",
-      "today_stars": 98
-    },
-    {
-      "title": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.518054Z",
-      "language": "TypeScript",
-      "today_stars": 1219
+      "today_stars": 1828
     },
     {
       "title": "tradermonty/claude-trading-skills",
@@ -86,35 +26,179 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.518277Z",
+      "fetched_at": "2026-11-17T07:51:12.231176Z",
       "language": "Python",
-      "today_stars": 706
+      "today_stars": 837
+    },
+    {
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.231457Z",
+      "language": "Python",
+      "today_stars": 1094
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.232100Z",
+      "language": "TypeScript",
+      "today_stars": 529
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.232317Z",
+      "language": "Python",
+      "today_stars": 135
     },
     {
       "title": "NVIDIA/SkillEvaluator",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-16T06:22:18.518505Z",
+      "fetched_at": "2026-11-17T07:51:12.232542Z",
       "language": "Python",
-      "today_stars": 122
+      "today_stars": 873
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.232771Z",
+      "language": "Go",
+      "today_stars": 951
+    },
+    {
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.232978Z",
+      "language": "Python",
+      "today_stars": 313
+    },
+    {
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-17T07:51:12.233680Z",
+      "language": "Python",
+      "today_stars": 367
     }
   ],
   "product_hunt": [
     {
-      "title": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2",
-      "description": "AI that grows your business alongside your team Discussion | Link",
+      "title": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
+      "description": "One operating system for all your AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-10T05:18:49Z"
+      "published_at": "2026-11-03T08:33:13Z"
     },
     {
-      "title": "Agentic Canvas",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
-      "description": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link",
+      "title": "UI SDK by Vercel",
+      "url": "https://www.producthunt.com/products/ui-sdk",
+      "description": "Give AI agents the building blocks to create UI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-15T06:22:09Z"
+      "published_at": "2026-11-15T12:01:57Z"
+    },
+    {
+      "title": "OffiAI",
+      "url": "https://www.producthunt.com/products/offiai",
+      "description": "Office, with its last two letters swapped for AI. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-10-31T13:26:20Z"
+    },
+    {
+      "title": "OpenFrame",
+      "url": "https://www.producthunt.com/products/openframe-3",
+      "description": "AI agents that run your IT. You approve every fix. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-04T18:56:32Z"
+    },
+    {
+      "title": "AgentWatch",
+      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
+      "description": "Monitor AI shopping agent sales and visibility on Shopify Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T04:57:18Z"
+    },
+    {
+      "title": "Pine Drama Studio",
+      "url": "https://www.producthunt.com/products/pine-drama-studio",
+      "description": "The open-source Cursor for AI filmmaking Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-15T00:43:18Z"
+    },
+    {
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
+      "description": "Test your AI agent on working clones of the apps it uses Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-15T20:32:35Z"
+    },
+    {
+      "title": "Intelligent Eyewear",
+      "url": "https://www.producthunt.com/products/sumsung",
+      "description": "Samsung and Google bring Gemini AI to smart eyewear Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T02:23:37Z"
+    },
+    {
+      "title": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "description": "Let ChatGPT agents buy things without seeing your card Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T18:06:13Z"
+    },
+    {
+      "title": "Pharen Hub",
+      "url": "https://www.producthunt.com/products/pharen-hub",
+      "description": "One AI workspace for your whole company Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-11T09:03:46Z"
+    },
+    {
+      "title": "Degla AI",
+      "url": "https://www.producthunt.com/products/degla-ai",
+      "description": "Your intent. Onboard Autonomous Execution. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-12T17:20:36Z"
+    },
+    {
+      "title": "Nexus",
+      "url": "https://www.producthunt.com/products/nexus-11",
+      "description": "Make agents deploy your AI products faster for customers Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-09T16:33:30Z"
+    },
+    {
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "description": "Identity and inboxes for AI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-15T19:51:59Z"
+    },
+    {
+      "title": "Freebuff",
+      "url": "https://www.producthunt.com/products/freebuff-2",
+      "description": "The 100% free coding agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-15T17:59:28Z"
     },
     {
       "title": "Pixel Office",
@@ -124,13 +208,6 @@
       "published_at": "2026-11-12T16:47:12Z"
     },
     {
-      "title": "Spiik",
-      "url": "https://www.producthunt.com/products/spiik",
-      "description": "AI note taker for meetings & lectures. No bot on your calls. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-07T11:57:13Z"
-    },
-    {
       "title": "Talyn",
       "url": "https://www.producthunt.com/products/talyn",
       "description": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link",
@@ -138,98 +215,105 @@
       "published_at": "2026-11-12T10:07:59Z"
     },
     {
-      "title": "Perit Marketplace",
-      "url": "https://www.producthunt.com/products/perit-marketplace",
-      "description": "Sell your data and RL tasks to frontier AI labs Discussion | Link",
+      "title": "Agentic Canvas",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "description": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-15T05:04:05Z"
+      "published_at": "2026-11-15T06:22:09Z"
     },
     {
-      "title": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "description": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link",
+      "title": "Frevana Multiplayer",
+      "url": "https://www.producthunt.com/products/frevana-2",
+      "description": "AI that grows your business alongside your team Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-12T20:18:13Z"
+      "published_at": "2026-11-10T05:18:49Z"
     },
     {
-      "title": "Antelog",
-      "url": "https://www.producthunt.com/products/antelog",
-      "description": "Stops AI coding agents from leaking or destroying your data Discussion | Link",
+      "title": "Spiik",
+      "url": "https://www.producthunt.com/products/spiik",
+      "description": "AI note taker for meetings & lectures. No bot on your calls. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-10T05:38:22Z"
-    },
-    {
-      "title": "Businesses in ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "Help customers discover your business through ChatGPT Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T08:53:51Z"
-    },
-    {
-      "title": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "description": "A blazing-fast, persistent, key-value AI workload database Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T21:27:29Z"
-    },
-    {
-      "title": "Kokonut UI",
-      "url": "https://www.producthunt.com/products/kokonutui",
-      "description": "Open-source UI components for your AI agent Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-01T10:27:54Z"
-    },
-    {
-      "title": "Tabletop by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "description": "Build interactive group experiences with AI. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T11:39:17Z"
-    },
-    {
-      "title": "FreeFlow Dictation",
-      "url": "https://www.producthunt.com/products/freeflow-dictation",
-      "description": "On-device Mac dictation with a Claude Code voice hook Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-10T08:38:27Z"
-    },
-    {
-      "title": "CodeMesh",
-      "url": "https://www.producthunt.com/products/codemesh-2",
-      "description": "Cut AI coding costs by 90% Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T09:07:28Z"
-    },
-    {
-      "title": "Dex Semantics",
-      "url": "https://www.producthunt.com/products/dex-by-exmergo",
-      "description": "Let your agent build analytics with 25% fewer errors Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T21:48:12Z"
-    },
-    {
-      "title": "HiringNow",
-      "url": "https://www.producthunt.com/products/hiringnow",
-      "description": "AI job agent that finds & apply for jobs before anyone else. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-02T10:23:37Z"
-    },
-    {
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "description": "Fast agentic development for coders Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-12T18:37:12Z"
-    },
-    {
-      "title": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "description": "Turn Webflow/Framer app into a Claude/Codex project for free Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T02:06:54Z"
+      "published_at": "2026-11-07T11:57:13Z"
     }
   ],
   "openai": [
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "source": "OpenAI",
+      "published_at": "2026-11-17T00:00:00Z"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T17:00:00Z"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T17:00:00Z"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T12:00:00Z"
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T09:30:00Z"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T09:00:00Z"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T08:00:00Z"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "description": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T06:00:00Z"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "description": "OpenAI 官方更新。",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T06:00:00Z"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "description": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T00:00:00Z"
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "description": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "source": "OpenAI",
+      "published_at": "2026-11-16T00:00:00Z"
+    },
     {
       "title": "A step toward defining the Standard Model on a lattice",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -292,83 +376,6 @@
       "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "source": "OpenAI",
       "published_at": "2026-11-12T00:00:00Z"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "source": "OpenAI",
-      "published_at": "2026-11-11T08:00:00Z"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "source": "OpenAI",
-      "published_at": "2026-11-11T00:00:00Z"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T12:00:00Z"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T10:00:00Z"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T09:00:00Z"
-    },
-    {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T08:00:00Z"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T07:00:00Z"
-    },
-    {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "source": "OpenAI",
-      "published_at": "2026-11-10T00:00:00Z"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "source": "OpenAI",
-      "published_at": "2026-11-09T19:00:00Z"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "source": "OpenAI",
-      "published_at": "2026-11-09T13:00:00Z"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "source": "OpenAI",
-      "published_at": "2026-11-09T08:00:00Z"
     }
   ],
   "anthropic": [],
@@ -516,85 +523,139 @@
   ],
   "hacker_news": [
     {
-      "title": "Google AI Ultra Subscription Not Worth It",
-      "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
+      "title": "OVH releases first model with EU public funding and supercomputer access",
+      "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T04:59:22Z",
+      "published_at": "2026-11-17T06:50:29Z",
       "score": 7,
       "comments": 0
     },
     {
-      "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-      "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+      "url": "https://github.com/yocontra/pulsar",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T04:03:51Z",
-      "score": 11,
-      "comments": 1
+      "published_at": "2026-11-17T03:18:53Z",
+      "score": 10,
+      "comments": 0
     },
     {
-      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "title": "Tokendoctor – See what your Claude Code use overpays",
+      "url": "https://github.com/localixai/tokendoctor",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T03:34:55Z",
-      "score": 9,
-      "comments": 5
+      "published_at": "2026-11-17T02:19:50Z",
+      "score": 20,
+      "comments": 8
     },
     {
-      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "url": "https://www.hntrends.com/2026/november.html",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T01:31:30Z",
-      "score": 80,
-      "comments": 67
+      "published_at": "2026-11-17T01:35:16Z",
+      "score": 43,
+      "comments": 14
     },
     {
-      "title": "Agentic AI Designs an Analog Synthesizer",
-      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+      "title": "No matter how you ask, more Americans are negative than positive about AI",
+      "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T01:28:10Z",
-      "score": 12,
-      "comments": 1
+      "published_at": "2026-11-16T21:58:29Z",
+      "score": 21,
+      "comments": 4
     },
     {
-      "title": "'It's like the Wild West': how AI has rocked the literary world",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "url": "https://github.com/aryamandarda/tamserve",
+      "description": "I type \"forklift\" on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add \"person\" without stopping it. tamserve runs Meta's SAM 3 on live camera feeds. SAM 3's own tracker handles one recorded video at a time, runs at about 8 fps, and runs out of memory on long videos. tamserve uses SAM 3 to find objects every few frames and a lightweight tracker (EdgeTAM) to follow them in between, with one copy of each model shared across all your cameras. *On one RTX 4090:* * *Any object you name:* 4x faster than SAM 3's tracker, at 92% of its accuracy * *People:* 16 cameras at once, 14x less GPU per frame, and slightly more accurate than SAM 3 (89.6 vs 87.8 HOTA) * *Memory:* flat at 3.5 GB on a 3,000 frame video, where SAM 3 runs out at frame 423 *Worth a look if you're building:* * Warehouse or factory safety (forklifts, pallets, hard hats) * Security or retail camera analytics * Home or elder care monitoring * Robotics, wildlife or lab monitoring * Annotation tools for long videos `pip install \"tamserve[sam3]\"` Please give me any and all feedback or edit tamserve to meet your needs, and a star helps if you find it useful!",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T21:14:39Z",
+      "score": 22,
+      "comments": 2
+    },
+    {
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-16T00:52:00Z",
-      "score": 7,
+      "published_at": "2026-11-16T21:12:02Z",
+      "score": 25,
+      "comments": 11
+    },
+    {
+      "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+      "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T20:48:53Z",
+      "score": 22,
+      "comments": 7
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "description": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfA We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors. When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: https://axonnic.com/benchmarks . We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies. Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension. Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings. So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG. If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks! https://axonnic.com",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T20:29:48Z",
+      "score": 40,
+      "comments": 20
+    },
+    {
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T19:09:05Z",
+      "score": 30,
       "comments": 3
     },
     {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-15T23:55:50Z",
-      "score": 6,
-      "comments": 0
+      "published_at": "2026-11-16T18:12:21Z",
+      "score": 45,
+      "comments": 9
     },
     {
-      "title": "Show HN: Skillset: Easily curate and install agent skills collection",
-      "url": "https://github.com/itsmeyaw/skillset",
-      "description": "Hi everyone! Installing skills globally in ~/.agents or ~/.claude consumes too much context, yet manually installing specific skills for every project is tedious. Wouldn't it be better to group skills for programming, backend architecture, or graphic design into collections, and install them with a single command only when needed? To solve this, I built Skillset. It acts as a wrapper around the Vercel Skill CLI that batch-installs sets of skills from multiple sources using a single JSON file, essentially npm for skills! While similar tools exist, most are written from scratch, which makes me concerned about their compatibility. Because Vercel’s Skill CLI is already the de facto standard (imo!), Skillset uses it directly as an underlying library. So it guarantees seamless compatibility across teams, regardless of whether they use Skillset or the standard Vercel CLI.",
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "url": "https://fakemetrics.com/",
+      "description": "Hi HN, I am Tigran (github.com/tigranbs) I made Fakemetrics.com as a fun experiment while testing how well Claude Opus can build pixel-identical UIs. It turned out it wasn't as easy as just prompting it, but I spent time building the system so it works almost every time. And I am pretty sure you are seeing a bunch of people posting weekend vibe-coded apps and saying \"$50K/month after quitting my McDonnalds job...\". Well, even my friend tried to fake it a few months back. So, I kinda did this fakemetrics.com as an experiment to see how well I can have the system that clones UIs, and packaged that as a very simple (I think) usable product for the people that want to be a superstar \"build in public\" type of a person with no revenue, but a perfect Stripe user growth screenshot. Useful? - Probably not that much Fun? - YES!! The best part is that Claude, ChatGPT, or Grok models aren't that good at UI clones by default, but with fakemetrics.com I kinda made a system that produces near-identical results from screenshots fairly fast. That was worth learning! Let me know what you think? Should I move on with the UI cloning as an open-source product?",
       "source": "Hacker News",
-      "published_at": "2026-11-15T22:53:37Z",
-      "score": 4,
-      "comments": 0
+      "published_at": "2026-11-16T18:08:04Z",
+      "score": 44,
+      "comments": 21
     },
     {
-      "title": "Show HN: Attest – Test what AI agents do, not just what they say",
-      "url": "https://attest-framework.github.io/",
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
+      "description": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to do The bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business side But that does not seem to be the case with my own company or most devs I talk to in the industry So what gives?",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T17:20:28Z",
+      "score": 49,
+      "comments": 73
+    },
+    {
+      "title": "First phase of embedded assessments at OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-15T18:03:01Z",
-      "score": 6,
-      "comments": 0
+      "published_at": "2026-11-16T16:07:20Z",
+      "score": 49,
+      "comments": 17
+    },
+    {
+      "title": "Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research",
+      "url": "https://github.com/etodanik/deslop",
+      "description": "I vibed this deslop skill because I was getting increasingly annoyed that deslop skills for prose relied either on fitting prose into an overly restrictive format (simple-english and iso-24495) or telling AI to rewrite something without providing any tools in the skill to measure the outcome (which more often than not resulted in one slop being replaced with another). This skill is based on published measurements of how LLM text differs from human text: Reinhart et al.’s comparison of Biber’s grammatical features in human and model writing, Terčon & Dobrovoljc’s survey of 44 studies, Clark, Martin & Mahowald’s work on why AI text is hard to read, and Graphite’s “AI Tells” study, whose released data includes tell lists for nine current models. It’s benchmarked against three corpora in which humans and models answered the same prompts: 9,984 web-article topics from Graphite, 24,322 questions from HC3 and 3,027 advice prompts from ELEPHANT. It also ships with a scanner that runs before and after each revision. It shows which problems the revision fixed or newly caused, and it catches dropped facts and any tells from the reviser’s own model family.",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T12:41:48Z",
+      "score": 12,
+      "comments": 4
     },
     {
       "title": "All AI-generated code should be Open Source",
@@ -602,26 +663,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-15T14:46:58Z",
-      "score": 1129,
-      "comments": 609
-    },
-    {
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-15T13:50:51Z",
-      "score": 40,
-      "comments": 10
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!) Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features. If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add? It's hosted on GitLab, soo, that's one additional thing i'd like to mention Thanks for reading!! snipedbywifi (p.s. first HN post lol) (p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?)",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T14:05:54Z",
-      "score": 168,
-      "comments": 40
+      "score": 1270,
+      "comments": 660
     },
     {
       "title": "Artificial Intelligence for the Z80",
@@ -629,26 +672,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T15:50:43Z",
-      "score": 19,
-      "comments": 2
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T15:08:44Z",
-      "score": 483,
-      "comments": 727
-    },
-    {
-      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "url": "https://www.niklasroy.com/carton-clock/",
-      "description": "After my last trash clock ( https://news.ycombinator.com/item?id=49930439 ), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewers, some paper straws, a piece of string, some nuts as weights, and lots of hot glue. It has a pendulum, an escapement, and hands for seconds, minutes, and hours, and runs for about an hour. The design of the gears and escapement was AI-assisted: Claude built me interactive browser tools that generate templates and 3D-printable jigs and tools. I’m happy to answer your questions! And to the commenter who suggested I submit trash clock timekeeping as a talk to 40C3: I did, and it got accepted. CU at Congress, I guess!?",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T12:00:18Z",
-      "score": 77,
-      "comments": 2
+      "score": 82,
+      "comments": 8
     },
     {
       "title": "What thousands of conversations look like inside a language model",
@@ -656,8 +681,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-13T10:26:01Z",
-      "score": 120,
-      "comments": 29
+      "score": 130,
+      "comments": 31
     },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -665,8 +690,8 @@
       "description": "https://twitter.com/willdepue/status/2120992457630326841",
       "source": "Hacker News",
       "published_at": "2026-11-12T21:56:11Z",
-      "score": 438,
-      "comments": 185
+      "score": 450,
+      "comments": 194
     },
     {
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
@@ -674,27 +699,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-12T05:29:24Z",
-      "score": 399,
-      "comments": 196
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T21:25:03Z",
-      "score": 575,
-      "comments": 564
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T19:07:53Z",
-      "score": 114,
-      "comments": 61
+      "score": 451,
+      "comments": 239
     }
   ],
-  "updated_at": "2026-11-16T06:22:20.827700Z"
+  "updated_at": "2026-11-17T07:51:14.108708Z"
 }
