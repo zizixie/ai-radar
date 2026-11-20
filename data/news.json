@@ -1,64 +1,14 @@
 {
   "github_trending": [
     {
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.800077Z",
+      "fetched_at": "2026-11-20T07:10:08.574572Z",
       "language": "Python",
-      "today_stars": 389
-    },
-    {
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.800348Z",
-      "language": "Python",
-      "today_stars": 1059
-    },
-    {
-      "title": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.800794Z",
-      "language": "Python",
-      "today_stars": 312
-    },
-    {
-      "title": "google-research/paper-orchestra",
-      "url": "https://github.com/google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.801434Z",
-      "language": "Python",
-      "today_stars": 1524
-    },
-    {
-      "title": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.801655Z",
-      "language": "TypeScript",
-      "today_stars": 365
-    },
-    {
-      "title": "openvinotoolkit/openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "source": "GitHub Trending",
-      "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.802530Z",
-      "language": "C++",
-      "today_stars": 24
+      "today_stars": 1349
     },
     {
       "title": "obra/superpowers",
@@ -66,59 +16,227 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.802791Z",
+      "fetched_at": "2026-11-20T07:10:08.574917Z",
       "language": "Shell",
-      "today_stars": 822
+      "today_stars": 2028
     },
     {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.803047Z",
-      "language": "JavaScript",
-      "today_stars": 1108
+      "fetched_at": "2026-11-20T07:10:08.575169Z",
+      "language": "Python",
+      "today_stars": 898
     },
     {
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-19T07:19:58.803506Z",
+      "fetched_at": "2026-11-20T07:10:08.575421Z",
+      "language": "Python",
+      "today_stars": 238
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.576301Z",
+      "language": "C++",
+      "today_stars": 246
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.576578Z",
+      "language": "HTML",
+      "today_stars": 271
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.576803Z",
+      "language": "Python",
+      "today_stars": 954
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.577051Z",
       "language": "TypeScript",
-      "today_stars": 325
+      "today_stars": 302
+    },
+    {
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.577378Z",
+      "language": "Shell",
+      "today_stars": 377
+    },
+    {
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.577598Z",
+      "language": "Python",
+      "today_stars": 38
+    },
+    {
+      "title": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "source": "GitHub Trending",
+      "published_at": "",
+      "fetched_at": "2026-11-20T07:10:08.578309Z",
+      "language": "Python",
+      "today_stars": 126
     }
   ],
   "product_hunt": [
     {
-      "title": "GPT-6.2 Astra and Sol",
-      "url": "https://www.producthunt.com/products/openai",
-      "description": "Two new OpenAI models: frontier Astra and efficient Sol Discussion | Link",
+      "title": "Tabstack by Mozilla",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "description": "Give your model the web without giving up your privacy Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-17T18:06:04Z"
+      "published_at": "2026-11-16T21:57:39Z"
     },
     {
-      "title": "Incredible Agents",
-      "url": "https://www.producthunt.com/products/incredible",
-      "description": "Fast Voice AI that sees your screen and runs your agents Discussion | Link",
+      "title": "Gemini 4 Neon",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "description": "Frontier reasoning with faster task completion Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-17T22:02:24Z"
+      "published_at": "2026-11-19T02:32:38Z"
     },
     {
-      "title": "Pitch Avatar HR Suite",
-      "url": "https://www.producthunt.com/products/pitchavatar",
-      "description": "Onboarding, training & comms with conversational AI avatars Discussion | Link",
+      "title": "TestSprite 4.0",
+      "url": "https://www.producthunt.com/products/testsprite",
+      "description": "Fix one thing, break another? This agent checks it all Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-10-22T10:27:29Z"
+      "published_at": "2026-11-12T22:40:48Z"
     },
     {
-      "title": "LinkBit",
-      "url": "https://www.producthunt.com/products/linkbit",
-      "description": "Free URL shortener your AI agent can use (MCP + API) Discussion | Link",
+      "title": "CodeDesign v3",
+      "url": "https://www.producthunt.com/products/codedesign",
+      "description": "Run your website and business apps from ChatGPT or Claude Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-17T07:57:08Z"
+      "published_at": "2026-11-17T05:24:17Z"
+    },
+    {
+      "title": "OfinTech Desk",
+      "url": "https://www.producthunt.com/products/ofintech-desk",
+      "description": "Finance AI where every figure traces to its source Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-17T03:25:07Z"
+    },
+    {
+      "title": "Tecla",
+      "url": "https://www.producthunt.com/products/tecla-3",
+      "description": "A proactive AI agent whose interface is a TODO list Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-19T03:05:34Z"
+    },
+    {
+      "title": "Noteshell",
+      "url": "https://www.producthunt.com/products/noteshell",
+      "description": "AI teammates that build and run your workspace Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T15:28:16Z"
+    },
+    {
+      "title": "Fieldwork Code",
+      "url": "https://www.producthunt.com/products/fieldwork-code",
+      "description": "AI coding on your laptop or in the cloud, from your phone Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T13:32:13Z"
+    },
+    {
+      "title": "Enrichable by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "description": "Open-source AI spreadsheet for data enrichment Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T11:43:41Z"
+    },
+    {
+      "title": "HeyGen Avatar 6",
+      "url": "https://www.producthunt.com/products/heygen",
+      "description": "AI Avatar Model That Looks Like You Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T12:03:30Z"
+    },
+    {
+      "title": "Upsolve MCP Connections",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "description": "Plug Notion, Linear and more into your data agent Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T21:56:08Z"
+    },
+    {
+      "title": "Adside",
+      "url": "https://www.producthunt.com/products/adside",
+      "description": "A team of specialized AI agents that manage paid ads for you Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-19T00:52:42Z"
+    },
+    {
+      "title": "Room AI",
+      "url": "https://www.producthunt.com/products/room-ai-2",
+      "description": "Talk to it like a designer. Your room, one change at a time Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T15:37:31Z"
+    },
+    {
+      "title": "Teaflask",
+      "url": "https://www.producthunt.com/products/teaflask",
+      "description": "Self-improving AI copilot for your app. No backend changes. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-09T16:27:48Z"
+    },
+    {
+      "title": "Rezora IO",
+      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "description": "Shopify for AI voice agents: live in 10 minutes Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T23:23:32Z"
+    },
+    {
+      "title": "Ableten Hybrid AI Travel Planner",
+      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "description": "Get your group on the same map. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-08-19T06:21:46Z"
+    },
+    {
+      "title": "Wispr Flow Notetaker for iPhone",
+      "url": "https://www.producthunt.com/products/wisprflow",
+      "description": "Free AI meeting notes, wherever work takes you Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T16:19:49Z"
+    },
+    {
+      "title": "Polylane for Azure",
+      "url": "https://www.producthunt.com/products/polylane",
+      "description": "An AI on-call engineer for your Azure apps Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T21:47:12Z"
     },
     {
       "title": "Tencent Hy4 flash",
@@ -128,112 +246,49 @@
       "published_at": "2026-11-16T06:53:29Z"
     },
     {
-      "title": "Microsoft IQ",
-      "url": "https://www.producthunt.com/products/microsoft-365",
-      "description": "Give AI agents a shared understanding of your business Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T19:34:13Z"
-    },
-    {
-      "title": "Bluedot Phone Calls",
-      "url": "https://www.producthunt.com/products/bluedot-2",
-      "description": "AI note taker for phone calls Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-14T14:21:32Z"
-    },
-    {
-      "title": "Qwen4-Max",
-      "url": "https://www.producthunt.com/products/qwen3",
-      "description": "Qwen's new flagship for long-running agent work Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-16T12:32:32Z"
-    },
-    {
-      "title": "ICONS",
-      "url": "https://www.producthunt.com/products/icons-2",
-      "description": "Where brands book creators, or license their AI likeness Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-14T17:43:08Z"
-    },
-    {
-      "title": "Kino",
-      "url": "https://www.producthunt.com/products/kino-2",
-      "description": "Store, edit and review video with Claude Code and Codex Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T06:15:38Z"
-    },
-    {
-      "title": "AI Canvas",
-      "url": "https://www.producthunt.com/products/ai-canvas-2",
-      "description": "A design system for AI agents to design badass interfaces Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T15:46:37Z"
-    },
-    {
-      "title": "SoreQen Code",
-      "url": "https://www.producthunt.com/products/soreqen-code",
-      "description": "The coding agent that checks its own work Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-18T03:14:00Z"
-    },
-    {
-      "title": "KaDeep AI",
-      "url": "https://www.producthunt.com/products/kadeep-ai",
-      "description": "Agentic QA, localization & accessibility: know when to ship Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T08:00:01Z"
-    },
-    {
       "title": "Ody Ai Business Phone",
       "url": "https://www.producthunt.com/products/ody-ai-business-phone",
       "description": "Shared workspace + manageable AI agents Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-16T18:36:57Z"
-    },
-    {
-      "title": "Waldo by Wherobots",
-      "url": "https://www.producthunt.com/products/waldo-by-wherobots",
-      "description": "The AI agent that accelerates engineering with spatial data Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-05T15:23:12Z"
-    },
-    {
-      "title": "Beacon",
-      "url": "https://www.producthunt.com/products/beacon-26",
-      "description": "Give your AI agent the browser you're already signed into Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T10:45:51Z"
-    },
-    {
-      "title": "Mermaid Flow",
-      "url": "https://www.producthunt.com/products/mermaid-chart",
-      "description": "The visual builder for agentic workflows Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-11T20:24:56Z"
-    },
-    {
-      "title": "S.Space",
-      "url": "https://www.producthunt.com/products/s-space",
-      "description": "Your team and everyone's AI agents, in one workspace Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-15T13:26:16Z"
-    },
-    {
-      "title": "Arcade",
-      "url": "https://www.producthunt.com/products/arcade",
-      "description": "AI video generator for marketing teams Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T18:17:21Z"
-    },
-    {
-      "title": "Dream by Smart Jelly",
-      "url": "https://www.producthunt.com/products/smart-jelly",
-      "description": "An AI agent that works through your tasks overnight Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T12:34:14Z"
     }
   ],
   "openai": [
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "source": "OpenAI",
+      "published_at": "2026-11-19T08:00:00Z"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "source": "OpenAI",
+      "published_at": "2026-11-19T00:00:00Z"
+    },
+    {
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "description": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "source": "OpenAI",
+      "published_at": "2026-11-19T00:00:00Z"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "source": "OpenAI",
+      "published_at": "2026-11-19T00:00:00Z"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "source": "OpenAI",
+      "published_at": "2026-11-19T00:00:00Z"
+    },
     {
       "title": "The Silent Consensus",
       "url": "https://openai.com/index/the-silent-consensus",
@@ -270,16 +325,16 @@
       "published_at": "2026-11-18T06:00:00Z"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "source": "OpenAI",
       "published_at": "2026-11-18T00:00:00Z"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "source": "OpenAI",
       "published_at": "2026-11-18T00:00:00Z"
     },
@@ -305,16 +360,16 @@
       "published_at": "2026-11-17T08:00:00Z"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "source": "OpenAI",
       "published_at": "2026-11-17T00:00:00Z"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "source": "OpenAI",
       "published_at": "2026-11-17T00:00:00Z"
     },
@@ -338,41 +393,6 @@
       "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "source": "OpenAI",
       "published_at": "2026-11-16T12:00:00Z"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T09:30:00Z"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T09:00:00Z"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T08:00:00Z"
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "description": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T06:00:00Z"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "description": "OpenAI 官方更新。",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T06:00:00Z"
     }
   ],
   "anthropic": [],
@@ -520,185 +540,185 @@
   ],
   "hacker_news": [
     {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
+      "url": "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T05:17:36Z",
-      "score": 9,
+      "published_at": "2026-11-20T03:43:23Z",
+      "score": 11,
+      "comments": 9
+    },
+    {
+      "title": "Nobody is talking seriously about AI demand",
+      "url": "https://twitter.com/giovannicatt3/status/2094815425972539565",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T02:36:40Z",
+      "score": 4,
       "comments": 1
     },
     {
-      "title": "AI will not make you rich (2025)",
-      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "title": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T01:51:28Z",
-      "score": 91,
-      "comments": 53
+      "published_at": "2026-11-20T00:25:59Z",
+      "score": 52,
+      "comments": 15
     },
     {
-      "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-      "url": "https://adeindex.com",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+      "url": "https://stass.github.io/erXos/",
+      "description": "What if every Erlang process were an operating-system process? With as much system code and drivers written in Erlang itself. This is something I was pondering for a while, and finally was able to prototype thanks to AI coding agents. erXos is a capability-based microkernel OS in Erlang: drivers, filesystems, and the network stack are all supervised Erlang processes, same as any app. The kernel itself is Fiasco, in C++, slightly modified for erXos needs. This is an OS I wanted for a long time: an Erlang machine where every BEAM process is a process visible to the OS and scheduler, not something bolted on top. You can try it right now with nothing to install: there is an emulator on the website that boots the whole OS in the browser ARM64 emulator. At the rc prompt, try `ps`, `top`, `ping` or `erl` and write any kind of erlang code. There's a Pi 4 SD image and a QEMU image too. The goal is to build an ultra-reliable microkernel OS with hot code loading and both system and BEAM-based isolation. The latter is one thing that would allow you to run millions of processes on the system, something that would be prohibitive on a microkernel alone due to the context switch overhead. Capabilities keep every component least-privileged, supervision keeps the machine running when drivers or subsystems crash, and hot code loading would let you fix a broken driver without reboot. The secondary goal is to keep as much of a UNIX face as possible. Too many novel OSes change things for no particular reason that makes them hard to use. erXos tries to preserve as many existing UNIX/FreeBSD concepts as much as possible to remove the learning curve. What works today: - Boots in the browser/v64, in QEMU, and on a Raspberry Pi 4 from an SD card - A real shell (plan9 rc) with job control, pipes, `ps`, `grep`. It feels like UNIX on the surface - Erlang versions of basic UNIX apps. - Drivers written in Erlang: UART, virtio, SD card, Ethernet (GENET), display - A pure Erlang EROFS filesystem for root images - A TCP/IP stack in Erlang based on FreeBSD network stack and verified for correctness against it - Domains: every app runs as its own address space or Erlang node, isolated from others - Plan 9 namespaces and 9P everywhere; windows are files like RIO and 9P is a file protocol between OS servers - Supervision end to end: if a driver fails, its supervisor resets the device and restarts it I also have 2 demo apps built on app sdk: a full-screen kiosk app with live crypto quotes and clock and, of course Doom, which ships on the Pi 4 card image (type `doom`). What's coming: - Raspberry Pi 5 support - Full display on the Pi - WIFI - Bluetooth - POSIX-lite for C programs, so existing code can run as a domain - Performance, debugging and tracing features. The code is all available under the BSD license. Would love to hear all and any feedback!",
       "source": "Hacker News",
-      "published_at": "2026-11-19T01:33:52Z",
-      "score": 15,
+      "published_at": "2026-11-19T23:39:34Z",
+      "score": 6,
       "comments": 3
     },
     {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T01:27:02Z",
-      "score": 43,
-      "comments": 7
+      "published_at": "2026-11-19T23:35:35Z",
+      "score": 335,
+      "comments": 209
     },
     {
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
+      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T00:57:20Z",
-      "score": 80,
-      "comments": 40
+      "published_at": "2026-11-19T23:34:03Z",
+      "score": 10,
+      "comments": 2
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "title": "Silicon Valley Is Suffering from Model Collapse",
+      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T00:29:45Z",
-      "score": 209,
-      "comments": 67
-    },
-    {
-      "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
-      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T00:08:35Z",
-      "score": 15,
-      "comments": 12
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T23:30:09Z",
-      "score": 150,
-      "comments": 137
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T22:29:13Z",
-      "score": 161,
-      "comments": 40
-    },
-    {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T21:34:07Z",
-      "score": 714,
-      "comments": 602
-    },
-    {
-      "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
-      "url": "https://springcraft-ai.github.io/springrep/",
-      "description": "Hey HN, I’m Tony. I’m a co-founder of Springcraft, where we have been doing a lot of CAD modeling for robot parts. Our team kept running into limitations with existing kernels, and so I decided to write a new B-rep kernel and a new comprehensive, kernel-agnostic B-rep conformance test suite. Both are available today under MIT licenses. The kernel, springrep, is written in safe Rust with no dependencies. It covers a broad range of our mechanical CAD needs, including advanced fillets, sweeps, lofts, shells, offsets, STEP and exact measurements and queries. Claude Code made it feasible to write this, but it took a lot of time and care to get it right. The test suite, brep-conformance, has 3,487 cases covering the modeling operations common across kernels: booleans, fillets, chamfers, shells, offsets, sweeps, lofts, STEP, and queries with expected answers coming from closed forms and exact geometry. It caught hundreds of bugs, edge cases, and hot spots in springrep that our own tests had missed, and now springrep passes all of it. We’ve also run it on a few popular open-source kernels and anyone can run it on theirs. This is the first version, so there are surely mistakes in the test and adapters. Corrections, pull requests, and new kernels are welcome. kernel: https://github.com/springcraft-ai/springrep conformance suite: https://springcraft-ai.github.io/brep-conformance/",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T21:08:47Z",
-      "score": 29,
+      "published_at": "2026-11-19T23:21:50Z",
+      "score": 17,
       "comments": 5
     },
     {
-      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T18:53:17Z",
-      "score": 28,
-      "comments": 6
+      "published_at": "2026-11-19T22:56:59Z",
+      "score": 62,
+      "comments": 18
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "title": "An FBI agent called a Claude user about his chats",
+      "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T17:45:47Z",
-      "score": 199,
-      "comments": 129
+      "published_at": "2026-11-19T22:36:51Z",
+      "score": 29,
+      "comments": 24
     },
     {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "description": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is: You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins. It’s a bit of an oversimplification, but the point is it’s a narrow solution to a fairly difficult problem. We talked to a couple hundred companies that are building AI agents. From personal assistants and coding agents to specialized healthcare agents, and the main pattern we saw was that even after choosing a sandbox provider, you still have to build additional infrastructure just to get things working. These were the primary points of friction: 1. Agent lifecycle management. There’s a lot that you have to build in order to properly give your agents VMs: things like sleep/wake, persistent storage, triggers, scheduling, per-user routing and spend caps, health monitoring, failure recovery, and deploying updates across thousands of VMs without downtime. There are so many of these small sandbox management tasks that companies have to build and maintain themselves, and they add up. 2. Custom environments. Production agents have varying needs. Some agents need Windows applications. Others need Android, browsers with persistent sessions, custom operating system images, preinstalled desktop software and applications, or specific dependencies. Some agents need access to private networks to interact with customer-specific things on prem, or residential IPs, or the ability to restrict network access completely. 3. Cost optimization. If you’re selling a personal assistant for $20/month, a sandbox that costs $0.04/hour comes out to roughly $29/month if you keep it running continuously, not including LLM inference, storage, etc. There is a way to combat this though, which is to optimize sandbox usage with auto-snapshotting, making things event-driven, mounting S3 buckets to agent environments via FUSE for cheap storage, cold-tiering snapshots, etc. All roads lead to… building more infrastructure. So what did we build differently? We give each agent its own isolated, persistent microVM and a configurable environment. On top of the compute, we built a lot of composable services: provisioning, persistent state, sleep/wake orchestration, triggers, schedule creation, monitoring, network configuration, updates, rollbacks, recovery, per-agent spend tracking, login handoffs, all the things you’d need for production agents. We also spent a huge amount of time optimizing cost. A lot of thought was put into things such as scale-to-zero, copy-on-write over shared base images, compressed memory snapshots, hot/warm/cold snapshot and disk tiering, and other optimizations while balancing these with performance metrics like latency. As a result, Maritime costs $1 for a 2gb RAM agent per month (unlimited usage for that $1), with additional resources available as needed. Maria was a visiting lecturer at MIT and did research at Project NANDA on agent infrastructure. Ary did research on agent coordination protocols at the same lab. We started Maritime together this March because of all the issues we faced with trying to deploy agents to the cloud during our research. We want your feedback. If you're building an agent product, what did you have to build on top of sandboxes to make them work? We want to know about all the workarounds and weird things you’ve had to build. Are there things you’ve tried to build with VMs but couldn’t? Does Maritime fit your needs? Is there a feature we’re missing that would make us more enticing? Happy to answer any questions in the comments. https://maritime.sh",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T17:26:28Z",
-      "score": 51,
-      "comments": 44
-    },
-    {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "url": "https://news.ycombinator.com/item?id=50548660",
-      "description": "Hi HN, we're Shane, Sam, and Abhi. Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073 . It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races. Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself. At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans. There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack. Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc). When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI. We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead. You can get started with `npm create factory`. It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think! https://factory.mastra.ai https://github.com/mastra-ai/template-factory",
-      "source": "Hacker News",
-      "published_at": "2026-11-18T16:53:42Z",
-      "score": 90,
-      "comments": 31
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T16:08:24Z",
-      "score": 514,
-      "comments": 340
+      "published_at": "2026-11-19T18:47:16Z",
+      "score": 99,
+      "comments": 193
     },
     {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T15:59:04Z",
-      "score": 48,
-      "comments": 0
+      "published_at": "2026-11-19T18:42:13Z",
+      "score": 44,
+      "comments": 26
     },
     {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T15:49:34Z",
-      "score": 441,
-      "comments": 190
+      "published_at": "2026-11-19T17:30:44Z",
+      "score": 461,
+      "comments": 218
     },
     {
-      "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
-      "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T15:08:21Z",
-      "score": 45,
-      "comments": 22
+      "published_at": "2026-11-19T17:02:40Z",
+      "score": 1044,
+      "comments": 2063
     },
     {
-      "title": "Can Universities Survive? AI vs. Higher Education [audio]",
-      "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-18T14:42:25Z",
-      "score": 30,
-      "comments": 38
+      "published_at": "2026-11-19T16:54:25Z",
+      "score": 128,
+      "comments": 49
+    },
+    {
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:45:50Z",
+      "score": 133,
+      "comments": 66
+    },
+    {
+      "title": "Aviator: HubSpot's Agent Harness",
+      "url": "https://hubspot.engineering/blog/aviator-hubspots-agent-harness/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:42:34Z",
+      "score": 25,
+      "comments": 3
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "description": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild. We built Onlook because we believe there needs to be a developer tool that works the way designers do. More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state). Some of you may remember our earlier Show HNs (July 2024: https://news.ycombinator.com/item?id=40904862 , August 2024: https://news.ycombinator.com/item?id=41390449 , May 2025: https://news.ycombinator.com/item?id=44127653 ). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code. How it works… Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal. When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas. The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant. Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say \"make this a card layout,\" and the agent knows exactly what \"this\" is. This time we didn't build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt. We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built. The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we'll eventually offer a paid cloud product for teams. We'd love to hear which repos work and which don't, what you try to do on the canvas, and what's missing. We’re so excited for this to be a new way for designers to work in code! The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day!",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:34:04Z",
+      "score": 111,
+      "comments": 75
+    },
+    {
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:30:18Z",
+      "score": 526,
+      "comments": 210
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T15:38:12Z",
+      "score": 226,
+      "comments": 210
+    },
+    {
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "url": "https://tabbyml.github.io/weight-space-playground/",
+      "description": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM. so I turned it into an interactive walkthrough of a concrete example: editing 0.016% of a model's weights to reduce reasoning loops, no gradient descent. Based on exp8 of “Sparks of Weight-Space Programming.”: https://news.ycombinator.com/item?id=50341174",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T15:32:47Z",
+      "score": 33,
+      "comments": 5
     }
   ],
-  "updated_at": "2026-11-19T07:20:00.694004Z"
+  "updated_at": "2026-11-20T07:10:10.524555Z"
 }
