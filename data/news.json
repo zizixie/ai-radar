@@ -6,9 +6,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.574572Z",
+      "fetched_at": "2026-11-21T07:01:19.793988Z",
       "language": "Python",
-      "today_stars": 1349
+      "today_stars": 1622
     },
     {
       "title": "obra/superpowers",
@@ -16,9 +16,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.574917Z",
+      "fetched_at": "2026-11-21T07:01:19.794425Z",
       "language": "Shell",
-      "today_stars": 2028
+      "today_stars": 890
     },
     {
       "title": "HKUDS/CLI-Anything",
@@ -26,9 +26,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.575169Z",
+      "fetched_at": "2026-11-21T07:01:19.794752Z",
       "language": "Python",
-      "today_stars": 898
+      "today_stars": 773
     },
     {
       "title": "jingyaogong/minimind",
@@ -36,9 +36,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.575421Z",
+      "fetched_at": "2026-11-21T07:01:19.795095Z",
       "language": "Python",
-      "today_stars": 238
+      "today_stars": 847
     },
     {
       "title": "openvinotoolkit/openvino",
@@ -46,9 +46,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.576301Z",
+      "fetched_at": "2026-11-21T07:01:19.796273Z",
       "language": "C++",
-      "today_stars": 246
+      "today_stars": 217
     },
     {
       "title": "cathrynlavery/diagram-design",
@@ -56,9 +56,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.576578Z",
+      "fetched_at": "2026-11-21T07:01:19.796649Z",
       "language": "HTML",
-      "today_stars": 271
+      "today_stars": 636
     },
     {
       "title": "mvanhorn/last30days-skill",
@@ -66,9 +66,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.576803Z",
+      "fetched_at": "2026-11-21T07:01:19.796974Z",
       "language": "Python",
-      "today_stars": 954
+      "today_stars": 681
     },
     {
       "title": "google-labs-code/stitch-skills",
@@ -76,9 +76,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.577051Z",
+      "fetched_at": "2026-11-21T07:01:19.797291Z",
       "language": "TypeScript",
-      "today_stars": 302
+      "today_stars": 315
     },
     {
       "title": "mjmirza/app-store-compliance",
@@ -86,9 +86,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.577378Z",
+      "fetched_at": "2026-11-21T07:01:19.797712Z",
       "language": "Shell",
-      "today_stars": 377
+      "today_stars": 869
     },
     {
       "title": "Tracer-Cloud/opensre",
@@ -96,9 +96,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.577598Z",
+      "fetched_at": "2026-11-21T07:01:19.798048Z",
       "language": "Python",
-      "today_stars": 38
+      "today_stars": 466
     },
     {
       "title": "zhouxiaoka/autoclip",
@@ -106,154 +106,175 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-20T07:10:08.578309Z",
+      "fetched_at": "2026-11-21T07:01:19.799023Z",
       "language": "Python",
-      "today_stars": 126
+      "today_stars": 979
     }
   ],
   "product_hunt": [
     {
-      "title": "Tabstack by Mozilla",
-      "url": "https://www.producthunt.com/products/tabstack",
-      "description": "Give your model the web without giving up your privacy Discussion | Link",
+      "title": "InteraOne",
+      "url": "https://www.producthunt.com/products/interaone",
+      "description": "Open-source Intercom & Zendesk alternative with AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-16T21:57:39Z"
+      "published_at": "2026-11-19T06:13:43Z"
     },
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "description": "Frontier reasoning with faster task completion Discussion | Link",
+      "title": "Groundwork",
+      "url": "https://www.producthunt.com/products/groundwork-6",
+      "description": "Claude Code plans that re-runs never overwrite Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-19T02:32:38Z"
+      "published_at": "2026-11-18T17:21:39Z"
     },
     {
-      "title": "TestSprite 4.0",
-      "url": "https://www.producthunt.com/products/testsprite",
-      "description": "Fix one thing, break another? This agent checks it all Discussion | Link",
+      "title": "DWaste",
+      "url": "https://www.producthunt.com/products/deep-waste",
+      "description": "Eliminate recycling contamination with low-power Edge AI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-12T22:40:48Z"
+      "published_at": "2026-11-18T11:42:26Z"
     },
     {
-      "title": "CodeDesign v3",
-      "url": "https://www.producthunt.com/products/codedesign",
-      "description": "Run your website and business apps from ChatGPT or Claude Discussion | Link",
+      "title": "tensorViz",
+      "url": "https://www.producthunt.com/products/tensorviz",
+      "description": "Let your coding agent see inside your PyTorch model Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-17T05:24:17Z"
+      "published_at": "2026-11-12T21:35:14Z"
     },
     {
-      "title": "OfinTech Desk",
-      "url": "https://www.producthunt.com/products/ofintech-desk",
-      "description": "Finance AI where every figure traces to its source Discussion | Link",
+      "title": "Volcano",
+      "url": "https://www.producthunt.com/products/volcano-3",
+      "description": "The self-healing agent cloud by Kong Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-17T03:25:07Z"
+      "published_at": "2026-11-19T06:11:24Z"
     },
     {
-      "title": "Tecla",
-      "url": "https://www.producthunt.com/products/tecla-3",
-      "description": "A proactive AI agent whose interface is a TODO list Discussion | Link",
+      "title": "Rox",
+      "url": "https://www.producthunt.com/products/rox-2",
+      "description": "Your AI companion for living with chronic illness Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-19T03:05:34Z"
+      "published_at": "2026-11-19T12:00:00Z"
     },
     {
-      "title": "Noteshell",
-      "url": "https://www.producthunt.com/products/noteshell",
-      "description": "AI teammates that build and run your workspace Discussion | Link",
+      "title": "Storiara",
+      "url": "https://www.producthunt.com/products/storiara",
+      "description": "AI producers that find real savings in your film budget Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T15:28:16Z"
+      "published_at": "2026-11-17T20:02:24Z"
     },
     {
-      "title": "Fieldwork Code",
-      "url": "https://www.producthunt.com/products/fieldwork-code",
-      "description": "AI coding on your laptop or in the cloud, from your phone Discussion | Link",
+      "title": "Tamekoshi",
+      "url": "https://www.producthunt.com/products/tamekoshi",
+      "description": "A Tamagotchi-style AI companion that does real work Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T13:32:13Z"
+      "published_at": "2026-11-19T11:38:06Z"
     },
     {
-      "title": "Enrichable by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "description": "Open-source AI spreadsheet for data enrichment Discussion | Link",
+      "title": "Zethos",
+      "url": "https://www.producthunt.com/products/zethos",
+      "description": "The ledger you and your AI work from Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T11:43:41Z"
+      "published_at": "2026-11-19T00:53:37Z"
     },
     {
-      "title": "HeyGen Avatar 6",
-      "url": "https://www.producthunt.com/products/heygen",
-      "description": "AI Avatar Model That Looks Like You Discussion | Link",
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "description": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T12:03:30Z"
+      "published_at": "2026-11-20T04:13:55Z"
     },
     {
-      "title": "Upsolve MCP Connections",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "description": "Plug Notion, Linear and more into your data agent Discussion | Link",
+      "title": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
+      "description": "The Ctrl+Z button for autonomous AI agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T21:56:08Z"
+      "published_at": "2026-11-19T19:15:42Z"
     },
     {
-      "title": "Adside",
-      "url": "https://www.producthunt.com/products/adside",
-      "description": "A team of specialized AI agents that manage paid ads for you Discussion | Link",
+      "title": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "description": "Free AI + human code review for open source & nonprofits Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-19T00:52:42Z"
+      "published_at": "2026-11-20T04:56:45Z"
     },
     {
-      "title": "Room AI",
-      "url": "https://www.producthunt.com/products/room-ai-2",
-      "description": "Talk to it like a designer. Your room, one change at a time Discussion | Link",
+      "title": "Currents",
+      "url": "https://www.producthunt.com/products/currents-4",
+      "description": "Currents for Claude & Codex to see all your tests Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T15:37:31Z"
+      "published_at": "2026-11-19T14:02:31Z"
     },
     {
-      "title": "Teaflask",
-      "url": "https://www.producthunt.com/products/teaflask",
-      "description": "Self-improving AI copilot for your app. No backend changes. Discussion | Link",
+      "title": "aiteam.space",
+      "url": "https://www.producthunt.com/products/aiteam-space",
+      "description": "An AI team where every agent has its own computer Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-09T16:27:48Z"
+      "published_at": "2026-11-10T22:14:37Z"
     },
     {
-      "title": "Rezora IO",
-      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
-      "description": "Shopify for AI voice agents: live in 10 minutes Discussion | Link",
+      "title": "Badya",
+      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
+      "description": "Learn languages from real content with an agentic AI tutor Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T23:23:32Z"
+      "published_at": "2026-11-12T08:29:05Z"
     },
     {
-      "title": "Ableten Hybrid AI Travel Planner",
-      "url": "https://www.producthunt.com/products/ableten-source-library",
-      "description": "Get your group on the same map. Discussion | Link",
+      "title": "Veryfi Thinking Mode",
+      "url": "https://www.producthunt.com/products/veryfi",
+      "description": "AI agents review and correct receipt and invoice data. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-08-19T06:21:46Z"
+      "published_at": "2026-11-19T21:30:01Z"
     },
     {
-      "title": "Wispr Flow Notetaker for iPhone",
-      "url": "https://www.producthunt.com/products/wisprflow",
-      "description": "Free AI meeting notes, wherever work takes you Discussion | Link",
+      "title": "Stormi",
+      "url": "https://www.producthunt.com/products/stormi",
+      "description": "An AI team on your iPhone that does real work Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T16:19:49Z"
+      "published_at": "2026-11-19T12:24:03Z"
     },
     {
-      "title": "Polylane for Azure",
-      "url": "https://www.producthunt.com/products/polylane",
-      "description": "An AI on-call engineer for your Azure apps Discussion | Link",
+      "title": "Docker",
+      "url": "https://www.producthunt.com/products/docker",
+      "description": "Built to run on trust, for the agentic era Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T21:47:12Z"
+      "published_at": "2026-11-19T23:04:30Z"
     },
     {
-      "title": "Tencent Hy4 flash",
-      "url": "https://www.producthunt.com/products/hunyuan-a13b",
-      "description": "Fast, low-cost model from $0.07/M input Discussion | Link",
+      "title": "Tripmojo",
+      "url": "https://www.producthunt.com/products/tripmojo",
+      "description": "Agentic travel app that helps plan, book and run your trip Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-16T06:53:29Z"
+      "published_at": "2026-11-16T05:30:58Z"
     },
     {
-      "title": "Ody Ai Business Phone",
-      "url": "https://www.producthunt.com/products/ody-ai-business-phone",
-      "description": "Shared workspace + manageable AI agents Discussion | Link",
+      "title": "Telo",
+      "url": "https://www.producthunt.com/products/telo-2",
+      "description": "Apple Health in ChatGPT and Claude, in any country Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-16T18:36:57Z"
+      "published_at": "2026-11-18T17:44:28Z"
     }
   ],
   "openai": [
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "source": "OpenAI",
+      "published_at": "2026-11-20T10:00:00Z"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "source": "OpenAI",
+      "published_at": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "source": "OpenAI",
+      "published_at": "2026-11-20T00:00:00Z"
+    },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -262,9 +283,9 @@
       "published_at": "2026-11-19T08:00:00Z"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "source": "OpenAI",
       "published_at": "2026-11-19T00:00:00Z"
     },
@@ -276,16 +297,16 @@
       "published_at": "2026-11-19T00:00:00Z"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "source": "OpenAI",
       "published_at": "2026-11-19T00:00:00Z"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "source": "OpenAI",
       "published_at": "2026-11-19T00:00:00Z"
     },
@@ -297,16 +318,16 @@
       "published_at": "2026-11-18T10:00:00Z"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "source": "OpenAI",
       "published_at": "2026-11-18T08:00:00Z"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "source": "OpenAI",
       "published_at": "2026-11-18T08:00:00Z"
     },
@@ -360,13 +381,6 @@
       "published_at": "2026-11-17T08:00:00Z"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "source": "OpenAI",
-      "published_at": "2026-11-17T00:00:00Z"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
@@ -374,25 +388,11 @@
       "published_at": "2026-11-17T00:00:00Z"
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "source": "OpenAI",
-      "published_at": "2026-11-16T17:00:00Z"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T17:00:00Z"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "source": "OpenAI",
-      "published_at": "2026-11-16T12:00:00Z"
+      "published_at": "2026-11-17T00:00:00Z"
     }
   ],
   "anthropic": [],
@@ -540,22 +540,130 @@
   ],
   "hacker_news": [
     {
-      "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
-      "url": "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-20T03:43:23Z",
-      "score": 11,
-      "comments": 9
+      "published_at": "2026-11-21T05:38:01Z",
+      "score": 14,
+      "comments": 2
     },
     {
-      "title": "Nobody is talking seriously about AI demand",
-      "url": "https://twitter.com/giovannicatt3/status/2094815425972539565",
+      "title": "Don't Play Anthropic's Game",
+      "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-20T02:36:40Z",
-      "score": 4,
-      "comments": 1
+      "published_at": "2026-11-21T05:19:51Z",
+      "score": 10,
+      "comments": 3
+    },
+    {
+      "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
+      "url": "https://news.ycombinator.com/item?id=50585962",
+      "description": "I received the following email from OpenRouter and it appears authentic. There is no public page or blog post. -- Title: Requests you sent to MiniMax models may have been read Hi there, A security researcher placed unique test URLs in prompts sent to MiniMax models from July to October 2026. A third party accessed those URLs 40 to 130 hours after the requests were sent, whether MiniMax served a request directly or another provider forwarded it to MiniMax. With one exception, the same tests on other models at those providers were not accessed, and none of the AWS test keys were used. Your account sent [redacted] requests to MiniMax models through MiniMax and Novita, from [redacted] to [redacted] UTC. AtlasCloud, Novita and StreamLake have told us they forwarded OpenRouter requests for MiniMax models to MiniMax. Based on what the researcher and these providers have reported, the issue sits with MiniMax and the providers that forwarded to it, not with OpenRouter. We are passing on what they have told us. MiniMax told StreamLake that content moderation was enabled on its endpoints before October 22 and that it has since enabled Zero Data Retention. We have asked MiniMax for its own account and have not received one. This means a third party may have read the prompts and outputs of these requests. While we investigate, we have removed the Zero Data Retention label from these MiniMax-model endpoints.",
+      "source": "Hacker News",
+      "published_at": "2026-11-21T04:31:38Z",
+      "score": 11,
+      "comments": 2
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "description": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria. In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE. At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ? If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear.",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T23:18:32Z",
+      "score": 90,
+      "comments": 94
+    },
+    {
+      "title": "AI may have solved the most important problem in mathematics",
+      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T22:46:59Z",
+      "score": 35,
+      "comments": 6
+    },
+    {
+      "title": "This Industrial Revolution Belongs to the Builders",
+      "url": "https://news.ycombinator.com/item?id=50583252",
+      "description": "You've heard AI = Labor. Therefore Labor -> 0. Some people think this means that only asset owners, people with lots of capital, will come out ahead. They're wrong. Because as a builder/founder, you create value. Capital must capture some of this value to have a return. The reason founders primarily need capital is to pay for labor (either employees or supplier overhead). So this means that Capital ~= Labor. But that's a problem for the \"owners of capital will own everything\" narrative, because now we have: AI = Labor = Capital -> 0 In practice this will happen slowly as builders need less and less capital to build, capital will increasingly struggle to capture value created by builders. Counterintuitively this means valuations will climb dramatically reflecting capital paying more and more to capture less and less value from builders. As disruption accelerates, volatility increases while broader market wide returns start to stagnate. The net will be a wholesale wealth and power transfer from capital holders to builders/founders, on the magnitude of what happened between the aristocracy and the capitalist class in the earlier industrial revolutions. It's already started, companies are raising later and at higher valuations. Most people accept that if superintelligence were created, capital would be useless, but what they often don't realize is that a class of builders armed with AI is already creating a distributed superintelligence that will have the same effect. Interested if anyone else shares this perspective.",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T22:28:56Z",
+      "score": 8,
+      "comments": 12
+    },
+    {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T21:18:46Z",
+      "score": 53,
+      "comments": 5
+    },
+    {
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "description": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backed up to a repo after every turn, so any session can resume on another VM. We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient. Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3]. [1]: https://docs.opencomputer.dev/getting-started/architecture [2]: https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/ [3]: https://x.com/IgorZIJ/status/2121309785882591711 [4]: https://app.opencomputer.dev",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T20:19:56Z",
+      "score": 100,
+      "comments": 24
+    },
+    {
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T16:59:27Z",
+      "score": 275,
+      "comments": 201
+    },
+    {
+      "title": "AI is giving everyone the same advice",
+      "url": "https://a90.com/experiments/same-advice/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T16:58:05Z",
+      "score": 75,
+      "comments": 28
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T16:29:06Z",
+      "score": 386,
+      "comments": 117
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T13:29:59Z",
+      "score": 248,
+      "comments": 515
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T10:01:41Z",
+      "score": 640,
+      "comments": 332
+    },
+    {
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T09:42:16Z",
+      "score": 541,
+      "comments": 316
     },
     {
       "title": "ChatGPT for SNES",
@@ -563,62 +671,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-20T00:25:59Z",
-      "score": 52,
-      "comments": 15
-    },
-    {
-      "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
-      "url": "https://stass.github.io/erXos/",
-      "description": "What if every Erlang process were an operating-system process? With as much system code and drivers written in Erlang itself. This is something I was pondering for a while, and finally was able to prototype thanks to AI coding agents. erXos is a capability-based microkernel OS in Erlang: drivers, filesystems, and the network stack are all supervised Erlang processes, same as any app. The kernel itself is Fiasco, in C++, slightly modified for erXos needs. This is an OS I wanted for a long time: an Erlang machine where every BEAM process is a process visible to the OS and scheduler, not something bolted on top. You can try it right now with nothing to install: there is an emulator on the website that boots the whole OS in the browser ARM64 emulator. At the rc prompt, try `ps`, `top`, `ping` or `erl` and write any kind of erlang code. There's a Pi 4 SD image and a QEMU image too. The goal is to build an ultra-reliable microkernel OS with hot code loading and both system and BEAM-based isolation. The latter is one thing that would allow you to run millions of processes on the system, something that would be prohibitive on a microkernel alone due to the context switch overhead. Capabilities keep every component least-privileged, supervision keeps the machine running when drivers or subsystems crash, and hot code loading would let you fix a broken driver without reboot. The secondary goal is to keep as much of a UNIX face as possible. Too many novel OSes change things for no particular reason that makes them hard to use. erXos tries to preserve as many existing UNIX/FreeBSD concepts as much as possible to remove the learning curve. What works today: - Boots in the browser/v64, in QEMU, and on a Raspberry Pi 4 from an SD card - A real shell (plan9 rc) with job control, pipes, `ps`, `grep`. It feels like UNIX on the surface - Erlang versions of basic UNIX apps. - Drivers written in Erlang: UART, virtio, SD card, Ethernet (GENET), display - A pure Erlang EROFS filesystem for root images - A TCP/IP stack in Erlang based on FreeBSD network stack and verified for correctness against it - Domains: every app runs as its own address space or Erlang node, isolated from others - Plan 9 namespaces and 9P everywhere; windows are files like RIO and 9P is a file protocol between OS servers - Supervision end to end: if a driver fails, its supervisor resets the device and restarts it I also have 2 demo apps built on app sdk: a full-screen kiosk app with live crypto quotes and clock and, of course Doom, which ships on the Pi 4 card image (type `doom`). What's coming: - Raspberry Pi 5 support - Full display on the Pi - WIFI - Bluetooth - POSIX-lite for C programs, so existing code can run as a domain - Performance, debugging and tracing features. The code is all available under the BSD license. Would love to hear all and any feedback!",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T23:39:34Z",
-      "score": 6,
-      "comments": 3
-    },
-    {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T23:35:35Z",
-      "score": 335,
-      "comments": 209
-    },
-    {
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T23:34:03Z",
-      "score": 10,
-      "comments": 2
-    },
-    {
-      "title": "Silicon Valley Is Suffering from Model Collapse",
-      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T23:21:50Z",
-      "score": 17,
-      "comments": 5
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T22:56:59Z",
-      "score": 62,
-      "comments": 18
-    },
-    {
-      "title": "An FBI agent called a Claude user about his chats",
-      "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T22:36:51Z",
-      "score": 29,
-      "comments": 24
+      "score": 123,
+      "comments": 41
     },
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -626,17 +680,17 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-19T18:47:16Z",
-      "score": 99,
-      "comments": 193
+      "score": 114,
+      "comments": 246
     },
     {
-      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+      "title": "AI came for the coders. Understanding why tells us who's next",
+      "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-19T18:42:13Z",
-      "score": 44,
-      "comments": 26
+      "published_at": "2026-11-19T17:43:38Z",
+      "score": 68,
+      "comments": 81
     },
     {
       "title": "Claude solves two open problems in the physics of black holes",
@@ -644,8 +698,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-19T17:30:44Z",
-      "score": 461,
-      "comments": 218
+      "score": 554,
+      "comments": 271
     },
     {
       "title": "Anthropic’s Nasdaq debut",
@@ -653,35 +707,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-19T17:02:40Z",
-      "score": 1044,
-      "comments": 2063
-    },
-    {
-      "title": "Chrome AI features wasting much bandwidth",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T16:54:25Z",
-      "score": 128,
-      "comments": 49
-    },
-    {
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T16:45:50Z",
-      "score": 133,
-      "comments": 66
-    },
-    {
-      "title": "Aviator: HubSpot's Agent Harness",
-      "url": "https://hubspot.engineering/blog/aviator-hubspots-agent-harness/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T16:42:34Z",
-      "score": 25,
-      "comments": 3
+      "score": 1133,
+      "comments": 2301
     },
     {
       "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
@@ -689,36 +716,9 @@
       "description": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild. We built Onlook because we believe there needs to be a developer tool that works the way designers do. More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state). Some of you may remember our earlier Show HNs (July 2024: https://news.ycombinator.com/item?id=40904862 , August 2024: https://news.ycombinator.com/item?id=41390449 , May 2025: https://news.ycombinator.com/item?id=44127653 ). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code. How it works… Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal. When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas. The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant. Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say \"make this a card layout,\" and the agent knows exactly what \"this\" is. This time we didn't build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt. We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built. The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we'll eventually offer a paid cloud product for teams. We'd love to hear which repos work and which don't, what you try to do on the canvas, and what's missing. We’re so excited for this to be a new way for designers to work in code! The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day!",
       "source": "Hacker News",
       "published_at": "2026-11-19T16:34:04Z",
-      "score": 111,
-      "comments": 75
-    },
-    {
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T16:30:18Z",
-      "score": 526,
-      "comments": 210
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T15:38:12Z",
-      "score": 226,
-      "comments": 210
-    },
-    {
-      "title": "Show HN: Watch weight-space programming in action with WebGPU",
-      "url": "https://tabbyml.github.io/weight-space-playground/",
-      "description": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM. so I turned it into an interactive walkthrough of a concrete example: editing 0.016% of a model's weights to reduce reasoning loops, no gradient descent. Based on exp8 of “Sparks of Weight-Space Programming.”: https://news.ycombinator.com/item?id=50341174",
-      "source": "Hacker News",
-      "published_at": "2026-11-19T15:32:47Z",
-      "score": 33,
-      "comments": 5
+      "score": 124,
+      "comments": 85
     }
   ],
-  "updated_at": "2026-11-20T07:10:10.524555Z"
+  "updated_at": "2026-11-21T07:01:24.951804Z"
 }
