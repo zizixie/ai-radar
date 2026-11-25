@@ -6,9 +6,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.443396Z",
+      "fetched_at": "2026-11-25T08:27:11.068887Z",
       "language": "Python",
-      "today_stars": 2029
+      "today_stars": 1826
     },
     {
       "title": "obra/superpowers",
@@ -16,9 +16,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.443810Z",
+      "fetched_at": "2026-11-25T08:27:11.069300Z",
       "language": "Shell",
-      "today_stars": 840
+      "today_stars": 1003
     },
     {
       "title": "HKUDS/CLI-Anything",
@@ -26,9 +26,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.444150Z",
+      "fetched_at": "2026-11-25T08:27:11.069618Z",
       "language": "Python",
-      "today_stars": 790
+      "today_stars": 1074
     },
     {
       "title": "jingyaogong/minimind",
@@ -36,9 +36,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.444460Z",
+      "fetched_at": "2026-11-25T08:27:11.069948Z",
       "language": "Python",
-      "today_stars": 828
+      "today_stars": 727
     },
     {
       "title": "openvinotoolkit/openvino",
@@ -46,9 +46,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.445586Z",
+      "fetched_at": "2026-11-25T08:27:11.071073Z",
       "language": "C++",
-      "today_stars": 184
+      "today_stars": 185
     },
     {
       "title": "cathrynlavery/diagram-design",
@@ -56,9 +56,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.445956Z",
+      "fetched_at": "2026-11-25T08:27:11.071432Z",
       "language": "HTML",
-      "today_stars": 620
+      "today_stars": 802
     },
     {
       "title": "mvanhorn/last30days-skill",
@@ -66,9 +66,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.446258Z",
+      "fetched_at": "2026-11-25T08:27:11.071748Z",
       "language": "Python",
-      "today_stars": 797
+      "today_stars": 703
     },
     {
       "title": "google-labs-code/stitch-skills",
@@ -76,9 +76,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.446556Z",
+      "fetched_at": "2026-11-25T08:27:11.072049Z",
       "language": "TypeScript",
-      "today_stars": 422
+      "today_stars": 403
     },
     {
       "title": "mjmirza/app-store-compliance",
@@ -86,9 +86,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.446948Z",
+      "fetched_at": "2026-11-25T08:27:11.072427Z",
       "language": "Shell",
-      "today_stars": 761
+      "today_stars": 928
     },
     {
       "title": "Tracer-Cloud/opensre",
@@ -96,9 +96,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.447257Z",
+      "fetched_at": "2026-11-25T08:27:11.072736Z",
       "language": "Python",
-      "today_stars": 436
+      "today_stars": 398
     },
     {
       "title": "zhouxiaoka/autoclip",
@@ -106,39 +106,123 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-24T09:50:31.448183Z",
+      "fetched_at": "2026-11-25T08:27:11.073661Z",
       "language": "Python",
-      "today_stars": 907
+      "today_stars": 980
     }
   ],
   "product_hunt": [
+    {
+      "title": "VibeCode.surf",
+      "url": "https://www.producthunt.com/products/vibecode-surf",
+      "description": "AI code editor where agents build, run and test your app Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-21T12:32:45Z"
+    },
+    {
+      "title": "Tendeck",
+      "url": "https://www.producthunt.com/products/tendeck",
+      "description": "Run all your Claude Code and Codex agents on one Mac board Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-15T00:00:45Z"
+    },
+    {
+      "title": "Qube",
+      "url": "https://www.producthunt.com/products/qube-6",
+      "description": "An AI agent for anyone with the model of your choice Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T17:55:06Z"
+    },
+    {
+      "title": "Airbot",
+      "url": "https://www.producthunt.com/products/airbots",
+      "description": "The AI chief of staff that texts you first Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-19T16:45:54Z"
+    },
+    {
+      "title": "3way.Social MCP",
+      "url": "https://www.producthunt.com/products/3way-social",
+      "description": "Ask your AI to find link partners. You approve the deals. Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-23T18:57:44Z"
+    },
+    {
+      "title": "PartGenie 2.0",
+      "url": "https://www.producthunt.com/products/partgenie",
+      "description": "The AI workspace for hardware engineering Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-13T07:27:08Z"
+    },
+    {
+      "title": "MyClaw 3.0",
+      "url": "https://www.producthunt.com/products/myclaw-3-0",
+      "description": "Build an always-on AI team with shared memory Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T15:39:09Z"
+    },
+    {
+      "title": "MemoryWorks",
+      "url": "https://www.producthunt.com/products/memoryworks",
+      "description": "Company memory for people and AI agents Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T20:30:45Z"
+    },
+    {
+      "title": "MAGI-2",
+      "url": "https://www.producthunt.com/products/magi-1",
+      "description": "Sand AI's 480B model for cinematic video generation Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-25T05:35:39Z"
+    },
+    {
+      "title": "Canva MCP",
+      "url": "https://www.producthunt.com/products/canva",
+      "description": "Turn any AI agent into a creative powerhouse Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T15:05:09Z"
+    },
+    {
+      "title": "Continual-ARC",
+      "url": "https://www.producthunt.com/products/unify-5",
+      "description": "OpenClaw doesn't learn from experience. Does your agent? Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-10T23:48:03Z"
+    },
+    {
+      "title": "Hai",
+      "url": "https://www.producthunt.com/products/hai-4",
+      "description": "Your AI assistant that actually makes the phone call Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T11:19:56Z"
+    },
+    {
+      "title": "PeerBand",
+      "url": "https://www.producthunt.com/products/peerband",
+      "description": "Reach every coding agent you run, from anywhere Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-25T01:23:23Z"
+    },
+    {
+      "title": "Notely",
+      "url": "https://www.producthunt.com/products/notely-8",
+      "description": "Notion-grade power & BYOK AI, stored locally in SQLite Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-25T00:50:46Z"
+    },
+    {
+      "title": "Ohhai",
+      "url": "https://www.producthunt.com/products/ohhai",
+      "description": "Type messy, send clean: an AI keyboard for iPhone Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-18T18:05:36Z"
+    },
     {
       "title": "Granular.Build",
       "url": "https://www.producthunt.com/products/granular-build",
       "description": "Put your AI agents to work in a visual workspace Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-18T18:51:22Z"
-    },
-    {
-      "title": "Claude Ship",
-      "url": "https://www.producthunt.com/products/claude-code",
-      "description": "Ship code as fast as you can write it Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T21:00:36Z"
-    },
-    {
-      "title": "Cullman",
-      "url": "https://www.producthunt.com/products/cullman",
-      "description": "Faster voice agent evals, from simulation to production Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-19T05:59:36Z"
-    },
-    {
-      "title": "frwrd.to",
-      "url": "https://www.producthunt.com/products/frwrd-to",
-      "description": "Your link in bio, sorted by your AI in one message Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T12:34:54Z"
     },
     {
       "title": "Finseo",
@@ -150,16 +234,9 @@
     {
       "title": "tday.com",
       "url": "https://www.producthunt.com/products/tday",
-      "description": "Ask your coding agent for a narrated demo of any feature Discussion | Link",
+      "description": "AI-recorded Screen Studio style editable demos Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-23T21:22:27Z"
-    },
-    {
-      "title": "Juncts",
-      "url": "https://www.producthunt.com/products/juncts",
-      "description": "Superhuman for your DMs, with AI that triages and drafts Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-24T03:08:21Z"
     },
     {
       "title": "K-Stra",
@@ -169,91 +246,49 @@
       "published_at": "2026-11-20T14:25:07Z"
     },
     {
-      "title": "Ohhai",
-      "url": "https://www.producthunt.com/products/ohhai",
-      "description": "Type messy, send clean: an AI keyboard for iPhone Discussion | Link",
+      "title": "Cullman",
+      "url": "https://www.producthunt.com/products/cullman",
+      "description": "Faster voice agent evals, from simulation to production Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-18T18:05:36Z"
-    },
-    {
-      "title": "Astor",
-      "url": "https://www.producthunt.com/products/astor",
-      "description": "AI Thesis Investing Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-19T02:44:24Z"
-    },
-    {
-      "title": "DeskMagic",
-      "url": "https://www.producthunt.com/products/deskmagic",
-      "description": "Shake your cursor, ask AI about anything on screen Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-20T07:02:09Z"
-    },
-    {
-      "title": "mindyOne",
-      "url": "https://www.producthunt.com/products/mindyone",
-      "description": "Your Instagram DMs. Now with an AI receptionist. Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-22T21:42:19Z"
-    },
-    {
-      "title": "Clam AI",
-      "url": "https://www.producthunt.com/products/clam-ai",
-      "description": "Your inbox, safely shared with AI agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T08:44:25Z"
-    },
-    {
-      "title": "Fleetify",
-      "url": "https://www.producthunt.com/products/fleetify",
-      "description": "Open-source command center for your AI coding agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T16:11:52Z"
-    },
-    {
-      "title": "HeroUI Pro 1.0",
-      "url": "https://www.producthunt.com/products/heroui-pro-1-0",
-      "description": "Premium UI components, templates, and AI tooling for React Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-13T13:50:59Z"
-    },
-    {
-      "title": "Scribase MCP Server",
-      "url": "https://www.producthunt.com/products/scribase",
-      "description": "A Postgres backend your coding agent sets up by MCP Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-12T10:25:04Z"
-    },
-    {
-      "title": "doola MCP",
-      "url": "https://www.producthunt.com/products/doola-mcp",
-      "description": "Start and run your US company from your AI assistant Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-22T19:23:24Z"
-    },
-    {
-      "title": "Almma's PII Guard",
-      "url": "https://www.producthunt.com/products/almma-s-pii-guard",
-      "description": "Catch personal data before it reaches your AI chat Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T19:01:35Z"
-    },
-    {
-      "title": "Hydrilla",
-      "url": "https://www.producthunt.com/products/hydrilla",
-      "description": "Generate production-ready 3D assets with AI Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-03-12T16:31:13Z"
-    },
-    {
-      "title": "MAI Image 2.7",
-      "url": "https://www.producthunt.com/products/mai-image-2-3",
-      "description": "Microsoft's image model with precise edits and Canvas Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-17T18:42:27Z"
+      "published_at": "2026-11-19T05:59:36Z"
     }
   ],
   "openai": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source": "OpenAI",
+      "published_at": "2026-11-24T13:00:00Z"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "source": "OpenAI",
+      "published_at": "2026-11-24T11:00:00Z"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "description": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "source": "OpenAI",
+      "published_at": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "description": "OpenAI 官方更新。",
+      "source": "OpenAI",
+      "published_at": "2026-11-24T00:00:00Z"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "source": "OpenAI",
+      "published_at": "2026-11-24T00:00:00Z"
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "url": "https://openai.com/index/introducing-shirudo",
@@ -318,9 +353,9 @@
       "published_at": "2026-11-19T00:00:00Z"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "source": "OpenAI",
       "published_at": "2026-11-19T00:00:00Z"
     },
@@ -332,9 +367,9 @@
       "published_at": "2026-11-19T00:00:00Z"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "source": "OpenAI",
       "published_at": "2026-11-19T00:00:00Z"
     },
@@ -346,13 +381,6 @@
       "published_at": "2026-11-18T10:00:00Z"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "source": "OpenAI",
-      "published_at": "2026-11-18T08:00:00Z"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
@@ -360,39 +388,11 @@
       "published_at": "2026-11-18T08:00:00Z"
     },
     {
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "description": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "source": "OpenAI",
       "published_at": "2026-11-18T08:00:00Z"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "description": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "source": "OpenAI",
-      "published_at": "2026-11-18T06:00:00Z"
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "source": "OpenAI",
-      "published_at": "2026-11-18T00:00:00Z"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "source": "OpenAI",
-      "published_at": "2026-11-18T00:00:00Z"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "source": "OpenAI",
-      "published_at": "2026-11-17T17:45:00Z"
     }
   ],
   "anthropic": [],
@@ -540,185 +540,185 @@
   ],
   "hacker_news": [
     {
-      "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T05:42:18Z",
-      "score": 6,
-      "comments": 1
+      "published_at": "2026-11-25T04:03:33Z",
+      "score": 159,
+      "comments": 104
     },
     {
-      "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
-      "url": "https://github.com/GenesisAgentInfra/genesis",
-      "description": "When agent ships code faster and faster, human review is no longer possible. Which brings 2 problems, at least for me: 1. I need to understand what my agent changes as quickly and easily as possible, cuz I don't wanna lose track of the current status of my product, or be the main bottleneck in shipping code. 2. I don't trust what my agent tells me. Many times, I've been suffered from agent telling me \"all is well\", then say \"you are right, sorry, I missed...\" after code failed on production. To mitigate those problems, I made Genesis, a skill for coding agent to generate a beautiful flow chart to understand all the business flows, flag all risk changes and untested code between commits. It worked very well on me, so I benchmarked it against vanilla Claude code and Codex: Vanilla → With Genesis 1. Test gaps caught: Claude Code 8% → 38% · Codex 4% → 23% 2. False alarms per review: Claude Code 2.1 → 0.7 · Codex 1.4 → 0.5 3. Real risks found per review: Claude Code 2.9 → 2.8 · Codex 2.4 → 2.4",
-      "source": "Hacker News",
-      "published_at": "2026-11-24T05:04:41Z",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "title": "OpenRouter users spent more $ on models from Google than OpenAI last week",
-      "url": "https://twitter.com/openrouter/status/2124925631012209137",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T04:45:07Z",
-      "score": 12,
-      "comments": 2
+      "published_at": "2026-11-25T03:47:42Z",
+      "score": 90,
+      "comments": 35
     },
     {
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "url": "https://carry.md/",
+      "description": "Carry let's you automatically save your chats from Gemini, ChatGPT, Claude and Grok as Markdown in a local folder on you computer. You can easily search across all apps and handoff to other if needed with one click.",
       "source": "Hacker News",
-      "published_at": "2026-11-24T02:36:56Z",
-      "score": 52,
-      "comments": 41
+      "published_at": "2026-11-25T03:19:02Z",
+      "score": 14,
+      "comments": 7
     },
     {
-      "title": "AI is massively speeding up AI research",
-      "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T02:19:54Z",
-      "score": 9,
-      "comments": 0
+      "published_at": "2026-11-25T03:01:36Z",
+      "score": 46,
+      "comments": 12
     },
     {
-      "title": "Toolfence-scan – static checks for Cursor/Claude/Copilot skills",
-      "url": "https://github.com/StockGorilla/skill-scan",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T02:07:18Z",
-      "score": 7,
-      "comments": 0
+      "published_at": "2026-11-25T02:34:21Z",
+      "score": 195,
+      "comments": 74
     },
     {
-      "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
-      "url": "https://github.com/SandeepAi369/Agent-first-browse",
+      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T02:06:09Z",
-      "score": 6,
-      "comments": 0
+      "published_at": "2026-11-24T22:27:19Z",
+      "score": 43,
+      "comments": 14
     },
     {
-      "title": "Incognide, the AI-native IDE for research and development, reaches 500 gh stars",
-      "url": "https://github.com/NPC-Worldwide/incognide",
+      "title": "New York Ban AI Toys for 5 Years",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-24T02:02:59Z",
-      "score": 8,
-      "comments": 2
-    },
-    {
-      "title": "Show HN: Sessions Pro for Codex – two ChatGPT desktop accounts open at once",
-      "url": "https://multiplecodex.com/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T23:19:25Z",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T21:56:44Z",
-      "score": 24,
-      "comments": 18
-    },
-    {
-      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-      "url": "https://openai.com/index/introducing-shirudo/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T21:30:41Z",
-      "score": 70,
-      "comments": 22
-    },
-    {
-      "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-      "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T20:33:07Z",
-      "score": 27,
+      "published_at": "2026-11-24T21:49:50Z",
+      "score": 32,
       "comments": 3
     },
     {
-      "title": "Claude Ship",
-      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-23T20:14:18Z",
-      "score": 55,
-      "comments": 16
+      "published_at": "2026-11-24T21:14:06Z",
+      "score": 28,
+      "comments": 2
     },
     {
-      "title": "How should an LLM see a computer?",
-      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-23T17:19:25Z",
-      "score": 51,
-      "comments": 23
+      "published_at": "2026-11-24T21:07:38Z",
+      "score": 70,
+      "comments": 66
     },
     {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-23T17:07:26Z",
-      "score": 1655,
-      "comments": 930
+      "published_at": "2026-11-24T21:02:22Z",
+      "score": 250,
+      "comments": 76
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "description": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: 62.6 / 63.8 / 60.2 / 52.4 - AIME 25+26: 97.7 / 98.3 / 96.5 / 86.0 - MSGM: 94.0 / 93.1 / 91.8 / 90.6 - RealWorldQA: 82.4 / 82.4 / 81.3 / 80.9 Decode speed is comparable to other quants on an RTX PRO 6000. Context-length results below (3-bit / 2.5-bit / 2-bit / Unsloth UD-IQ3_XXS): - 4K: 88.9 / 99.2 / 111.7 / 94.7 - 16K: 84.5 / 93.8 / 105.1 / 89.8 - 64K: 70.7 / 77.5 / 85.0 / 74.8 Running these currently require our llama.cpp fork: ( https://github.com/nari-labs/nari-llama.cpp ) Feedback and questions welcome. We'd love to hear how these perform on your workloads.",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "description": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to their bank in 2 mins) - Pay people without your explicit approval to trusted contacts (you can set this) Here’s a demo: https://youtube.com/shorts/Q9X7zioEqi0 We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, taxes, tips, but at the end of it the assistant hands back work to you when you have to go out and make the Venmo transfer. Our current solution is oriented towards power users: those who want to automate everything through their agent use us to split dinners, group trips, or settle poker ledgers. We see ourselves unlocking more value for the general consumer as 1. More people turn into power users of agents, and 2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP. Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval. Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns. Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren't a Money Services Business (MSB) since we don’t hold control or access to the user’s funds. Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address. Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake. We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient's OTP). Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot. We'd love for you guys to try it! It's available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents. Please let us know how you find it and if it works as you'd hoped! https://versine.com",
       "source": "Hacker News",
-      "published_at": "2026-11-23T13:42:38Z",
-      "score": 169,
-      "comments": 34
+      "published_at": "2026-11-24T20:44:15Z",
+      "score": 84,
+      "comments": 67
     },
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
+      "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
+      "url": "https://claude.com/resources/articles/install-as-app",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-22T23:53:00Z",
-      "score": 69,
-      "comments": 17
+      "published_at": "2026-11-24T20:39:15Z",
+      "score": 18,
+      "comments": 0
     },
     {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "url": "https://github.com/mjwsolo/localcode",
+      "title": "Gen AI will not end civilization",
+      "url": "https://robkohr.com/articles/no--gen-ai-will-not-end-civilization",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-22T22:18:48Z",
-      "score": 72,
-      "comments": 21
+      "published_at": "2026-11-24T20:37:45Z",
+      "score": 9,
+      "comments": 1
     },
     {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "url": "https://pequalnp.com/",
-      "description": "Hacker News 上的 AI 相关讨论。",
+      "title": "Show HN: Novel DB compression models in Libc – Dockerized NY OpenStreetMap 9:1",
+      "url": "https://www.baseshift.com/blog/dc1",
+      "description": "Hey HN! I'm the cofounder and CEO at Baseshift, where we create branchable DB snapshots using a bespoke libc for databases. We use this infra to research novel lossless compression codecs of database pages, including neural models. We're sharing some recent results. You can download pre-built, dockerized US & NY OpenStreetMap PostgreSQL with compression ratios of 8.5 and 8.94 respectively. The data in the images remains compressed while in use, and allows for 8KB random read access, for example: # downloads about 1.55 GB docker run -d -p 127.0.0.1:5432:5432 baseshift/db-osm-ny psql -h 127.0.0.1 -U postgres -d osm_new_york_261024 You can download the whole US OpenStreetMap with baseshift/db-osm-us (240GB -> 28GB). There's also a variety of synthetic/generated databases with varying sizes: Nick's Gaming Emporium, https://nge-data.com/ at baseshift/db-nge-[tiny|small|medium] For US/NY we've surpassed zpaq -m5 on whole database files, while maintaining 8kb random reads and <1.5ms decode times on a single CPU core with standard C. Our codecs are designed to leverage parallel compute optimizations in the CPU when they're available. For example, with AVX-512 VNNI our single core decode times reduce from ~1.4ms to ~180us. We will be uploading the remaining ~190 OSM countries and 53 US states/territories in the coming days. I plan on posting a proper paper to arXiv in the coming weeks, but would be great to get the community's thoughts. Edit: fixed whitespace",
       "source": "Hacker News",
-      "published_at": "2026-11-22T21:53:45Z",
-      "score": 196,
-      "comments": 170
+      "published_at": "2026-11-24T19:13:08Z",
+      "score": 6,
+      "comments": 0
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "Compiling web applications into verified operations for AI agents",
+      "url": "https://protocolis.co/paper/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
-      "published_at": "2026-11-22T21:01:16Z",
-      "score": 758,
-      "comments": 306
+      "published_at": "2026-11-24T19:12:02Z",
+      "score": 34,
+      "comments": 12
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T18:55:12Z",
+      "score": 89,
+      "comments": 92
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "description": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy? Now I've got 24h to prove we didn't. Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user's privacy?",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T16:45:44Z",
+      "score": 261,
+      "comments": 194
+    },
+    {
+      "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+      "url": "https://github.com/hatchet-dev/brickie",
+      "description": "Hey HN, this is Alexander from Hatchet ( https://github.com/hatchet-dev/hatchet ). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud account, primarily targeting EKS on AWS. Sandboxes are an incredibly useful primitive for agentic applications. They serve two main functions: (1) a way for the agent to safely execute untrusted code, and (2) a durable filesystem for agents to preserve their state via snapshots. We decided to start building this after we started on a package called `@hatchet-dev/sandbox` to integrate more directly with various sandbox providers, like E2B, Daytona, Archil, and Modal. We discovered that a lot of users had a requirement to self-host their sandbox infra for part of (or all of) their stack, due to a self-host requirement for enterprises. We searched around for the easiest way for users to self-host a sandbox stack and agent-sandbox ( https://agent-sandbox.sigs.k8s.io ) was the closest thing to what we had in mind: it’s a kubernetes-sigs project implementing a Kubernetes operator which spawns sandboxes as pods on supported isolation layers like Firecracker, gVisor, and Kata Containers. We learned that many platform teams were adopting this because it's a standard k8s-based deployment model and is pretty easy to customize the isolation layer, network config, etc. However, it was missing some necessary features. brickie builds on top of the agent-sandbox project and extends it to support proper sandbox (filesystem-based) snapshots, fork, pause, and resume, all while bundling a proper orchestration and observability layer via Hatchet. Zooming out a bit, Hatchet is an orchestration engine which supports durable execution ( https://hatchet.run/blog/durable-execution ). Throughout 2026, we saw high adoption from users building agents using durable workflows as the statefulness layer and execution model. But as sandboxes became more popular, something didn’t sit right with us. Sandboxes _also_ provide a durability layer, but at the filesystem level, and it became important to disambiguate what we call session state from filesystem state . I wrote a lot more about this here: https://hatchet.run/blog/agent-statefulness . The problem with having state in multiple places is that it needs coordination, which adds complexity to your application. This was part of the motivation behind `@hatchet-dev/sandbox`: we wanted to provide an easy way to take coordinated snapshots of agent state, even when using an external sandbox provider. So when we started looking at self-hosted sandbox options, it was critical that this architecture was supported well. We decided to support this in brickie using a pretty simple snapshotting mechanism which tars and stores snapshots in an object store (S3). This is something we’re actively working to improve and make more performant. Brickie is early and in beta, we're looking for testers, contributors, and feedback on the deployment model. Thanks in advance!",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T15:48:34Z",
+      "score": 31,
+      "comments": 7
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T15:03:40Z",
+      "score": 211,
+      "comments": 65
+    },
+    {
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T13:23:47Z",
+      "score": 387,
+      "comments": 758
     }
   ],
-  "updated_at": "2026-11-24T09:50:33.753055Z"
+  "updated_at": "2026-11-25T08:27:12.663881Z"
 }
