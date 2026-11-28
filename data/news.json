@@ -6,9 +6,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.304987Z",
+      "fetched_at": "2026-11-28T07:42:58.534610Z",
       "language": "Python",
-      "today_stars": 1597
+      "today_stars": 1608
     },
     {
       "title": "obra/superpowers",
@@ -16,9 +16,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.305266Z",
+      "fetched_at": "2026-11-28T07:42:58.534945Z",
       "language": "Shell",
-      "today_stars": 854
+      "today_stars": 922
     },
     {
       "title": "HKUDS/CLI-Anything",
@@ -26,9 +26,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.305465Z",
+      "fetched_at": "2026-11-28T07:42:58.535194Z",
       "language": "Python",
-      "today_stars": 746
+      "today_stars": 666
     },
     {
       "title": "jingyaogong/minimind",
@@ -36,9 +36,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.305659Z",
+      "fetched_at": "2026-11-28T07:42:58.535437Z",
       "language": "Python",
-      "today_stars": 702
+      "today_stars": 660
     },
     {
       "title": "openvinotoolkit/openvino",
@@ -46,9 +46,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.306363Z",
+      "fetched_at": "2026-11-28T07:42:58.536290Z",
       "language": "C++",
-      "today_stars": 176
+      "today_stars": 151
     },
     {
       "title": "cathrynlavery/diagram-design",
@@ -56,9 +56,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.306585Z",
+      "fetched_at": "2026-11-28T07:42:58.536567Z",
       "language": "HTML",
-      "today_stars": 955
+      "today_stars": 725
     },
     {
       "title": "mvanhorn/last30days-skill",
@@ -66,9 +66,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.306780Z",
+      "fetched_at": "2026-11-28T07:42:58.536790Z",
       "language": "Python",
-      "today_stars": 759
+      "today_stars": 675
     },
     {
       "title": "google-labs-code/stitch-skills",
@@ -76,9 +76,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.306966Z",
+      "fetched_at": "2026-11-28T07:42:58.537002Z",
       "language": "TypeScript",
-      "today_stars": 309
+      "today_stars": 311
     },
     {
       "title": "mjmirza/app-store-compliance",
@@ -86,9 +86,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.307205Z",
+      "fetched_at": "2026-11-28T07:42:58.537297Z",
       "language": "Shell",
-      "today_stars": 562
+      "today_stars": 530
     },
     {
       "title": "Tracer-Cloud/opensre",
@@ -96,9 +96,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.307379Z",
+      "fetched_at": "2026-11-28T07:42:58.537514Z",
       "language": "Python",
-      "today_stars": 327
+      "today_stars": 328
     },
     {
       "title": "zhouxiaoka/autoclip",
@@ -106,39 +106,32 @@
       "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
       "source": "GitHub Trending",
       "published_at": "",
-      "fetched_at": "2026-11-27T08:23:24.307948Z",
+      "fetched_at": "2026-11-28T07:42:58.538224Z",
       "language": "Python",
-      "today_stars": 774
+      "today_stars": 718
     }
   ],
   "product_hunt": [
-    {
-      "title": "snibl",
-      "url": "https://www.producthunt.com/products/snibl",
-      "description": "Save highlighted text from any app, then ask AI about it Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-22T12:50:36Z"
-    },
-    {
-      "title": "Woomool",
-      "url": "https://www.producthunt.com/products/woomool",
-      "description": "AI Canvas where thinking becomes tangible Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-27T05:09:46Z"
-    },
-    {
-      "title": "slay",
-      "url": "https://www.producthunt.com/products/slay-3",
-      "description": "AI composition guide camera app for iPhone Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-26T07:23:58Z"
-    },
     {
       "title": "Spark AI",
       "url": "https://www.producthunt.com/products/spark-ai-7",
       "description": "AI-native permitting & diligence services for data centers Discussion | Link",
       "source": "Product Hunt",
       "published_at": "2026-11-25T07:30:40Z"
+    },
+    {
+      "title": "Depost AI",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "description": "The LinkedIn AI agent that learns what works for your brand Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-27T03:17:55Z"
+    },
+    {
+      "title": "snibl",
+      "url": "https://www.producthunt.com/products/snibl",
+      "description": "Save highlighted text from any app, then ask AI about it Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-22T12:50:36Z"
     },
     {
       "title": "Onset",
@@ -162,11 +155,18 @@
       "published_at": "2026-10-27T05:29:10Z"
     },
     {
-      "title": "Pushary Calls",
-      "url": "https://www.producthunt.com/products/pushary",
-      "description": "Miss your AI agent’s ping? Pushary calls you. Discussion | Link",
+      "title": "slay",
+      "url": "https://www.producthunt.com/products/slay-3",
+      "description": "AI composition guide camera app for iPhone Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-22T15:44:08Z"
+      "published_at": "2026-11-26T07:23:58Z"
+    },
+    {
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "description": "AI Canvas where thinking becomes tangible Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-27T05:09:46Z"
     },
     {
       "title": "Contral",
@@ -176,46 +176,18 @@
       "published_at": "2026-11-26T09:01:10Z"
     },
     {
-      "title": "Pax by Pydantic",
-      "url": "https://www.producthunt.com/products/pydantic",
-      "description": "A coding agent where even coding is a plugin Discussion | Link",
+      "title": "Pushary Calls",
+      "url": "https://www.producthunt.com/products/pushary",
+      "description": "Miss your AI agent’s ping? Pushary calls you. Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-26T04:04:50Z"
+      "published_at": "2026-11-22T15:44:08Z"
     },
     {
-      "title": "WhipDesk",
-      "url": "https://www.producthunt.com/products/whipdesk",
-      "description": "Control AI coding agents from your phone Discussion | Link",
+      "title": "ExtraOrbital",
+      "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752",
+      "description": "✦ Open bar databases, storage buckets & AI keys for agents Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-25T21:44:16Z"
-    },
-    {
-      "title": "Upsolve Harness 2.0",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "description": "A data agent that's 2x faster and learns every user Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-25T22:03:32Z"
-    },
-    {
-      "title": "Transept AI",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "description": "Translate your book in your own voice and prove authorship Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-25T16:34:15Z"
-    },
-    {
-      "title": "Ottante",
-      "url": "https://www.producthunt.com/products/ottante",
-      "description": "Checks the work your AI agents did, right on your Mac Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-25T15:15:16Z"
-    },
-    {
-      "title": "Chunkify",
-      "url": "https://www.producthunt.com/products/chunkify",
-      "description": "Video Streaming API for Developers & AI Agents Discussion | Link",
-      "source": "Product Hunt",
-      "published_at": "2026-11-23T10:45:10Z"
+      "published_at": "2026-11-03T15:25:43Z"
     },
     {
       "title": "NEXUS",
@@ -225,11 +197,11 @@
       "published_at": "2026-11-25T12:41:13Z"
     },
     {
-      "title": "ExtraOrbital",
-      "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752",
-      "description": "✦ Open bar databases, storage buckets & AI keys for agents Discussion | Link",
+      "title": "Superframes",
+      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "description": "Brief an AI Director to edit the whole video Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-03T15:25:43Z"
+      "published_at": "2026-11-26T05:09:09Z"
     },
     {
       "title": "Flurra",
@@ -246,11 +218,39 @@
       "published_at": "2026-11-26T07:58:18Z"
     },
     {
-      "title": "Superframes",
-      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
-      "description": "Brief an AI Director to edit the whole video Discussion | Link",
+      "title": "Transept AI",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "description": "Translate your book in your own voice and prove authorship Discussion | Link",
       "source": "Product Hunt",
-      "published_at": "2026-11-26T05:09:09Z"
+      "published_at": "2026-11-25T16:34:15Z"
+    },
+    {
+      "title": "Upsolve Harness 2.0",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "description": "A data agent that's 2x faster and learns every user Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-25T22:03:32Z"
+    },
+    {
+      "title": "Hub",
+      "url": "https://www.producthunt.com/products/hub-20",
+      "description": "Run 100 Claude Code or Codex sessions like 5 Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T18:34:28Z"
+    },
+    {
+      "title": "Bifura",
+      "url": "https://www.producthunt.com/products/bifura",
+      "description": "See your website the way AI agents do Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-24T15:04:58Z"
+    },
+    {
+      "title": "WhipDesk",
+      "url": "https://www.producthunt.com/products/whipdesk",
+      "description": "Control AI coding agents from your phone Discussion | Link",
+      "source": "Product Hunt",
+      "published_at": "2026-11-25T21:44:16Z"
     }
   ],
   "openai": [
@@ -540,31 +540,130 @@
   ],
   "hacker_news": [
     {
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Google adding official Google AI plan support to Pi coding agent",
+      "url": "https://github.com/earendil-works/pi/pull/12614",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T05:42:49Z",
+      "score": 8,
+      "comments": 3
+    },
+    {
+      "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+      "url": "https://twitter.com/superalesha/status/2125682626056839259",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T05:30:51Z",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "title": "Claude has not been trained to sabotage work",
+      "url": "https://twitter.com/edwinarbus/status/2126507795642187855",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T05:21:14Z",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T01:32:56Z",
+      "score": 156,
+      "comments": 119
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T23:06:29Z",
+      "score": 319,
+      "comments": 130
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T21:07:34Z",
+      "score": 46,
+      "comments": 23
+    },
+    {
+      "title": "Banks look to dump AI debt",
+      "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T20:56:17Z",
+      "score": 36,
+      "comments": 6
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T20:23:14Z",
+      "score": 56,
+      "comments": 20
+    },
+    {
+      "title": "Claude Code Skills Now Sharable Across Teams",
+      "url": "https://emergent.sh/news/claude-code-skills-now-sharable-across-teams",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T18:36:20Z",
+      "score": 10,
+      "comments": 3
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "description": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky. Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T15:01:50Z",
+      "score": 365,
+      "comments": 123
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "description": "https://archive.ph/4hRp8",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T11:09:04Z",
+      "score": 119,
+      "comments": 158
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "description": "Hacker News 上的 AI 相关讨论。",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T08:28:08Z",
+      "score": 672,
+      "comments": 304
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-27T06:44:34Z",
-      "score": 112,
-      "comments": 33
+      "score": 701,
+      "comments": 288
     },
     {
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "title": "\"What's Claude's fursona?\" and other questions",
       "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-27T04:56:18Z",
-      "score": 77,
-      "comments": 51
-    },
-    {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-27T00:03:18Z",
-      "score": 54,
-      "comments": 27
+      "score": 198,
+      "comments": 186
     },
     {
       "title": "AI made self-hosting fun again",
@@ -572,35 +671,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-26T21:47:45Z",
-      "score": 606,
-      "comments": 312
-    },
-    {
-      "title": "Data-First Architecture: Model Streams, State and Commands",
-      "url": "https://aimdb.dev/blog/data-driven-design",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T21:40:08Z",
-      "score": 4,
-      "comments": 0
-    },
-    {
-      "title": "The US Government Is Under AI Cyberattack",
-      "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T21:26:33Z",
-      "score": 22,
-      "comments": 3
-    },
-    {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T19:44:31Z",
-      "score": 41,
-      "comments": 23
+      "score": 1114,
+      "comments": 515
     },
     {
       "title": "An introduction to uncertainty in machine learning",
@@ -608,26 +680,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-26T19:04:50Z",
-      "score": 69,
-      "comments": 1
-    },
-    {
-      "title": "Notion's official MCP inject hidden upsell instructions into agent context",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T18:28:30Z",
-      "score": 54,
-      "comments": 22
-    },
-    {
-      "title": "Looped Models Are Fast Multi-Token Predictors",
-      "url": "https://arxiv.org/abs/2611.33896",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T17:22:31Z",
-      "score": 11,
-      "comments": 0
+      "score": 144,
+      "comments": 14
     },
     {
       "title": "Show HN: I wrote an entire Vim manual over 4 years",
@@ -635,8 +689,8 @@
       "description": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved. So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done! The result: - 21 chapters showing the most important Vim features step by step. - 170 exercises with solutions. - Many real-life examples to show how Vim can be used and configured for your own needs. - The related Vim's help pages to dig further into each feature. Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example). - The landing page: https://themouseless.dev/vim/ - A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample... . I wrote this with my bare hands, no LLM involved to spoil the fun.",
       "source": "Hacker News",
       "published_at": "2026-11-26T14:44:22Z",
-      "score": 147,
-      "comments": 45
+      "score": 305,
+      "comments": 108
     },
     {
       "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
@@ -644,26 +698,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-26T14:38:57Z",
-      "score": 40,
-      "comments": 12
-    },
-    {
-      "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-      "url": "https://github.com/batanus/lip-dictation",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T14:25:08Z",
-      "score": 16,
-      "comments": 2
-    },
-    {
-      "title": "Back up your Claude Code sessions and use them on any machine",
-      "url": "https://session-vault.dev/",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T13:43:14Z",
-      "score": 25,
-      "comments": 6
+      "score": 47,
+      "comments": 15
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
@@ -671,8 +707,8 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-26T09:44:23Z",
-      "score": 322,
-      "comments": 282
+      "score": 420,
+      "comments": 333
     },
     {
       "title": "OpenAI may be in cost control mode",
@@ -680,45 +716,9 @@
       "description": "Hacker News 上的 AI 相关讨论。",
       "source": "Hacker News",
       "published_at": "2026-11-26T07:33:12Z",
-      "score": 326,
-      "comments": 332
-    },
-    {
-      "title": "Claude tries to sabotage research work at every stage",
-      "url": "https://twitter.com/skirano/status/2125371115979641188",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T04:49:21Z",
-      "score": 58,
-      "comments": 17
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-26T03:36:58Z",
-      "score": 482,
-      "comments": 267
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "description": "Hacker News 上的 AI 相关讨论。",
-      "source": "Hacker News",
-      "published_at": "2026-11-25T21:48:10Z",
-      "score": 555,
-      "comments": 354
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "description": "https://archive.ph/pcUgy",
-      "source": "Hacker News",
-      "published_at": "2026-11-25T21:18:02Z",
-      "score": 670,
-      "comments": 528
+      "score": 356,
+      "comments": 357
     }
   ],
-  "updated_at": "2026-11-27T08:23:27.119039Z"
+  "updated_at": "2026-11-28T07:43:00.430803Z"
 }
